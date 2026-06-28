@@ -1,0 +1,624 @@
+{
+  "week": 3,
+  "theme": "Daily actions (present tense)",
+  "days": [
+    {
+      "day": 1,
+      "title": "Working: the verb работя (I work)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "работя",
+          "translit": "rabótya",
+          "english": "to work, I work",
+          "pos": "verb",
+          "example": "Аз работя вкъщи.",
+          "exampleEn": "I work at home."
+        },
+        {
+          "russian": "вкъщи",
+          "translit": "vkǎ́shti",
+          "english": "at home",
+          "pos": "adverb",
+          "example": "Днес съм вкъщи.",
+          "exampleEn": "Today I am at home."
+        },
+        {
+          "russian": "офис",
+          "translit": "ófis",
+          "english": "office",
+          "pos": "noun",
+          "example": "Офисът е голям.",
+          "exampleEn": "The office is big."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "a lot, much",
+          "pos": "adverb",
+          "example": "Той работи много.",
+          "exampleEn": "He works a lot."
+        },
+        {
+          "russian": "днес",
+          "translit": "dnes",
+          "english": "today",
+          "pos": "adverb",
+          "example": "Днес работя.",
+          "exampleEn": "Today I am working."
+        },
+        {
+          "russian": "тук",
+          "translit": "tuk",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Аз работя тук.",
+          "exampleEn": "I work here."
+        },
+        {
+          "russian": "също",
+          "translit": "sǎ́shto",
+          "english": "also, too",
+          "pos": "adverb",
+          "example": "Аз също работя.",
+          "exampleEn": "I work too."
+        }
+      ],
+      "grammar": {
+        "title": "Present tense of работя (e-type verb)",
+        "explanation": "Bulgarian has no infinitive. We name a verb by its **I**-form: **работя** means both 'to work' and 'I work'. To say who does the action, change the ending on the stem **работ-**:\n\n- аз работ**я** (I work)\n- ти работ**иш** (you work, informal)\n- той/тя работ**и** (he/she works)\n- ние работ**им** (we work)\n- вие работ**ите** (you work, formal/plural)\n- те работ**ят** (they work)\n\nOne Bulgarian present tense covers both English 'I work' and 'I am working'. Subject pronouns (аз, ти, той…) are optional because the ending already shows the person.",
+        "examples": [
+          {
+            "russian": "Аз работя днес.",
+            "english": "I am working today."
+          },
+          {
+            "russian": "Те работят много.",
+            "english": "They work a lot."
+          },
+          {
+            "russian": "Ти работиш тук.",
+            "english": "You work here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Къде работиш?",
+        "text": "— Къде работиш днес?\n— Работя вкъщи. А ти?\n— Аз също работя много.",
+        "translation": "— Where are you working today?\n— I am working at home. And you?\n— I also work a lot.",
+        "glossary": [
+          {
+            "russian": "къде",
+            "english": "where"
+          },
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you work and how much, using работя, вкъщи, офис, много and днес. Try at least three persons (аз, той, ние)."
+    },
+    {
+      "day": 2,
+      "title": "Reading: the verb чета (I read)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "чета",
+          "translit": "chetá",
+          "english": "to read, I read",
+          "pos": "verb",
+          "example": "Аз чета книга.",
+          "exampleEn": "I am reading a book."
+        },
+        {
+          "russian": "книга",
+          "translit": "kníga",
+          "english": "book",
+          "pos": "noun",
+          "example": "Книгата е хубава.",
+          "exampleEn": "The book is nice."
+        },
+        {
+          "russian": "вестник",
+          "translit": "véstnik",
+          "english": "newspaper",
+          "pos": "noun",
+          "example": "Той чете вестник.",
+          "exampleEn": "He is reading a newspaper."
+        },
+        {
+          "russian": "писмо",
+          "translit": "pismó",
+          "english": "letter",
+          "pos": "noun",
+          "example": "Чета едно писмо.",
+          "exampleEn": "I am reading a letter."
+        },
+        {
+          "russian": "сега",
+          "translit": "segá",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Сега чета.",
+          "exampleEn": "Now I am reading."
+        },
+        {
+          "russian": "често",
+          "translit": "chésto",
+          "english": "often",
+          "pos": "adverb",
+          "example": "Тя чете често.",
+          "exampleEn": "She reads often."
+        },
+        {
+          "russian": "бавно",
+          "translit": "bávno",
+          "english": "slowly",
+          "pos": "adverb",
+          "example": "Чета бавно.",
+          "exampleEn": "I read slowly."
+        }
+      ],
+      "grammar": {
+        "title": "Present tense of чета (stressed-ending e-type)",
+        "explanation": "**чета** ('I read') uses the same person endings you met yesterday, but the stress and the linking vowel **-е-** fall on the ending, so the forms look a little different:\n\n- аз чет**а** (I read)\n- ти чет**еш** (you read)\n- той/тя чет**е** (he/she reads)\n- ние чет**ем** (we read)\n- вие чет**ете** (you read)\n- те чет**ат** (they read)\n\nNotice the pattern across persons is always: -а, -еш, -е, -ем, -ете, -ат. As before, one present tense means both 'I read' and 'I am reading'.",
+        "examples": [
+          {
+            "russian": "Аз чета книга сега.",
+            "english": "I am reading a book now."
+          },
+          {
+            "russian": "Той чете вестник.",
+            "english": "He is reading a newspaper."
+          },
+          {
+            "russian": "Ние четем често.",
+            "english": "We read often."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какво четеш?",
+        "text": "— Какво четеш сега?\n— Чета една книга. Тя е хубава.\n— Аз чета вестник всеки ден.",
+        "translation": "— What are you reading now?\n— I am reading a book. It is nice.\n— I read a newspaper every day.",
+        "glossary": [
+          {
+            "russian": "какво",
+            "english": "what"
+          },
+          {
+            "russian": "всеки ден",
+            "english": "every day"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe what you read and how often, using чета, книга, вестник, често and бавно. Conjugate чета for аз, тя and ние."
+    },
+    {
+      "day": 3,
+      "title": "Speaking: the verb говоря (I speak)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "говоря",
+          "translit": "govórya",
+          "english": "to speak, I speak",
+          "pos": "verb",
+          "example": "Аз говоря бавно.",
+          "exampleEn": "I speak slowly."
+        },
+        {
+          "russian": "език",
+          "translit": "ezík",
+          "english": "language; tongue",
+          "pos": "noun",
+          "example": "Този език е лесен.",
+          "exampleEn": "This language is easy."
+        },
+        {
+          "russian": "български",
+          "translit": "bǎ́lgarski",
+          "english": "Bulgarian (language/adj.)",
+          "pos": "adjective",
+          "example": "Говоря български.",
+          "exampleEn": "I speak Bulgarian."
+        },
+        {
+          "russian": "английски",
+          "translit": "anglíyski",
+          "english": "English (language/adj.)",
+          "pos": "adjective",
+          "example": "Тя говори английски.",
+          "exampleEn": "She speaks English."
+        },
+        {
+          "russian": "малко",
+          "translit": "málko",
+          "english": "a little, a bit",
+          "pos": "adverb",
+          "example": "Говоря малко български.",
+          "exampleEn": "I speak a little Bulgarian."
+        },
+        {
+          "russian": "добре",
+          "translit": "dobré",
+          "english": "well",
+          "pos": "adverb",
+          "example": "Той говори добре.",
+          "exampleEn": "He speaks well."
+        },
+        {
+          "russian": "с",
+          "translit": "s",
+          "english": "with",
+          "pos": "preposition",
+          "example": "Говоря с приятел.",
+          "exampleEn": "I am talking with a friend."
+        },
+        {
+          "russian": "приятел",
+          "translit": "priyátel",
+          "english": "friend",
+          "pos": "noun",
+          "example": "Приятелят ми говори английски.",
+          "exampleEn": "My friend speaks English."
+        }
+      ],
+      "grammar": {
+        "title": "Present tense of говоря (и-type verb)",
+        "explanation": "**говоря** follows the same plan as **работя**: stem **говор-** plus the person endings -я, -иш, -и, -им, -ите, -ят:\n\n- аз говор**я** (I speak)\n- ти говор**иш** (you speak)\n- той/тя говор**и** (he/she speaks)\n- ние говор**им** (we speak)\n- вие говор**ите** (you speak)\n- те говор**ят** (they speak)\n\nTo say a language, just use it after the verb with no preposition: **говоря български** (I speak Bulgarian). Use **с** ('with') for the person you talk to: **говоря с приятел**.",
+        "examples": [
+          {
+            "russian": "Аз говоря малко български.",
+            "english": "I speak a little Bulgarian."
+          },
+          {
+            "russian": "Тя говори английски добре.",
+            "english": "She speaks English well."
+          },
+          {
+            "russian": "Те говорят с приятел.",
+            "english": "They are talking with a friend."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Говориш ли български?",
+        "text": "— Говориш ли български?\n— Да, говоря малко. Говоря и английски добре.\n— Аз говоря с приятел всеки ден.",
+        "translation": "— Do you speak Bulgarian?\n— Yes, I speak a little. I also speak English well.\n— I talk with a friend every day.",
+        "glossary": [
+          {
+            "russian": "ли",
+            "english": "question particle (makes a yes/no question)"
+          },
+          {
+            "russian": "да",
+            "english": "yes"
+          }
+        ]
+      },
+      "speakingPrompt": "Say which languages you speak and how well, using говоря, български, английски, малко and добре. Add who you speak with using с + приятел."
+    },
+    {
+      "day": 4,
+      "title": "Wanting: the verb искам (I want)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "искам",
+          "translit": "ískam",
+          "english": "to want, I want",
+          "pos": "verb",
+          "example": "Аз искам кафе.",
+          "exampleEn": "I want a coffee."
+        },
+        {
+          "russian": "кафе",
+          "translit": "kafé",
+          "english": "coffee; café",
+          "pos": "noun",
+          "example": "Искам едно кафе.",
+          "exampleEn": "I want a coffee."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun",
+          "example": "Искаш ли вода?",
+          "exampleEn": "Do you want water?"
+        },
+        {
+          "russian": "да",
+          "translit": "da",
+          "english": "to (da + verb, replaces the infinitive)",
+          "pos": "particle",
+          "example": "Искам да чета.",
+          "exampleEn": "I want to read."
+        },
+        {
+          "russian": "почивам",
+          "translit": "pochívam",
+          "english": "to rest, I rest",
+          "pos": "verb",
+          "example": "Искам да почивам.",
+          "exampleEn": "I want to rest."
+        },
+        {
+          "russian": "сега",
+          "translit": "segá",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Искам да ям сега.",
+          "exampleEn": "I want to eat now."
+        },
+        {
+          "russian": "ям",
+          "translit": "yam",
+          "english": "to eat, I eat",
+          "pos": "verb",
+          "example": "Аз ям вкъщи.",
+          "exampleEn": "I eat at home."
+        }
+      ],
+      "grammar": {
+        "title": "искам and the да-construction (no infinitive)",
+        "explanation": "**искам** is an a-type verb with endings -ам, -аш, -а, -аме, -ате, -ат:\n\n- аз иск**ам**, ти иск**аш**, той/тя иск**а**, ние иск**аме**, вие иск**ате**, те иск**ат**.\n\nBulgarian has **no infinitive**. To say 'I want to read', use **да** + the present-tense verb, matching the same person: **искам да чета** (I want to read), **той иска да работи** (he wants to work). Both verbs agree with the subject.",
+        "examples": [
+          {
+            "russian": "Искам да чета сега.",
+            "english": "I want to read now."
+          },
+          {
+            "russian": "Той иска да работи вкъщи.",
+            "english": "He wants to work at home."
+          },
+          {
+            "russian": "Ние искаме да почиваме.",
+            "english": "We want to rest."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какво искаш?",
+        "text": "— Какво искаш сега?\n— Искам кафе и малко вода.\n— Аз искам да почивам вкъщи.",
+        "translation": "— What do you want now?\n— I want a coffee and a little water.\n— I want to rest at home.",
+        "glossary": [
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you want, using искам with a noun (кафе, вода) and with да + verb (да чета, да почивам, да ям). Try аз, той and ние."
+    },
+    {
+      "day": 5,
+      "title": "Doing and making: the verb правя (I do/make)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "правя",
+          "translit": "právya",
+          "english": "to do, to make, I do/make",
+          "pos": "verb",
+          "example": "Какво правиш?",
+          "exampleEn": "What are you doing?"
+        },
+        {
+          "russian": "какво",
+          "translit": "kakvó",
+          "english": "what",
+          "pos": "pronoun",
+          "example": "Какво правиш сега?",
+          "exampleEn": "What are you doing now?"
+        },
+        {
+          "russian": "вечеря",
+          "translit": "vechérya",
+          "english": "dinner, supper",
+          "pos": "noun",
+          "example": "Правя вечеря.",
+          "exampleEn": "I am making dinner."
+        },
+        {
+          "russian": "нищо",
+          "translit": "níshto",
+          "english": "nothing",
+          "pos": "pronoun",
+          "example": "Не правя нищо.",
+          "exampleEn": "I am not doing anything."
+        },
+        {
+          "russian": "сутрин",
+          "translit": "sútrin",
+          "english": "in the morning",
+          "pos": "adverb",
+          "example": "Сутрин правя кафе.",
+          "exampleEn": "In the morning I make coffee."
+        },
+        {
+          "russian": "вечер",
+          "translit": "vécher",
+          "english": "in the evening; evening",
+          "pos": "adverb",
+          "example": "Вечер чета.",
+          "exampleEn": "In the evening I read."
+        },
+        {
+          "russian": "не",
+          "translit": "ne",
+          "english": "not, no",
+          "pos": "particle",
+          "example": "Аз не работя днес.",
+          "exampleEn": "I am not working today."
+        }
+      ],
+      "grammar": {
+        "title": "правя and making verbs negative with не",
+        "explanation": "**правя** is an и-type verb like говоря: прав**я**, прав**иш**, прав**и**, прав**им**, прав**ите**, прав**ят**. It means both 'do' and 'make'.\n\nTo make any present-tense verb negative, put **не** right before it: **не работя** (I don't work), **не чета** (I don't read), **той не иска** (he doesn't want). With a double-negative word like **нищо** ('nothing'), Bulgarian still uses **не** on the verb: **не правя нищо** (I'm not doing anything).",
+        "examples": [
+          {
+            "russian": "Какво правиш вечер?",
+            "english": "What do you do in the evening?"
+          },
+          {
+            "russian": "Сутрин правя вечеря.",
+            "english": "In the morning I make dinner."
+          },
+          {
+            "russian": "Аз не правя нищо сега.",
+            "english": "I am not doing anything now."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какво правиш вечер?",
+        "text": "— Какво правиш вечер?\n— Вечер чета книга. А сутрин правя кафе.\n— Аз не правя нищо. Искам да почивам.",
+        "translation": "— What do you do in the evening?\n— In the evening I read a book. And in the morning I make coffee.\n— I don't do anything. I want to rest.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your morning and evening, using правя, вечеря, сутрин, вечер. Then say one thing you do NOT do, using не + a verb from this week."
+    },
+    {
+      "day": 6,
+      "title": "A day of actions: putting the verbs together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ставам",
+          "translit": "stávam",
+          "english": "to get up, I get up",
+          "pos": "verb",
+          "example": "Ставам рано.",
+          "exampleEn": "I get up early."
+        },
+        {
+          "russian": "рано",
+          "translit": "ráno",
+          "english": "early",
+          "pos": "adverb",
+          "example": "Той става рано.",
+          "exampleEn": "He gets up early."
+        },
+        {
+          "russian": "късно",
+          "translit": "kǎ́sno",
+          "english": "late",
+          "pos": "adverb",
+          "example": "Ние работим късно.",
+          "exampleEn": "We work late."
+        },
+        {
+          "russian": "после",
+          "translit": "pósle",
+          "english": "after that, then",
+          "pos": "adverb",
+          "example": "После чета.",
+          "exampleEn": "After that I read."
+        },
+        {
+          "russian": "ден",
+          "translit": "den",
+          "english": "day",
+          "pos": "noun",
+          "example": "Денят е дълъг.",
+          "exampleEn": "The day is long."
+        },
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "conjunction",
+          "example": "Работя и чета.",
+          "exampleEn": "I work and read."
+        },
+        {
+          "russian": "обичам",
+          "translit": "obícham",
+          "english": "to love, to like, I love/like",
+          "pos": "verb",
+          "example": "Обичам да чета.",
+          "exampleEn": "I love to read."
+        }
+      ],
+      "grammar": {
+        "title": "Linking actions: word order and connectors",
+        "explanation": "Bulgarian has **no noun cases**, so word order plus small connector words carry the meaning. Chain your daily verbs with **и** ('and'), and order them in time with **после** ('then'), **сутрин**, **вечер**:\n\n- Сутрин ставам рано и правя кафе. После работя.\n\nLike искам, the verb **обичам** takes **да** + present tense for an activity: **обичам да чета** (I love to read). Remember: every verb still agrees with its subject, and **не** before the verb makes it negative.",
+        "examples": [
+          {
+            "russian": "Сутрин ставам рано и правя кафе.",
+            "english": "In the morning I get up early and make coffee."
+          },
+          {
+            "russian": "После работя и говоря с приятел.",
+            "english": "Then I work and talk with a friend."
+          },
+          {
+            "russian": "Вечер обичам да чета книга.",
+            "english": "In the evening I love to read a book."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Един ден",
+        "text": "Сутрин ставам рано и правя кафе. После работя и чета. Вечер обичам да говоря с приятел.",
+        "translation": "In the morning I get up early and make coffee. Then I work and read. In the evening I love to talk with a friend.",
+        "glossary": [
+          {
+            "russian": "един",
+            "english": "one, a"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe one whole day from morning to evening, linking at least four actions with и and после. Use ставам, работя, чета and обичам да…."
+    },
+    {
+      "day": 7,
+      "title": "Review: my daily actions",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: present tense of regular verbs",
+        "explanation": "This week you learned the Bulgarian present tense, which covers both 'I do' and 'I am doing'. Three ending patterns by verb type:\n\n- **и-type** (работя, говоря, правя): -я, -иш, -и, -им, -ите, -ят\n- **е-type** (чета): -а, -еш, -е, -ем, -ете, -ат\n- **а-type** (искам, обичам, ставам): -ам, -аш, -а, -аме, -ате, -ат\n\nKey points: Bulgarian has **no infinitive** — use **да** + present (искам да чета). Make verbs negative with **не** before the verb (не работя). Pronouns are optional. Bulgarian has no cases, so word order and prepositions (с, в, на) link the words.",
+        "examples": [
+          {
+            "russian": "Аз работя, чета и говоря български.",
+            "english": "I work, read and speak Bulgarian."
+          },
+          {
+            "russian": "Той иска да почива, но не иска да работи.",
+            "english": "He wants to rest but doesn't want to work."
+          },
+          {
+            "russian": "Какво правиш вечер?",
+            "english": "What do you do in the evening?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Един обикновен ден",
+        "text": "— Какво правиш сутрин?\n— Ставам рано и правя кафе. После работя.\n— А вечер?\n— Вечер чета книга или говоря с приятел. Обичам да почивам.",
+        "translation": "— What do you do in the morning?\n— I get up early and make coffee. Then I work.\n— And in the evening?\n— In the evening I read a book or talk with a friend. I love to rest.",
+        "glossary": [
+          {
+            "russian": "или",
+            "english": "or"
+          },
+          {
+            "russian": "обикновен",
+            "english": "ordinary, usual"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell the story of your typical day using all five focus verbs (работя, чета, говоря, искам, правя). Include one negative sentence with не and one искам да… or обичам да… sentence."
+    }
+  ]
+}

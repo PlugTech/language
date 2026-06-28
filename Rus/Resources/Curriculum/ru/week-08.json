@@ -1,0 +1,632 @@
+{
+  "week": 8,
+  "theme": "Home & furniture (consolidation)",
+  "days": [
+    {
+      "day": 1,
+      "title": "Rooms of the home: where I live",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "комната",
+          "translit": "kómnata",
+          "english": "room",
+          "pos": "noun",
+          "example": "Это моя комната.",
+          "exampleEn": "This is my room."
+        },
+        {
+          "russian": "кухня",
+          "translit": "kúhnya",
+          "english": "kitchen",
+          "pos": "noun",
+          "example": "Мама на кухне.",
+          "exampleEn": "Mum is in the kitchen."
+        },
+        {
+          "russian": "квартира",
+          "translit": "kvartíra",
+          "english": "apartment, flat",
+          "pos": "noun",
+          "example": "Я живу в квартире.",
+          "exampleEn": "I live in an apartment."
+        },
+        {
+          "russian": "дом",
+          "translit": "dom",
+          "english": "house, home",
+          "pos": "noun",
+          "example": "Это наш дом.",
+          "exampleEn": "This is our house."
+        },
+        {
+          "russian": "жить",
+          "translit": "zhit'",
+          "english": "to live",
+          "pos": "verb",
+          "example": "Где ты живёшь?",
+          "exampleEn": "Where do you live?"
+        },
+        {
+          "russian": "здесь",
+          "translit": "zdes'",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Я живу здесь.",
+          "exampleEn": "I live here."
+        },
+        {
+          "russian": "большой",
+          "translit": "bol'shóy",
+          "english": "big",
+          "pos": "adjective",
+          "example": "Это большой дом.",
+          "exampleEn": "This is a big house."
+        }
+      ],
+      "grammar": {
+        "title": "Present tense of жить + 'в' for location",
+        "explanation": "Today we **review the present tense** with the verb **жить** (to live), which is slightly irregular: я живу́, ты живёшь, он/она́ живёт, мы живём, вы живёте, они́ живу́т (note the inserted **в**). To say *where* someone lives, use the preposition **в** (in) + the **prepositional case**. For most feminine nouns ending in -а, change -а to **-е**: кварти́р**а** → в кварти́р**е**.",
+        "examples": [
+          {
+            "russian": "Я живу в квартире.",
+            "english": "I live in an apartment."
+          },
+          {
+            "russian": "Ты живёшь здесь?",
+            "english": "Do you live here?"
+          },
+          {
+            "russian": "Они живут в большом доме.",
+            "english": "They live in a big house."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Где ты живёшь?",
+        "text": "— Где ты живёшь? — Я живу здесь, в квартире. Это большой дом.",
+        "translation": "— Where do you live? — I live here, in an apartment. It is a big house.",
+        "glossary": [
+          {
+            "russian": "Где?",
+            "english": "Where?"
+          },
+          {
+            "russian": "это",
+            "english": "this is"
+          }
+        ]
+      },
+      "speakingPrompt": "Say aloud where you live: 'Я живу в...' and describe whether it is a house or an apartment, and whether it is big. Use жить in the correct я-form."
+    },
+    {
+      "day": 2,
+      "title": "Furniture and the prepositional case 'в комнате'",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "кровать",
+          "translit": "krovát'",
+          "english": "bed",
+          "pos": "noun",
+          "example": "В комнате стоит кровать.",
+          "exampleEn": "There is a bed in the room."
+        },
+        {
+          "russian": "стул",
+          "translit": "stul",
+          "english": "chair",
+          "pos": "noun",
+          "example": "Это новый стул.",
+          "exampleEn": "This is a new chair."
+        },
+        {
+          "russian": "стол",
+          "translit": "stol",
+          "english": "table",
+          "pos": "noun",
+          "example": "Книга на столе.",
+          "exampleEn": "The book is on the table."
+        },
+        {
+          "russian": "шкаф",
+          "translit": "shkaf",
+          "english": "wardrobe, cupboard",
+          "pos": "noun",
+          "example": "Шкаф большой.",
+          "exampleEn": "The wardrobe is big."
+        },
+        {
+          "russian": "стоять",
+          "translit": "stoyát'",
+          "english": "to stand, to be (located)",
+          "pos": "verb",
+          "example": "Стул стоит здесь.",
+          "exampleEn": "The chair stands here."
+        },
+        {
+          "russian": "новый",
+          "translit": "nóvyy",
+          "english": "new",
+          "pos": "adjective",
+          "example": "У меня новый стол.",
+          "exampleEn": "I have a new table."
+        },
+        {
+          "russian": "там",
+          "translit": "tam",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Кровать там.",
+          "exampleEn": "The bed is there."
+        }
+      ],
+      "grammar": {
+        "title": "Prepositional case with в for masculine and feminine nouns",
+        "explanation": "We continue the **prepositional case** for location. The ending **-е** applies to most masculine and feminine nouns: стол → в стол**е**, ко́мната → в ко́мнат**е**. Use the verb **стоя́ть** (to stand) to say where furniture *is located*: оно́ стои́т, они́ стоя́т. Remember **в** + prepositional answers the question **где?** (where?).",
+        "examples": [
+          {
+            "russian": "Стул стоит в комнате.",
+            "english": "The chair is (stands) in the room."
+          },
+          {
+            "russian": "В комнате новая кровать.",
+            "english": "There is a new bed in the room."
+          },
+          {
+            "russian": "Шкаф стоит там.",
+            "english": "The wardrobe stands there."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В моей комнате",
+        "text": "В комнате стоит кровать. Здесь новый стол и стул. Шкаф стоит там.",
+        "translation": "In the room there is a bed. Here is a new table and a chair. The wardrobe stands there.",
+        "glossary": [
+          {
+            "russian": "и",
+            "english": "and"
+          },
+          {
+            "russian": "моя",
+            "english": "my (feminine)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your own room: name three pieces of furniture and say where each one is using 'в комнате', 'здесь', or 'там' with стоит/стоят."
+    },
+    {
+      "day": 3,
+      "title": "Doors, windows and 'на' for surfaces",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "дверь",
+          "translit": "dver'",
+          "english": "door",
+          "pos": "noun",
+          "example": "Дверь здесь.",
+          "exampleEn": "The door is here."
+        },
+        {
+          "russian": "окно",
+          "translit": "oknó",
+          "english": "window",
+          "pos": "noun",
+          "example": "Окно большое.",
+          "exampleEn": "The window is big."
+        },
+        {
+          "russian": "стена",
+          "translit": "stená",
+          "english": "wall",
+          "pos": "noun",
+          "example": "Картина на стене.",
+          "exampleEn": "The picture is on the wall."
+        },
+        {
+          "russian": "пол",
+          "translit": "pol",
+          "english": "floor",
+          "pos": "noun",
+          "example": "Кот на полу.",
+          "exampleEn": "The cat is on the floor."
+        },
+        {
+          "russian": "лежать",
+          "translit": "lezhát'",
+          "english": "to lie, to be lying",
+          "pos": "verb",
+          "example": "Книга лежит на столе.",
+          "exampleEn": "The book is lying on the table."
+        },
+        {
+          "russian": "висеть",
+          "translit": "visét'",
+          "english": "to hang",
+          "pos": "verb",
+          "example": "Картина висит на стене.",
+          "exampleEn": "The picture hangs on the wall."
+        },
+        {
+          "russian": "светлый",
+          "translit": "svétlyy",
+          "english": "light, bright",
+          "pos": "adjective",
+          "example": "Это светлая комната.",
+          "exampleEn": "This is a bright room."
+        }
+      ],
+      "grammar": {
+        "title": "The preposition на + prepositional case",
+        "explanation": "Like **в**, the preposition **на** (on/at) takes the **prepositional case** and answers **где?**. Use **на** for surfaces: на стол**е** (on the table), на стен**е** (on the wall), на пол**у** (on the floor — note the special ending **-у**). Pair it with location verbs: **лежа́ть** (to lie) for flat objects, **висе́ть** (to hang) for things on walls.",
+        "examples": [
+          {
+            "russian": "Книга лежит на столе.",
+            "english": "The book is lying on the table."
+          },
+          {
+            "russian": "Картина висит на стене.",
+            "english": "The picture hangs on the wall."
+          },
+          {
+            "russian": "Кот лежит на полу.",
+            "english": "The cat is lying on the floor."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Светлая комната",
+        "text": "Это светлая комната. Окно большое. На стене висит картина, а книга лежит на столе.",
+        "translation": "This is a bright room. The window is big. A picture hangs on the wall, and a book is lying on the table.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          },
+          {
+            "russian": "картина",
+            "english": "picture"
+          }
+        ]
+      },
+      "speakingPrompt": "Look around your room. Say what is on the table, on the wall, and on the floor using на + prepositional case with лежит or висит."
+    },
+    {
+      "day": 4,
+      "title": "Who does what at home: present tense practice",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "сидеть",
+          "translit": "sidét'",
+          "english": "to sit",
+          "pos": "verb",
+          "example": "Я сижу на стуле.",
+          "exampleEn": "I am sitting on the chair."
+        },
+        {
+          "russian": "спать",
+          "translit": "spat'",
+          "english": "to sleep",
+          "pos": "verb",
+          "example": "Кот спит на кровати.",
+          "exampleEn": "The cat sleeps on the bed."
+        },
+        {
+          "russian": "читать",
+          "translit": "chitát'",
+          "english": "to read",
+          "pos": "verb",
+          "example": "Мама читает в комнате.",
+          "exampleEn": "Mum is reading in the room."
+        },
+        {
+          "russian": "отдыхать",
+          "translit": "otdyhát'",
+          "english": "to rest, to relax",
+          "pos": "verb",
+          "example": "Мы отдыхаем дома.",
+          "exampleEn": "We are resting at home."
+        },
+        {
+          "russian": "дома",
+          "translit": "dóma",
+          "english": "at home",
+          "pos": "adverb",
+          "example": "Папа дома.",
+          "exampleEn": "Dad is at home."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "seychás",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Я сейчас дома.",
+          "exampleEn": "I am at home now."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also, too",
+          "pos": "particle",
+          "example": "Я тоже читаю.",
+          "exampleEn": "I am reading too."
+        }
+      ],
+      "grammar": {
+        "title": "Present tense conjugation review with home verbs",
+        "explanation": "Review the two present-tense patterns. **First conjugation** (-ть → -ю/-ешь/-ет...): чита́ть → я чита́**ю**, ты чита́**ешь**, он чита́**ет**. **Second conjugation** (-ить/-еть → -ю/-ишь/-ит...): сиде́ть → я сижу́, ты сиди́**шь**, он сиди́**т** (note ж in the я-form). Combine actions with location: **в/на** + prepositional tells **где** the action happens. The word **дома** means *at home* and never changes.",
+        "examples": [
+          {
+            "russian": "Я читаю в комнате.",
+            "english": "I am reading in the room."
+          },
+          {
+            "russian": "Кот спит на кровати.",
+            "english": "The cat sleeps on the bed."
+          },
+          {
+            "russian": "Мы сейчас отдыхаем дома.",
+            "english": "We are resting at home now."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Дома",
+        "text": "Папа сейчас дома. Он сидит на стуле и читает. Мама тоже дома, она отдыхает в комнате.",
+        "translation": "Dad is at home now. He is sitting on the chair and reading. Mum is also at home; she is resting in the room.",
+        "glossary": [
+          {
+            "russian": "он",
+            "english": "he"
+          },
+          {
+            "russian": "она",
+            "english": "she"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe what the people in your home are doing right now: use сейчас, дома, and at least two verbs (читать, сидеть, спать, отдыхать) with в/на + prepositional."
+    },
+    {
+      "day": 5,
+      "title": "Talking about your kitchen: questions with где",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "холодильник",
+          "translit": "holodíl'nik",
+          "english": "refrigerator",
+          "pos": "noun",
+          "example": "Холодильник на кухне.",
+          "exampleEn": "The refrigerator is in the kitchen."
+        },
+        {
+          "russian": "плита",
+          "translit": "plitá",
+          "english": "stove, cooker",
+          "pos": "noun",
+          "example": "Плита стоит здесь.",
+          "exampleEn": "The stove stands here."
+        },
+        {
+          "russian": "посуда",
+          "translit": "posúda",
+          "english": "dishes, tableware",
+          "pos": "noun",
+          "example": "Посуда на столе.",
+          "exampleEn": "The dishes are on the table."
+        },
+        {
+          "russian": "готовить",
+          "translit": "gotóvit'",
+          "english": "to cook, to prepare",
+          "pos": "verb",
+          "example": "Мама готовит на кухне.",
+          "exampleEn": "Mum is cooking in the kitchen."
+        },
+        {
+          "russian": "есть",
+          "translit": "yest'",
+          "english": "to eat",
+          "pos": "verb",
+          "example": "Мы едим на кухне.",
+          "exampleEn": "We eat in the kitchen."
+        },
+        {
+          "russian": "чистый",
+          "translit": "chístyy",
+          "english": "clean",
+          "pos": "adjective",
+          "example": "Кухня чистая.",
+          "exampleEn": "The kitchen is clean."
+        },
+        {
+          "russian": "уютный",
+          "translit": "uyútnyy",
+          "english": "cosy",
+          "pos": "adjective",
+          "example": "Это уютная кухня.",
+          "exampleEn": "This is a cosy kitchen."
+        }
+      ],
+      "grammar": {
+        "title": "Asking and answering где? with в/на",
+        "explanation": "Put it all together by asking **Где...?** (Where...?) and answering with **в** or **на** + prepositional case. Use **в** for enclosed spaces (в ко́мнат**е**, в дом**е**) and **на** for open areas and certain words like **ку́хня** → на ку́хн**е**. Notice that ку́хня ends in -я, so the prepositional is **-е**. The verb **гото́вить** (2nd conj.) keeps its stem: я гото́влю, ты гото́вишь.",
+        "examples": [
+          {
+            "russian": "— Где мама? — На кухне.",
+            "english": "— Where is Mum? — In the kitchen."
+          },
+          {
+            "russian": "Мама готовит на кухне.",
+            "english": "Mum is cooking in the kitchen."
+          },
+          {
+            "russian": "Посуда стоит в шкафу.",
+            "english": "The dishes are in the cupboard."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На кухне",
+        "text": "— Где мама? — Она на кухне, она готовит. Кухня чистая и уютная.",
+        "translation": "— Where is Mum? — She is in the kitchen, she is cooking. The kitchen is clean and cosy.",
+        "glossary": [
+          {
+            "russian": "на кухне",
+            "english": "in the kitchen"
+          },
+          {
+            "russian": "она",
+            "english": "she"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask and answer 'Где...?' about three things in a kitchen (холодильник, плита, посуда). Answer with на кухне / в шкафу and add an adjective like чистый or уютный."
+    },
+    {
+      "day": 6,
+      "title": "Describing your whole home (putting it together)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "коридор",
+          "translit": "koridór",
+          "english": "corridor, hallway",
+          "pos": "noun",
+          "example": "Дверь в коридоре.",
+          "exampleEn": "The door is in the corridor."
+        },
+        {
+          "russian": "ванная",
+          "translit": "vánnaya",
+          "english": "bathroom",
+          "pos": "noun",
+          "example": "Ванная маленькая.",
+          "exampleEn": "The bathroom is small."
+        },
+        {
+          "russian": "пол",
+          "translit": "pol",
+          "english": "floor",
+          "pos": "noun",
+          "example": "На полу ковёр.",
+          "exampleEn": "There is a carpet on the floor."
+        },
+        {
+          "russian": "ковёр",
+          "translit": "kovyór",
+          "english": "carpet, rug",
+          "pos": "noun",
+          "example": "Ковёр на полу.",
+          "exampleEn": "The carpet is on the floor."
+        },
+        {
+          "russian": "маленький",
+          "translit": "málen'kiy",
+          "english": "small",
+          "pos": "adjective",
+          "example": "Это маленькая комната.",
+          "exampleEn": "This is a small room."
+        },
+        {
+          "russian": "красивый",
+          "translit": "krasívyy",
+          "english": "beautiful",
+          "pos": "adjective",
+          "example": "У нас красивый дом.",
+          "exampleEn": "We have a beautiful house."
+        },
+        {
+          "russian": "наш",
+          "translit": "nash",
+          "english": "our",
+          "pos": "pronoun",
+          "example": "Это наш дом.",
+          "exampleEn": "This is our house."
+        }
+      ],
+      "grammar": {
+        "title": "Combining present tense + prepositional in connected speech",
+        "explanation": "Today you combine everything: describe a home using several **в/на + prepositional** phrases and **present-tense verbs** in one connected text. Remember the key location endings: **-е** for most nouns (в дом**е**, на стен**е**), and the special **-у** for пол → на пол**у** and шкаф → в шкаф**у**. Adjectives agree with their noun: ма́леньк**ая** ко́мната, краси́в**ый** дом.",
+        "examples": [
+          {
+            "russian": "В коридоре стоит шкаф.",
+            "english": "There is a wardrobe in the corridor."
+          },
+          {
+            "russian": "На полу лежит красивый ковёр.",
+            "english": "A beautiful carpet lies on the floor."
+          },
+          {
+            "russian": "Наш дом маленький, но уютный.",
+            "english": "Our house is small but cosy."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Наш дом",
+        "text": "Это наш дом. Он маленький, но красивый. В коридоре стоит шкаф, а на полу лежит ковёр.",
+        "translation": "This is our house. It is small but beautiful. In the corridor there is a wardrobe, and on the floor lies a carpet.",
+        "glossary": [
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "он",
+            "english": "it (masc.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Give a short tour of your home in 4–5 sentences. Name at least three rooms and say what stands or lies in each, using в/на + prepositional and adjectives that agree."
+    },
+    {
+      "day": 7,
+      "title": "Week 8 review: home, furniture and location",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: present tense + prepositional case (где?)",
+        "explanation": "This week consolidated two core tools. **Present tense**: 1st conjugation (чита́ю, чита́ешь) and 2nd conjugation (сижу́, сиди́шь), plus the verbs жить, стоя́ть, лежа́ть, висе́ть, сиде́ть, спать, гото́вить. **Prepositional case** answers **где?**: use **в** for enclosed spaces and **на** for surfaces/open areas, with the ending **-е** for most nouns and the special **-у** in на полу́ / в шкафу́. Adjectives agree in gender with their noun.",
+        "examples": [
+          {
+            "russian": "Стул стоит в комнате.",
+            "english": "The chair is in the room."
+          },
+          {
+            "russian": "Картина висит на стене.",
+            "english": "The picture hangs on the wall."
+          },
+          {
+            "russian": "Мама готовит на кухне.",
+            "english": "Mum is cooking in the kitchen."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Дома вечером",
+        "text": "— Где ты сейчас? — Я дома, в комнате. Я сижу на стуле и читаю. — А где мама? — Она на кухне, готовит. Наш дом маленький, но уютный.",
+        "translation": "— Where are you now? — I am at home, in the room. I am sitting on the chair and reading. — And where is Mum? — She is in the kitchen, cooking. Our house is small but cosy.",
+        "glossary": [
+          {
+            "russian": "сейчас",
+            "english": "now"
+          },
+          {
+            "russian": "уютный",
+            "english": "cosy"
+          },
+          {
+            "russian": "а",
+            "english": "and (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Without notes, describe where you are and what you are doing right now, then describe one other room and who is there. Use at least four в/на + prepositional phrases and three different present-tense verbs."
+    }
+  ]
+}

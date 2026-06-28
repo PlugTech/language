@@ -1,0 +1,636 @@
+{
+  "theme": "Time & talking about things",
+  "week": 6,
+  "days": [
+    {
+      "day": 1,
+      "title": "Seasons of the year",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "сезон",
+          "translit": "sezón",
+          "english": "season",
+          "pos": "noun",
+          "example": "Какой сезон ты любишь?",
+          "exampleEn": "Which season do you like?"
+        },
+        {
+          "russian": "зима",
+          "translit": "zimá",
+          "english": "winter",
+          "pos": "noun",
+          "example": "Зима очень холодная.",
+          "exampleEn": "Winter is very cold."
+        },
+        {
+          "russian": "весна",
+          "translit": "vesná",
+          "english": "spring",
+          "pos": "noun",
+          "example": "Весна — это тепло.",
+          "exampleEn": "Spring is warmth."
+        },
+        {
+          "russian": "лето",
+          "translit": "léto",
+          "english": "summer",
+          "pos": "noun",
+          "example": "Лето очень тёплое.",
+          "exampleEn": "Summer is very warm."
+        },
+        {
+          "russian": "осень",
+          "translit": "ósen'",
+          "english": "autumn",
+          "pos": "noun",
+          "example": "Осень красивая.",
+          "exampleEn": "Autumn is beautiful."
+        },
+        {
+          "russian": "год",
+          "translit": "god",
+          "english": "year",
+          "pos": "noun",
+          "example": "Год — это четыре сезона.",
+          "exampleEn": "A year is four seasons."
+        },
+        {
+          "russian": "любимый",
+          "translit": "lyubímyy",
+          "english": "favourite",
+          "pos": "adjective",
+          "example": "Лето — мой любимый сезон.",
+          "exampleEn": "Summer is my favourite season."
+        }
+      ],
+      "grammar": {
+        "title": "The four seasons and their gender",
+        "explanation": "Russian has four seasons. Each noun has a **gender**, which matters for adjectives later.\n\n- **зима** (winter), **весна** (spring), **осень** (autumn) are **feminine**.\n- **лето** (summer) is **neuter** (ends in **-о**).\n- **год** (year) is **masculine**.\n\nTo say *which season you like*, just use the season word directly: **Я люблю лето** (I like summer). To say something *is* your favourite, drop the verb: **Лето — мой любимый сезон**.",
+        "examples": [
+          {
+            "russian": "Зима холодная.",
+            "english": "Winter is cold."
+          },
+          {
+            "russian": "Я люблю весну.",
+            "english": "I like spring."
+          },
+          {
+            "russian": "Осень — мой любимый сезон.",
+            "english": "Autumn is my favourite season."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Любимый сезон",
+        "text": "— Какой сезон ты любишь? — Я люблю лето. А ты? — Зима — мой любимый сезон.",
+        "translation": "\"Which season do you like?\" \"I like summer. And you?\" \"Winter is my favourite season.\"",
+        "glossary": [
+          {
+            "russian": "какой",
+            "english": "which / what kind of"
+          },
+          {
+            "russian": "а ты?",
+            "english": "and you?"
+          }
+        ]
+      },
+      "speakingPrompt": "Say out loud which season is your favourite and which season you do not like, using «Я люблю...» and «... — мой любимый сезон»."
+    },
+    {
+      "day": 2,
+      "title": "The months (part 1)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "месяц",
+          "translit": "mésyats",
+          "english": "month",
+          "pos": "noun",
+          "example": "Какой сейчас месяц?",
+          "exampleEn": "What month is it now?"
+        },
+        {
+          "russian": "январь",
+          "translit": "yanvár'",
+          "english": "January",
+          "pos": "noun",
+          "example": "Январь — это зима.",
+          "exampleEn": "January is winter."
+        },
+        {
+          "russian": "февраль",
+          "translit": "fevrál'",
+          "english": "February",
+          "pos": "noun",
+          "example": "Февраль холодный.",
+          "exampleEn": "February is cold."
+        },
+        {
+          "russian": "март",
+          "translit": "mart",
+          "english": "March",
+          "pos": "noun",
+          "example": "Март — это весна.",
+          "exampleEn": "March is spring."
+        },
+        {
+          "russian": "апрель",
+          "translit": "aprél'",
+          "english": "April",
+          "pos": "noun",
+          "example": "Апрель тёплый.",
+          "exampleEn": "April is warm."
+        },
+        {
+          "russian": "май",
+          "translit": "may",
+          "english": "May",
+          "pos": "noun",
+          "example": "Май очень красивый.",
+          "exampleEn": "May is very beautiful."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "seychás",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Сейчас март.",
+          "exampleEn": "It is March now."
+        }
+      ],
+      "grammar": {
+        "title": "Months are masculine; «Сейчас ...»",
+        "explanation": "**All twelve months are masculine** in Russian. Notice that many end in a soft sign **-ь** (январь, февраль, апрель) or a hard consonant (март, май).\n\nTo say what month it is right now, use **Сейчас** + the month: **Сейчас март** (It is March now). No verb is needed.\n\nTip: the months are **not** capitalised in Russian (unlike English).",
+        "examples": [
+          {
+            "russian": "Сейчас январь.",
+            "english": "It is January now."
+          },
+          {
+            "russian": "Какой сейчас месяц?",
+            "english": "What month is it now?"
+          },
+          {
+            "russian": "Май — это весна.",
+            "english": "May is spring."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какой месяц?",
+        "text": "— Какой сейчас месяц? — Сейчас апрель. — Апрель — это весна! — Да, весна красивая.",
+        "translation": "\"What month is it now?\" \"It is April now.\" \"April is spring!\" \"Yes, spring is beautiful.\"",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "это",
+            "english": "this is / it is"
+          }
+        ]
+      },
+      "speakingPrompt": "Practise saying the current month with «Сейчас ...» and add which season that month belongs to."
+    },
+    {
+      "day": 3,
+      "title": "The months (part 2)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "июнь",
+          "translit": "iyún'",
+          "english": "June",
+          "pos": "noun",
+          "example": "Июнь — это лето.",
+          "exampleEn": "June is summer."
+        },
+        {
+          "russian": "июль",
+          "translit": "iyúl'",
+          "english": "July",
+          "pos": "noun",
+          "example": "Июль очень тёплый.",
+          "exampleEn": "July is very warm."
+        },
+        {
+          "russian": "август",
+          "translit": "ávgust",
+          "english": "August",
+          "pos": "noun",
+          "example": "Август — это лето.",
+          "exampleEn": "August is summer."
+        },
+        {
+          "russian": "сентябрь",
+          "translit": "sentyábr'",
+          "english": "September",
+          "pos": "noun",
+          "example": "Сентябрь — это осень.",
+          "exampleEn": "September is autumn."
+        },
+        {
+          "russian": "октябрь",
+          "translit": "oktyábr'",
+          "english": "October",
+          "pos": "noun",
+          "example": "Октябрь красивый.",
+          "exampleEn": "October is beautiful."
+        },
+        {
+          "russian": "ноябрь",
+          "translit": "noyábr'",
+          "english": "November",
+          "pos": "noun",
+          "example": "Ноябрь холодный.",
+          "exampleEn": "November is cold."
+        },
+        {
+          "russian": "декабрь",
+          "translit": "dekábr'",
+          "english": "December",
+          "pos": "noun",
+          "example": "Декабрь — это зима.",
+          "exampleEn": "December is winter."
+        }
+      ],
+      "grammar": {
+        "title": "The «-брь» months and stress",
+        "explanation": "The last four months all share the ending **-брь** and put the **stress on the last syllable**: сентя́брь, октя́брь, ноя́брь, дека́брь. Say them as a rhythmic group to remember them.\n\n**июнь** and **июль** look almost the same — the only difference is the final letter (**-нь** vs **-ль**). Both are stressed on the last syllable.\n\nLink each month to a season: лето = июнь, июль, август; осень = сентябрь, октябрь, ноябрь; зима = декабрь, январь, февраль; весна = март, апрель, май.",
+        "examples": [
+          {
+            "russian": "Сейчас сентябрь.",
+            "english": "It is September now."
+          },
+          {
+            "russian": "Декабрь — это зима.",
+            "english": "December is winter."
+          },
+          {
+            "russian": "Июнь и июль — это лето.",
+            "english": "June and July are summer."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сезоны и месяцы",
+        "text": "Июнь, июль и август — это лето. Сентябрь — это осень. Декабрь — это зима.",
+        "translation": "June, July and August are summer. September is autumn. December is winter.",
+        "glossary": [
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Name all twelve months in order out loud, then group them into the four seasons."
+    },
+    {
+      "day": 4,
+      "title": "Weather basics",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "погода",
+          "translit": "pogóda",
+          "english": "weather",
+          "pos": "noun",
+          "example": "Сегодня погода хорошая.",
+          "exampleEn": "The weather is good today."
+        },
+        {
+          "russian": "тепло",
+          "translit": "tepló",
+          "english": "(it is) warm",
+          "pos": "adverb",
+          "example": "Сегодня тепло.",
+          "exampleEn": "It is warm today."
+        },
+        {
+          "russian": "холодно",
+          "translit": "khólodno",
+          "english": "(it is) cold",
+          "pos": "adverb",
+          "example": "Зимой холодно.",
+          "exampleEn": "In winter it is cold."
+        },
+        {
+          "russian": "жарко",
+          "translit": "zhárko",
+          "english": "(it is) hot",
+          "pos": "adverb",
+          "example": "Летом жарко.",
+          "exampleEn": "In summer it is hot."
+        },
+        {
+          "russian": "хорошо",
+          "translit": "khoroshó",
+          "english": "(it is) good / well",
+          "pos": "adverb",
+          "example": "Сегодня хорошо.",
+          "exampleEn": "Today is good."
+        },
+        {
+          "russian": "плохо",
+          "translit": "plókho",
+          "english": "(it is) bad",
+          "pos": "adverb",
+          "example": "Сегодня погода плохая.",
+          "exampleEn": "The weather is bad today."
+        },
+        {
+          "russian": "сегодня",
+          "translit": "sevódnya",
+          "english": "today",
+          "pos": "adverb",
+          "example": "Сегодня тепло.",
+          "exampleEn": "It is warm today."
+        }
+      ],
+      "grammar": {
+        "title": "Impersonal weather: «Сегодня тепло»",
+        "explanation": "Russian describes weather and feelings with **short impersonal adverbs** — no subject and no verb in the present.\n\n- **тепло** (warm), **холодно** (cold), **жарко** (hot), **хорошо** (good), **плохо** (bad).\n\nJust add a time word: **Сегодня жарко** (It is hot today). These adverbs end in **-о** and never change.\n\nDo not confuse the adverb **тепло** (\"it is warm\") with an adjective. The adverb is used alone for the general weather; the adjective form agrees with a noun (e.g. **тёплый день**) and comes later.",
+        "examples": [
+          {
+            "russian": "Сегодня холодно.",
+            "english": "It is cold today."
+          },
+          {
+            "russian": "Летом жарко.",
+            "english": "In summer it is hot."
+          },
+          {
+            "russian": "Сегодня погода хорошая.",
+            "english": "The weather is good today."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какая погода?",
+        "text": "— Какая сегодня погода? — Сегодня тепло и хорошо. — А зимой? — Зимой холодно.",
+        "translation": "\"What is the weather like today?\" \"Today it is warm and good.\" \"And in winter?\" \"In winter it is cold.\"",
+        "glossary": [
+          {
+            "russian": "какая",
+            "english": "what kind of (feminine)"
+          },
+          {
+            "russian": "зимой",
+            "english": "in winter"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe today's weather in one sentence using «Сегодня ...» and an impersonal adverb (тепло / холодно / жарко / хорошо / плохо)."
+    },
+    {
+      "day": 5,
+      "title": "Talking about something: о/об",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "думать",
+          "translit": "dúmat'",
+          "english": "to think",
+          "pos": "verb",
+          "example": "Я думаю о лете.",
+          "exampleEn": "I am thinking about summer."
+        },
+        {
+          "russian": "говорить",
+          "translit": "govorít'",
+          "english": "to talk / to speak",
+          "pos": "verb",
+          "example": "Мы говорим о погоде.",
+          "exampleEn": "We are talking about the weather."
+        },
+        {
+          "russian": "мечтать",
+          "translit": "mechtát'",
+          "english": "to dream",
+          "pos": "verb",
+          "example": "Я мечтаю о лете.",
+          "exampleEn": "I am dreaming about summer."
+        },
+        {
+          "russian": "книга",
+          "translit": "kníga",
+          "english": "book",
+          "pos": "noun",
+          "example": "Это книга о зиме.",
+          "exampleEn": "This is a book about winter."
+        },
+        {
+          "russian": "фильм",
+          "translit": "fil'm",
+          "english": "film / movie",
+          "pos": "noun",
+          "example": "Фильм о любви.",
+          "exampleEn": "A film about love."
+        },
+        {
+          "russian": "любовь",
+          "translit": "lyubóv'",
+          "english": "love",
+          "pos": "noun",
+          "example": "Это песня о любви.",
+          "exampleEn": "This is a song about love."
+        },
+        {
+          "russian": "о",
+          "translit": "o",
+          "english": "about",
+          "pos": "particle",
+          "example": "Я думаю о тебе.",
+          "exampleEn": "I am thinking about you."
+        }
+      ],
+      "grammar": {
+        "title": "Prepositional case with о / об (about)",
+        "explanation": "To say **about** something, use the preposition **о** + the **prepositional case**.\n\nFor most nouns, the prepositional ending is **-е**:\n- лето → **о лете** (about summer)\n- погода → **о погоде** (about the weather)\n- фильм → **о фильме** (about the film)\n\nFeminine nouns ending in **-ь** (soft sign) take **-и**: любовь → **о любви**; осень → **об осени**.\n\nUse **об** (not о) before a word starting with a vowel sound: **об осени**, **об апреле**. Otherwise use **о**.",
+        "examples": [
+          {
+            "russian": "Я думаю о лете.",
+            "english": "I am thinking about summer."
+          },
+          {
+            "russian": "Мы говорим о погоде.",
+            "english": "We are talking about the weather."
+          },
+          {
+            "russian": "Это книга об осени.",
+            "english": "This is a book about autumn."
+          },
+          {
+            "russian": "Это песня о любви.",
+            "english": "This is a song about love."
+          }
+        ]
+      },
+      "reading": {
+        "title": "О чём фильм?",
+        "text": "— О чём этот фильм? — Это фильм о любви. — А книга? — Книга о зиме.",
+        "translation": "\"What is this film about?\" \"It is a film about love.\" \"And the book?\" \"The book is about winter.\"",
+        "glossary": [
+          {
+            "russian": "о чём?",
+            "english": "about what?"
+          },
+          {
+            "russian": "этот",
+            "english": "this (masculine)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you are thinking or dreaming about using «Я думаю о...» or «Я мечтаю о...» with a season or a month."
+    },
+    {
+      "day": 6,
+      "title": "Talking about people and places",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "мама",
+          "translit": "máma",
+          "english": "mum",
+          "pos": "noun",
+          "example": "Я думаю о маме.",
+          "exampleEn": "I am thinking about mum."
+        },
+        {
+          "russian": "папа",
+          "translit": "pápa",
+          "english": "dad",
+          "pos": "noun",
+          "example": "Это книга о папе.",
+          "exampleEn": "This is a book about dad."
+        },
+        {
+          "russian": "друг",
+          "translit": "drug",
+          "english": "friend",
+          "pos": "noun",
+          "example": "Я говорю о друге.",
+          "exampleEn": "I am talking about a friend."
+        },
+        {
+          "russian": "город",
+          "translit": "górod",
+          "english": "city / town",
+          "pos": "noun",
+          "example": "Это фильм о городе.",
+          "exampleEn": "This is a film about the city."
+        },
+        {
+          "russian": "работа",
+          "translit": "rabóta",
+          "english": "work / job",
+          "pos": "noun",
+          "example": "Мы говорим о работе.",
+          "exampleEn": "We are talking about work."
+        },
+        {
+          "russian": "ты",
+          "translit": "ty",
+          "english": "you (informal)",
+          "pos": "pronoun",
+          "example": "Я думаю о тебе.",
+          "exampleEn": "I am thinking about you."
+        },
+        {
+          "russian": "я",
+          "translit": "ya",
+          "english": "I",
+          "pos": "pronoun",
+          "example": "Ты думаешь обо мне?",
+          "exampleEn": "Are you thinking about me?"
+        }
+      ],
+      "grammar": {
+        "title": "о/об with people and pronouns",
+        "explanation": "The same rule (**о + prepositional**) works for people and places. Most nouns take **-е**:\n- мама → **о маме**, папа → **о папе**, друг → **о друге**, город → **о городе**, работа → **о работе**.\n\nPersonal pronouns have special prepositional forms you simply memorise:\n- я → **обо мне** (about me) — note **обо**, a special form before мне\n- ты → **о тебе** (about you)\n\nSo you can now say who you are talking or thinking about: **Мы говорим о друге**, **Я думаю о тебе**.",
+        "examples": [
+          {
+            "russian": "Я думаю о маме.",
+            "english": "I am thinking about mum."
+          },
+          {
+            "russian": "Мы говорим о работе.",
+            "english": "We are talking about work."
+          },
+          {
+            "russian": "Ты думаешь обо мне?",
+            "english": "Are you thinking about me?"
+          },
+          {
+            "russian": "Это фильм о городе.",
+            "english": "This is a film about the city."
+          }
+        ]
+      },
+      "reading": {
+        "title": "О ком ты думаешь?",
+        "text": "— О ком ты думаешь? — Я думаю о маме и о папе. — А о работе? — Нет, сегодня я не думаю о работе.",
+        "translation": "\"Who are you thinking about?\" \"I am thinking about mum and dad.\" \"And about work?\" \"No, today I am not thinking about work.\"",
+        "glossary": [
+          {
+            "russian": "о ком?",
+            "english": "about whom?"
+          },
+          {
+            "russian": "нет",
+            "english": "no"
+          },
+          {
+            "russian": "не",
+            "english": "not"
+          }
+        ]
+      },
+      "speakingPrompt": "Make two sentences with «Я думаю о...»: one about a person (mum, dad, a friend) and one about a place or work."
+    },
+    {
+      "day": 7,
+      "title": "Review: time, weather and talking about things",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: о/об, months and seasons",
+        "explanation": "**This week you learned:**\n\n1. The four **seasons** (зима, весна, лето, осень) and their gender, plus all twelve **months** (all masculine, not capitalised).\n2. **Impersonal weather** adverbs: Сегодня тепло / холодно / жарко / хорошо / плохо.\n3. The preposition **о (about) + prepositional case**:\n   - most nouns add **-е**: о лете, о погоде, о друге, о городе;\n   - feminine **-ь** nouns add **-и**: о любви, об осени;\n   - use **об** before a vowel (об осени, об апреле) and **обо** in **обо мне**;\n   - pronouns: **о тебе**, **обо мне**.",
+        "examples": [
+          {
+            "russian": "Сейчас декабрь, зимой холодно.",
+            "english": "It is December now; in winter it is cold."
+          },
+          {
+            "russian": "Мы говорим о погоде.",
+            "english": "We are talking about the weather."
+          },
+          {
+            "russian": "Я думаю об осени.",
+            "english": "I am thinking about autumn."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Разговор о лете",
+        "text": "— Какой сейчас месяц? — Июнь, это лето. — Сегодня жарко! — Да. Я мечтаю о море. — А я думаю о работе.",
+        "translation": "\"What month is it now?\" \"June, it is summer.\" \"It is hot today!\" \"Yes. I am dreaming about the sea.\" \"And I am thinking about work.\"",
+        "glossary": [
+          {
+            "russian": "море",
+            "english": "sea"
+          },
+          {
+            "russian": "мечтать о",
+            "english": "to dream about"
+          }
+        ]
+      },
+      "speakingPrompt": "Hold a short solo dialogue: state the current month and season, describe today's weather with an impersonal adverb, then say one thing and one person you are thinking about using «о/об»."
+    }
+  ]
+}

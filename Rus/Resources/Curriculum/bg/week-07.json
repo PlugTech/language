@@ -1,0 +1,620 @@
+{
+  "theme": "Describing things (adjectives)",
+  "week": 7,
+  "days": [
+    {
+      "day": 1,
+      "title": "Big and small: meeting adjectives",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "голям",
+          "translit": "golYÁM",
+          "english": "big, large (masc.)",
+          "pos": "adjective",
+          "example": "Това е голям град.",
+          "exampleEn": "This is a big city."
+        },
+        {
+          "russian": "малък",
+          "translit": "MÁlak",
+          "english": "small, little (masc.)",
+          "pos": "adjective",
+          "example": "Това е малък стол.",
+          "exampleEn": "This is a small chair."
+        },
+        {
+          "russian": "град",
+          "translit": "grad",
+          "english": "city, town",
+          "pos": "noun",
+          "example": "София е голям град.",
+          "exampleEn": "Sofia is a big city."
+        },
+        {
+          "russian": "стол",
+          "translit": "stol",
+          "english": "chair",
+          "pos": "noun",
+          "example": "Това е стол.",
+          "exampleEn": "This is a chair."
+        },
+        {
+          "russian": "дом",
+          "translit": "dom",
+          "english": "house, home",
+          "pos": "noun",
+          "example": "Това е голям дом.",
+          "exampleEn": "This is a big house."
+        },
+        {
+          "russian": "това",
+          "translit": "toVÁ",
+          "english": "this, this is",
+          "pos": "pronoun",
+          "example": "Това е малък град.",
+          "exampleEn": "This is a small town."
+        },
+        {
+          "russian": "е",
+          "translit": "e",
+          "english": "is (he/she/it)",
+          "pos": "verb",
+          "example": "Градът е голям.",
+          "exampleEn": "The city is big."
+        }
+      ],
+      "grammar": {
+        "title": "Adjectives with masculine nouns",
+        "explanation": "A Bulgarian adjective changes its ending to **agree** with the noun. The plain (dictionary) form of an adjective is the **masculine** form, used with masculine nouns: **голям град** (big city), **малък стол** (small chair). Notice the verb **to be**: Bulgarian really has one, so you say **Това е голям град** (This is a big city) and **Градът е голям** (The city is big). The forms of *to be* are: **съм, си, е, сме, сте, са**. The adjective usually comes before the noun, just as in English.",
+        "examples": [
+          {
+            "russian": "голям град",
+            "english": "a big city"
+          },
+          {
+            "russian": "малък стол",
+            "english": "a small chair"
+          },
+          {
+            "russian": "Това е голям дом.",
+            "english": "This is a big house."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Дом и стол",
+        "text": "Това е дом. Домът е голям. А това е стол. Столът е малък.",
+        "translation": "This is a house. The house is big. And this is a chair. The chair is small.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          },
+          {
+            "russian": "домът",
+            "english": "the house"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at two things near you, both with masculine nouns, and describe each one using голям or малък, for example: \"Това е голям стол.\""
+    },
+    {
+      "day": 2,
+      "title": "Nice, new, old: more adjectives",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "хубав",
+          "translit": "HÚbav",
+          "english": "nice, beautiful (masc.)",
+          "pos": "adjective",
+          "example": "Това е хубав ден.",
+          "exampleEn": "This is a nice day."
+        },
+        {
+          "russian": "нов",
+          "translit": "nov",
+          "english": "new (masc.)",
+          "pos": "adjective",
+          "example": "Това е нов дом.",
+          "exampleEn": "This is a new house."
+        },
+        {
+          "russian": "стар",
+          "translit": "star",
+          "english": "old (masc.)",
+          "pos": "adjective",
+          "example": "Това е стар град.",
+          "exampleEn": "This is an old city."
+        },
+        {
+          "russian": "ден",
+          "translit": "den",
+          "english": "day",
+          "pos": "noun",
+          "example": "Днес е хубав ден.",
+          "exampleEn": "Today is a nice day."
+        },
+        {
+          "russian": "парк",
+          "translit": "park",
+          "english": "park",
+          "pos": "noun",
+          "example": "Това е хубав парк.",
+          "exampleEn": "This is a nice park."
+        },
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "conjunction",
+          "example": "Градът е стар и хубав.",
+          "exampleEn": "The city is old and beautiful."
+        },
+        {
+          "russian": "много",
+          "translit": "MNÓgo",
+          "english": "very, a lot",
+          "pos": "adverb",
+          "example": "Паркът е много хубав.",
+          "exampleEn": "The park is very nice."
+        }
+      ],
+      "grammar": {
+        "title": "More masculine adjectives",
+        "explanation": "These new adjectives also take their plain (masculine) form with masculine nouns: **нов дом** (new house), **стар град** (old city), **хубав парк** (nice park). You can chain two adjectives with **и** (and): **стар и хубав град** (an old and beautiful city). To say *very*, put **много** before the adjective: **много хубав** (very nice). Remember the verb *to be*: **Паркът е много хубав** (The park is very nice).",
+        "examples": [
+          {
+            "russian": "нов дом",
+            "english": "a new house"
+          },
+          {
+            "russian": "стар град",
+            "english": "an old city"
+          },
+          {
+            "russian": "Паркът е много хубав.",
+            "english": "The park is very nice."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Паркът",
+        "text": "Това е парк. Паркът е голям и хубав. Той е стар, но много хубав.",
+        "translation": "This is a park. The park is big and beautiful. It is old, but very nice.",
+        "glossary": [
+          {
+            "russian": "той",
+            "english": "he, it"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a place you like (a park or a city) using two masculine adjectives joined with и, for example: \"Градът е стар и хубав.\""
+    },
+    {
+      "day": 3,
+      "title": "Feminine forms: голяма, нова, хубава",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "голяма",
+          "translit": "golYÁma",
+          "english": "big (fem.)",
+          "pos": "adjective",
+          "example": "Това е голяма къща.",
+          "exampleEn": "This is a big house."
+        },
+        {
+          "russian": "нова",
+          "translit": "NÓva",
+          "english": "new (fem.)",
+          "pos": "adjective",
+          "example": "Това е нова кола.",
+          "exampleEn": "This is a new car."
+        },
+        {
+          "russian": "хубава",
+          "translit": "HÚbava",
+          "english": "nice, beautiful (fem.)",
+          "pos": "adjective",
+          "example": "Това е хубава улица.",
+          "exampleEn": "This is a beautiful street."
+        },
+        {
+          "russian": "къща",
+          "translit": "KÁSHta",
+          "english": "house",
+          "pos": "noun",
+          "example": "Къщата е голяма.",
+          "exampleEn": "The house is big."
+        },
+        {
+          "russian": "кола",
+          "translit": "koLÁ",
+          "english": "car",
+          "pos": "noun",
+          "example": "Колата е нова.",
+          "exampleEn": "The car is new."
+        },
+        {
+          "russian": "улица",
+          "translit": "Úlitsa",
+          "english": "street",
+          "pos": "noun",
+          "example": "Това е хубава улица.",
+          "exampleEn": "This is a beautiful street."
+        },
+        {
+          "russian": "стара",
+          "translit": "STÁra",
+          "english": "old (fem.)",
+          "pos": "adjective",
+          "example": "Колата е стара.",
+          "exampleEn": "The car is old."
+        }
+      ],
+      "grammar": {
+        "title": "Feminine adjectives end in -а",
+        "explanation": "Bulgarian adjectives must match the noun's **gender**. With a **feminine** noun (these usually end in **-а** or **-я**, like **къща**, **кола**, **улица**), the adjective adds **-а**: **нов → нова**, **голям → голяма**, **хубав → хубава**, **стар → стара**. So one word, **нов**, becomes **нова кола** (a new car). Note that **голям** becomes **голяма** in the feminine; say it as one smooth word.",
+        "examples": [
+          {
+            "russian": "нова кола",
+            "english": "a new car"
+          },
+          {
+            "russian": "голяма къща",
+            "english": "a big house"
+          },
+          {
+            "russian": "хубава улица",
+            "english": "a beautiful street"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Улица и кола",
+        "text": "Това е улица. Улицата е хубава и голяма. А това е кола. Колата е нова.",
+        "translation": "This is a street. The street is beautiful and big. And this is a car. The car is new.",
+        "glossary": [
+          {
+            "russian": "улицата",
+            "english": "the street"
+          },
+          {
+            "russian": "колата",
+            "english": "the car"
+          }
+        ]
+      },
+      "speakingPrompt": "Take three feminine nouns (къща, кола, улица) and describe each with a different adjective in its feminine form, for example: \"голяма къща, нова кола, хубава улица.\""
+    },
+    {
+      "day": 4,
+      "title": "Neuter and plural: ново, нови",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "голямо",
+          "translit": "golYÁmo",
+          "english": "big (neuter)",
+          "pos": "adjective",
+          "example": "Това е голямо дете.",
+          "exampleEn": "This is a big child."
+        },
+        {
+          "russian": "ново",
+          "translit": "NÓvo",
+          "english": "new (neuter)",
+          "pos": "adjective",
+          "example": "Това е ново кафене.",
+          "exampleEn": "This is a new café."
+        },
+        {
+          "russian": "нови",
+          "translit": "NÓvi",
+          "english": "new (plural)",
+          "pos": "adjective",
+          "example": "Това са нови коли.",
+          "exampleEn": "These are new cars."
+        },
+        {
+          "russian": "хубави",
+          "translit": "HÚbavi",
+          "english": "nice, beautiful (plural)",
+          "pos": "adjective",
+          "example": "Улиците са хубави.",
+          "exampleEn": "The streets are beautiful."
+        },
+        {
+          "russian": "кафене",
+          "translit": "kafeNÉ",
+          "english": "café",
+          "pos": "noun",
+          "example": "Кафенето е малко.",
+          "exampleEn": "The café is small."
+        },
+        {
+          "russian": "дете",
+          "translit": "deTÉ",
+          "english": "child",
+          "pos": "noun",
+          "example": "Детето е малко.",
+          "exampleEn": "The child is small."
+        },
+        {
+          "russian": "са",
+          "translit": "sa",
+          "english": "are (they)",
+          "pos": "verb",
+          "example": "Колите са нови.",
+          "exampleEn": "The cars are new."
+        }
+      ],
+      "grammar": {
+        "title": "Neuter -о and plural -и",
+        "explanation": "With a **neuter** noun (often ending in **-о** or **-е**, like **кафене**, **дете**) the adjective adds **-о**: **ново кафене**, **голямо дете**, **малко дете**. In the **plural** there is just one ending for all genders, **-и**: **нови коли** (new cars), **хубави улици** (beautiful streets), **малки деца** (small children). With plural subjects use **са**: **Колите са нови** (The cars are new). Now you know all four forms: **нов / нова / ново / нови**.",
+        "examples": [
+          {
+            "russian": "ново кафене",
+            "english": "a new café"
+          },
+          {
+            "russian": "голямо дете",
+            "english": "a big child"
+          },
+          {
+            "russian": "Колите са нови.",
+            "english": "The cars are new."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Градът",
+        "text": "Това е град. Тук има нови къщи и хубави улици. Кафенетата са малки, но хубави.",
+        "translation": "This is a city. Here there are new houses and beautiful streets. The cafés are small, but nice.",
+        "glossary": [
+          {
+            "russian": "тук",
+            "english": "here"
+          },
+          {
+            "russian": "има",
+            "english": "there is, there are"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a few things you see using a plural adjective with a plural noun, for example: \"Тук има нови коли и хубави къщи.\""
+    },
+    {
+      "day": 5,
+      "title": "The definite article on adjectives (fem/neuter/plural)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "новата",
+          "translit": "NÓvata",
+          "english": "the new (fem.)",
+          "pos": "adjective",
+          "example": "Новата кола е хубава.",
+          "exampleEn": "The new car is nice."
+        },
+        {
+          "russian": "новото",
+          "translit": "NÓvoto",
+          "english": "the new (neuter)",
+          "pos": "adjective",
+          "example": "Новото кафене е малко.",
+          "exampleEn": "The new café is small."
+        },
+        {
+          "russian": "новите",
+          "translit": "NÓvite",
+          "english": "the new (plural)",
+          "pos": "adjective",
+          "example": "Новите къщи са големи.",
+          "exampleEn": "The new houses are big."
+        },
+        {
+          "russian": "голямата",
+          "translit": "golYÁmata",
+          "english": "the big (fem.)",
+          "pos": "adjective",
+          "example": "Голямата къща е стара.",
+          "exampleEn": "The big house is old."
+        },
+        {
+          "russian": "старото",
+          "translit": "STÁroto",
+          "english": "the old (neuter)",
+          "pos": "adjective",
+          "example": "Старото кафене е хубаво.",
+          "exampleEn": "The old café is nice."
+        },
+        {
+          "russian": "хубавите",
+          "translit": "HÚbavite",
+          "english": "the beautiful (plural)",
+          "pos": "adjective",
+          "example": "Хубавите улици са тук.",
+          "exampleEn": "The beautiful streets are here."
+        },
+        {
+          "russian": "много",
+          "translit": "MNÓgo",
+          "english": "many, a lot of",
+          "pos": "adverb",
+          "example": "Тук има много нови къщи.",
+          "exampleEn": "Here there are many new houses."
+        }
+      ],
+      "grammar": {
+        "title": "\"The\" attaches to the adjective",
+        "explanation": "When a noun phrase has an adjective, the **definite article** (the *-the* ending) attaches to the **adjective**, not the noun: **нова кола → новата кола** (the new car). The endings match the gender/number: feminine **-та** (**новата**), neuter **-то** (**новото**), plural **-те** (**новите**). The noun then stays in its plain form: **новата кола**, **новото кафене**, **новите къщи**. Compare: without an article it is **нова кола** (a new car); with it, **новата кола** (the new car).",
+        "examples": [
+          {
+            "russian": "новата кола",
+            "english": "the new car"
+          },
+          {
+            "russian": "старото кафене",
+            "english": "the old café"
+          },
+          {
+            "russian": "новите къщи",
+            "english": "the new houses"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Новата улица",
+        "text": "Новата улица е хубава. Голямата къща е стара, но хубава. Новите коли са тук.",
+        "translation": "The new street is beautiful. The big house is old, but nice. The new cars are here.",
+        "glossary": [
+          {
+            "russian": "новата",
+            "english": "the new (fem.)"
+          },
+          {
+            "russian": "новите",
+            "english": "the new (plural)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe specific things using \"the\" on the adjective, for example: \"Новата кола е хубава\" or \"Старото кафене е малко.\""
+    },
+    {
+      "day": 6,
+      "title": "The definite article on masculine adjectives: новият",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "новият",
+          "translit": "NÓviyat",
+          "english": "the new (masc., subject)",
+          "pos": "adjective",
+          "example": "Новият град е голям.",
+          "exampleEn": "The new city is big."
+        },
+        {
+          "russian": "стария",
+          "translit": "STÁriya",
+          "english": "the old (masc., short form)",
+          "pos": "adjective",
+          "example": "Виждам стария дом.",
+          "exampleEn": "I see the old house."
+        },
+        {
+          "russian": "големият",
+          "translit": "goLÉmiyat",
+          "english": "the big (masc., subject)",
+          "pos": "adjective",
+          "example": "Големият парк е хубав.",
+          "exampleEn": "The big park is nice."
+        },
+        {
+          "russian": "хубавият",
+          "translit": "HÚbaviyat",
+          "english": "the nice (masc., subject)",
+          "pos": "adjective",
+          "example": "Хубавият ден е днес.",
+          "exampleEn": "The nice day is today."
+        },
+        {
+          "russian": "виждам",
+          "translit": "VÍZHdam",
+          "english": "I see",
+          "pos": "verb",
+          "example": "Виждам новия град.",
+          "exampleEn": "I see the new city."
+        },
+        {
+          "russian": "много",
+          "translit": "MNÓgo",
+          "english": "very",
+          "pos": "adverb",
+          "example": "Новият дом е много голям.",
+          "exampleEn": "The new house is very big."
+        }
+      ],
+      "grammar": {
+        "title": "Masculine \"the\": новият (subject) vs новия (object)",
+        "explanation": "On a **masculine** adjective the definite article has two written forms. Use the **full** form **-ият** when the phrase is the **subject** of the sentence (the doer): **Новият град е голям** (The new city is big). Use the **short** form **-ия** elsewhere, especially after a verb or preposition: **Виждам новия град** (I see the new city), **в новия дом** (in the new house). The difference is only in writing; both are pronounced nearly the same. With **голям** the article form is **големият / големия**.",
+        "examples": [
+          {
+            "russian": "новият град",
+            "english": "the new city (subject)"
+          },
+          {
+            "russian": "Виждам новия град.",
+            "english": "I see the new city."
+          },
+          {
+            "russian": "в стария дом",
+            "english": "in the old house"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Новият град",
+        "text": "Новият град е голям и хубав. Виждам стария парк и новите къщи. Старият дом е тук, до парка.",
+        "translation": "The new city is big and beautiful. I see the old park and the new houses. The old house is here, next to the park.",
+        "glossary": [
+          {
+            "russian": "до",
+            "english": "next to, by"
+          },
+          {
+            "russian": "парка",
+            "english": "the park (after a preposition)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say one sentence where a masculine \"the\"-phrase is the subject (новият…) and one where it follows a verb (виждам новия…), for example: \"Новият дом е голям. Виждам стария дом.\""
+    },
+    {
+      "day": 7,
+      "title": "Review: describing things",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 7 recap: agreement and the article on adjectives",
+        "explanation": "Adjectives **agree** with their noun in gender and number. **нов** has four forms: **нов** (masc.), **нова** (fem.), **ново** (neuter), **нови** (plural) — and so do **голям, малък, хубав, стар**. The **definite article** (the *-the* ending) attaches to the **adjective**: feminine **-та** (**новата**), neuter **-то** (**новото**), plural **-те** (**новите**), and masculine **-ият/-ия** (**новият** as subject, **новия** after a verb or preposition). Don't forget the verb *to be*: **съм, си, е, сме, сте, са**.",
+        "examples": [
+          {
+            "russian": "нов дом, нова кола, ново кафене, нови къщи",
+            "english": "a new house, a new car, a new café, new houses"
+          },
+          {
+            "russian": "новата кола, новото кафене, новите къщи",
+            "english": "the new car, the new café, the new houses"
+          },
+          {
+            "russian": "Новият град е хубав. Виждам новия град.",
+            "english": "The new city is beautiful. I see the new city."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Това е нашият град",
+        "text": "— Това е нов град, нали? — Да, новият град е голям и хубав. Виждам новите къщи и хубавите улици. А старият парк е тук, до колата.",
+        "translation": "— This is a new city, right? — Yes, the new city is big and beautiful. I see the new houses and the beautiful streets. And the old park is here, next to the car.",
+        "glossary": [
+          {
+            "russian": "нали",
+            "english": "right?, isn't it?"
+          },
+          {
+            "russian": "да",
+            "english": "yes"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your neighbourhood for about a minute. Use at least one adjective in each form (нов/нова/ново/нови) and at least two adjectives with \"the\" attached (новата, новият, старите…), for example: \"Новата улица е хубава. Старият дом е голям.\""
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "week": 13,
+  "theme": "Time & schedule (consolidation)",
+  "days": [
+    {
+      "day": 1,
+      "title": "Days of the week",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "понедельник",
+          "translit": "panedélnik",
+          "english": "Monday",
+          "pos": "noun",
+          "example": "Понедельник — трудный день.",
+          "exampleEn": "Monday is a hard day."
+        },
+        {
+          "russian": "вторник",
+          "translit": "ftórnik",
+          "english": "Tuesday",
+          "pos": "noun",
+          "example": "Сегодня вторник.",
+          "exampleEn": "Today is Tuesday."
+        },
+        {
+          "russian": "среда",
+          "translit": "sredá",
+          "english": "Wednesday",
+          "pos": "noun",
+          "example": "Среда — это середина недели.",
+          "exampleEn": "Wednesday is the middle of the week."
+        },
+        {
+          "russian": "четверг",
+          "translit": "chetvérk",
+          "english": "Thursday",
+          "pos": "noun",
+          "example": "В четверг у меня урок.",
+          "exampleEn": "On Thursday I have a lesson."
+        },
+        {
+          "russian": "пятница",
+          "translit": "pyátnitsa",
+          "english": "Friday",
+          "pos": "noun",
+          "example": "Я люблю пятницу.",
+          "exampleEn": "I love Friday."
+        },
+        {
+          "russian": "суббота",
+          "translit": "subbóta",
+          "english": "Saturday",
+          "pos": "noun",
+          "example": "Суббота — выходной.",
+          "exampleEn": "Saturday is a day off."
+        },
+        {
+          "russian": "воскресенье",
+          "translit": "vaskresénye",
+          "english": "Sunday",
+          "pos": "noun",
+          "example": "В воскресенье я отдыхаю.",
+          "exampleEn": "On Sunday I rest."
+        },
+        {
+          "russian": "неделя",
+          "translit": "nedélya",
+          "english": "week",
+          "pos": "noun",
+          "example": "Это была хорошая неделя.",
+          "exampleEn": "It was a good week."
+        }
+      ],
+      "grammar": {
+        "title": "The seven days of the week",
+        "explanation": "Russian has seven days of the week. Note that the week **starts on Monday**, not Sunday. Three of the day names are **feminine** (`среда`, `пятница`, `суббота`, `неделя`) and the others are **masculine** (`понедельник`, `вторник`, `четверг`) or **neuter** (`воскресенье`). The days are **not capitalized** in Russian. To ask what day it is, say `Какой сегодня день?` (literally 'Which today day?').",
+        "examples": [
+          {
+            "russian": "Какой сегодня день?",
+            "english": "What day is it today?"
+          },
+          {
+            "russian": "Сегодня среда.",
+            "english": "Today is Wednesday."
+          },
+          {
+            "russian": "Завтра четверг.",
+            "english": "Tomorrow is Thursday."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какой день?",
+        "text": "— Какой сегодня день? — Сегодня пятница. — Хорошо! Завтра суббота.",
+        "translation": "— What day is it today? — Today is Friday. — Good! Tomorrow is Saturday.",
+        "glossary": [
+          {
+            "russian": "сегодня",
+            "english": "today"
+          },
+          {
+            "russian": "завтра",
+            "english": "tomorrow"
+          },
+          {
+            "russian": "хорошо",
+            "english": "good / well"
+          }
+        ]
+      },
+      "speakingPrompt": "Say all seven days of the week out loud in order. Then say what day it is today and what day tomorrow is, using «Сегодня…» and «Завтра…»."
+    },
+    {
+      "day": 2,
+      "title": "Telling the hour (o'clock)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "час",
+          "translit": "chas",
+          "english": "hour / o'clock",
+          "pos": "noun",
+          "example": "Сейчас один час.",
+          "exampleEn": "It is one o'clock now."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "seychás",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Сейчас два часа.",
+          "exampleEn": "It is two o'clock now."
+        },
+        {
+          "russian": "время",
+          "translit": "vrémya",
+          "english": "time",
+          "pos": "noun",
+          "example": "Сколько сейчас времени?",
+          "exampleEn": "What time is it now?"
+        },
+        {
+          "russian": "который",
+          "translit": "katóryy",
+          "english": "which / what (time)",
+          "pos": "pronoun",
+          "example": "Который сейчас час?",
+          "exampleEn": "What time is it now?"
+        },
+        {
+          "russian": "ровно",
+          "translit": "róvna",
+          "english": "exactly / sharp",
+          "pos": "adverb",
+          "example": "Сейчас ровно три часа.",
+          "exampleEn": "It is exactly three o'clock."
+        },
+        {
+          "russian": "утро",
+          "translit": "útra",
+          "english": "morning",
+          "pos": "noun",
+          "example": "Доброе утро!",
+          "exampleEn": "Good morning!"
+        },
+        {
+          "russian": "вечер",
+          "translit": "vécher",
+          "english": "evening",
+          "pos": "noun",
+          "example": "Добрый вечер!",
+          "exampleEn": "Good evening!"
+        }
+      ],
+      "grammar": {
+        "title": "Telling time: full hours",
+        "explanation": "To say the hour, use the number plus the right form of `час` (hour). The form changes with the number: **1** → `час` (`час` alone, no number needed); **2, 3, 4** → `часа`; **5–12** → `часов`. To ask the time, say `Который час?` or `Сколько сейчас времени?` This pattern (counting form after numbers) is the same one you met when counting objects.",
+        "examples": [
+          {
+            "russian": "Сейчас час.",
+            "english": "It is one o'clock."
+          },
+          {
+            "russian": "Сейчас два часа.",
+            "english": "It is two o'clock."
+          },
+          {
+            "russian": "Сейчас пять часов.",
+            "english": "It is five o'clock."
+          },
+          {
+            "russian": "Который час? — Восемь часов.",
+            "english": "What time is it? — Eight o'clock."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Который час?",
+        "text": "— Доброе утро! Который час? — Сейчас ровно семь часов. — Спасибо!",
+        "translation": "— Good morning! What time is it? — It is exactly seven o'clock. — Thank you!",
+        "glossary": [
+          {
+            "russian": "доброе утро",
+            "english": "good morning"
+          },
+          {
+            "russian": "спасибо",
+            "english": "thank you"
+          }
+        ]
+      },
+      "speakingPrompt": "Practice saying the full hours from one to twelve, choosing the correct form: час / часа / часов. Then ask «Который час?» and answer for three different times."
+    },
+    {
+      "day": 3,
+      "title": "Half hours and minutes (rough time)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "минута",
+          "translit": "minúta",
+          "english": "minute",
+          "pos": "noun",
+          "example": "Одна минута, пожалуйста.",
+          "exampleEn": "One minute, please."
+        },
+        {
+          "russian": "половина",
+          "translit": "palavína",
+          "english": "half",
+          "pos": "noun",
+          "example": "Сейчас половина пятого.",
+          "exampleEn": "It is half past four now."
+        },
+        {
+          "russian": "полдень",
+          "translit": "póldyen",
+          "english": "noon / midday",
+          "pos": "noun",
+          "example": "Сейчас полдень.",
+          "exampleEn": "It is noon now."
+        },
+        {
+          "russian": "полночь",
+          "translit": "pólnach",
+          "english": "midnight",
+          "pos": "noun",
+          "example": "Уже полночь.",
+          "exampleEn": "It is already midnight."
+        },
+        {
+          "russian": "почти",
+          "translit": "pachtí",
+          "english": "almost",
+          "pos": "adverb",
+          "example": "Сейчас почти восемь часов.",
+          "exampleEn": "It is almost eight o'clock."
+        },
+        {
+          "russian": "уже",
+          "translit": "uzhé",
+          "english": "already",
+          "pos": "adverb",
+          "example": "Уже десять часов.",
+          "exampleEn": "It is already ten o'clock."
+        },
+        {
+          "russian": "день",
+          "translit": "dyen",
+          "english": "day / afternoon",
+          "pos": "noun",
+          "example": "Добрый день!",
+          "exampleEn": "Good afternoon!"
+        }
+      ],
+      "grammar": {
+        "title": "Approximate time and 'half'",
+        "explanation": "For now we keep time simple and natural. Use `минута` for minutes: **2, 3, 4** → `минуты`, **5 and up** → `минут`. To talk about midday and midnight just use the single words `полдень` and `полночь`. The adverbs `почти` (almost) and `уже` (already) make the time approximate: `почти три часа` = almost three o'clock. You will learn the full 'half past' and 'quarter' system later; for now `половина пятого` is a useful fixed phrase meaning 'half past four' (literally 'half of the fifth').",
+        "examples": [
+          {
+            "russian": "Уже почти девять часов.",
+            "english": "It is almost nine o'clock already."
+          },
+          {
+            "russian": "Подождите две минуты.",
+            "english": "Wait two minutes."
+          },
+          {
+            "russian": "Сейчас полдень.",
+            "english": "It is noon now."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Почти полдень",
+        "text": "— Который час? — Уже почти полдень. — Хорошо, у нас есть пять минут.",
+        "translation": "— What time is it? — It is almost noon already. — Good, we have five minutes.",
+        "glossary": [
+          {
+            "russian": "у нас есть",
+            "english": "we have"
+          },
+          {
+            "russian": "хорошо",
+            "english": "good / okay"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe the current time approximately using «почти» and «уже» (for example «уже почти час»). Then say how many minutes you have before your next task, choosing минута / минуты / минут correctly."
+    },
+    {
+      "day": 4,
+      "title": "Saying when: 'on' a day and 'at' an hour",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "когда",
+          "translit": "kagdá",
+          "english": "when",
+          "pos": "adverb",
+          "example": "Когда у тебя урок?",
+          "exampleEn": "When is your lesson?"
+        },
+        {
+          "russian": "встреча",
+          "translit": "fstrécha",
+          "english": "meeting",
+          "pos": "noun",
+          "example": "У меня встреча в среду.",
+          "exampleEn": "I have a meeting on Wednesday."
+        },
+        {
+          "russian": "урок",
+          "translit": "urók",
+          "english": "lesson / class",
+          "pos": "noun",
+          "example": "Урок в два часа.",
+          "exampleEn": "The lesson is at two o'clock."
+        },
+        {
+          "russian": "работа",
+          "translit": "rabóta",
+          "english": "work / job",
+          "pos": "noun",
+          "example": "Работа начинается в девять.",
+          "exampleEn": "Work starts at nine."
+        },
+        {
+          "russian": "обед",
+          "translit": "abét",
+          "english": "lunch",
+          "pos": "noun",
+          "example": "Обед в час.",
+          "exampleEn": "Lunch is at one o'clock."
+        },
+        {
+          "russian": "выходной",
+          "translit": "vykhadnóy",
+          "english": "day off / weekend day",
+          "pos": "noun",
+          "example": "Суббота — мой выходной.",
+          "exampleEn": "Saturday is my day off."
+        },
+        {
+          "russian": "сегодня",
+          "translit": "sevódnya",
+          "english": "today",
+          "pos": "adverb",
+          "example": "Сегодня у меня встреча.",
+          "exampleEn": "I have a meeting today."
+        }
+      ],
+      "grammar": {
+        "title": "«в» for days and hours",
+        "explanation": "Use the preposition `в` to say **when** something happens. With a day of the week, `в` takes the **accusative** case — and for these day nouns the accusative looks almost like the dictionary form, except feminine `-а` becomes `-у`: `среда → в среду`, `пятница → в пятницу`, `суббота → в субботу`. The masculine/neuter days don't change: `в понедельник`, `в четверг`, `в воскресенье`. With a clock time, `в` plus the hour means 'at': `в два часа` = at two o'clock.",
+        "examples": [
+          {
+            "russian": "В понедельник у меня работа.",
+            "english": "On Monday I have work."
+          },
+          {
+            "russian": "Встреча в среду.",
+            "english": "The meeting is on Wednesday."
+          },
+          {
+            "russian": "Урок в три часа.",
+            "english": "The lesson is at three o'clock."
+          },
+          {
+            "russian": "В субботу мой выходной.",
+            "english": "On Saturday is my day off."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Когда встреча?",
+        "text": "— Когда у тебя встреча? — В среду, в два часа. — А обед? — Обед в час.",
+        "translation": "— When is your meeting? — On Wednesday, at two o'clock. — And lunch? — Lunch is at one o'clock.",
+        "glossary": [
+          {
+            "russian": "у тебя",
+            "english": "you have"
+          },
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Answer the question «Когда?» for three events (work, lunch, a meeting). Use «в + day» (remember в среду / в пятницу / в субботу) and «в + hour» together, e.g. «Встреча в пятницу, в три часа»."
+    },
+    {
+      "day": 5,
+      "title": "My daily schedule",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "расписание",
+          "translit": "raspisániye",
+          "english": "schedule / timetable",
+          "pos": "noun",
+          "example": "Вот моё расписание.",
+          "exampleEn": "Here is my schedule."
+        },
+        {
+          "russian": "завтракать",
+          "translit": "záftrakat",
+          "english": "to have breakfast",
+          "pos": "verb",
+          "example": "Я завтракаю в семь часов.",
+          "exampleEn": "I have breakfast at seven o'clock."
+        },
+        {
+          "russian": "обедать",
+          "translit": "abédat",
+          "english": "to have lunch",
+          "pos": "verb",
+          "example": "Мы обедаем в час.",
+          "exampleEn": "We have lunch at one o'clock."
+        },
+        {
+          "russian": "ужинать",
+          "translit": "úzhinat",
+          "english": "to have dinner",
+          "pos": "verb",
+          "example": "Они ужинают вечером.",
+          "exampleEn": "They have dinner in the evening."
+        },
+        {
+          "russian": "начинать",
+          "translit": "nachinát",
+          "english": "to start / begin",
+          "pos": "verb",
+          "example": "Я начинаю работу в девять.",
+          "exampleEn": "I start work at nine."
+        },
+        {
+          "russian": "заканчивать",
+          "translit": "zakánchivat",
+          "english": "to finish",
+          "pos": "verb",
+          "example": "Я заканчиваю работу в пять.",
+          "exampleEn": "I finish work at five."
+        },
+        {
+          "russian": "каждый",
+          "translit": "kázhdyy",
+          "english": "every / each",
+          "pos": "adjective",
+          "example": "Каждый день я работаю.",
+          "exampleEn": "Every day I work."
+        }
+      ],
+      "grammar": {
+        "title": "Daily-routine verbs + the accusative object",
+        "explanation": "Routine verbs like `начинать` and `заканчивать` take a **direct object in the accusative**. For inanimate feminine nouns the accusative ending is `-у`: `работа → работу`, `встреча → встречу`. Masculine inanimate nouns and neuter nouns keep their dictionary form: `урок → урок`, `обед → обед`. So `Я начинаю работу` (I start work) and `Я заканчиваю урок` (I finish the lesson). `каждый день` (every day) is a handy fixed phrase for routines.",
+        "examples": [
+          {
+            "russian": "Я начинаю работу в девять часов.",
+            "english": "I start work at nine o'clock."
+          },
+          {
+            "russian": "Каждый день я завтракаю в семь.",
+            "english": "Every day I have breakfast at seven."
+          },
+          {
+            "russian": "Мы заканчиваем встречу в три.",
+            "english": "We finish the meeting at three."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моё расписание",
+        "text": "Каждый день я завтракаю в семь часов. Я начинаю работу в девять и заканчиваю в пять. Вечером я ужинаю.",
+        "translation": "Every day I have breakfast at seven o'clock. I start work at nine and finish at five. In the evening I have dinner.",
+        "glossary": [
+          {
+            "russian": "и",
+            "english": "and"
+          },
+          {
+            "russian": "вечером",
+            "english": "in the evening"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your own daily schedule in 4–5 sentences. Say when you have breakfast, start and finish work, and have dinner, using «в + hour» and «каждый день». Remember the accusative «-у» on «работу» and «встречу»."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: a weekly plan",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "план",
+          "translit": "plan",
+          "english": "plan",
+          "pos": "noun",
+          "example": "У меня есть план на неделю.",
+          "exampleEn": "I have a plan for the week."
+        },
+        {
+          "russian": "свободный",
+          "translit": "svabódnyy",
+          "english": "free / available",
+          "pos": "adjective",
+          "example": "В субботу я свободен.",
+          "exampleEn": "On Saturday I am free."
+        },
+        {
+          "russian": "занятый",
+          "translit": "zányatyy",
+          "english": "busy",
+          "pos": "adjective",
+          "example": "В понедельник я занят.",
+          "exampleEn": "On Monday I am busy."
+        },
+        {
+          "russian": "рано",
+          "translit": "rána",
+          "english": "early",
+          "pos": "adverb",
+          "example": "Я встаю рано.",
+          "exampleEn": "I get up early."
+        },
+        {
+          "russian": "поздно",
+          "translit": "pózna",
+          "english": "late",
+          "pos": "adverb",
+          "example": "Они ужинают поздно.",
+          "exampleEn": "They have dinner late."
+        },
+        {
+          "russian": "потом",
+          "translit": "patóm",
+          "english": "then / after that",
+          "pos": "adverb",
+          "example": "Сначала работа, потом обед.",
+          "exampleEn": "First work, then lunch."
+        },
+        {
+          "russian": "обычно",
+          "translit": "abýchna",
+          "english": "usually",
+          "pos": "adverb",
+          "example": "Обычно я работаю днём.",
+          "exampleEn": "I usually work during the day."
+        }
+      ],
+      "grammar": {
+        "title": "Sequencing a week: days + times + accusative together",
+        "explanation": "Now combine everything: a day with `в` (`в среду`), a time with `в` (`в два часа`), an accusative object (`встречу`, `работу`), and sequence words `сначала` (first), `потом` (then), `обычно` (usually). To say you are 'free' or 'busy' as a predicate, Russian uses the **short form** of the adjective: `свободный → свободен` (свободна for a woman), `занятый → занят` (занята for a woman). Word order is flexible, but a natural pattern is **time expression first, then subject, then verb, then object**: `В пятницу я начинаю работу рано.` The adverbs `рано` / `поздно` describe when, and `обычно` marks a routine.",
+        "examples": [
+          {
+            "russian": "Обычно в понедельник я занят.",
+            "english": "Usually on Monday I am busy."
+          },
+          {
+            "russian": "В субботу я свободен.",
+            "english": "On Saturday I am free."
+          },
+          {
+            "russian": "Сначала я завтракаю, потом начинаю работу.",
+            "english": "First I have breakfast, then I start work."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мой план на неделю",
+        "text": "В понедельник и в среду у меня встреча в два часа. В пятницу я работаю рано. А в субботу я свободен — это мой выходной.",
+        "translation": "On Monday and Wednesday I have a meeting at two o'clock. On Friday I work early. And on Saturday I am free — that is my day off.",
+        "glossary": [
+          {
+            "russian": "на неделю",
+            "english": "for the week"
+          },
+          {
+            "russian": "это",
+            "english": "this / that is"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your plan for the whole week. For at least three days say «в + day» what you do and «в + hour» when, and mark whether you are «свободен» or «занят». Use «сначала… потом…» at least once."
+    },
+    {
+      "day": 7,
+      "title": "Review: time & schedule",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 13 recap: time, days, and the accusative",
+        "explanation": "This week you learned to **tell time** (`Который час?` → `час / часа / часов`), name the **seven days** (Monday-start, not capitalized), and say **when** with `в`: `в среду`, `в пятницу`, `в субботу` (feminine days take accusative `-у`; masculine/neuter days stay the same) and `в два часа` for hours. You reviewed the **accusative direct object**: feminine inanimate nouns end in `-у` (`работу`, `встречу`), while masculine inanimate and neuter nouns keep their form (`урок`, `обед`). To say you are free or busy, use the short forms `свободен` / `занят`. Sequence your day with `сначала`, `потом`, `обычно`, `рано`, `поздно`.",
+        "examples": [
+          {
+            "russian": "Который час? — Уже почти пять часов.",
+            "english": "What time is it? — It is almost five o'clock already."
+          },
+          {
+            "russian": "В пятницу я начинаю работу в девять.",
+            "english": "On Friday I start work at nine."
+          },
+          {
+            "russian": "В субботу я свободен.",
+            "english": "On Saturday I am free."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какой у тебя план?",
+        "text": "— Когда у тебя встреча? — В среду, в два часа. — А в субботу? — В субботу я свободен. Обычно я отдыхаю и ужинаю поздно. — Хорошо, тогда суббота — наш выходной!",
+        "translation": "— When is your meeting? — On Wednesday, at two o'clock. — And on Saturday? — On Saturday I am free. Usually I rest and have dinner late. — Good, then Saturday is our day off!",
+        "glossary": [
+          {
+            "russian": "тогда",
+            "english": "then / in that case"
+          },
+          {
+            "russian": "наш",
+            "english": "our"
+          },
+          {
+            "russian": "отдыхать",
+            "english": "to rest"
+          }
+        ]
+      },
+      "speakingPrompt": "Hold a short conversation with yourself: ask «Который час?» and answer; ask «Когда у тебя встреча?» and answer with a day and an hour; then say one thing you do on your day off. Use this week's days, hour forms, «в + day/hour», and the short form «свободен» / «занят»."
+    }
+  ]
+}

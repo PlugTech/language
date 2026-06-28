@@ -1,0 +1,652 @@
+{
+  "week": 12,
+  "theme": "Time & calendar",
+  "days": [
+    {
+      "day": 1,
+      "title": "Asking and telling the hour (часът е…)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "часът",
+          "translit": "chasÚt",
+          "english": "the hour / the time (o'clock)",
+          "pos": "noun (m, def.)",
+          "example": "Колко е часът?",
+          "exampleEn": "What time is it?"
+        },
+        {
+          "russian": "час",
+          "translit": "chas",
+          "english": "hour, o'clock",
+          "pos": "noun (m)",
+          "example": "Часът е един.",
+          "exampleEn": "It is one o'clock."
+        },
+        {
+          "russian": "колко",
+          "translit": "kÓlko",
+          "english": "how much, how many",
+          "pos": "adverb",
+          "example": "Колко е часът сега?",
+          "exampleEn": "What time is it now?"
+        },
+        {
+          "russian": "сега",
+          "translit": "segÁ",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Сега е три часа.",
+          "exampleEn": "It is three o'clock now."
+        },
+        {
+          "russian": "точно",
+          "translit": "tÓchno",
+          "english": "exactly, sharp",
+          "pos": "adverb",
+          "example": "Часът е точно два.",
+          "exampleEn": "It is exactly two o'clock."
+        },
+        {
+          "russian": "минута",
+          "translit": "minÚta",
+          "english": "minute",
+          "pos": "noun (f)",
+          "example": "Имам само една минута.",
+          "exampleEn": "I have only one minute."
+        },
+        {
+          "russian": "секунда",
+          "translit": "sekÚnda",
+          "english": "second",
+          "pos": "noun (f)",
+          "example": "Чакай една секунда.",
+          "exampleEn": "Wait one second."
+        }
+      ],
+      "grammar": {
+        "title": "Asking the time and saying the full hour",
+        "explanation": "To ask the time in Bulgarian you say 'Колко е часът?' (literally 'How much is the hour?'). Note that часът carries the definite article suffix -ът, because you are asking about THE hour. To answer, use the present-tense verb 'to be' (е for 'it is') plus the number: 'Часът е два.' (It is two o'clock) or simply 'Два часа.' After numbers 2-12 the word for hour is часа (a special counting form), while with едно you say 'един час' but most naturally just 'един'. You can add точно (exactly) for emphasis: 'Часът е точно пет.' Remember Bulgarian has no cases — the number just sits before часа with no special ending.",
+        "examples": [
+          {
+            "russian": "Колко е часът?",
+            "english": "What time is it?"
+          },
+          {
+            "russian": "Часът е пет.",
+            "english": "It is five o'clock."
+          },
+          {
+            "russian": "Сега е точно девет часа.",
+            "english": "It is exactly nine o'clock now."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Колко е часът?",
+        "text": "— Колко е часът сега? — Часът е точно три. — Благодаря, имам само една минута!",
+        "translation": "— What time is it now? — It is exactly three o'clock. — Thank you, I have only one minute!",
+        "glossary": [
+          {
+            "russian": "точно",
+            "english": "exactly, sharp"
+          },
+          {
+            "russian": "само",
+            "english": "only"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine a stranger stops you on the street. Ask them 'Колко е часът?' and then give a full-hour answer of your own (e.g. 'Часът е седем.'). Say both lines aloud."
+    },
+    {
+      "day": 2,
+      "title": "Half past and quarters (и половина, и четвърт)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "половина",
+          "translit": "polovÍna",
+          "english": "half",
+          "pos": "noun (f)",
+          "example": "Часът е два и половина.",
+          "exampleEn": "It is half past two."
+        },
+        {
+          "russian": "четвърт",
+          "translit": "chetvÚrt",
+          "english": "quarter",
+          "pos": "noun (f)",
+          "example": "Часът е три и четвърт.",
+          "exampleEn": "It is a quarter past three."
+        },
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and, past (in time)",
+          "pos": "conjunction",
+          "example": "Часът е пет и десет.",
+          "exampleEn": "It is ten past five."
+        },
+        {
+          "russian": "без",
+          "translit": "bez",
+          "english": "without, to (before the hour)",
+          "pos": "preposition",
+          "example": "Часът е шест без четвърт.",
+          "exampleEn": "It is a quarter to six."
+        },
+        {
+          "russian": "среща",
+          "translit": "srÉshta",
+          "english": "meeting, appointment",
+          "pos": "noun (f)",
+          "example": "Имам среща в два и половина.",
+          "exampleEn": "I have a meeting at half past two."
+        },
+        {
+          "russian": "закъснявам",
+          "translit": "zakăsnyÁvam",
+          "english": "to be late",
+          "pos": "verb",
+          "example": "Аз закъснявам за срещата.",
+          "exampleEn": "I am late for the meeting."
+        },
+        {
+          "russian": "почти",
+          "translit": "pochtÍ",
+          "english": "almost",
+          "pos": "adverb",
+          "example": "Часът е почти осем.",
+          "exampleEn": "It is almost eight."
+        }
+      ],
+      "grammar": {
+        "title": "Minutes past and minutes to the hour",
+        "explanation": "For minutes after the hour, Bulgarian uses 'и' (and): 'Часът е пет и десет' = ten past five (literally 'five and ten'). For half past, use 'и половина': 'два и половина' = half past two. For a quarter past, use 'и четвърт'. For minutes before the next hour, use 'без' (without): 'шест без десет' = ten to six, and 'без четвърт' = a quarter to. Notice 'без' literally means 'without', so you name the coming hour minus the minutes. The verb 'to be' (е) still introduces the time: 'Часът е девет без петнайсет.'",
+        "examples": [
+          {
+            "russian": "Часът е четири и половина.",
+            "english": "It is half past four."
+          },
+          {
+            "russian": "Часът е седем и четвърт.",
+            "english": "It is a quarter past seven."
+          },
+          {
+            "russian": "Часът е десет без четвърт.",
+            "english": "It is a quarter to ten."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Срещата",
+        "text": "— Имам среща в два и половина. — Сега е два без четвърт. — Добре, не закъснявам.",
+        "translation": "— I have a meeting at half past two. — It is a quarter to two now. — Good, I am not late.",
+        "glossary": [
+          {
+            "russian": "добре",
+            "english": "good, okay, fine"
+          },
+          {
+            "russian": "не",
+            "english": "not, no"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your day using three different times: one full hour, one 'и половина', and one 'без четвърт'. For example: 'Закуската е в осем. Срещата е в десет и половина. Обядът е в един без четвърт.'"
+    },
+    {
+      "day": 3,
+      "title": "Parts of the day (сутрин, вечер)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "сутрин",
+          "translit": "sÚtrin",
+          "english": "morning, in the morning",
+          "pos": "noun (f) / adverb",
+          "example": "Сутрин пия кафе.",
+          "exampleEn": "In the morning I drink coffee."
+        },
+        {
+          "russian": "обяд",
+          "translit": "obyÁd",
+          "english": "noon, midday, lunch",
+          "pos": "noun (m)",
+          "example": "На обяд ядем заедно.",
+          "exampleEn": "At noon we eat together."
+        },
+        {
+          "russian": "следобед",
+          "translit": "sledÓbed",
+          "english": "afternoon, in the afternoon",
+          "pos": "noun (m) / adverb",
+          "example": "Следобед работя вкъщи.",
+          "exampleEn": "In the afternoon I work at home."
+        },
+        {
+          "russian": "вечер",
+          "translit": "vÉcher",
+          "english": "evening, in the evening",
+          "pos": "noun (f) / adverb",
+          "example": "Вечер гледам телевизия.",
+          "exampleEn": "In the evening I watch television."
+        },
+        {
+          "russian": "нощ",
+          "translit": "nosht",
+          "english": "night",
+          "pos": "noun (f)",
+          "example": "През нощта спя.",
+          "exampleEn": "During the night I sleep."
+        },
+        {
+          "russian": "ден",
+          "translit": "den",
+          "english": "day",
+          "pos": "noun (m)",
+          "example": "Имам хубав ден.",
+          "exampleEn": "I am having a nice day."
+        },
+        {
+          "russian": "рано",
+          "translit": "rÁno",
+          "english": "early",
+          "pos": "adverb",
+          "example": "Ставам рано сутрин.",
+          "exampleEn": "I get up early in the morning."
+        },
+        {
+          "russian": "късно",
+          "translit": "kÚsno",
+          "english": "late",
+          "pos": "adverb",
+          "example": "Той си ляга късно.",
+          "exampleEn": "He goes to bed late."
+        }
+      ],
+      "grammar": {
+        "title": "Naming the part of the day",
+        "explanation": "Bulgarian uses the same words as both nouns and time adverbs. 'Сутрин' means both 'morning' and 'in the morning'. You can simply place them before the verb: 'Сутрин пия чай' = I drink tea in the morning. To say 'during the night/day' use 'през' + the definite form: 'през нощта' (during the night), 'през деня' (during the day). With clock times you add the part of day for clarity: 'Часът е седем сутринта' (seven in the morning) versus 'седем вечерта' (seven in the evening). Notice сутринта and вечерта take the feminine -та article suffix.",
+        "examples": [
+          {
+            "russian": "Сутрин ставам рано.",
+            "english": "In the morning I get up early."
+          },
+          {
+            "russian": "Часът е осем вечерта.",
+            "english": "It is eight in the evening."
+          },
+          {
+            "russian": "През нощта е тихо.",
+            "english": "During the night it is quiet."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моят ден",
+        "text": "Сутрин ставам рано и пия кафе. Следобед работя. Вечер гледам телевизия, но не си лягам късно.",
+        "translation": "In the morning I get up early and drink coffee. In the afternoon I work. In the evening I watch television, but I don't go to bed late.",
+        "glossary": [
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "си лягам",
+            "english": "I go to bed"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you do сутрин, следобед and вечер. Use at least one clock time with a part of day, e.g. 'Часът е девет сутринта и пия кафе.'"
+    },
+    {
+      "day": 4,
+      "title": "Days of the week (дните на седмицата)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "понеделник",
+          "translit": "ponedÉlnik",
+          "english": "Monday",
+          "pos": "noun (m)",
+          "example": "В понеделник работя.",
+          "exampleEn": "On Monday I work."
+        },
+        {
+          "russian": "вторник",
+          "translit": "ftÓrnik",
+          "english": "Tuesday",
+          "pos": "noun (m)",
+          "example": "Във вторник имам среща.",
+          "exampleEn": "On Tuesday I have a meeting."
+        },
+        {
+          "russian": "сряда",
+          "translit": "sryÁda",
+          "english": "Wednesday",
+          "pos": "noun (f)",
+          "example": "В сряда уча български.",
+          "exampleEn": "On Wednesday I study Bulgarian."
+        },
+        {
+          "russian": "четвъртък",
+          "translit": "chetvÚrtak",
+          "english": "Thursday",
+          "pos": "noun (m)",
+          "example": "В четвъртък пазарувам.",
+          "exampleEn": "On Thursday I go shopping."
+        },
+        {
+          "russian": "петък",
+          "translit": "pÉtak",
+          "english": "Friday",
+          "pos": "noun (m)",
+          "example": "В петък излизам с приятели.",
+          "exampleEn": "On Friday I go out with friends."
+        },
+        {
+          "russian": "събота",
+          "translit": "sÚbota",
+          "english": "Saturday",
+          "pos": "noun (f)",
+          "example": "В събота почивам.",
+          "exampleEn": "On Saturday I rest."
+        },
+        {
+          "russian": "неделя",
+          "translit": "nedÉlya",
+          "english": "Sunday",
+          "pos": "noun (f)",
+          "example": "В неделя спя до късно.",
+          "exampleEn": "On Sunday I sleep in late."
+        },
+        {
+          "russian": "седмица",
+          "translit": "sÉdmitsa",
+          "english": "week",
+          "pos": "noun (f)",
+          "example": "Седмицата има седем дни.",
+          "exampleEn": "The week has seven days."
+        }
+      ],
+      "grammar": {
+        "title": "Saying 'on' a day of the week",
+        "explanation": "To say something happens on a given day, use the preposition 'в' + the day, with no special ending (Bulgarian has no cases): 'в понеделник' (on Monday), 'в петък' (on Friday). When the next word starts with в or ф, 'в' becomes 'във' for easy pronunciation: 'във вторник'. Days are not capitalised in Bulgarian. To say 'every Monday' you can use the plural with article: 'в понеделниците' or simply 'всеки понеделник' (every Monday). The week starts on понеделник (Monday) in Bulgaria.",
+        "examples": [
+          {
+            "russian": "В сряда имам урок.",
+            "english": "On Wednesday I have a lesson."
+          },
+          {
+            "russian": "Във вторник съм зает.",
+            "english": "On Tuesday I am busy."
+          },
+          {
+            "russian": "Всеки петък излизам.",
+            "english": "Every Friday I go out."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Седмицата ми",
+        "text": "В понеделник и сряда работя. Във вторник уча български. В събота и неделя почивам.",
+        "translation": "On Monday and Wednesday I work. On Tuesday I study Bulgarian. On Saturday and Sunday I rest.",
+        "glossary": [
+          {
+            "russian": "почивам",
+            "english": "I rest, I relax"
+          },
+          {
+            "russian": "уча",
+            "english": "I study, I learn"
+          }
+        ]
+      },
+      "speakingPrompt": "Go through the week and say one thing you do each day, using 'в' (or 'във'): 'В понеделник…, във вторник…, в сряда…'. Try to name all seven days."
+    },
+    {
+      "day": 5,
+      "title": "Months and seasons (месеците и сезоните)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "месец",
+          "translit": "mÉsets",
+          "english": "month",
+          "pos": "noun (m)",
+          "example": "Този месец е юни.",
+          "exampleEn": "This month is June."
+        },
+        {
+          "russian": "януари",
+          "translit": "yanuÁri",
+          "english": "January",
+          "pos": "noun (m)",
+          "example": "През януари е студено.",
+          "exampleEn": "In January it is cold."
+        },
+        {
+          "russian": "април",
+          "translit": "aprÍl",
+          "english": "April",
+          "pos": "noun (m)",
+          "example": "През април вали дъжд.",
+          "exampleEn": "In April it rains."
+        },
+        {
+          "russian": "юни",
+          "translit": "yÚni",
+          "english": "June",
+          "pos": "noun (m)",
+          "example": "През юни е топло.",
+          "exampleEn": "In June it is warm."
+        },
+        {
+          "russian": "септември",
+          "translit": "septÉmvri",
+          "english": "September",
+          "pos": "noun (m)",
+          "example": "Училището започва през септември.",
+          "exampleEn": "School starts in September."
+        },
+        {
+          "russian": "лято",
+          "translit": "lyÁto",
+          "english": "summer",
+          "pos": "noun (n)",
+          "example": "Лятото е горещо.",
+          "exampleEn": "The summer is hot."
+        },
+        {
+          "russian": "зима",
+          "translit": "zÍma",
+          "english": "winter",
+          "pos": "noun (f)",
+          "example": "Зимата е студена.",
+          "exampleEn": "The winter is cold."
+        },
+        {
+          "russian": "сезон",
+          "translit": "sezÓn",
+          "english": "season",
+          "pos": "noun (m)",
+          "example": "Имаме четири сезона.",
+          "exampleEn": "We have four seasons."
+        }
+      ],
+      "grammar": {
+        "title": "Saying 'in' a month and naming seasons",
+        "explanation": "To say something happens in a month, use 'през' + the month: 'през януари' (in January), 'през септември' (in September). Months, like days, are not capitalised in Bulgarian. Seasons also use 'през' with the definite form: 'през лятото' (in the summer), 'през зимата' (in the winter), 'през пролетта' (in the spring), 'през есента' (in the autumn). To say 'this month' use 'този месец' and 'next month' 'следващия месец'. Remember лято is neuter, so it takes the -то article: лятото.",
+        "examples": [
+          {
+            "russian": "През юни пътувам.",
+            "english": "In June I travel."
+          },
+          {
+            "russian": "През лятото е топло.",
+            "english": "In the summer it is warm."
+          },
+          {
+            "russian": "Този месец е април.",
+            "english": "This month is April."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сезоните",
+        "text": "Имаме четири сезона. През лятото е топло, а през зимата е студено. Обичам юни най-много.",
+        "translation": "We have four seasons. In the summer it is warm, and in the winter it is cold. I like June the most.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and, whereas (contrast)"
+          },
+          {
+            "russian": "най-много",
+            "english": "the most"
+          }
+        ]
+      },
+      "speakingPrompt": "Name your favourite месец and сезон and say why, using 'през': 'Обичам юли, защото през лятото е топло.'"
+    },
+    {
+      "day": 6,
+      "title": "Dates and putting it together (коя дата е днес?)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "дата",
+          "translit": "dÁta",
+          "english": "date",
+          "pos": "noun (f)",
+          "example": "Коя дата е днес?",
+          "exampleEn": "What is the date today?"
+        },
+        {
+          "russian": "днес",
+          "translit": "dnes",
+          "english": "today",
+          "pos": "adverb",
+          "example": "Днес е понеделник.",
+          "exampleEn": "Today is Monday."
+        },
+        {
+          "russian": "утре",
+          "translit": "Útre",
+          "english": "tomorrow",
+          "pos": "adverb",
+          "example": "Утре е вторник.",
+          "exampleEn": "Tomorrow is Tuesday."
+        },
+        {
+          "russian": "вчера",
+          "translit": "fchÉra",
+          "english": "yesterday",
+          "pos": "adverb",
+          "example": "Вчера беше неделя.",
+          "exampleEn": "Yesterday was Sunday."
+        },
+        {
+          "russian": "година",
+          "translit": "godÍna",
+          "english": "year",
+          "pos": "noun (f)",
+          "example": "Годината има дванайсет месеца.",
+          "exampleEn": "The year has twelve months."
+        },
+        {
+          "russian": "рожден ден",
+          "translit": "rozhdÉn den",
+          "english": "birthday",
+          "pos": "noun phrase (m)",
+          "example": "Рожденият ми ден е през май.",
+          "exampleEn": "My birthday is in May."
+        },
+        {
+          "russian": "празник",
+          "translit": "prÁznik",
+          "english": "holiday, celebration",
+          "pos": "noun (m)",
+          "example": "Утре е празник.",
+          "exampleEn": "Tomorrow is a holiday."
+        }
+      ],
+      "grammar": {
+        "title": "Asking the date and combining time words",
+        "explanation": "To ask the date say 'Коя дата е днес?' (What date is it today?) or 'Кой ден е днес?' (What day is it today?). To answer, name the day or use the number plus month: 'Днес е първи юни' (Today is the first of June) — the ordinal 'първи' agrees as masculine because ден/месец are masculine. Use 'днес' (today), 'утре' (tomorrow), 'вчера' (yesterday). With the past you need 'беше' (was): 'Вчера беше неделя.' Now you can combine everything: 'Днес е петък, часът е три следобед.' Remember there are no cases — prepositions like в, на, през do all the work.",
+        "examples": [
+          {
+            "russian": "Коя дата е днес?",
+            "english": "What is the date today?"
+          },
+          {
+            "russian": "Днес е първи юни.",
+            "english": "Today is the first of June."
+          },
+          {
+            "russian": "Утре е празник.",
+            "english": "Tomorrow is a holiday."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какъв ден е днес?",
+        "text": "— Коя дата е днес? — Днес е първи юни, петък. — А утре е събота, празник!",
+        "translation": "— What is the date today? — Today is the first of June, Friday. — And tomorrow is Saturday, a holiday!",
+        "glossary": [
+          {
+            "russian": "какъв",
+            "english": "what kind of, what"
+          },
+          {
+            "russian": "а",
+            "english": "and (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say today's date, day and time together, then say what tomorrow and yesterday are: 'Днес е…, часът е…. Утре е…, вчера беше….'"
+    },
+    {
+      "day": 7,
+      "title": "Review: Time & calendar",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: telling time, days and months",
+        "explanation": "This week you learned to tell the time and talk about the calendar. Ask the time with 'Колко е часът?' and answer with 'Часът е…' plus a number; add 'и половина', 'и четвърт' for past the hour and 'без' for before it. Mark the part of day with сутрин, следобед, вечер. Use 'в' (or 'във' before в/ф) for days of the week — 'в петък' — and 'през' for months and seasons — 'през юни', 'през лятото'. Ask the date with 'Коя дата е днес?' Throughout, the verb 'to be' (съм, си, е, сме, сте, са) links the subject to the time, and there are NO noun cases — only prepositions and word order.",
+        "examples": [
+          {
+            "russian": "Колко е часът? Часът е пет и половина.",
+            "english": "What time is it? It is half past five."
+          },
+          {
+            "russian": "В понеделник, през юни, имам среща.",
+            "english": "On Monday, in June, I have a meeting."
+          },
+          {
+            "russian": "Коя дата е днес? Днес е първи юни.",
+            "english": "What is the date today? Today is the first of June."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Среща в петък",
+        "text": "— Колко е часът? — Три без четвърт. — Имаме среща в петък, през юни. — Добре, утре е петък!",
+        "translation": "— What time is it? — A quarter to three. — We have a meeting on Friday, in June. — Good, tomorrow is Friday!",
+        "glossary": [
+          {
+            "russian": "имаме",
+            "english": "we have"
+          },
+          {
+            "russian": "добре",
+            "english": "good, okay"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short conversation with yourself: ask and tell the time, say what day and month it is today, and arrange a meeting for another day. Use 'часът е…', a day with 'в', and a month with 'през'."
+    }
+  ]
+}

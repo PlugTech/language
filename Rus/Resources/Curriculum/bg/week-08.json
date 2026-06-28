@@ -1,0 +1,656 @@
+{
+  "week": 8,
+  "theme": "Having & belonging",
+  "days": [
+    {
+      "day": 1,
+      "title": "I have, you have: имам in the present tense",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "имам",
+          "translit": "ímam",
+          "english": "to have",
+          "pos": "verb",
+          "example": "Имам нова чанта.",
+          "exampleEn": "I have a new bag."
+        },
+        {
+          "russian": "чанта",
+          "translit": "chánta",
+          "english": "bag",
+          "pos": "noun",
+          "example": "Чантата е голяма.",
+          "exampleEn": "The bag is big."
+        },
+        {
+          "russian": "телефон",
+          "translit": "telefón",
+          "english": "phone",
+          "pos": "noun",
+          "example": "Имам нов телефон.",
+          "exampleEn": "I have a new phone."
+        },
+        {
+          "russian": "ключ",
+          "translit": "klyuch",
+          "english": "key",
+          "pos": "noun",
+          "example": "Имаш ли ключ?",
+          "exampleEn": "Do you have a key?"
+        },
+        {
+          "russian": "пари",
+          "translit": "parí",
+          "english": "money",
+          "pos": "noun",
+          "example": "Нямам пари днес.",
+          "exampleEn": "I have no money today."
+        },
+        {
+          "russian": "нямам",
+          "translit": "nyámam",
+          "english": "to not have",
+          "pos": "verb",
+          "example": "Нямам телефон.",
+          "exampleEn": "I do not have a phone."
+        },
+        {
+          "russian": "нов",
+          "translit": "nov",
+          "english": "new",
+          "pos": "adjective",
+          "example": "Това е нов ключ.",
+          "exampleEn": "This is a new key."
+        }
+      ],
+      "grammar": {
+        "title": "The verb имам (to have)",
+        "explanation": "Bulgarian uses the verb **имам** to say what you have. It is fully regular: аз **имам**, ти **имаш**, той/тя/то **има**, ние **имаме**, вие **имате**, те **имат**. The negative is built with **нямам** (a fused form of не + имам): аз **нямам**, ти **нямаш**, той **няма**, ние **нямаме**, вие **нямате**, те **нямат**. There are **no noun cases**, so the object after имам keeps its plain dictionary form: имам чанта, имам телефон. To ask a yes/no question, add the particle **ли** after the verb: Имаш **ли** ключ?",
+        "examples": [
+          {
+            "russian": "Аз имам нов телефон.",
+            "english": "I have a new phone."
+          },
+          {
+            "russian": "Ти имаш ли пари?",
+            "english": "Do you have money?"
+          },
+          {
+            "russian": "Той няма ключ.",
+            "english": "He does not have a key."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Имаш ли ключ?",
+        "text": "— Имаш ли ключ? — Не, нямам. Но имам нов телефон. — А пари? — Днес нямам пари.",
+        "translation": "— Do you have a key? — No, I don't. But I have a new phone. — And money? — Today I have no money.",
+        "glossary": [
+          {
+            "russian": "не",
+            "english": "no, not"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "днес",
+            "english": "today"
+          }
+        ]
+      },
+      "speakingPrompt": "Say three things you have and one thing you do not have right now. Use имам and нямам with everyday items (телефон, ключ, чанта, пари)."
+    },
+    {
+      "day": 2,
+      "title": "My and your things: the short pronouns ми and ти",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "чадър",
+          "translit": "chadắr",
+          "english": "umbrella",
+          "pos": "noun",
+          "example": "Чадърът ми е тук.",
+          "exampleEn": "My umbrella is here."
+        },
+        {
+          "russian": "очила",
+          "translit": "ochilá",
+          "english": "glasses",
+          "pos": "noun",
+          "example": "Очилата ти са нови.",
+          "exampleEn": "Your glasses are new."
+        },
+        {
+          "russian": "портфейл",
+          "translit": "portféyl",
+          "english": "wallet",
+          "pos": "noun",
+          "example": "Портфейлът ми е празен.",
+          "exampleEn": "My wallet is empty."
+        },
+        {
+          "russian": "часовник",
+          "translit": "chasóvnik",
+          "english": "watch, clock",
+          "pos": "noun",
+          "example": "Часовникът ти е хубав.",
+          "exampleEn": "Your watch is nice."
+        },
+        {
+          "russian": "тук",
+          "translit": "tuk",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Чантата ми е тук.",
+          "exampleEn": "My bag is here."
+        },
+        {
+          "russian": "хубав",
+          "translit": "húbav",
+          "english": "nice, good-looking",
+          "pos": "adjective",
+          "example": "Имаш хубав телефон.",
+          "exampleEn": "You have a nice phone."
+        },
+        {
+          "russian": "стар",
+          "translit": "star",
+          "english": "old",
+          "pos": "adjective",
+          "example": "Часовникът ми е стар.",
+          "exampleEn": "My watch is old."
+        }
+      ],
+      "grammar": {
+        "title": "Short possessives ми (my) and ти (your)",
+        "explanation": "The easiest way to show possession is with **short possessive pronouns** placed right **after the noun**, and the noun usually takes its **definite article suffix**. For 'my' use **ми**, for 'your' (singular, informal) use **ти**: чадър**ът** **ми** (my umbrella), чант**ата** **ми** (my bag), очил**ата** **ти** (your glasses). These little words never change form. Remember the article is a suffix: masculine **-ът/-а**, feminine **-та**, neuter **-то**, plural **-те**. Note that **ти** here means 'your', while **ти** as a separate subject means 'you' — context makes it clear.",
+        "examples": [
+          {
+            "russian": "Чадърът ми е тук.",
+            "english": "My umbrella is here."
+          },
+          {
+            "russian": "Часовникът ти е хубав.",
+            "english": "Your watch is nice."
+          },
+          {
+            "russian": "Очилата ми са стари.",
+            "english": "My glasses are old."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Нещата ми",
+        "text": "Чадърът ми е тук. Часовникът ми е стар, но е хубав. — А портфейлът ти? — Портфейлът ми е празен.",
+        "translation": "My umbrella is here. My watch is old, but it is nice. — And your wallet? — My wallet is empty.",
+        "glossary": [
+          {
+            "russian": "нещата",
+            "english": "the things"
+          },
+          {
+            "russian": "празен",
+            "english": "empty"
+          },
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at four of your belongings and name each with the noun + definite article + ми (чадърът ми, чантата ми, очилата ми). Then ask a friend about one of theirs using ти."
+    },
+    {
+      "day": 3,
+      "title": "His and her things: the short pronouns му and ѝ",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "куфар",
+          "translit": "kúfar",
+          "english": "suitcase",
+          "pos": "noun",
+          "example": "Куфарът му е голям.",
+          "exampleEn": "His suitcase is big."
+        },
+        {
+          "russian": "раница",
+          "translit": "ránitsa",
+          "english": "backpack",
+          "pos": "noun",
+          "example": "Раницата ѝ е нова.",
+          "exampleEn": "Her backpack is new."
+        },
+        {
+          "russian": "паспорт",
+          "translit": "pásport",
+          "english": "passport",
+          "pos": "noun",
+          "example": "Паспортът му е тук.",
+          "exampleEn": "His passport is here."
+        },
+        {
+          "russian": "снимка",
+          "translit": "snímka",
+          "english": "photo, picture",
+          "pos": "noun",
+          "example": "Снимката ѝ е хубава.",
+          "exampleEn": "Her photo is nice."
+        },
+        {
+          "russian": "голям",
+          "translit": "golyám",
+          "english": "big",
+          "pos": "adjective",
+          "example": "Куфарът е голям.",
+          "exampleEn": "The suitcase is big."
+        },
+        {
+          "russian": "малък",
+          "translit": "málăk",
+          "english": "small",
+          "pos": "adjective",
+          "example": "Раницата е малка.",
+          "exampleEn": "The backpack is small."
+        },
+        {
+          "russian": "тежък",
+          "translit": "tézhăk",
+          "english": "heavy",
+          "pos": "adjective",
+          "example": "Куфарът му е тежък.",
+          "exampleEn": "His suitcase is heavy."
+        }
+      ],
+      "grammar": {
+        "title": "Short possessives му (his/its) and ѝ (her)",
+        "explanation": "We continue with the third-person short possessives. For 'his' or 'its' use **му**; for 'her' use **ѝ** (written with a grave accent to tell it apart from the conjunction и 'and'). They go after the noun, which carries its article: куфар**ът** **му** (his suitcase), раниц**ата** **ѝ** (her backpack). The pronoun does **not** change for the gender of the thing owned — only for the owner. So 'his bag' and 'his suitcase' both use **му**: чант**ата** **му**, куфар**ът** **му**.",
+        "examples": [
+          {
+            "russian": "Куфарът му е тежък.",
+            "english": "His suitcase is heavy."
+          },
+          {
+            "russian": "Раницата ѝ е малка.",
+            "english": "Her backpack is small."
+          },
+          {
+            "russian": "Паспортът му е тук.",
+            "english": "His passport is here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Куфарът и раницата",
+        "text": "Куфарът му е голям и тежък. Паспортът му е тук. Раницата ѝ е малка, но снимката ѝ е хубава.",
+        "translation": "His suitcase is big and heavy. His passport is here. Her backpack is small, but her photo is nice.",
+        "glossary": [
+          {
+            "russian": "и",
+            "english": "and"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "тук",
+            "english": "here"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe one item belonging to a man and one belonging to a woman. Use му and ѝ with the noun + article (куфарът му, раницата ѝ) and add an adjective like голям, малък or тежък."
+    },
+    {
+      "day": 4,
+      "title": "Our and your(plural) and their things: ни, ви, им",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "кола",
+          "translit": "kolá",
+          "english": "car",
+          "pos": "noun",
+          "example": "Колата ни е стара.",
+          "exampleEn": "Our car is old."
+        },
+        {
+          "russian": "къща",
+          "translit": "kắshta",
+          "english": "house",
+          "pos": "noun",
+          "example": "Къщата им е голяма.",
+          "exampleEn": "Their house is big."
+        },
+        {
+          "russian": "градина",
+          "translit": "gradína",
+          "english": "garden",
+          "pos": "noun",
+          "example": "Градината ни е малка.",
+          "exampleEn": "Our garden is small."
+        },
+        {
+          "russian": "куче",
+          "translit": "kúche",
+          "english": "dog",
+          "pos": "noun",
+          "example": "Кучето им е голямо.",
+          "exampleEn": "Their dog is big."
+        },
+        {
+          "russian": "билети",
+          "translit": "biléti",
+          "english": "tickets",
+          "pos": "noun",
+          "example": "Билетите ви са тук.",
+          "exampleEn": "Your tickets are here."
+        },
+        {
+          "russian": "наш",
+          "translit": "nash",
+          "english": "our (long form)",
+          "pos": "pronoun",
+          "example": "Това е нашата кола.",
+          "exampleEn": "This is our car."
+        },
+        {
+          "russian": "техен",
+          "translit": "téhen",
+          "english": "their (long form)",
+          "pos": "pronoun",
+          "example": "Това е тяхната къща.",
+          "exampleEn": "This is their house."
+        }
+      ],
+      "grammar": {
+        "title": "Short possessives ни, ви, им (our, your-plural, their)",
+        "explanation": "The plural short possessives finish the set: **ни** (our), **ви** (your, plural or polite), **им** (their). As before, they follow the noun with its article: кол**ата** **ни** (our car), билет**ите** **ви** (your tickets), къщ**ата** **им** (their house). The full set of short possessives is now: **ми, ти, му, ѝ, ни, ви, им**. They are unstressed and always come straight after the noun. Neuter nouns take **-то**: куче**то** **им** (their dog).",
+        "examples": [
+          {
+            "russian": "Колата ни е стара.",
+            "english": "Our car is old."
+          },
+          {
+            "russian": "Билетите ви са тук.",
+            "english": "Your tickets are here."
+          },
+          {
+            "russian": "Къщата им е голяма.",
+            "english": "Their house is big."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Къщата и колата",
+        "text": "Къщата им е голяма, а градината им е малка. — Билетите ви тук ли са? — Да, билетите ни са тук. Колата ни е стара, но е хубава.",
+        "translation": "Their house is big, and their garden is small. — Are your tickets here? — Yes, our tickets are here. Our car is old, but it is nice.",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "а",
+            "english": "and (contrast)"
+          },
+          {
+            "russian": "ли",
+            "english": "question particle"
+          }
+        ]
+      },
+      "speakingPrompt": "Talk about things shared by a group. Use ни, ви and им with the noun + article (колата ни, къщата им, билетите ви) and say whether each is голям, малък, нов or стар."
+    },
+    {
+      "day": 5,
+      "title": "Saying мой and твой: the long possessives",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "лаптоп",
+          "translit": "laptóp",
+          "english": "laptop",
+          "pos": "noun",
+          "example": "Това е моят лаптоп.",
+          "exampleEn": "This is my laptop."
+        },
+        {
+          "russian": "тетрадка",
+          "translit": "tetrádka",
+          "english": "notebook",
+          "pos": "noun",
+          "example": "Това е моята тетрадка.",
+          "exampleEn": "This is my notebook."
+        },
+        {
+          "russian": "писалка",
+          "translit": "pisálka",
+          "english": "pen",
+          "pos": "noun",
+          "example": "Твоята писалка е тук.",
+          "exampleEn": "Your pen is here."
+        },
+        {
+          "russian": "огледало",
+          "translit": "ogledálo",
+          "english": "mirror",
+          "pos": "noun",
+          "example": "Това е моето огледало.",
+          "exampleEn": "This is my mirror."
+        },
+        {
+          "russian": "обувки",
+          "translit": "obúvki",
+          "english": "shoes",
+          "pos": "noun",
+          "example": "Моите обувки са нови.",
+          "exampleEn": "My shoes are new."
+        },
+        {
+          "russian": "това",
+          "translit": "tová",
+          "english": "this, this is",
+          "pos": "pronoun",
+          "example": "Това е моят телефон.",
+          "exampleEn": "This is my phone."
+        },
+        {
+          "russian": "чий",
+          "translit": "chiy",
+          "english": "whose",
+          "pos": "pronoun",
+          "example": "Чий е този ключ?",
+          "exampleEn": "Whose key is this?"
+        }
+      ],
+      "grammar": {
+        "title": "Long possessives мой and твой",
+        "explanation": "For emphasis or after **това е** (this is), Bulgarian uses **long possessives** that agree with the noun's **gender and number**. For 'my': **мой** (masc.), **моя** (fem.), **мое** (neut.), **мои** (plural). For 'your' (informal): **твой, твоя, твое, твои**. When the thing is definite, these take an article too: **моят** лаптоп, **моята** тетрадка, **моето** огледало, **моите** обувки. Compare the two systems: the short **лаптопът ми** and the long **моят лаптоп** both mean 'my laptop'; the long form is more emphatic. To ask 'whose?' use **чий** (masc.), **чия** (fem.), **чие** (neut.), **чии** (plural).",
+        "examples": [
+          {
+            "russian": "Това е моят лаптоп.",
+            "english": "This is my laptop."
+          },
+          {
+            "russian": "Твоята писалка е тук.",
+            "english": "Your pen is here."
+          },
+          {
+            "russian": "Чии са тези обувки?",
+            "english": "Whose shoes are these?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Чий е лаптопът?",
+        "text": "— Чий е този лаптоп? — Това е моят лаптоп. — А тетрадката? — Тетрадката е твоя. Моята тетрадка е тук.",
+        "translation": "— Whose laptop is this? — This is my laptop. — And the notebook? — The notebook is yours. My notebook is here.",
+        "glossary": [
+          {
+            "russian": "този",
+            "english": "this (masc.)"
+          },
+          {
+            "russian": "твоя",
+            "english": "yours (fem.)"
+          },
+          {
+            "russian": "а",
+            "english": "and (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Pick up four objects and claim each with a long possessive: Това е моят/моята/моето/моите ... Then ask a friend 'Чий е...?' about one item and answer with твой/твоя/твое."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: whose belongings are these?",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "куфарче",
+          "translit": "kúfarche",
+          "english": "small case, briefcase",
+          "pos": "noun",
+          "example": "Куфарчето му е тук.",
+          "exampleEn": "His briefcase is here."
+        },
+        {
+          "russian": "вещи",
+          "translit": "véshti",
+          "english": "things, belongings",
+          "pos": "noun",
+          "example": "Вещите ми са в чантата.",
+          "exampleEn": "My things are in the bag."
+        },
+        {
+          "russian": "подарък",
+          "translit": "podárăk",
+          "english": "gift, present",
+          "pos": "noun",
+          "example": "Това е подарък за теб.",
+          "exampleEn": "This is a gift for you."
+        },
+        {
+          "russian": "за",
+          "translit": "za",
+          "english": "for",
+          "pos": "preposition",
+          "example": "Подаръкът е за нея.",
+          "exampleEn": "The gift is for her."
+        },
+        {
+          "russian": "в",
+          "translit": "v",
+          "english": "in",
+          "pos": "preposition",
+          "example": "Ключът е в чантата.",
+          "exampleEn": "The key is in the bag."
+        },
+        {
+          "russian": "също",
+          "translit": "sắshto",
+          "english": "also, too",
+          "pos": "adverb",
+          "example": "Това също е мое.",
+          "exampleEn": "This is mine too."
+        },
+        {
+          "russian": "само",
+          "translit": "sámo",
+          "english": "only",
+          "pos": "adverb",
+          "example": "Имам само един ключ.",
+          "exampleEn": "I have only one key."
+        }
+      ],
+      "grammar": {
+        "title": "Combining имам, short and long possessives",
+        "explanation": "Today you combine everything. Use **имам/нямам** to say what people have, then mark whose it is. Both systems work together: short possessives sit after the article (вещ**ите** **ми**, куфарче**то** **му**), while long possessives come before the noun for emphasis (**моите** вещи, **неговото** куфарче). With prepositions like **в** (in), **за** (for) and **с** (with), the noun keeps its plain or articled form — there are still **no cases**: подаръкът е **за** нея, ключът е **в** чантата. Add **също** (also) and **само** (only) to make richer sentences.",
+        "examples": [
+          {
+            "russian": "Имам само една чанта и вещите ми са в нея.",
+            "english": "I have only one bag, and my things are in it."
+          },
+          {
+            "russian": "Това е подарък за теб.",
+            "english": "This is a gift for you."
+          },
+          {
+            "russian": "Куфарчето му също е тук.",
+            "english": "His briefcase is here too."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Подаръкът",
+        "text": "Имам подарък за теб. Вещите ми са в чантата, а подаръкът ти е тук. — Само за мен ли е? — Да, само за теб.",
+        "translation": "I have a gift for you. My things are in the bag, and your gift is here. — Is it only for me? — Yes, only for you.",
+        "glossary": [
+          {
+            "russian": "за теб",
+            "english": "for you"
+          },
+          {
+            "russian": "за мен",
+            "english": "for me"
+          },
+          {
+            "russian": "да",
+            "english": "yes"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe what is in your bag using имам and в, then say who owns each thing with a mix of short (ми, ти, му, ѝ) and long (мой, твой) possessives. Use също and само at least once."
+    },
+    {
+      "day": 7,
+      "title": "Week 8 review: having and belonging",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: имам, short possessives and мой/твой",
+        "explanation": "This week gave you the tools to talk about possession. **имам** (to have) and its negative **нямам** are regular: имам, имаш, има, имаме, имате, имат. The **short possessives** sit after the noun, which takes its article suffix: **ми, ти, му, ѝ, ни, ви, им** (чантата ми, куфарът му, колата ни, къщата им). They never change for the thing owned, only the owner. The **long possessives мой/твой** agree in gender and number (моят, моята, моето, моите) and are used for emphasis or after **това е**. Remember: Bulgarian has **no noun cases**, the article is a **suffix**, and the verb **съм** (е, са) is used freely: Чантата ми **е** нова.",
+        "examples": [
+          {
+            "russian": "Имаш ли ключ? — Не, нямам.",
+            "english": "Do you have a key? — No, I don't."
+          },
+          {
+            "russian": "Куфарът му е тежък.",
+            "english": "His suitcase is heavy."
+          },
+          {
+            "russian": "Това е моята раница.",
+            "english": "This is my backpack."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Чии са тези вещи?",
+        "text": "— Чия е тази чанта? — Чантата е моя. Вещите ми са в нея. — А този куфар? — Куфарът е негов, голям и тежък. — Имаш ли ключ? — Да, ключът ми е тук.",
+        "translation": "— Whose bag is this? — The bag is mine. My things are in it. — And this suitcase? — The suitcase is his, big and heavy. — Do you have a key? — Yes, my key is here.",
+        "glossary": [
+          {
+            "russian": "тази",
+            "english": "this (fem.)"
+          },
+          {
+            "russian": "негов",
+            "english": "his (long form)"
+          },
+          {
+            "russian": "в нея",
+            "english": "in it (fem.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Without notes, say three things you have and one you don't (имам/нямам), then claim four belongings using a mix of short possessives (ми, ти, му, ѝ, ни, ви, им) and long ones (мой, твой). Finish by asking a friend 'Чий е...?' about one item."
+    }
+  ]
+}

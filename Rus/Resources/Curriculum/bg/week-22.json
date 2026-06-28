@@ -1,0 +1,628 @@
+{
+  "theme": "Getting around",
+  "week": 22,
+  "days": [
+    {
+      "day": 1,
+      "title": "Means of transport: getting from A to B",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "кола",
+          "translit": "kolá",
+          "english": "car",
+          "pos": "noun (f)",
+          "example": "Колата е нова.",
+          "exampleEn": "The car is new."
+        },
+        {
+          "russian": "автобус",
+          "translit": "avtóbus",
+          "english": "bus",
+          "pos": "noun (m)",
+          "example": "Автобусът е голям.",
+          "exampleEn": "The bus is big."
+        },
+        {
+          "russian": "влак",
+          "translit": "vlak",
+          "english": "train",
+          "pos": "noun (m)",
+          "example": "Влакът е бърз.",
+          "exampleEn": "The train is fast."
+        },
+        {
+          "russian": "пеша",
+          "translit": "peshá",
+          "english": "on foot",
+          "pos": "adverb",
+          "example": "Аз отивам пеша.",
+          "exampleEn": "I am going on foot."
+        },
+        {
+          "russian": "трамвай",
+          "translit": "tramváy",
+          "english": "tram",
+          "pos": "noun (m)",
+          "example": "Трамваят е жълт.",
+          "exampleEn": "The tram is yellow."
+        },
+        {
+          "russian": "такси",
+          "translit": "taksí",
+          "english": "taxi",
+          "pos": "noun (n)",
+          "example": "Таксито е тук.",
+          "exampleEn": "The taxi is here."
+        },
+        {
+          "russian": "самолет",
+          "translit": "samolét",
+          "english": "airplane",
+          "pos": "noun (m)",
+          "example": "Самолетът е голям.",
+          "exampleEn": "The airplane is big."
+        }
+      ],
+      "grammar": {
+        "title": "Naming transport with the verb 'to be'",
+        "explanation": "Bulgarian has a present-tense verb 'to be' (съм, си, е, сме, сте, са) — unlike Russian. Use it to describe transport: Колата е нова (The car is new), Влаковете са бързи (The trains are fast). There are no noun cases; the noun keeps one form and the definite article is added as a suffix: кола → колата, влак → влакът. Word order is simple subject + е + adjective.",
+        "examples": [
+          {
+            "russian": "Това е автобус.",
+            "english": "This is a bus."
+          },
+          {
+            "russian": "Колата е стара.",
+            "english": "The car is old."
+          },
+          {
+            "russian": "Влаковете са бързи.",
+            "english": "The trains are fast."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На спирката",
+        "text": "— Това влак ли е? — Не, това е автобус. Аз отивам пеша.",
+        "translation": "— Is this a train? — No, this is a bus. I am going on foot.",
+        "glossary": [
+          {
+            "russian": "спирка",
+            "english": "stop (bus/tram stop)"
+          },
+          {
+            "russian": "ли",
+            "english": "question particle"
+          }
+        ]
+      },
+      "speakingPrompt": "Name three kinds of transport you can see in your city using 'Това е...' and say which one you usually take."
+    },
+    {
+      "day": 2,
+      "title": "Prepositions of place: в, на, до",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "в",
+          "translit": "v",
+          "english": "in / into",
+          "pos": "preposition",
+          "example": "Аз съм в колата.",
+          "exampleEn": "I am in the car."
+        },
+        {
+          "russian": "на",
+          "translit": "na",
+          "english": "on / at",
+          "pos": "preposition",
+          "example": "Билетът е на масата.",
+          "exampleEn": "The ticket is on the table."
+        },
+        {
+          "russian": "до",
+          "translit": "do",
+          "english": "next to / up to",
+          "pos": "preposition",
+          "example": "Спирката е до банката.",
+          "exampleEn": "The stop is next to the bank."
+        },
+        {
+          "russian": "гара",
+          "translit": "gára",
+          "english": "train station",
+          "pos": "noun (f)",
+          "example": "Гарата е голяма.",
+          "exampleEn": "The station is big."
+        },
+        {
+          "russian": "билет",
+          "translit": "bilét",
+          "english": "ticket",
+          "pos": "noun (m)",
+          "example": "Билетът е на масата.",
+          "exampleEn": "The ticket is on the table."
+        },
+        {
+          "russian": "спирка",
+          "translit": "spírka",
+          "english": "stop (bus/tram)",
+          "pos": "noun (f)",
+          "example": "Спирката е до гарата.",
+          "exampleEn": "The stop is next to the station."
+        },
+        {
+          "russian": "център",
+          "translit": "tséntar",
+          "english": "centre / downtown",
+          "pos": "noun (m)",
+          "example": "Центърът е близо.",
+          "exampleEn": "The centre is near."
+        }
+      ],
+      "grammar": {
+        "title": "Showing place with prepositions, not cases",
+        "explanation": "Because Bulgarian has no noun cases, place is shown only by prepositions before an unchanged noun. в = in (в колата = in the car), на = on/at (на спирката = at the stop), до = next to (до гарата = next to the station). The noun never changes its ending; only the definite suffix may attach: гара → гарата, влак → влакът.",
+        "examples": [
+          {
+            "russian": "Аз съм в автобуса.",
+            "english": "I am in the bus."
+          },
+          {
+            "russian": "Билетът е на масата.",
+            "english": "The ticket is on the table."
+          },
+          {
+            "russian": "Спирката е до центъра.",
+            "english": "The stop is next to the centre."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Къде е спирката?",
+        "text": "— Къде е спирката? — До гарата. — А гарата е в центъра.",
+        "translation": "— Where is the stop? — Next to the station. — And the station is in the centre.",
+        "glossary": [
+          {
+            "russian": "къде",
+            "english": "where"
+          },
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe where three places are near you using в, на and до (e.g. 'Спирката е до...')."
+    },
+    {
+      "day": 3,
+      "title": "Movement: from and to (от, за)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "от",
+          "translit": "ot",
+          "english": "from",
+          "pos": "preposition",
+          "example": "Влакът е от София.",
+          "exampleEn": "The train is from Sofia."
+        },
+        {
+          "russian": "за",
+          "translit": "za",
+          "english": "to / for (destination)",
+          "pos": "preposition",
+          "example": "Автобусът е за Пловдив.",
+          "exampleEn": "The bus is to Plovdiv."
+        },
+        {
+          "russian": "отивам",
+          "translit": "otívam",
+          "english": "I go / I am going",
+          "pos": "verb",
+          "example": "Аз отивам за гарата.",
+          "exampleEn": "I am going to the station."
+        },
+        {
+          "russian": "идвам",
+          "translit": "ídvam",
+          "english": "I come",
+          "pos": "verb",
+          "example": "Аз идвам от центъра.",
+          "exampleEn": "I am coming from the centre."
+        },
+        {
+          "russian": "пристигам",
+          "translit": "pristígam",
+          "english": "I arrive",
+          "pos": "verb",
+          "example": "Влакът пристига сега.",
+          "exampleEn": "The train arrives now."
+        },
+        {
+          "russian": "път",
+          "translit": "pat",
+          "english": "road / way / trip",
+          "pos": "noun (m)",
+          "example": "Пътят е дълъг.",
+          "exampleEn": "The road is long."
+        },
+        {
+          "russian": "далече",
+          "translit": "daléche",
+          "english": "far",
+          "pos": "adverb",
+          "example": "Гарата е далече.",
+          "exampleEn": "The station is far."
+        }
+      ],
+      "grammar": {
+        "title": "Direction with от (from) and за (to)",
+        "explanation": "Movement is also shown by prepositions, never by case endings. от = from a starting point (Идвам от София = I come from Sofia), за = towards a destination (Влакът е за Варна = The train is to Varna). With verbs of motion use the simple present: отивам (I go), идвам (I come). Remember there is no infinitive in Bulgarian — to say 'I want to go' use искам да + present: Искам да отида.",
+        "examples": [
+          {
+            "russian": "Идвам от центъра.",
+            "english": "I am coming from the centre."
+          },
+          {
+            "russian": "Автобусът е за Пловдив.",
+            "english": "The bus is to Plovdiv."
+          },
+          {
+            "russian": "Искам да отида на гарата.",
+            "english": "I want to go to the station."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Откъде и закъде",
+        "text": "— Този влак е от София. — Да, и е за Варна. — Пътят е дълъг.",
+        "translation": "— This train is from Sofia. — Yes, and it is to Varna. — The trip is long.",
+        "glossary": [
+          {
+            "russian": "този",
+            "english": "this (masc.)"
+          },
+          {
+            "russian": "да",
+            "english": "yes"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you are coming from and where you are going today using от and за."
+    },
+    {
+      "day": 4,
+      "title": "Travelling by: the preposition с",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "с",
+          "translit": "s",
+          "english": "with / by (means)",
+          "pos": "preposition",
+          "example": "Пътувам с влак.",
+          "exampleEn": "I travel by train."
+        },
+        {
+          "russian": "пътувам",
+          "translit": "patúvam",
+          "english": "I travel",
+          "pos": "verb",
+          "example": "Пътувам с автобус.",
+          "exampleEn": "I travel by bus."
+        },
+        {
+          "russian": "карам",
+          "translit": "káram",
+          "english": "I drive",
+          "pos": "verb",
+          "example": "Аз карам кола.",
+          "exampleEn": "I drive a car."
+        },
+        {
+          "russian": "пътник",
+          "translit": "pátnik",
+          "english": "passenger",
+          "pos": "noun (m)",
+          "example": "Пътникът е тук.",
+          "exampleEn": "The passenger is here."
+        },
+        {
+          "russian": "бързо",
+          "translit": "bárzo",
+          "english": "fast / quickly",
+          "pos": "adverb",
+          "example": "Влакът върви бързо.",
+          "exampleEn": "The train goes fast."
+        },
+        {
+          "russian": "бавно",
+          "translit": "bávno",
+          "english": "slowly",
+          "pos": "adverb",
+          "example": "Автобусът върви бавно.",
+          "exampleEn": "The bus goes slowly."
+        },
+        {
+          "russian": "метро",
+          "translit": "metró",
+          "english": "metro / subway",
+          "pos": "noun (n)",
+          "example": "Пътувам с метро.",
+          "exampleEn": "I travel by metro."
+        }
+      ],
+      "grammar": {
+        "title": "Saying how you travel: с + transport",
+        "explanation": "To say by what means you travel, use с (with/by) + the transport noun, with no case change: пътувам с влак (I travel by train), с автобус, с кола, с метро. Compare пеша (on foot), which needs no preposition: отивам пеша. The verbs пътувам (I travel) and карам (I drive) take the present tense directly.",
+        "examples": [
+          {
+            "russian": "Пътувам с влак.",
+            "english": "I travel by train."
+          },
+          {
+            "russian": "Той идва с автобус.",
+            "english": "He comes by bus."
+          },
+          {
+            "russian": "Ние отиваме пеша.",
+            "english": "We go on foot."
+          }
+        ]
+      },
+      "reading": {
+        "title": "С какво пътуваш?",
+        "text": "— С какво пътуваш? — С влак, бързо е. — А аз отивам пеша.",
+        "translation": "— What do you travel by? — By train, it's fast. — And I am going on foot.",
+        "glossary": [
+          {
+            "russian": "с какво",
+            "english": "by what / how"
+          },
+          {
+            "russian": "пътуваш",
+            "english": "you travel"
+          }
+        ]
+      },
+      "speakingPrompt": "Explain how you get to work or school using с + transport, and whether it is бързо or бавно."
+    },
+    {
+      "day": 5,
+      "title": "Asking the way: directions",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "наляво",
+          "translit": "nalyávo",
+          "english": "to the left",
+          "pos": "adverb",
+          "example": "Гарата е наляво.",
+          "exampleEn": "The station is to the left."
+        },
+        {
+          "russian": "надясно",
+          "translit": "nadyásno",
+          "english": "to the right",
+          "pos": "adverb",
+          "example": "Спирката е надясно.",
+          "exampleEn": "The stop is to the right."
+        },
+        {
+          "russian": "направо",
+          "translit": "naprávo",
+          "english": "straight ahead",
+          "pos": "adverb",
+          "example": "Върви направо.",
+          "exampleEn": "Go straight ahead."
+        },
+        {
+          "russian": "улица",
+          "translit": "úlitsa",
+          "english": "street",
+          "pos": "noun (f)",
+          "example": "Улицата е дълга.",
+          "exampleEn": "The street is long."
+        },
+        {
+          "russian": "близо",
+          "translit": "blízo",
+          "english": "near",
+          "pos": "adverb",
+          "example": "Центърът е близо.",
+          "exampleEn": "The centre is near."
+        },
+        {
+          "russian": "тук",
+          "translit": "tuk",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Спирката е тук.",
+          "exampleEn": "The stop is here."
+        },
+        {
+          "russian": "там",
+          "translit": "tam",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Гарата е там.",
+          "exampleEn": "The station is there."
+        }
+      ],
+      "grammar": {
+        "title": "Giving directions with place adverbs",
+        "explanation": "Directions combine the prepositions you know (на, до, в) with adverbs of direction: наляво (to the left), надясно (to the right), направо (straight ahead), близо (near), далече (far), тук (here), там (there). These adverbs do not change form. To tell someone to go, use the imperative върви (go): Върви направо, после наляво.",
+        "examples": [
+          {
+            "russian": "Спирката е там, надясно.",
+            "english": "The stop is there, to the right."
+          },
+          {
+            "russian": "Върви направо до гарата.",
+            "english": "Go straight ahead to the station."
+          },
+          {
+            "russian": "Центърът е близо, наляво.",
+            "english": "The centre is near, to the left."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Къде е гарата?",
+        "text": "— Извинете, къде е гарата? — Направо, после наляво. Близо е.",
+        "translation": "— Excuse me, where is the station? — Straight ahead, then to the left. It's near.",
+        "glossary": [
+          {
+            "russian": "извинете",
+            "english": "excuse me"
+          },
+          {
+            "russian": "после",
+            "english": "then / afterwards"
+          }
+        ]
+      },
+      "speakingPrompt": "Give simple directions from your home to the nearest bus or tram stop using наляво, надясно and направо."
+    },
+    {
+      "day": 6,
+      "title": "Putting a trip together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "разписание",
+          "translit": "razpisánie",
+          "english": "timetable / schedule",
+          "pos": "noun (n)",
+          "example": "Разписанието е тук.",
+          "exampleEn": "The timetable is here."
+        },
+        {
+          "russian": "тръгвам",
+          "translit": "trágvam",
+          "english": "I depart / set off",
+          "pos": "verb",
+          "example": "Влакът тръгва сега.",
+          "exampleEn": "The train departs now."
+        },
+        {
+          "russian": "спирам",
+          "translit": "spíram",
+          "english": "I stop",
+          "pos": "verb",
+          "example": "Автобусът спира тук.",
+          "exampleEn": "The bus stops here."
+        },
+        {
+          "russian": "чакам",
+          "translit": "chákam",
+          "english": "I wait",
+          "pos": "verb",
+          "example": "Чакам на спирката.",
+          "exampleEn": "I am waiting at the stop."
+        },
+        {
+          "russian": "късно",
+          "translit": "kásno",
+          "english": "late",
+          "pos": "adverb",
+          "example": "Влакът е късно.",
+          "exampleEn": "The train is late."
+        },
+        {
+          "russian": "рано",
+          "translit": "ráno",
+          "english": "early",
+          "pos": "adverb",
+          "example": "Автобусът тръгва рано.",
+          "exampleEn": "The bus departs early."
+        },
+        {
+          "russian": "пристигане",
+          "translit": "pristígane",
+          "english": "arrival",
+          "pos": "noun (n)",
+          "example": "Пристигането е в три.",
+          "exampleEn": "The arrival is at three."
+        }
+      ],
+      "grammar": {
+        "title": "Combining prepositions across a whole journey",
+        "explanation": "Now chain the prepositions into one trip: от (from), за/на (to), с (by), до (next to/up to). Example: Тръгвам от центъра с автобус за гарата (I set off from the centre by bus to the station). All nouns stay unchanged; only definite suffixes and prepositions do the work. Time uses в: в три (at three).",
+        "examples": [
+          {
+            "russian": "Тръгвам от вкъщи с метро.",
+            "english": "I set off from home by metro."
+          },
+          {
+            "russian": "Влакът за Варна тръгва рано.",
+            "english": "The train to Varna departs early."
+          },
+          {
+            "russian": "Чакам автобуса на спирката.",
+            "english": "I am waiting for the bus at the stop."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На гарата",
+        "text": "— Влакът за Варна тръгва рано. — Да, в седем. Чакам на гарата.",
+        "translation": "— The train to Varna departs early. — Yes, at seven. I am waiting at the station.",
+        "glossary": [
+          {
+            "russian": "седем",
+            "english": "seven"
+          },
+          {
+            "russian": "вкъщи",
+            "english": "(at) home"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a short trip from start to finish, using от, с, за and a time with в."
+    },
+    {
+      "day": 7,
+      "title": "Review: Getting around",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week recap: place and movement prepositions",
+        "explanation": "This week you learned to get around without any noun cases — everything is done with prepositions before an unchanged noun. Place: в (in), на (on/at), до (next to). Movement: от (from), за (to), с (by means of). Plus пеша (on foot) with no preposition, and direction adverbs наляво, надясно, направо, близо, далече, тук, там. Remember to use the verb 'to be' (е, са) for descriptions and да + present for 'want to go' (искам да отида).",
+        "examples": [
+          {
+            "russian": "Пътувам с влак от София за Варна.",
+            "english": "I travel by train from Sofia to Varna."
+          },
+          {
+            "russian": "Спирката е до гарата, наляво.",
+            "english": "The stop is next to the station, to the left."
+          },
+          {
+            "russian": "Искам да отида в центъра пеша.",
+            "english": "I want to go to the centre on foot."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Накъде?",
+        "text": "— Здравей! С какво отиваш в центъра? — С автобус. Спирката е до гарата. — А аз отивам пеша, близо е.",
+        "translation": "— Hi! How are you going to the centre? — By bus. The stop is next to the station. — And I am going on foot, it's near.",
+        "glossary": [
+          {
+            "russian": "здравей",
+            "english": "hi / hello"
+          },
+          {
+            "russian": "накъде",
+            "english": "where to / which way"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short dialogue: ask a friend how they get to the centre and answer, using at least three prepositions from this week (в, на, до, от, за, с)."
+    }
+  ]
+}

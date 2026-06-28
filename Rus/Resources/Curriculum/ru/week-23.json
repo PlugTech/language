@@ -1,0 +1,616 @@
+{
+  "week": 23,
+  "theme": "Travel & directions",
+  "days": [
+    {
+      "day": 1,
+      "title": "Day 1: Куда? — going somewhere with в + accusative",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "куда",
+          "translit": "kudá",
+          "english": "where to / whither",
+          "pos": "adverb",
+          "example": "Куда ты идёшь?",
+          "exampleEn": "Where are you going?"
+        },
+        {
+          "russian": "город",
+          "translit": "górod",
+          "english": "city / town",
+          "pos": "noun",
+          "example": "Я еду в город.",
+          "exampleEn": "I am going to the city."
+        },
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop / store",
+          "pos": "noun",
+          "example": "Я иду в магазин.",
+          "exampleEn": "I am going to the shop."
+        },
+        {
+          "russian": "музей",
+          "translit": "muzéy",
+          "english": "museum",
+          "pos": "noun",
+          "example": "Мы идём в музей.",
+          "exampleEn": "We are going to the museum."
+        },
+        {
+          "russian": "парк",
+          "translit": "park",
+          "english": "park",
+          "pos": "noun",
+          "example": "Дети идут в парк.",
+          "exampleEn": "The children are going to the park."
+        },
+        {
+          "russian": "школа",
+          "translit": "shkóla",
+          "english": "school",
+          "pos": "noun",
+          "example": "Сын идёт в школу.",
+          "exampleEn": "The son is going to school."
+        },
+        {
+          "russian": "аптека",
+          "translit": "aptéka",
+          "english": "pharmacy",
+          "pos": "noun",
+          "example": "Мама идёт в аптеку.",
+          "exampleEn": "Mum is going to the pharmacy."
+        }
+      ],
+      "grammar": {
+        "title": "Direction \"to\": в + accusative",
+        "explanation": "You already use **в** + the **prepositional case** to say *where something is* (в город**е** = in the city). To say *where you are going* — the destination — use **в** + the **accusative case**, and answer the question **куда?** (where to?).\n\nFor inanimate nouns the accusative looks like the dictionary form:\n- masculine/neuter → **no change**: в город, в музей, в парк\n- feminine -а/-я → **-у/-ю**: школ**а** → в школ**у**, аптек**а** → в аптек**у**\n\nCompare **где?** (location) with **куда?** (direction):\n- Я в городе. (where) → Я еду в город. (where to)",
+        "examples": [
+          {
+            "russian": "Куда ты идёшь? — В магазин.",
+            "english": "Where are you going? — To the shop."
+          },
+          {
+            "russian": "Мы идём в музей.",
+            "english": "We are going to the museum."
+          },
+          {
+            "russian": "Она идёт в школу.",
+            "english": "She is going to school."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Куда ты идёшь?",
+        "text": "— Куда ты идёшь?\n— Я иду в магазин. А потом в парк.\n— Хорошо! А я иду в музей.",
+        "translation": "— Where are you going?\n— I'm going to the shop. And then to the park.\n— Good! And I'm going to the museum.",
+        "glossary": [
+          {
+            "russian": "куда",
+            "english": "where to"
+          },
+          {
+            "russian": "потом",
+            "english": "then / after that"
+          }
+        ]
+      },
+      "speakingPrompt": "Answer the question «Куда ты идёшь?» three times. Use «в магазин», «в парк», and «в школу» (remember to change feminine -а to -у)."
+    },
+    {
+      "day": 2,
+      "title": "Day 2: на + accusative — places that take \"на\"",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "вокзал",
+          "translit": "vokzál",
+          "english": "(train) station",
+          "pos": "noun",
+          "example": "Я еду на вокзал.",
+          "exampleEn": "I am going to the station."
+        },
+        {
+          "russian": "работа",
+          "translit": "rabóta",
+          "english": "work / job",
+          "pos": "noun",
+          "example": "Папа идёт на работу.",
+          "exampleEn": "Dad is going to work."
+        },
+        {
+          "russian": "почта",
+          "translit": "póchta",
+          "english": "post office",
+          "pos": "noun",
+          "example": "Я иду на почту.",
+          "exampleEn": "I am going to the post office."
+        },
+        {
+          "russian": "рынок",
+          "translit": "rýnok",
+          "english": "market",
+          "pos": "noun",
+          "example": "Мы идём на рынок.",
+          "exampleEn": "We are going to the market."
+        },
+        {
+          "russian": "концерт",
+          "translit": "kontsért",
+          "english": "concert",
+          "pos": "noun",
+          "example": "Вечером мы идём на концерт.",
+          "exampleEn": "In the evening we are going to a concert."
+        },
+        {
+          "russian": "улица",
+          "translit": "úlitsa",
+          "english": "street",
+          "pos": "noun",
+          "example": "Дети идут на улицу.",
+          "exampleEn": "The children are going outside (to the street)."
+        },
+        {
+          "russian": "море",
+          "translit": "móre",
+          "english": "sea",
+          "pos": "noun",
+          "example": "Летом мы едем на море.",
+          "exampleEn": "In summer we go to the sea."
+        }
+      ],
+      "grammar": {
+        "title": "Direction with на + accusative",
+        "explanation": "Some destinations take **на** instead of **в**, but with the **same accusative case**. These are often *open spaces, events, and activities*: на работу, на почту, на рынок, на концерт, на вокзал, на море.\n\nThe accusative endings are the same as yesterday:\n- masculine/neuter → no change: на вокзал, на концерт, на море\n- feminine -а → **-у**: работ**а** → на работ**у**, почт**а** → на почт**у**\n\nThere is no perfect rule — learn each place with в or на. A few common **на** places: работа, почта, рынок, вокзал, концерт, море, улица.",
+        "examples": [
+          {
+            "russian": "Куда вы идёте? — На работу.",
+            "english": "Where are you going? — To work."
+          },
+          {
+            "russian": "Мы идём на рынок.",
+            "english": "We are going to the market."
+          },
+          {
+            "russian": "Летом я еду на море.",
+            "english": "In summer I go to the sea."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На работу",
+        "text": "— Куда ты идёшь так рано?\n— На работу. А вечером я иду на концерт.\n— А я еду на рынок.",
+        "translation": "— Where are you going so early?\n— To work. And in the evening I'm going to a concert.\n— And I'm going to the market.",
+        "glossary": [
+          {
+            "russian": "рано",
+            "english": "early"
+          },
+          {
+            "russian": "вечером",
+            "english": "in the evening"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you are going using «на»: «на работу», «на почту», «на концерт». Then say one place with «в» (for example «в магазин») to feel the difference."
+    },
+    {
+      "day": 3,
+      "title": "Day 3: пойти — setting off on foot",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "пойти",
+          "translit": "poytí",
+          "english": "to go (set off, on foot)",
+          "pos": "verb",
+          "example": "Я хочу пойти в парк.",
+          "exampleEn": "I want to go to the park."
+        },
+        {
+          "russian": "пешком",
+          "translit": "peshkóm",
+          "english": "on foot",
+          "pos": "adverb",
+          "example": "Я иду в школу пешком.",
+          "exampleEn": "I walk to school."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "seychás",
+          "english": "now / right now",
+          "pos": "adverb",
+          "example": "Я иду сейчас.",
+          "exampleEn": "I am going now."
+        },
+        {
+          "russian": "вместе",
+          "translit": "vméste",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Пойдём вместе!",
+          "exampleEn": "Let's go together!"
+        },
+        {
+          "russian": "кафе",
+          "translit": "kafé",
+          "english": "café",
+          "pos": "noun",
+          "example": "Пойдём в кафе!",
+          "exampleEn": "Let's go to a café!"
+        },
+        {
+          "russian": "хотеть",
+          "translit": "khotét'",
+          "english": "to want",
+          "pos": "verb",
+          "example": "Я хочу пойти домой.",
+          "exampleEn": "I want to go home."
+        }
+      ],
+      "grammar": {
+        "title": "пойти — to set off (going on foot)",
+        "explanation": "**идти** means *to be walking* right now. **пойти** means *to set off / to go* (a single completed trip). Use **пойти** for the **future** and the **past**.\n\n**Future** (just one word — the present-tense endings give future meaning):\n- я **пойду**, ты **пойдёшь**, он/она́ **пойдёт**, мы **пойдём**, они́ **пойду́т**\n\n**Past** (irregular stem пош-): он **пошёл**, она **пошла**, они́ **пошли**.\n\nAfter **хотеть** (to want), use the infinitive **пойти**: *Я хочу пойти в кафе.* The suggestion **Пойдём!** = *Let's go!*",
+        "examples": [
+          {
+            "russian": "Завтра я пойду в музей.",
+            "english": "Tomorrow I will go to the museum."
+          },
+          {
+            "russian": "Вчера она пошла на работу.",
+            "english": "Yesterday she went to work."
+          },
+          {
+            "russian": "Пойдём в кафе вместе!",
+            "english": "Let's go to a café together!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Пойдём в кафе!",
+        "text": "— Я хочу пойти в кафе. Пойдём вместе?\n— Да! А потом пойдём в парк, пешком.\n— Хорошо, пойдём сейчас!",
+        "translation": "— I want to go to a café. Shall we go together?\n— Yes! And then let's go to the park, on foot.\n— Good, let's go now!",
+        "glossary": [
+          {
+            "russian": "пойдём",
+            "english": "let's go"
+          },
+          {
+            "russian": "вместе",
+            "english": "together"
+          }
+        ]
+      },
+      "speakingPrompt": "Invite a friend somewhere with «Пойдём в...!». Then say where you will go tomorrow using «Завтра я пойду в/на...» and where you went yesterday using «Вчера я пошёл/пошла в/на...»."
+    },
+    {
+      "day": 4,
+      "title": "Day 4: поехать — going by transport",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "поехать",
+          "translit": "poékhat'",
+          "english": "to go (set off, by transport)",
+          "pos": "verb",
+          "example": "Завтра я поеду в город.",
+          "exampleEn": "Tomorrow I will go to the city."
+        },
+        {
+          "russian": "автобус",
+          "translit": "avtóbus",
+          "english": "bus",
+          "pos": "noun",
+          "example": "Я еду на автобусе.",
+          "exampleEn": "I am going by bus."
+        },
+        {
+          "russian": "поезд",
+          "translit": "póyezd",
+          "english": "train",
+          "pos": "noun",
+          "example": "Поезд идёт на вокзал.",
+          "exampleEn": "The train goes to the station."
+        },
+        {
+          "russian": "машина",
+          "translit": "mashína",
+          "english": "car",
+          "pos": "noun",
+          "example": "Мы едем на машине.",
+          "exampleEn": "We are going by car."
+        },
+        {
+          "russian": "метро",
+          "translit": "metró",
+          "english": "metro / subway",
+          "pos": "noun",
+          "example": "Я еду на метро.",
+          "exampleEn": "I am going by metro."
+        },
+        {
+          "russian": "далеко",
+          "translit": "dalekó",
+          "english": "far",
+          "pos": "adverb",
+          "example": "Вокзал далеко.",
+          "exampleEn": "The station is far."
+        },
+        {
+          "russian": "завтра",
+          "translit": "závtra",
+          "english": "tomorrow",
+          "pos": "adverb",
+          "example": "Завтра мы поедем на море.",
+          "exampleEn": "Tomorrow we will go to the sea."
+        }
+      ],
+      "grammar": {
+        "title": "поехать — to set off by transport",
+        "explanation": "When the trip is **by transport** (or simply far away), use **ехать / поехать** instead of идти/пойти. **поехать** is the *set off* verb for the **future** and **past**.\n\n**Future:** я **поеду**, ты **поедешь**, он/она́ **поедет**, мы **поедем**, они́ **поедут**.\n\n**Past:** он **поехал**, она **поехала**, они́ **поехали** (regular -л endings).\n\nThe destination still uses **в/на + accusative**. To say *by what transport*, use **на + prepositional**: на автобус**е**, на маши**не**, на метро (no change).",
+        "examples": [
+          {
+            "russian": "Завтра я поеду в город на автобусе.",
+            "english": "Tomorrow I will go to the city by bus."
+          },
+          {
+            "russian": "Они поехали на море на машине.",
+            "english": "They went to the sea by car."
+          },
+          {
+            "russian": "Вокзал далеко, мы поедем на метро.",
+            "english": "The station is far, we will go by metro."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Едем в город",
+        "text": "— Завтра я поеду в город. Это далеко.\n— На чём ты поедешь?\n— На автобусе. А потом на метро.",
+        "translation": "— Tomorrow I will go to the city. It's far.\n— What will you go by?\n— By bus. And then by metro.",
+        "glossary": [
+          {
+            "russian": "на чём",
+            "english": "by what (transport)"
+          },
+          {
+            "russian": "далеко",
+            "english": "far"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you will travel tomorrow and how, using «Завтра я поеду в/на... на автобусе / на машине / на метро». Then say where you went last week with «Я поехал/поехала...»."
+    },
+    {
+      "day": 5,
+      "title": "Day 5: прийти & приехать — arriving",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "прийти",
+          "translit": "priytí",
+          "english": "to arrive / come (on foot)",
+          "pos": "verb",
+          "example": "Он пришёл домой поздно.",
+          "exampleEn": "He came home late."
+        },
+        {
+          "russian": "приехать",
+          "translit": "priékhat'",
+          "english": "to arrive (by transport)",
+          "pos": "verb",
+          "example": "Гости приехали вчера.",
+          "exampleEn": "The guests arrived yesterday."
+        },
+        {
+          "russian": "домой",
+          "translit": "domóy",
+          "english": "home (to home)",
+          "pos": "adverb",
+          "example": "Я иду домой.",
+          "exampleEn": "I am going home."
+        },
+        {
+          "russian": "поздно",
+          "translit": "pózdno",
+          "english": "late",
+          "pos": "adverb",
+          "example": "Он пришёл поздно.",
+          "exampleEn": "He came late."
+        },
+        {
+          "russian": "гость",
+          "translit": "gost'",
+          "english": "guest",
+          "pos": "noun",
+          "example": "К нам приехал гость.",
+          "exampleEn": "A guest came to us."
+        },
+        {
+          "russian": "аэропорт",
+          "translit": "aeropórt",
+          "english": "airport",
+          "pos": "noun",
+          "example": "Мы едем в аэропорт.",
+          "exampleEn": "We are going to the airport."
+        }
+      ],
+      "grammar": {
+        "title": "Arriving: прийти (on foot) and приехать (by transport)",
+        "explanation": "The prefix **при-** adds the meaning *arrive / come (and be here)*. It pairs with the two motion verbs:\n- on foot → **прийти**\n- by transport → **приехать**\n\n**прийти — past** (irregular, like пошёл): он **пришёл**, она **пришла**, они́ **пришли**. **Future:** я **приду**, ты **придёшь**, он **придёт**, они́ **придут**.\n\n**приехать — past** (regular): он **приехал**, она **приехала**, они́ **приехали**. **Future:** я **приеду**, ты **приедешь**, они́ **приедут**.\n\nNote the special word **домой** = *(to) home* (direction). It never takes в/на.",
+        "examples": [
+          {
+            "russian": "Папа пришёл домой поздно.",
+            "english": "Dad came home late."
+          },
+          {
+            "russian": "Гости приехали вчера.",
+            "english": "The guests arrived yesterday."
+          },
+          {
+            "russian": "Я приду завтра.",
+            "english": "I will come tomorrow."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Гость приехал",
+        "text": "— К нам приехал гость!\n— Когда он приехал?\n— Вчера. А домой он пришёл поздно, пешком.",
+        "translation": "— A guest has come to us!\n— When did he arrive?\n— Yesterday. And he came home late, on foot.",
+        "glossary": [
+          {
+            "russian": "к нам",
+            "english": "to us"
+          },
+          {
+            "russian": "домой",
+            "english": "(to) home"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell when people arrived: use «пришёл/пришла» for on foot and «приехал/приехала» for by transport. Say one sentence with «домой» (for example «Я пришёл домой поздно»)."
+    },
+    {
+      "day": 6,
+      "title": "Day 6: Asking & giving directions",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "налево",
+          "translit": "nalévo",
+          "english": "to the left",
+          "pos": "adverb",
+          "example": "Идите налево.",
+          "exampleEn": "Go to the left."
+        },
+        {
+          "russian": "направо",
+          "translit": "naprávo",
+          "english": "to the right",
+          "pos": "adverb",
+          "example": "Поверните направо.",
+          "exampleEn": "Turn to the right."
+        },
+        {
+          "russian": "прямо",
+          "translit": "pryámo",
+          "english": "straight ahead",
+          "pos": "adverb",
+          "example": "Идите прямо.",
+          "exampleEn": "Go straight ahead."
+        },
+        {
+          "russian": "близко",
+          "translit": "blízko",
+          "english": "near / close",
+          "pos": "adverb",
+          "example": "Магазин близко.",
+          "exampleEn": "The shop is close."
+        },
+        {
+          "russian": "остановка",
+          "translit": "ostanóvka",
+          "english": "(bus) stop",
+          "pos": "noun",
+          "example": "Остановка направо.",
+          "exampleEn": "The bus stop is on the right."
+        },
+        {
+          "russian": "извините",
+          "translit": "izviníte",
+          "english": "excuse me / sorry",
+          "pos": "phrase",
+          "example": "Извините, где вокзал?",
+          "exampleEn": "Excuse me, where is the station?"
+        },
+        {
+          "russian": "далеко ли",
+          "translit": "dalekó li",
+          "english": "is it far",
+          "pos": "phrase",
+          "example": "Далеко ли музей?",
+          "exampleEn": "Is the museum far?"
+        }
+      ],
+      "grammar": {
+        "title": "Putting it together: asking the way",
+        "explanation": "To ask the way politely, start with **Извините** and ask **где** (where is) + a place in the **prepositional/nominative** you already know, or **как пройти / как проехать** (how to get) + **в/на + accusative**:\n- Извините, **где** вокзал?\n- **Как пройти** в музей? (on foot)\n- **Как проехать** на вокзал? (by transport)\n\nGive directions with simple **direction adverbs**: **прямо** (straight), **налево** (left), **направо** (right), and distance words **близко** (near) / **далеко** (far).\n\nUse the polite command form **Идите...** (go) / **Поверните...** (turn): *Идите прямо, потом налево.*",
+        "examples": [
+          {
+            "russian": "Извините, как пройти в музей?",
+            "english": "Excuse me, how do I get to the museum?"
+          },
+          {
+            "russian": "Идите прямо, потом направо.",
+            "english": "Go straight, then to the right."
+          },
+          {
+            "russian": "Это близко? — Нет, далеко.",
+            "english": "Is it close? — No, it's far."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Где вокзал?",
+        "text": "— Извините, как пройти на вокзал?\n— Идите прямо, потом налево. Это близко.\n— Спасибо большое!",
+        "translation": "— Excuse me, how do I get to the station?\n— Go straight, then to the left. It's close.\n— Thank you very much!",
+        "glossary": [
+          {
+            "russian": "как пройти",
+            "english": "how to get (on foot)"
+          },
+          {
+            "russian": "прямо",
+            "english": "straight ahead"
+          }
+        ]
+      },
+      "speakingPrompt": "Play both roles: politely ask «Извините, как пройти в...?» and then give directions using «Идите прямо», «налево», «направо», and «близко» or «далеко»."
+    },
+    {
+      "day": 7,
+      "title": "Day 7: Review — travel & directions",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week recap: в/на + accusative and prefixed motion",
+        "explanation": "This week you learned to talk about **going places**.\n\n**Direction (куда?) = в/на + accusative.** Inanimate masculine/neuter don't change (в город, на вокзал); feminine -а becomes **-у** (в школ**у**, на работ**у**). Compare location **где?** (в город**е**) with direction **куда?** (в город).\n\n**Prefixed motion verbs:**\n- **пойти** (set off, on foot) — future: пойду, пойдёшь...; past: пошёл, пошла, пошли.\n- **поехать** (set off, by transport) — future: поеду, поедешь...; past: поехал(а/и).\n- **прийти** (arrive on foot) — past: пришёл, пришла, пришли.\n- **приехать** (arrive by transport) — past: приехал(а/и).\n\nSpecial word **домой** = (to) home. **Directions:** прямо, налево, направо, близко, далеко.",
+        "examples": [
+          {
+            "russian": "Куда ты идёшь? — В магазин, потом на работу.",
+            "english": "Where are you going? — To the shop, then to work."
+          },
+          {
+            "russian": "Завтра мы поедем в город на автобусе.",
+            "english": "Tomorrow we will go to the city by bus."
+          },
+          {
+            "russian": "Идите прямо, потом направо.",
+            "english": "Go straight, then to the right."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Поездка в город",
+        "text": "— Куда вы едете?\n— В город, на концерт. Мы поедем на метро.\n— Извините, как проехать на вокзал?\n— Идите прямо, потом налево. Это близко.\n— Спасибо! Гости приехали, и мы идём вместе.",
+        "translation": "— Where are you going?\n— To the city, to a concert. We'll go by metro.\n— Excuse me, how do I get to the station?\n— Go straight, then to the left. It's close.\n— Thanks! The guests have arrived, and we're going together.",
+        "glossary": [
+          {
+            "russian": "поездка",
+            "english": "trip"
+          },
+          {
+            "russian": "как проехать",
+            "english": "how to get (by transport)"
+          },
+          {
+            "russian": "вместе",
+            "english": "together"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short travel dialogue: say where you are going («Я еду в/на...»), how you'll get there («на автобусе / на метро»), ask the way («Извините, как пройти...?»), and give directions («прямо», «налево», «направо»). Use пойти/поехать and прийти/приехать at least once each."
+    }
+  ]
+}

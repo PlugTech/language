@@ -1,0 +1,644 @@
+{
+  "week": 12,
+  "theme": "Numbers & money",
+  "days": [
+    {
+      "day": 1,
+      "title": "Numbers 9–20",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "девять",
+          "translit": "dévyat'",
+          "english": "nine",
+          "pos": "number",
+          "example": "У меня девять книг.",
+          "exampleEn": "I have nine books."
+        },
+        {
+          "russian": "десять",
+          "translit": "désyat'",
+          "english": "ten",
+          "pos": "number",
+          "example": "Здесь десять стульев.",
+          "exampleEn": "There are ten chairs here."
+        },
+        {
+          "russian": "одиннадцать",
+          "translit": "odínnadtsat'",
+          "english": "eleven",
+          "pos": "number",
+          "example": "Мне одиннадцать лет.",
+          "exampleEn": "I am eleven years old."
+        },
+        {
+          "russian": "двенадцать",
+          "translit": "dvenádtsat'",
+          "english": "twelve",
+          "pos": "number",
+          "example": "Сейчас двенадцать часов.",
+          "exampleEn": "It is twelve o'clock now."
+        },
+        {
+          "russian": "пятнадцать",
+          "translit": "pyatnádtsat'",
+          "english": "fifteen",
+          "pos": "number",
+          "example": "В классе пятнадцать детей.",
+          "exampleEn": "There are fifteen children in the class."
+        },
+        {
+          "russian": "двадцать",
+          "translit": "dvádtsat'",
+          "english": "twenty",
+          "pos": "number",
+          "example": "Ей двадцать лет.",
+          "exampleEn": "She is twenty years old."
+        },
+        {
+          "russian": "число",
+          "translit": "chisló",
+          "english": "number / figure",
+          "pos": "noun",
+          "example": "Какое сегодня число?",
+          "exampleEn": "What is today's date (number)?"
+        }
+      ],
+      "grammar": {
+        "title": "Counting from 9 to 20",
+        "explanation": "This week is all about **numbers (числа)**. Today we learn 9–20. The numbers **11–19** are formed by joining a small number with **-надцать** (a worn-down form of \"on ten\"): оди́н + надцать = **одиннадцать**, две + надцать = **двенадцать**. Note the double **н** in **одиннадцать**. The number **20** is **двадцать** (\"two-tens\"). Stress usually falls on the first part: **двена́дцать, пятна́дцать**. For now, just use a number directly in front of a noun and don't worry about endings until tomorrow.",
+        "examples": [
+          {
+            "russian": "У меня десять рублей.",
+            "english": "I have ten roubles."
+          },
+          {
+            "russian": "Здесь двадцать человек.",
+            "english": "There are twenty people here."
+          },
+          {
+            "russian": "Мне девятнадцать лет.",
+            "english": "I am nineteen years old."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сколько лет? (How old?)",
+        "text": "— Сколько тебе лет? — Мне двадцать. А тебе? — Мне девятнадцать.",
+        "translation": "— How old are you? — I'm twenty. And you? — I'm nineteen.",
+        "glossary": [
+          {
+            "russian": "сколько",
+            "english": "how much / how many"
+          },
+          {
+            "russian": "тебе",
+            "english": "to you (dative)"
+          },
+          {
+            "russian": "лет",
+            "english": "years (with numbers)"
+          }
+        ]
+      },
+      "speakingPrompt": "Count aloud from 9 to 20 in Russian. Then say your age and the age of one family member: «Мне ... лет.»"
+    },
+    {
+      "day": 2,
+      "title": "Tens to 100",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "тридцать",
+          "translit": "trídtsat'",
+          "english": "thirty",
+          "pos": "number",
+          "example": "Ему тридцать лет.",
+          "exampleEn": "He is thirty years old."
+        },
+        {
+          "russian": "сорок",
+          "translit": "sórok",
+          "english": "forty",
+          "pos": "number",
+          "example": "В комнате сорок человек.",
+          "exampleEn": "There are forty people in the room."
+        },
+        {
+          "russian": "пятьдесят",
+          "translit": "pyat'desyát",
+          "english": "fifty",
+          "pos": "number",
+          "example": "Здесь пятьдесят книг.",
+          "exampleEn": "There are fifty books here."
+        },
+        {
+          "russian": "шестьдесят",
+          "translit": "shest'desyát",
+          "english": "sixty",
+          "pos": "number",
+          "example": "Моей бабушке шестьдесят лет.",
+          "exampleEn": "My grandmother is sixty years old."
+        },
+        {
+          "russian": "восемьдесят",
+          "translit": "vósem'desyat",
+          "english": "eighty",
+          "pos": "number",
+          "example": "Дедушке восемьдесят лет.",
+          "exampleEn": "Grandfather is eighty years old."
+        },
+        {
+          "russian": "девяносто",
+          "translit": "devyanósto",
+          "english": "ninety",
+          "pos": "number",
+          "example": "Здесь девяносто человек.",
+          "exampleEn": "There are ninety people here."
+        },
+        {
+          "russian": "сто",
+          "translit": "sto",
+          "english": "one hundred",
+          "pos": "number",
+          "example": "У меня сто рублей.",
+          "exampleEn": "I have one hundred roubles."
+        }
+      ],
+      "grammar": {
+        "title": "The round tens",
+        "explanation": "Now the round tens up to 100. Three of them are irregular and worth memorising: **сорок** (40), **девяносто** (90) and **сто** (100). The rest follow a pattern with **-дцать** or **-десят**: **тридцать** (30), then **пятьдесят, шестьдесят, восемьдесят** (\"five/six/eight tens\"). To build numbers in between, just say the ten and then the unit, with no \"and\": **двадцать оди́н** (21), **тридцать пять** (35), **девяносто де́вять** (99). Stress on **пятьдеся́т / шестьдеся́т** falls on the final syllable.",
+        "examples": [
+          {
+            "russian": "Мне тридцать пять лет.",
+            "english": "I am thirty-five years old."
+          },
+          {
+            "russian": "В книге сто страниц.",
+            "english": "There are a hundred pages in the book."
+          },
+          {
+            "russian": "Здесь сорок один человек.",
+            "english": "There are forty-one people here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сколько человек? (How many people?)",
+        "text": "— Сколько здесь человек? — Здесь сорок человек. — А там? — Там сто.",
+        "translation": "— How many people are here? — There are forty people here. — And over there? — There are a hundred.",
+        "glossary": [
+          {
+            "russian": "здесь",
+            "english": "here"
+          },
+          {
+            "russian": "там",
+            "english": "there"
+          },
+          {
+            "russian": "человек",
+            "english": "people (with numbers)"
+          }
+        ]
+      },
+      "speakingPrompt": "Count by tens from 10 to 100. Then say three random two-digit numbers aloud, e.g. 47, 63, 88."
+    },
+    {
+      "day": 3,
+      "title": "Money: рубль and доллар",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "деньги",
+          "translit": "dén'gi",
+          "english": "money",
+          "pos": "noun",
+          "example": "У меня есть деньги.",
+          "exampleEn": "I have money."
+        },
+        {
+          "russian": "рубль",
+          "translit": "rubl'",
+          "english": "rouble",
+          "pos": "noun",
+          "example": "Это стоит один рубль.",
+          "exampleEn": "This costs one rouble."
+        },
+        {
+          "russian": "доллар",
+          "translit": "dóllar",
+          "english": "dollar",
+          "pos": "noun",
+          "example": "У меня есть доллар.",
+          "exampleEn": "I have a dollar."
+        },
+        {
+          "russian": "евро",
+          "translit": "yévro",
+          "english": "euro",
+          "pos": "noun",
+          "example": "Это один евро.",
+          "exampleEn": "This is one euro."
+        },
+        {
+          "russian": "копейка",
+          "translit": "kopéyka",
+          "english": "kopeck",
+          "pos": "noun",
+          "example": "Это стоит одну копейку.",
+          "exampleEn": "This costs one kopeck."
+        },
+        {
+          "russian": "цена",
+          "translit": "tsená",
+          "english": "price",
+          "pos": "noun",
+          "example": "Хорошая цена!",
+          "exampleEn": "Good price!"
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "a lot / many",
+          "pos": "adverb",
+          "example": "У меня много денег.",
+          "exampleEn": "I have a lot of money."
+        }
+      ],
+      "grammar": {
+        "title": "The number 1 and \"one rouble\"",
+        "explanation": "Today we meet money words and the special behaviour of the number **1**. The word **оди́н** (one) acts like an adjective and changes to match the noun's gender: **оди́н рубль** (m), **одна́ копе́йка** (f), **одно́ окно́** (n). After **оди́н/одна́** the noun stays in its normal dictionary (nominative singular) form — easy! Remember that **деньги** (money) is plural-only in Russian, so we say «де́ньги есть» — \"there is money.\"",
+        "examples": [
+          {
+            "russian": "Это один рубль.",
+            "english": "This is one rouble."
+          },
+          {
+            "russian": "У меня одна копейка.",
+            "english": "I have one kopeck."
+          },
+          {
+            "russian": "Один доллар — хорошая цена.",
+            "english": "One dollar is a good price."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Деньги (Money)",
+        "text": "— У тебя есть деньги? — Да, у меня есть один доллар и один рубль.",
+        "translation": "— Do you have money? — Yes, I have one dollar and one rouble.",
+        "glossary": [
+          {
+            "russian": "у тебя есть",
+            "english": "do you have"
+          },
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what currency you have using the correct form of «один/одна»: «У меня один доллар», «У меня одна копейка»."
+    },
+    {
+      "day": 4,
+      "title": "Два, три, четыре + noun",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "два",
+          "translit": "dva",
+          "english": "two (masc./neut.)",
+          "pos": "number",
+          "example": "У меня два рубля.",
+          "exampleEn": "I have two roubles."
+        },
+        {
+          "russian": "две",
+          "translit": "dve",
+          "english": "two (fem.)",
+          "pos": "number",
+          "example": "У меня две копейки.",
+          "exampleEn": "I have two kopecks."
+        },
+        {
+          "russian": "три",
+          "translit": "tri",
+          "english": "three",
+          "pos": "number",
+          "example": "Это стоит три рубля.",
+          "exampleEn": "This costs three roubles."
+        },
+        {
+          "russian": "четыре",
+          "translit": "chetýre",
+          "english": "four",
+          "pos": "number",
+          "example": "У него четыре доллара.",
+          "exampleEn": "He has four dollars."
+        },
+        {
+          "russian": "стоить",
+          "translit": "stóit'",
+          "english": "to cost",
+          "pos": "verb",
+          "example": "Сколько это стоит?",
+          "exampleEn": "How much does this cost?"
+        },
+        {
+          "russian": "дорого",
+          "translit": "dórogo",
+          "english": "expensive (it's expensive)",
+          "pos": "adverb",
+          "example": "Это очень дорого.",
+          "exampleEn": "This is very expensive."
+        },
+        {
+          "russian": "дёшево",
+          "translit": "dyóshevo",
+          "english": "cheap (it's cheap)",
+          "pos": "adverb",
+          "example": "Здесь всё дёшево.",
+          "exampleEn": "Everything is cheap here."
+        }
+      ],
+      "grammar": {
+        "title": "2, 3, 4 + genitive singular",
+        "explanation": "Here is the first big number rule. After **два/две, три, четыре** the noun takes the **genitive singular** ending — NOT a plural. For most masculine and neuter nouns add **-а/-я**: рубль → **два рубля́**, доллар → **три до́ллара**. Feminine nouns add **-ы/-и**: копе́йка → **две копе́йки**, мину́та → **три мину́ты**. Also note gender: use **два** with masculine/neuter and **две** with feminine. The verb **сто́ить** (to cost) gives us the key question: «Ско́лько сто́ит?» (How much does it cost?).",
+        "examples": [
+          {
+            "russian": "У меня два доллара.",
+            "english": "I have two dollars."
+          },
+          {
+            "russian": "Это стоит три рубля.",
+            "english": "This costs three roubles."
+          },
+          {
+            "russian": "У неё две копейки.",
+            "english": "She has two kopecks."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сколько стоит? (How much?)",
+        "text": "— Сколько стоит? — Три рубля. — А это? — Четыре доллара. Дёшево!",
+        "translation": "— How much does it cost? — Three roubles. — And this? — Four dollars. Cheap!",
+        "glossary": [
+          {
+            "russian": "сколько стоит",
+            "english": "how much does it cost"
+          },
+          {
+            "russian": "а это",
+            "english": "and this (one)"
+          }
+        ]
+      },
+      "speakingPrompt": "Practise the genitive singular: say «два рубля», «три доллара», «две копейки», «четыре доллара» aloud."
+    },
+    {
+      "day": 5,
+      "title": "Пять и больше + noun",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "пять",
+          "translit": "pyat'",
+          "english": "five",
+          "pos": "number",
+          "example": "У меня пять рублей.",
+          "exampleEn": "I have five roubles."
+        },
+        {
+          "russian": "шесть",
+          "translit": "shest'",
+          "english": "six",
+          "pos": "number",
+          "example": "Это стоит шесть рублей.",
+          "exampleEn": "This costs six roubles."
+        },
+        {
+          "russian": "семь",
+          "translit": "sem'",
+          "english": "seven",
+          "pos": "number",
+          "example": "У него семь долларов.",
+          "exampleEn": "He has seven dollars."
+        },
+        {
+          "russian": "восемь",
+          "translit": "vósem'",
+          "english": "eight",
+          "pos": "number",
+          "example": "Здесь восемь рублей.",
+          "exampleEn": "There are eight roubles here."
+        },
+        {
+          "russian": "рублей",
+          "translit": "rubléy",
+          "english": "roubles (gen. pl.)",
+          "pos": "noun",
+          "example": "Это стоит десять рублей.",
+          "exampleEn": "This costs ten roubles."
+        },
+        {
+          "russian": "долларов",
+          "translit": "dóllarov",
+          "english": "dollars (gen. pl.)",
+          "pos": "noun",
+          "example": "У меня сто долларов.",
+          "exampleEn": "I have a hundred dollars."
+        },
+        {
+          "russian": "копеек",
+          "translit": "kopéyek",
+          "english": "kopecks (gen. pl.)",
+          "pos": "noun",
+          "example": "Это стоит пять копеек.",
+          "exampleEn": "This costs five kopecks."
+        }
+      ],
+      "grammar": {
+        "title": "5 and above + genitive plural",
+        "explanation": "From **пять (5)** upward — and for **0** — the noun takes the **genitive plural**. The money words give us three patterns to memorise as set forms: **рубль → пять рубле́й**, **доллар → пять до́лларов**, **копе́йка → пять копе́ек**. Numbers ending in 5–20 always use the genitive plural: **де́сять рубле́й, двена́дцать до́лларов**. Quick rule of thumb for the units digit: **1** → nom. sg. (оди́н рубль), **2–4** → gen. sg. (два рубля́), **5–20** → gen. pl. (пять рубле́й).",
+        "examples": [
+          {
+            "russian": "Это стоит пять рублей.",
+            "english": "This costs five roubles."
+          },
+          {
+            "russian": "У меня восемь долларов.",
+            "english": "I have eight dollars."
+          },
+          {
+            "russian": "Десять копеек — это мало.",
+            "english": "Ten kopecks is little."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазине (At the shop)",
+        "text": "— Сколько стоит? — Пять рублей. — А вода? — Восемь рублей.",
+        "translation": "— How much does it cost? — Five roubles. — And the water? — Eight roubles.",
+        "glossary": [
+          {
+            "russian": "вода",
+            "english": "water"
+          },
+          {
+            "russian": "магазин",
+            "english": "shop"
+          }
+        ]
+      },
+      "speakingPrompt": "Say five prices using the genitive plural: «пять рублей», «семь долларов», «восемь копеек», «десять рублей», «шесть долларов»."
+    },
+    {
+      "day": 6,
+      "title": "Asking and giving prices",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "стоит",
+          "translit": "stóit",
+          "english": "(it) costs",
+          "pos": "verb",
+          "example": "Сколько это стоит?",
+          "exampleEn": "How much does this cost?"
+        },
+        {
+          "russian": "касса",
+          "translit": "kássa",
+          "english": "checkout / till",
+          "pos": "noun",
+          "example": "Где касса?",
+          "exampleEn": "Where is the checkout?"
+        },
+        {
+          "russian": "карта",
+          "translit": "kárta",
+          "english": "card (payment card)",
+          "pos": "noun",
+          "example": "У меня есть карта.",
+          "exampleEn": "I have a card."
+        },
+        {
+          "russian": "наличные",
+          "translit": "nalíchnye",
+          "english": "cash",
+          "pos": "noun",
+          "example": "Только наличные.",
+          "exampleEn": "Cash only."
+        },
+        {
+          "russian": "сдача",
+          "translit": "sdácha",
+          "english": "change (money back)",
+          "pos": "noun",
+          "example": "Вот ваша сдача.",
+          "exampleEn": "Here is your change."
+        },
+        {
+          "russian": "всего",
+          "translit": "vsegó",
+          "english": "in total / altogether",
+          "pos": "adverb",
+          "example": "Всего сто рублей.",
+          "exampleEn": "A hundred roubles in total."
+        },
+        {
+          "russian": "недорого",
+          "translit": "nedórogo",
+          "english": "inexpensive (not expensive)",
+          "pos": "adverb",
+          "example": "Это недорого.",
+          "exampleEn": "This is not expensive."
+        }
+      ],
+      "grammar": {
+        "title": "Putting it together: «Сколько стоит?»",
+        "explanation": "Now we use everything together. To ask a price: **«Ско́лько сто́ит?»** (How much does it cost? — for one thing) or **«Ско́лько сто́ят?»** for several things. To answer, give the number plus the correctly-agreeing money word: **«Сто́ит три рубля́»**, **«Сто́ит пять рубле́й»**. Use **всего́** for the total: **«Всего́ два́дцать рубле́й.»** Remember the agreement chain by the last digit of the number: **1 → рубль**, **2–4 → рубля́**, **5–0 → рубле́й**. So 21 rouble → «два́дцать оди́н рубль», 22 → «два́дцать два рубля́», 25 → «два́дцать пять рубле́й».",
+        "examples": [
+          {
+            "russian": "Сколько это стоит?",
+            "english": "How much does this cost?"
+          },
+          {
+            "russian": "Всего двадцать один рубль.",
+            "english": "Twenty-one roubles in total."
+          },
+          {
+            "russian": "Это недорого: пять долларов.",
+            "english": "It's inexpensive: five dollars."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На кассе (At the checkout)",
+        "text": "— Сколько стоит? — Двадцать рублей. — Карта или наличные? — Карта.",
+        "translation": "— How much does it cost? — Twenty roubles. — Card or cash? — Card.",
+        "glossary": [
+          {
+            "russian": "или",
+            "english": "or"
+          },
+          {
+            "russian": "карта",
+            "english": "card"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a checkout: ask «Сколько стоит?», answer with a total in roubles, and say whether you pay «карта» or «наличные»."
+    },
+    {
+      "day": 7,
+      "title": "Review: Numbers & money",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week recap: numbers and agreement",
+        "explanation": "This week you learned numbers **9–100** and how the noun changes after a number. The key is the **last digit** of the number:\n\n- **1** (оди́н/одна́/одно́) → noun in **nominative singular**: оди́н рубль\n- **2, 3, 4** (два/две, три, четы́ре) → **genitive singular**: два рубля́, три до́ллара, две копе́йки\n- **5–20 and tens** → **genitive plural**: пять рубле́й, де́сять до́лларов, два́дцать копе́ек\n\nYou also met money words (**рубль, до́ллар, евро, копе́йка, де́ньги**), the verb **сто́ить**, and the questions **«Ско́лько сто́ит?»** and **«Ско́лько у тебя́ де́нег?»**. Watch the gender of **два/две** and the irregular tens **со́рок, девяно́сто, сто**.",
+        "examples": [
+          {
+            "russian": "У меня двадцать один рубль.",
+            "english": "I have twenty-one roubles."
+          },
+          {
+            "russian": "Это стоит три доллара.",
+            "english": "This costs three dollars."
+          },
+          {
+            "russian": "Всего пятьдесят рублей.",
+            "english": "Fifty roubles in total."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сколько стоит вода? (How much is the water?)",
+        "text": "— Сколько стоит вода? — Двадцать два рубля. — А это? — Пять рублей. — Всего двадцать семь рублей.",
+        "translation": "— How much is the water? — Twenty-two roubles. — And this? — Five roubles. — Twenty-seven roubles in total.",
+        "glossary": [
+          {
+            "russian": "вода",
+            "english": "water"
+          },
+          {
+            "russian": "всего",
+            "english": "in total"
+          },
+          {
+            "russian": "а это",
+            "english": "and this (one)"
+          }
+        ]
+      },
+      "speakingPrompt": "Review aloud: count by tens 10–100; then say five prices, choosing рубль / рубля / рублей correctly for the numbers 1, 3, 5, 22, and 50. Finally role-play asking «Сколько стоит?» and giving a total with «всего»."
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "week": 20,
+  "theme": "With whom & how",
+  "days": [
+    {
+      "day": 1,
+      "title": "С кем? — Going places with people",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "с",
+          "translit": "s",
+          "english": "with",
+          "pos": "phrase",
+          "example": "Я иду с другом.",
+          "exampleEn": "I am going with a friend."
+        },
+        {
+          "russian": "друг",
+          "translit": "drug",
+          "english": "friend (male)",
+          "pos": "noun",
+          "example": "Это мой друг.",
+          "exampleEn": "This is my friend."
+        },
+        {
+          "russian": "подруга",
+          "translit": "podrúga",
+          "english": "friend (female)",
+          "pos": "noun",
+          "example": "Я гуляю с подругой.",
+          "exampleEn": "I am walking with a friend."
+        },
+        {
+          "russian": "брат",
+          "translit": "brat",
+          "english": "brother",
+          "pos": "noun",
+          "example": "Я живу с братом.",
+          "exampleEn": "I live with my brother."
+        },
+        {
+          "russian": "сестра",
+          "translit": "sestrá",
+          "english": "sister",
+          "pos": "noun",
+          "example": "Я играю с сестрой.",
+          "exampleEn": "I am playing with my sister."
+        },
+        {
+          "russian": "вместе",
+          "translit": "vméste",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Мы работаем вместе.",
+          "exampleEn": "We work together."
+        },
+        {
+          "russian": "сосед",
+          "translit": "soséd",
+          "english": "neighbour",
+          "pos": "noun",
+          "example": "Я говорю с соседом.",
+          "exampleEn": "I am talking with my neighbour."
+        }
+      ],
+      "grammar": {
+        "title": "The instrumental case with с (\"with someone\")",
+        "explanation": "To say you do something **with a person**, use **с + the instrumental case**. For most masculine nouns add **-ом** (друг → с друг**ом**). For feminine nouns ending in **-а/-я**, change to **-ой/-ей** (сестра → с сестр**ой**, подруга → с подруг**ой**). Note the stress and the spelling change: сестра → с сестр**о́й**.",
+        "examples": [
+          {
+            "russian": "Я иду в кино с другом.",
+            "english": "I am going to the cinema with a friend."
+          },
+          {
+            "russian": "Она живёт с сестрой.",
+            "english": "She lives with her sister."
+          },
+          {
+            "russian": "Мы гуляем вместе с соседом.",
+            "english": "We are walking together with the neighbour."
+          }
+        ]
+      },
+      "reading": {
+        "title": "С кем ты идёшь?",
+        "text": "— С кем ты идёшь в кино? — Я иду с братом и подругой. Мы любим кино.",
+        "translation": "— Who are you going to the cinema with? — I am going with my brother and a friend. We love cinema.",
+        "glossary": [
+          {
+            "russian": "в кино",
+            "english": "to the cinema"
+          },
+          {
+            "russian": "любим",
+            "english": "(we) love"
+          }
+        ]
+      },
+      "speakingPrompt": "Say out loud who you do three everyday things with. For example: \"Я гуляю с другом\", \"Я живу с сестрой\", \"Я работаю с соседом\"."
+    },
+    {
+      "day": 2,
+      "title": "С мамой и папой — Family in the instrumental",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "мама",
+          "translit": "máma",
+          "english": "mum",
+          "pos": "noun",
+          "example": "Я живу с мамой.",
+          "exampleEn": "I live with my mum."
+        },
+        {
+          "russian": "папа",
+          "translit": "pápa",
+          "english": "dad",
+          "pos": "noun",
+          "example": "Я говорю с папой.",
+          "exampleEn": "I am talking with my dad."
+        },
+        {
+          "russian": "муж",
+          "translit": "muzh",
+          "english": "husband",
+          "pos": "noun",
+          "example": "Она живёт с мужем.",
+          "exampleEn": "She lives with her husband."
+        },
+        {
+          "russian": "жена",
+          "translit": "zhená",
+          "english": "wife",
+          "pos": "noun",
+          "example": "Он гуляет с женой.",
+          "exampleEn": "He is walking with his wife."
+        },
+        {
+          "russian": "ребёнок",
+          "translit": "rebyónok",
+          "english": "child",
+          "pos": "noun",
+          "example": "Я играю с ребёнком.",
+          "exampleEn": "I am playing with the child."
+        },
+        {
+          "russian": "семья",
+          "translit": "sem'yá",
+          "english": "family",
+          "pos": "noun",
+          "example": "Я живу с семьёй.",
+          "exampleEn": "I live with my family."
+        },
+        {
+          "russian": "родители",
+          "translit": "rodíteli",
+          "english": "parents",
+          "pos": "noun",
+          "example": "Я живу с родителями.",
+          "exampleEn": "I live with my parents."
+        }
+      ],
+      "grammar": {
+        "title": "Instrumental endings after с (single people)",
+        "explanation": "After hissing/soft consonants masculine nouns take **-ем** instead of -ом: муж → с муж**ем**. Feminine **-а** becomes **-ой** (мама → с мам**ой**), and **-я** becomes **-ёй/-ей** (жена → с жен**ой**, семья → с семь**ёй**). Plural \"parents\" uses **-ами/-ями**: родители → с родител**ями**. We will study the full plural pattern soon — for now just learn these family forms.",
+        "examples": [
+          {
+            "russian": "Я живу с мамой и папой.",
+            "english": "I live with my mum and dad."
+          },
+          {
+            "russian": "Он гуляет с женой и ребёнком.",
+            "english": "He is walking with his wife and child."
+          },
+          {
+            "russian": "Мы отдыхаем с семьёй.",
+            "english": "We are relaxing with the family."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Дома",
+        "text": "Я живу с мамой, папой и братом. Сестра живёт с мужем. Мы любим отдыхать вместе.",
+        "translation": "I live with my mum, dad and brother. My sister lives with her husband. We love to relax together.",
+        "glossary": [
+          {
+            "russian": "дома",
+            "english": "at home"
+          },
+          {
+            "russian": "отдыхать",
+            "english": "to relax / to rest"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe who lives in your home using \"Я живу с...\". Then say one person your relatives live with, e.g. \"Сестра живёт с мужем\"."
+    },
+    {
+      "day": 3,
+      "title": "Чай с молоком — \"with\" for food and drinks",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "чай",
+          "translit": "chay",
+          "english": "tea",
+          "pos": "noun",
+          "example": "Я люблю чай с лимоном.",
+          "exampleEn": "I love tea with lemon."
+        },
+        {
+          "russian": "молоко",
+          "translit": "molokó",
+          "english": "milk",
+          "pos": "noun",
+          "example": "Кофе с молоком, пожалуйста.",
+          "exampleEn": "Coffee with milk, please."
+        },
+        {
+          "russian": "сахар",
+          "translit": "sákhar",
+          "english": "sugar",
+          "pos": "noun",
+          "example": "Чай с сахаром.",
+          "exampleEn": "Tea with sugar."
+        },
+        {
+          "russian": "лимон",
+          "translit": "limón",
+          "english": "lemon",
+          "pos": "noun",
+          "example": "Я пью чай с лимоном.",
+          "exampleEn": "I drink tea with lemon."
+        },
+        {
+          "russian": "хлеб",
+          "translit": "khleb",
+          "english": "bread",
+          "pos": "noun",
+          "example": "Хлеб с сыром очень вкусный.",
+          "exampleEn": "Bread with cheese is very tasty."
+        },
+        {
+          "russian": "сыр",
+          "translit": "syr",
+          "english": "cheese",
+          "pos": "noun",
+          "example": "Я ем хлеб с сыром.",
+          "exampleEn": "I am eating bread with cheese."
+        },
+        {
+          "russian": "вкусный",
+          "translit": "vkúsnyy",
+          "english": "tasty",
+          "pos": "adjective",
+          "example": "Это очень вкусный чай.",
+          "exampleEn": "This is very tasty tea."
+        }
+      ],
+      "grammar": {
+        "title": "с + instrumental for ingredients",
+        "explanation": "The same **с + instrumental** also means \"with\" for food and drinks. Neuter nouns ending in **-о** take **-ом**: молоко → с молок**ом**. Masculine nouns work as before: сахар → с сахар**ом**, лимон → с лимон**ом**, сыр → с сыр**ом**. This is how you order things in a café.",
+        "examples": [
+          {
+            "russian": "Чай с сахаром, пожалуйста.",
+            "english": "Tea with sugar, please."
+          },
+          {
+            "russian": "Я люблю кофе с молоком.",
+            "english": "I love coffee with milk."
+          },
+          {
+            "russian": "Хлеб с сыром очень вкусный.",
+            "english": "Bread with cheese is very tasty."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафе",
+        "text": "— Что вы хотите? — Чай с лимоном и хлеб с сыром, пожалуйста. — Очень вкусно!",
+        "translation": "— What would you like? — Tea with lemon and bread with cheese, please. — Very tasty!",
+        "glossary": [
+          {
+            "russian": "что вы хотите?",
+            "english": "what would you like?"
+          },
+          {
+            "russian": "пожалуйста",
+            "english": "please"
+          }
+        ]
+      },
+      "speakingPrompt": "Order two things in a café using \"...пожалуйста\". For example: \"Чай с молоком, пожалуйста\" and \"Хлеб с сыром, пожалуйста\"."
+    },
+    {
+      "day": 4,
+      "title": "Чем ты пишешь? — Tools and means",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ручка",
+          "translit": "rúchka",
+          "english": "pen",
+          "pos": "noun",
+          "example": "Я пишу ручкой.",
+          "exampleEn": "I write with a pen."
+        },
+        {
+          "russian": "карандаш",
+          "translit": "karandásh",
+          "english": "pencil",
+          "pos": "noun",
+          "example": "Ребёнок рисует карандашом.",
+          "exampleEn": "The child draws with a pencil."
+        },
+        {
+          "russian": "нож",
+          "translit": "nozh",
+          "english": "knife",
+          "pos": "noun",
+          "example": "Я режу хлеб ножом.",
+          "exampleEn": "I cut bread with a knife."
+        },
+        {
+          "russian": "ложка",
+          "translit": "lózhka",
+          "english": "spoon",
+          "pos": "noun",
+          "example": "Я ем суп ложкой.",
+          "exampleEn": "I eat soup with a spoon."
+        },
+        {
+          "russian": "писать",
+          "translit": "pisát'",
+          "english": "to write",
+          "pos": "verb",
+          "example": "Я люблю писать письма.",
+          "exampleEn": "I love to write letters."
+        },
+        {
+          "russian": "рисовать",
+          "translit": "risovát'",
+          "english": "to draw",
+          "pos": "verb",
+          "example": "Дети любят рисовать.",
+          "exampleEn": "Children love to draw."
+        },
+        {
+          "russian": "резать",
+          "translit": "rézat'",
+          "english": "to cut",
+          "pos": "verb",
+          "example": "Я режу сыр.",
+          "exampleEn": "I am cutting cheese."
+        }
+      ],
+      "grammar": {
+        "title": "Instrumental for the tool (no preposition!)",
+        "explanation": "To say what tool or instrument you use, put the noun in the **instrumental case with NO preposition**. It answers the question **чем?** (\"with what / by what means?\"). Masculine: нож → нож**о́м**, карандаш → карандаш**о́м**. Feminine: ручка → ручк**ой**, ложка → ложк**ой**. Compare: **с другом** (with a person, uses с) versus **ручкой** (with a pen, no с).",
+        "examples": [
+          {
+            "russian": "Я пишу ручкой.",
+            "english": "I write with a pen."
+          },
+          {
+            "russian": "Он рисует карандашом.",
+            "english": "He draws with a pencil."
+          },
+          {
+            "russian": "Мы едим суп ложкой.",
+            "english": "We eat soup with a spoon."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В школе",
+        "text": "Брат пишет ручкой, а сестра рисует карандашом. Мама режет хлеб ножом.",
+        "translation": "My brother writes with a pen, and my sister draws with a pencil. Mum cuts bread with a knife.",
+        "glossary": [
+          {
+            "russian": "в школе",
+            "english": "at school"
+          },
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you use for three actions, with no preposition. For example: \"Я пишу ручкой\", \"Я ем ложкой\", \"Я режу ножом\"."
+    },
+    {
+      "day": 5,
+      "title": "Кто ты по профессии? — Professions",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "врач",
+          "translit": "vrach",
+          "english": "doctor",
+          "pos": "noun",
+          "example": "Моя мама врач.",
+          "exampleEn": "My mum is a doctor."
+        },
+        {
+          "russian": "учитель",
+          "translit": "uchítel'",
+          "english": "teacher (male)",
+          "pos": "noun",
+          "example": "Мой папа учитель.",
+          "exampleEn": "My dad is a teacher."
+        },
+        {
+          "russian": "инженер",
+          "translit": "inzhenér",
+          "english": "engineer",
+          "pos": "noun",
+          "example": "Брат работает инженером.",
+          "exampleEn": "My brother works as an engineer."
+        },
+        {
+          "russian": "продавец",
+          "translit": "prodavéts",
+          "english": "shop assistant / seller",
+          "pos": "noun",
+          "example": "Она работает продавцом.",
+          "exampleEn": "She works as a shop assistant."
+        },
+        {
+          "russian": "повар",
+          "translit": "póvar",
+          "english": "cook / chef",
+          "pos": "noun",
+          "example": "Он хочет быть поваром.",
+          "exampleEn": "He wants to be a cook."
+        },
+        {
+          "russian": "профессия",
+          "translit": "proféssiya",
+          "english": "profession",
+          "pos": "noun",
+          "example": "Это хорошая профессия.",
+          "exampleEn": "This is a good profession."
+        },
+        {
+          "russian": "работать",
+          "translit": "rabótat'",
+          "english": "to work",
+          "pos": "verb",
+          "example": "Я люблю работать.",
+          "exampleEn": "I love to work."
+        }
+      ],
+      "grammar": {
+        "title": "Profession with быть and работать (instrumental)",
+        "explanation": "In the **present tense** we say a profession with the nominative and no verb: **Мой папа учитель** (My dad is a teacher). But after the verbs **работать** (\"to work as\") and **быть** (\"to be\"), the profession goes into the **instrumental**: работать врач**о́м**, быть повар**ом**, работать инженер**ом**. Soft nouns like учитель take **-ем**: быть учител**ем**.",
+        "examples": [
+          {
+            "russian": "Моя мама врач.",
+            "english": "My mum is a doctor."
+          },
+          {
+            "russian": "Брат работает инженером.",
+            "english": "My brother works as an engineer."
+          },
+          {
+            "russian": "Я хочу быть поваром.",
+            "english": "I want to be a cook."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моя семья",
+        "text": "Мама — врач, а папа работает учителем. Я хочу быть поваром. Это хорошая профессия.",
+        "translation": "Mum is a doctor, and dad works as a teacher. I want to be a cook. It is a good profession.",
+        "glossary": [
+          {
+            "russian": "хочу",
+            "english": "(I) want"
+          },
+          {
+            "russian": "хорошая",
+            "english": "good (feminine)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what two people you know do, using both patterns: \"Мама — врач\" (no verb) and \"Папа работает учителем\" (with работать + instrumental)."
+    },
+    {
+      "day": 6,
+      "title": "С удовольствием — putting \"with whom & how\" together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "коллега",
+          "translit": "kolléga",
+          "english": "colleague",
+          "pos": "noun",
+          "example": "Я говорю с коллегой.",
+          "exampleEn": "I am talking with a colleague."
+        },
+        {
+          "russian": "начальник",
+          "translit": "nachál'nik",
+          "english": "boss",
+          "pos": "noun",
+          "example": "Я работаю с начальником.",
+          "exampleEn": "I work with the boss."
+        },
+        {
+          "russian": "компьютер",
+          "translit": "kompyúter",
+          "english": "computer",
+          "pos": "noun",
+          "example": "Я работаю с компьютером.",
+          "exampleEn": "I work with a computer."
+        },
+        {
+          "russian": "телефон",
+          "translit": "telefón",
+          "english": "telephone",
+          "pos": "noun",
+          "example": "Я звоню по телефону.",
+          "exampleEn": "I call by telephone."
+        },
+        {
+          "russian": "удовольствие",
+          "translit": "udovól'stviye",
+          "english": "pleasure",
+          "pos": "noun",
+          "example": "Я помогаю с удовольствием.",
+          "exampleEn": "I help with pleasure."
+        },
+        {
+          "russian": "помогать",
+          "translit": "pomogát'",
+          "english": "to help",
+          "pos": "verb",
+          "example": "Я люблю помогать.",
+          "exampleEn": "I love to help."
+        },
+        {
+          "russian": "разговаривать",
+          "translit": "razgovárivat'",
+          "english": "to chat / converse",
+          "pos": "verb",
+          "example": "Я разговариваю с другом.",
+          "exampleEn": "I am chatting with a friend."
+        }
+      ],
+      "grammar": {
+        "title": "All three uses of the instrumental together",
+        "explanation": "This week's instrumental has three jobs. **(1) с + person** = with someone: разговаривать **с коллегой**. **(2) tool, no preposition** = by means of: писать **ручкой**. **(3) profession** after работать/быть: работать **инженером**. There is also a handy fixed phrase: **с удовольствием** = \"with pleasure / gladly\".",
+        "examples": [
+          {
+            "russian": "Я разговариваю с начальником.",
+            "english": "I am chatting with the boss."
+          },
+          {
+            "russian": "Она работает продавцом.",
+            "english": "She works as a shop assistant."
+          },
+          {
+            "russian": "Я помогаю с удовольствием.",
+            "english": "I help with pleasure."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На работе",
+        "text": "Я работаю инженером. Я работаю с компьютером и разговариваю с коллегой. Я помогаю с удовольствием.",
+        "translation": "I work as an engineer. I work with a computer and chat with a colleague. I help with pleasure.",
+        "glossary": [
+          {
+            "russian": "на работе",
+            "english": "at work"
+          }
+        ]
+      },
+      "speakingPrompt": "Make three sentences mixing the uses: one with a person (с коллегой), one with a tool (компьютером), and one profession (работаю...). End one sentence with \"с удовольствием\"."
+    },
+    {
+      "day": 7,
+      "title": "Review: With whom & how",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Instrumental case recap",
+        "explanation": "Three uses this week: **(1)** **с + instrumental** for accompaniment — с друг**ом**, с сестр**ой**, с молок**ом**. **(2)** **instrumental alone** for a tool/means — ручк**ой**, нож**о́й**. **(3)** **instrumental after работать/быть** for professions — работать врач**о́м**, быть учител**ем**. Endings: masc. **-ом/-ем**, fem. **-ой/-ей**, neuter **-ом**. Remember: people get **с**, tools do not.",
+        "examples": [
+          {
+            "russian": "Я гуляю с подругой.",
+            "english": "I am walking with a friend."
+          },
+          {
+            "russian": "Я ем суп ложкой.",
+            "english": "I eat soup with a spoon."
+          },
+          {
+            "russian": "Папа работает поваром.",
+            "english": "Dad works as a cook."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кто ты и с кем?",
+        "text": "— Кто ты по профессии? — Я врач. Я работаю с коллегой. — А дома? — Дома я живу с мамой и братом. Мы пьём чай с лимоном.",
+        "translation": "— What is your profession? — I am a doctor. I work with a colleague. — And at home? — At home I live with my mum and brother. We drink tea with lemon.",
+        "glossary": [
+          {
+            "russian": "кто ты по профессии?",
+            "english": "what is your profession?"
+          },
+          {
+            "russian": "пьём",
+            "english": "(we) drink"
+          }
+        ]
+      },
+      "speakingPrompt": "Answer out loud: \"Кто ты по профессии?\" and \"С кем ты живёшь?\". Then say one thing you do with a tool (e.g. \"Я пишу ручкой\") and use the phrase \"с удовольствием\" once."
+    }
+  ]
+}

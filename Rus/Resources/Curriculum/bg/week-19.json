@@ -1,0 +1,628 @@
+{
+  "theme": "Likes &amp; age",
+  "week": 19,
+  "days": [
+    {
+      "day": 1,
+      "title": "Likes & age: I like it (харесва ми)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "харесва",
+          "translit": "harésva",
+          "english": "(it) pleases / (someone) likes",
+          "pos": "verb",
+          "example": "Тази книга ми харесва.",
+          "exampleEn": "I like this book."
+        },
+        {
+          "russian": "ми",
+          "translit": "mi",
+          "english": "to me (short pronoun)",
+          "pos": "pronoun",
+          "example": "Градът ми харесва.",
+          "exampleEn": "I like the city."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "very / a lot",
+          "pos": "adverb",
+          "example": "Това ми харесва много.",
+          "exampleEn": "I like this a lot."
+        },
+        {
+          "russian": "филм",
+          "translit": "film",
+          "english": "film / movie",
+          "pos": "noun",
+          "example": "Филмът ми харесва.",
+          "exampleEn": "I like the film."
+        },
+        {
+          "russian": "песен",
+          "translit": "pésen",
+          "english": "song",
+          "pos": "noun",
+          "example": "Тази песен ми харесва.",
+          "exampleEn": "I like this song."
+        },
+        {
+          "russian": "малко",
+          "translit": "málko",
+          "english": "a little / a bit",
+          "pos": "adverb",
+          "example": "Харесва ми малко.",
+          "exampleEn": "I like it a little."
+        },
+        {
+          "russian": "наистина",
+          "translit": "naístina",
+          "english": "really / truly",
+          "pos": "adverb",
+          "example": "Наистина ми харесва.",
+          "exampleEn": "I really like it."
+        }
+      ],
+      "grammar": {
+        "title": "Saying \"I like it\": харесва ми",
+        "explanation": "Bulgarian expresses liking with харесва (it pleases) plus a short \"to me\" pronoun: харесва ми = \"it pleases to me\" = I like it. The thing you like is the subject, so the verb agrees with it. For one thing use харесва: Филмът ми харесва (I like the film). The short pronoun ми means \"to me\"; for other people you change it: ти (to you), му (to him), ѝ (to her). Word order is flexible: Харесва ми тази песен or Тази песен ми харесва both work. Note there are no case endings on nouns — relations come from word order and these little pronouns.",
+        "examples": [
+          {
+            "russian": "Харесва ми тази книга.",
+            "english": "I like this book."
+          },
+          {
+            "russian": "Филмът много ми харесва.",
+            "english": "I like the film very much."
+          },
+          {
+            "russian": "Песента ѝ харесва.",
+            "english": "She likes the song."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Хубава песен",
+        "text": "— Тази песен ми харесва много. — На мен също. Наистина е хубава.",
+        "translation": "— I like this song a lot. — Me too. It's really nice.",
+        "glossary": [
+          {
+            "russian": "на мен също",
+            "english": "me too"
+          },
+          {
+            "russian": "хубава",
+            "english": "nice / pretty (fem.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Name three things (a song, a film, a city) and say whether you like each one using харесва ми, adding много or малко."
+    },
+    {
+      "day": 2,
+      "title": "Likes & age: I like them (харесват ми)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "харесват",
+          "translit": "harésvat",
+          "english": "(they) please / (someone) likes (plural)",
+          "pos": "verb",
+          "example": "Тези книги ми харесват.",
+          "exampleEn": "I like these books."
+        },
+        {
+          "russian": "цветя",
+          "translit": "tsvetjá",
+          "english": "flowers",
+          "pos": "noun",
+          "example": "Цветята ми харесват.",
+          "exampleEn": "I like the flowers."
+        },
+        {
+          "russian": "очи",
+          "translit": "ochí",
+          "english": "eyes",
+          "pos": "noun",
+          "example": "Очите ѝ ми харесват.",
+          "exampleEn": "I like her eyes."
+        },
+        {
+          "russian": "обувки",
+          "translit": "obúvki",
+          "english": "shoes",
+          "pos": "noun",
+          "example": "Тези обувки ми харесват.",
+          "exampleEn": "I like these shoes."
+        },
+        {
+          "russian": "тези",
+          "translit": "tézi",
+          "english": "these",
+          "pos": "pronoun",
+          "example": "Тези цветя са хубави.",
+          "exampleEn": "These flowers are nice."
+        },
+        {
+          "russian": "котки",
+          "translit": "kótki",
+          "english": "cats",
+          "pos": "noun",
+          "example": "Котките ми харесват.",
+          "exampleEn": "I like cats."
+        },
+        {
+          "russian": "повече",
+          "translit": "póveche",
+          "english": "more",
+          "pos": "adverb",
+          "example": "Тези ми харесват повече.",
+          "exampleEn": "I like these more."
+        }
+      ],
+      "grammar": {
+        "title": "Liking many things: харесват ми",
+        "explanation": "When the thing you like is plural, the verb becomes харесват (they please): Цветята ми харесват = I like the flowers. Compare day 1: one thing → харесва, many things → харесват. The short \"to me\" pronoun ми stays the same; only the verb changes to match the subject. So: Книгата ми харесва (one book) but Книгите ми харесват (the books). To say you prefer something, add повече (more): Тези обувки ми харесват повече.",
+        "examples": [
+          {
+            "russian": "Тези цветя ми харесват.",
+            "english": "I like these flowers."
+          },
+          {
+            "russian": "Котките ѝ харесват много.",
+            "english": "She likes cats a lot."
+          },
+          {
+            "russian": "Очите ти ми харесват повече.",
+            "english": "I like your eyes more."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Цветята",
+        "text": "— Тези цветя ми харесват много. — И на мен. Котките ми харесват повече, но цветята са хубави.",
+        "translation": "— I like these flowers a lot. — Me too. I like cats more, but the flowers are nice.",
+        "glossary": [
+          {
+            "russian": "и на мен",
+            "english": "me too"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          }
+        ]
+      },
+      "speakingPrompt": "List a few plural things (flowers, cats, shoes) and say which you like using харесват ми, and which you like повече."
+    },
+    {
+      "day": 3,
+      "title": "Likes & age: What do you like? (харесва ли ти?)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "харесва ли ти",
+          "translit": "harésva li ti",
+          "english": "do you like (it)?",
+          "pos": "phrase",
+          "example": "Харесва ли ти филмът?",
+          "exampleEn": "Do you like the film?"
+        },
+        {
+          "russian": "не",
+          "translit": "ne",
+          "english": "no / not",
+          "pos": "adverb",
+          "example": "Не ми харесва.",
+          "exampleEn": "I don't like it."
+        },
+        {
+          "russian": "да",
+          "translit": "da",
+          "english": "yes",
+          "pos": "adverb",
+          "example": "Да, харесва ми.",
+          "exampleEn": "Yes, I like it."
+        },
+        {
+          "russian": "защо",
+          "translit": "zashtó",
+          "english": "why",
+          "pos": "adverb",
+          "example": "Защо не ти харесва?",
+          "exampleEn": "Why don't you like it?"
+        },
+        {
+          "russian": "вкусен",
+          "translit": "vkúsen",
+          "english": "tasty",
+          "pos": "adjective",
+          "example": "Тортата е вкусна.",
+          "exampleEn": "The cake is tasty."
+        },
+        {
+          "russian": "торта",
+          "translit": "tórta",
+          "english": "cake",
+          "pos": "noun",
+          "example": "Тортата ми харесва.",
+          "exampleEn": "I like the cake."
+        },
+        {
+          "russian": "цвят",
+          "translit": "tsvjat",
+          "english": "colour",
+          "pos": "noun",
+          "example": "Този цвят ми харесва.",
+          "exampleEn": "I like this colour."
+        }
+      ],
+      "grammar": {
+        "title": "Asking and negating: харесва ли ти? / не ми харесва",
+        "explanation": "To ask a yes/no question, put the question particle ли right after the verb: Харесва ли ти? = Do you like it? (literally \"pleases-it Q to-you?\"). Notice the \"to you\" pronoun is ти. To answer no, put не before the verb: Не ми харесва = I don't like it. For plural things: Харесват ли ти? / Не ми харесват. You can ask about a specific thing: Харесва ли ти тортата? Use защо (why) to ask for a reason.",
+        "examples": [
+          {
+            "russian": "Харесва ли ти този цвят?",
+            "english": "Do you like this colour?"
+          },
+          {
+            "russian": "Не, не ми харесва.",
+            "english": "No, I don't like it."
+          },
+          {
+            "russian": "Защо не ти харесва тортата?",
+            "english": "Why don't you like the cake?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Тортата",
+        "text": "— Харесва ли ти тортата? — Да, много е вкусна! — А този цвят харесва ли ти? — Не, не ми харесва.",
+        "translation": "— Do you like the cake? — Yes, it's very tasty! — And this colour, do you like it? — No, I don't like it.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          },
+          {
+            "russian": "вкусна",
+            "english": "tasty (fem.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask a friend if they like three things (харесва ли ти ...?) and give a short да/не answer for each, one with защо."
+    },
+    {
+      "day": 4,
+      "title": "Likes & age: How old are you? (на колко години си?)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "години",
+          "translit": "godíni",
+          "english": "years",
+          "pos": "noun",
+          "example": "Аз съм на трийсет години.",
+          "exampleEn": "I am thirty years old."
+        },
+        {
+          "russian": "на колко години",
+          "translit": "na kólko godíni",
+          "english": "how old (how many years)",
+          "pos": "phrase",
+          "example": "На колко години си?",
+          "exampleEn": "How old are you?"
+        },
+        {
+          "russian": "възраст",
+          "translit": "vázrast",
+          "english": "age",
+          "pos": "noun",
+          "example": "Каква е възрастта ти?",
+          "exampleEn": "What is your age?"
+        },
+        {
+          "russian": "млад",
+          "translit": "mlad",
+          "english": "young",
+          "pos": "adjective",
+          "example": "Брат ми е млад.",
+          "exampleEn": "My brother is young."
+        },
+        {
+          "russian": "стар",
+          "translit": "star",
+          "english": "old",
+          "pos": "adjective",
+          "example": "Дядо ми е стар.",
+          "exampleEn": "My grandfather is old."
+        },
+        {
+          "russian": "колко",
+          "translit": "kólko",
+          "english": "how much / how many",
+          "pos": "adverb",
+          "example": "Колко струва това?",
+          "exampleEn": "How much does this cost?"
+        },
+        {
+          "russian": "точно",
+          "translit": "tóchno",
+          "english": "exactly",
+          "pos": "adverb",
+          "example": "Аз съм точно на двайсет.",
+          "exampleEn": "I am exactly twenty."
+        }
+      ],
+      "grammar": {
+        "title": "Telling age with на … години",
+        "explanation": "Bulgarian gives age with the preposition на + number + години (years), plus the verb \"to be\" (съм, си, е…): Аз съм на трийсет години = I am thirty years old. Remember Bulgarian DOES have \"to be\", so you must include съм/си/е. To ask, use На колко години си? (How old are you? — informal) or На колко години сте? (polite/plural). You can drop години in casual speech: Аз съм на двайсет. There are no case endings — на simply marks the age.",
+        "examples": [
+          {
+            "russian": "На колко години си?",
+            "english": "How old are you?"
+          },
+          {
+            "russian": "Аз съм на двайсет и пет години.",
+            "english": "I am twenty-five years old."
+          },
+          {
+            "russian": "Сестра ми е на десет.",
+            "english": "My sister is ten."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На колко години?",
+        "text": "— На колко години си? — На двайсет и три. А ти? — Аз съм на трийсет години.",
+        "translation": "— How old are you? — Twenty-three. And you? — I am thirty years old.",
+        "glossary": [
+          {
+            "russian": "а ти?",
+            "english": "and you?"
+          },
+          {
+            "russian": "двайсет и три",
+            "english": "twenty-three"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask and answer На колко години си? for yourself and two family members, using на … години and the verb съм/е."
+    },
+    {
+      "day": 5,
+      "title": "Likes & age: The ages of others (той е на … години)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "бебе",
+          "translit": "bébe",
+          "english": "baby",
+          "pos": "noun",
+          "example": "Бебето е на една година.",
+          "exampleEn": "The baby is one year old."
+        },
+        {
+          "russian": "дете",
+          "translit": "deté",
+          "english": "child",
+          "pos": "noun",
+          "example": "Детето е на пет години.",
+          "exampleEn": "The child is five years old."
+        },
+        {
+          "russian": "възрастен",
+          "translit": "vázrasten",
+          "english": "adult / elderly",
+          "pos": "adjective",
+          "example": "Той е възрастен човек.",
+          "exampleEn": "He is an elderly man."
+        },
+        {
+          "russian": "почти",
+          "translit": "póchti",
+          "english": "almost",
+          "pos": "adverb",
+          "example": "Тя е почти на четирийсет.",
+          "exampleEn": "She is almost forty."
+        },
+        {
+          "russian": "над",
+          "translit": "nad",
+          "english": "over / above",
+          "pos": "preposition",
+          "example": "Той е над петдесет години.",
+          "exampleEn": "He is over fifty years old."
+        },
+        {
+          "russian": "под",
+          "translit": "pod",
+          "english": "under / below",
+          "pos": "preposition",
+          "example": "Тя е под трийсет.",
+          "exampleEn": "She is under thirty."
+        },
+        {
+          "russian": "същата възраст",
+          "translit": "sáshtata vázrast",
+          "english": "the same age",
+          "pos": "phrase",
+          "example": "Ние сме на същата възраст.",
+          "exampleEn": "We are the same age."
+        }
+      ],
+      "grammar": {
+        "title": "Talking about others' ages with е / сме / са",
+        "explanation": "Use the matching form of \"to be\" for each person: той е на … (he is …), тя е на … (she is …), ние сме на … (we are …), те са на … (they are …). The pattern на + number + години stays the same. With бебе (baby) or one year, say на една година (singular година). Add почти (almost), над (over) or под (under) to be approximate: Тя е почти на трийсет (She is almost thirty). To compare, use на същата възраст (the same age): Ние сме на същата възраст.",
+        "examples": [
+          {
+            "russian": "Детето е на пет години.",
+            "english": "The child is five years old."
+          },
+          {
+            "russian": "Те са почти на същата възраст.",
+            "english": "They are almost the same age."
+          },
+          {
+            "russian": "Дядо ми е над седемдесет години.",
+            "english": "My grandfather is over seventy years old."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Семейството",
+        "text": "Детето е на пет години, а бебето е на една година. Майка ми и баща ми са на същата възраст.",
+        "translation": "The child is five years old, and the baby is one year old. My mother and father are the same age.",
+        "glossary": [
+          {
+            "russian": "майка",
+            "english": "mother"
+          },
+          {
+            "russian": "баща",
+            "english": "father"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe the ages of three people you know using той/тя е на … години, with почти, над, or под, and say if any are на същата възраст."
+    },
+    {
+      "day": 6,
+      "title": "Likes & age: Feelings about it (харесва ми, защото…)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "защото",
+          "translit": "zashtóto",
+          "english": "because",
+          "pos": "conjunction",
+          "example": "Харесва ми, защото е хубаво.",
+          "exampleEn": "I like it because it is nice."
+        },
+        {
+          "russian": "интересен",
+          "translit": "interésen",
+          "english": "interesting",
+          "pos": "adjective",
+          "example": "Филмът е интересен.",
+          "exampleEn": "The film is interesting."
+        },
+        {
+          "russian": "скучен",
+          "translit": "skúchen",
+          "english": "boring",
+          "pos": "adjective",
+          "example": "Книгата е скучна.",
+          "exampleEn": "The book is boring."
+        },
+        {
+          "russian": "щастлив",
+          "translit": "shtastlív",
+          "english": "happy",
+          "pos": "adjective",
+          "example": "Аз съм щастлив днес.",
+          "exampleEn": "I am happy today."
+        },
+        {
+          "russian": "доволен",
+          "translit": "dovólen",
+          "english": "content / satisfied",
+          "pos": "adjective",
+          "example": "Той е доволен.",
+          "exampleEn": "He is content."
+        },
+        {
+          "russian": "приятно",
+          "translit": "prijátno",
+          "english": "pleasant / nice (adv.)",
+          "pos": "adverb",
+          "example": "Тук е приятно.",
+          "exampleEn": "It is pleasant here."
+        },
+        {
+          "russian": "защото е",
+          "translit": "zashtóto e",
+          "english": "because it is",
+          "pos": "phrase",
+          "example": "Харесва ми, защото е интересен.",
+          "exampleEn": "I like it because it is interesting."
+        }
+      ],
+      "grammar": {
+        "title": "Giving reasons: харесва ми, защото е…",
+        "explanation": "Combine liking with a reason using защото (because) and the verb \"to be\": Филмът ми харесва, защото е интересен = I like the film because it is interesting. After защото you usually need е (is) plus an adjective. Make the adjective agree with the noun: интересен (masc.) → интересна (fem.) → интересно (neut.). For feelings about yourself use съм + adjective: Аз съм щастлив / щастлива (I am happy). This ties together the week's liking pattern with descriptions and the verb to be.",
+        "examples": [
+          {
+            "russian": "Песента ми харесва, защото е хубава.",
+            "english": "I like the song because it is nice."
+          },
+          {
+            "russian": "Не ми харесва, защото е скучен.",
+            "english": "I don't like it because it is boring."
+          },
+          {
+            "russian": "Аз съм щастлив, защото тук е приятно.",
+            "english": "I am happy because it is pleasant here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Защо?",
+        "text": "— Харесва ли ти филмът? — Да, харесва ми, защото е интересен. — А книгата? — Не ми харесва, защото е скучна.",
+        "translation": "— Do you like the film? — Yes, I like it because it is interesting. — And the book? — I don't like it because it is boring.",
+        "glossary": [
+          {
+            "russian": "защото",
+            "english": "because"
+          },
+          {
+            "russian": "а книгата?",
+            "english": "and the book?"
+          }
+        ]
+      },
+      "speakingPrompt": "Say whether you like two things and give a reason for each with защото (e.g. интересен, скучен), then say how it makes you feel using съм."
+    },
+    {
+      "day": 7,
+      "title": "Likes & age: Week 19 review",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: харесва/харесват ми and на … години",
+        "explanation": "This week you learned to express likes and ages. Liking: харесва ми for one thing, харесват ми for many things; the verb matches the thing liked, while ми/ти/му/ѝ shows who likes it. Ask with ли (Харесва ли ти?) and negate with не (Не ми харесва). Give reasons with защото + е + adjective. Age: на + number + години with the verb to be (съм, си, е, сме, сте, са); ask На колко години си/сте? Use почти, над, под to be approximate and на същата възраст to compare. Remember: Bulgarian has no noun cases, the article is a suffix, and you always include the verb \"to be\".",
+        "examples": [
+          {
+            "russian": "Тези цветя ми харесват, защото са хубави.",
+            "english": "I like these flowers because they are nice."
+          },
+          {
+            "russian": "На колко години си? — На двайсет и пет.",
+            "english": "How old are you? — Twenty-five."
+          },
+          {
+            "russian": "Той е почти на същата възраст.",
+            "english": "He is almost the same age."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Нов приятел",
+        "text": "— На колко години си? — На двайсет и три. — Харесва ли ти този град? — Да, харесва ми много, защото е интересен. — И на мен! Ние сме на същата възраст.",
+        "translation": "— How old are you? — Twenty-three. — Do you like this city? — Yes, I like it a lot because it is interesting. — Me too! We are the same age.",
+        "glossary": [
+          {
+            "russian": "нов приятел",
+            "english": "new friend"
+          },
+          {
+            "russian": "и на мен",
+            "english": "me too"
+          }
+        ]
+      },
+      "speakingPrompt": "Hold a short conversation: ask someone's age and answer your own, then ask if they like the city and say whether you do, giving a reason with защото."
+    }
+  ]
+}

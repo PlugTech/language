@@ -1,0 +1,596 @@
+{
+  "theme": "Places in the city",
+  "week": 5,
+  "days": [
+    {
+      "day": 1,
+      "title": "City places and the question где?",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "город",
+          "translit": "górod",
+          "english": "city, town",
+          "pos": "noun",
+          "example": "Это большой город.",
+          "exampleEn": "This is a big city."
+        },
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop, store",
+          "pos": "noun",
+          "example": "Это новый магазин.",
+          "exampleEn": "This is a new shop."
+        },
+        {
+          "russian": "школа",
+          "translit": "shkóla",
+          "english": "school",
+          "pos": "noun",
+          "example": "Там школа.",
+          "exampleEn": "There is a school."
+        },
+        {
+          "russian": "парк",
+          "translit": "park",
+          "english": "park",
+          "pos": "noun",
+          "example": "Это красивый парк.",
+          "exampleEn": "This is a beautiful park."
+        },
+        {
+          "russian": "где",
+          "translit": "gdye",
+          "english": "where",
+          "pos": "adverb",
+          "example": "Где магазин?",
+          "exampleEn": "Where is the shop?"
+        },
+        {
+          "russian": "здесь",
+          "translit": "zdyes",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Магазин здесь.",
+          "exampleEn": "The shop is here."
+        },
+        {
+          "russian": "там",
+          "translit": "tam",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Школа там.",
+          "exampleEn": "The school is there."
+        }
+      ],
+      "grammar": {
+        "title": "Asking where: где? and the idea of location",
+        "explanation": "To ask **where** something is located, use **где?**. To answer, you can simply point with **здесь** (here) or **там** (there): _Где парк? — Парк там._\n\nThis week we learn how to say that something or someone is located *in* or *at* a place. Russian uses a special form of the noun for this — the **prepositional case** (also called the locative). It always appears after the prepositions **в** (in) and **на** (on/at). We start the case endings tomorrow; today just get comfortable naming city places and asking где?",
+        "examples": [
+          {
+            "russian": "Где школа?",
+            "english": "Where is the school?"
+          },
+          {
+            "russian": "Школа там.",
+            "english": "The school is there."
+          },
+          {
+            "russian": "Где парк? — Парк здесь.",
+            "english": "Where is the park? — The park is here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Где магазин?",
+        "text": "— Где магазин? — Магазин там. — А парк? — Парк здесь.",
+        "translation": "— Where is the shop? — The shop is there. — And the park? — The park is here.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and (contrast), but"
+          },
+          {
+            "russian": "магазин",
+            "english": "shop, store"
+          }
+        ]
+      },
+      "speakingPrompt": "Point around an imaginary map of your town and say where three places are. Use где?, здесь and там, e.g. \"Где школа? Школа там.\""
+    },
+    {
+      "day": 2,
+      "title": "The в + prepositional ending -е",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "банк",
+          "translit": "bank",
+          "english": "bank",
+          "pos": "noun",
+          "example": "Это банк.",
+          "exampleEn": "This is a bank."
+        },
+        {
+          "russian": "ресторан",
+          "translit": "restorán",
+          "english": "restaurant",
+          "pos": "noun",
+          "example": "Там новый ресторан.",
+          "exampleEn": "There is a new restaurant."
+        },
+        {
+          "russian": "аптека",
+          "translit": "aptyéka",
+          "english": "pharmacy",
+          "pos": "noun",
+          "example": "Где аптека?",
+          "exampleEn": "Where is the pharmacy?"
+        },
+        {
+          "russian": "в",
+          "translit": "v",
+          "english": "in, at",
+          "pos": "particle",
+          "example": "Я в банке.",
+          "exampleEn": "I am at the bank."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "seychás",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Я сейчас в парке.",
+          "exampleEn": "I am in the park now."
+        },
+        {
+          "russian": "дома",
+          "translit": "dóma",
+          "english": "at home",
+          "pos": "adverb",
+          "example": "Мама дома.",
+          "exampleEn": "Mum is at home."
+        }
+      ],
+      "grammar": {
+        "title": "Saying \"in\" a place: в + prepositional -е",
+        "explanation": "To say something is located **in** a place, use **в** plus the **prepositional case**. For most masculine and feminine nouns, you add **-е** to the noun.\n\nMasculine nouns ending in a consonant just add **-е**: банк → в банк**е**, парк → в парк**е**, магазин → в магазин**е**. Feminine nouns ending in **-а** change it to **-е**: школа → в школ**е**, аптека → в аптек**е**.\n\nNote: **дома** is a fixed adverb meaning *at home* — it is not в + case.",
+        "examples": [
+          {
+            "russian": "Я в банке.",
+            "english": "I am at the bank."
+          },
+          {
+            "russian": "Мама в магазине.",
+            "english": "Mum is in the shop."
+          },
+          {
+            "russian": "Я сейчас в школе.",
+            "english": "I am at school now."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Где мама?",
+        "text": "— Где мама? — Мама в магазине. — А папа? — Папа дома.",
+        "translation": "— Where is Mum? — Mum is in the shop. — And Dad? — Dad is at home.",
+        "glossary": [
+          {
+            "russian": "папа",
+            "english": "dad"
+          },
+          {
+            "russian": "в магазине",
+            "english": "in/at the shop"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where four people are right now using в + prepositional, e.g. \"Я в парке. Мама в банке. Папа дома.\" Include at least one город place from today and one from day 1."
+    },
+    {
+      "day": 3,
+      "title": "The на + prepositional: work, places with на",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "на",
+          "translit": "na",
+          "english": "on, at",
+          "pos": "particle",
+          "example": "Я на работе.",
+          "exampleEn": "I am at work."
+        },
+        {
+          "russian": "работа",
+          "translit": "rabóta",
+          "english": "work, job",
+          "pos": "noun",
+          "example": "Папа на работе.",
+          "exampleEn": "Dad is at work."
+        },
+        {
+          "russian": "почта",
+          "translit": "póchta",
+          "english": "post office",
+          "pos": "noun",
+          "example": "Мама на почте.",
+          "exampleEn": "Mum is at the post office."
+        },
+        {
+          "russian": "вокзал",
+          "translit": "vokzál",
+          "english": "train station",
+          "pos": "noun",
+          "example": "Я на вокзале.",
+          "exampleEn": "I am at the train station."
+        },
+        {
+          "russian": "рынок",
+          "translit": "rýnok",
+          "english": "market",
+          "pos": "noun",
+          "example": "Папа на рынке.",
+          "exampleEn": "Dad is at the market."
+        },
+        {
+          "russian": "стадион",
+          "translit": "stadión",
+          "english": "stadium",
+          "pos": "noun",
+          "example": "Брат на стадионе.",
+          "exampleEn": "Brother is at the stadium."
+        }
+      ],
+      "grammar": {
+        "title": "Saying \"at\" a place: на + prepositional",
+        "explanation": "Some places take **на** instead of **в**, but the ending is the same prepositional **-е**.\n\nUse **на** with: **работа** → на работ**е** (at work), **почта** → на почт**е**, **вокзал** → на вокзал**е**, **рынок** → на рынк**е** (note the о drops out: рынок → рынке), **стадион** → на стадион**е**.\n\nThere is no easy rule for which places take в and which take на — you simply learn them. Most buildings (банк, магазин, школа) use **в**; open spaces and many events/activities use **на**.",
+        "examples": [
+          {
+            "russian": "Папа на работе.",
+            "english": "Dad is at work."
+          },
+          {
+            "russian": "Я на почте.",
+            "english": "I am at the post office."
+          },
+          {
+            "russian": "Брат на вокзале.",
+            "english": "Brother is at the train station."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Папа на работе",
+        "text": "— Где папа? — Папа на работе. — А ты? — Я дома, а брат на стадионе.",
+        "translation": "— Where is Dad? — Dad is at work. — And you? — I am at home, and my brother is at the stadium.",
+        "glossary": [
+          {
+            "russian": "ты",
+            "english": "you"
+          },
+          {
+            "russian": "брат",
+            "english": "brother"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe where five family members are, using both в and на correctly, e.g. \"Папа на работе, мама в магазине, брат на стадионе.\""
+    },
+    {
+      "day": 4,
+      "title": "Special endings: -ии, -ь nouns, and в/на choices",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "кафе",
+          "translit": "kafé",
+          "english": "café",
+          "pos": "noun",
+          "example": "Я в кафе.",
+          "exampleEn": "I am in the café."
+        },
+        {
+          "russian": "музей",
+          "translit": "muzyéy",
+          "english": "museum",
+          "pos": "noun",
+          "example": "Мама в музее.",
+          "exampleEn": "Mum is in the museum."
+        },
+        {
+          "russian": "аптека",
+          "translit": "aptyéka",
+          "english": "pharmacy (review in context)",
+          "pos": "noun",
+          "example": "Я в аптеке.",
+          "exampleEn": "I am in the pharmacy."
+        },
+        {
+          "russian": "квартира",
+          "translit": "kvartíra",
+          "english": "apartment, flat",
+          "pos": "noun",
+          "example": "Я в квартире.",
+          "exampleEn": "I am in the apartment."
+        },
+        {
+          "russian": "улица",
+          "translit": "úlitsa",
+          "english": "street",
+          "pos": "noun",
+          "example": "Дети на улице.",
+          "exampleEn": "The children are outside (on the street)."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also, too",
+          "pos": "adverb",
+          "example": "Я тоже в парке.",
+          "exampleEn": "I am in the park too."
+        }
+      ],
+      "grammar": {
+        "title": "A few tricky forms: unchanging nouns and -й endings",
+        "explanation": "Most nouns take **-е** in the prepositional, but watch for these:\n\n**Indeclinable nouns** never change: **кафе** stays the same — _в кафе_ (in the café). Borrowed words ending in **-о/-е** like кафе, метро do not change.\n\nNouns ending in **-й** replace it with **-е**: **музей** → в музе**е**.\n\nFeminine nouns in **-а** still give **-е**: квартира → в квартир**е**, улица → на улиц**е**. Note **улица** takes **на** (на улице = outside / on the street).\n\nUse **тоже** to say *also*: _Я в парке, и мама тоже в парке._",
+        "examples": [
+          {
+            "russian": "Я в кафе.",
+            "english": "I am in the café."
+          },
+          {
+            "russian": "Мама в музее.",
+            "english": "Mum is in the museum."
+          },
+          {
+            "russian": "Дети на улице.",
+            "english": "The children are outside."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафе",
+        "text": "— Где ты? — Я в кафе. — А мама? — Мама тоже в кафе, а дети на улице.",
+        "translation": "— Where are you? — I am in the café. — And Mum? — Mum is also in the café, and the children are outside.",
+        "glossary": [
+          {
+            "russian": "дети",
+            "english": "children"
+          },
+          {
+            "russian": "тоже",
+            "english": "also, too"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you and two other people are, using at least one indeclinable noun (кафе) and тоже, e.g. \"Я в кафе. Брат тоже в кафе. Мама в музее.\""
+    },
+    {
+      "day": 5,
+      "title": "Putting it together: где ты? в городе vs дома",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "центр",
+          "translit": "tsentr",
+          "english": "centre, downtown",
+          "pos": "noun",
+          "example": "Я в центре.",
+          "exampleEn": "I am downtown."
+        },
+        {
+          "russian": "офис",
+          "translit": "ófis",
+          "english": "office",
+          "pos": "noun",
+          "example": "Папа в офисе.",
+          "exampleEn": "Dad is in the office."
+        },
+        {
+          "russian": "больница",
+          "translit": "bal'nítsa",
+          "english": "hospital",
+          "pos": "noun",
+          "example": "Брат в больнице.",
+          "exampleEn": "Brother is in the hospital."
+        },
+        {
+          "russian": "гостиница",
+          "translit": "gastínitsa",
+          "english": "hotel",
+          "pos": "noun",
+          "example": "Мы в гостинице.",
+          "exampleEn": "We are in the hotel."
+        },
+        {
+          "russian": "мы",
+          "translit": "my",
+          "english": "we",
+          "pos": "pronoun",
+          "example": "Мы в парке.",
+          "exampleEn": "We are in the park."
+        },
+        {
+          "russian": "далеко",
+          "translit": "dalyekó",
+          "english": "far away",
+          "pos": "adverb",
+          "example": "Банк далеко.",
+          "exampleEn": "The bank is far away."
+        },
+        {
+          "russian": "близко",
+          "translit": "blízko",
+          "english": "near, close",
+          "pos": "adverb",
+          "example": "Аптека близко.",
+          "exampleEn": "The pharmacy is close."
+        }
+      ],
+      "grammar": {
+        "title": "Locating in the city: в городе, в центре",
+        "explanation": "Now combine everything. You can locate yourself broadly (**в городе** — in the city, **в центре** — downtown) or precisely (**в офисе**, **в больнице**).\n\nRemember the pattern: **в/на + noun ending in -е**.\n- Masculine: офис → в офис**е**, центр → в центр**е**.\n- Feminine -а: больница → в больниц**е**, гостиница → в гостиниц**е**.\n\nAdd distance words to describe places: **далеко** (far) and **близко** (near). _Банк далеко, а аптека близко._",
+        "examples": [
+          {
+            "russian": "Мы в центре.",
+            "english": "We are downtown."
+          },
+          {
+            "russian": "Папа в офисе.",
+            "english": "Dad is in the office."
+          },
+          {
+            "russian": "Школа близко, а вокзал далеко.",
+            "english": "The school is near, but the station is far."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мы в центре",
+        "text": "— Где вы? — Мы в центре, в кафе. — Это близко? — Нет, это далеко.",
+        "translation": "— Where are you (pl.)? — We are downtown, in a café. — Is it close? — No, it is far.",
+        "glossary": [
+          {
+            "russian": "вы",
+            "english": "you (plural/formal)"
+          },
+          {
+            "russian": "нет",
+            "english": "no"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a small map of your city: name where you and your family are, and say which places are близко and which are далеко. Use в/на + prepositional throughout."
+    },
+    {
+      "day": 6,
+      "title": "Talking about your day: где работа, где живёшь",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "живу",
+          "translit": "zhivú",
+          "english": "(I) live",
+          "pos": "verb",
+          "example": "Я живу в городе.",
+          "exampleEn": "I live in the city."
+        },
+        {
+          "russian": "живёт",
+          "translit": "zhivyót",
+          "english": "(he/she) lives",
+          "pos": "verb",
+          "example": "Мама живёт в центре.",
+          "exampleEn": "Mum lives downtown."
+        },
+        {
+          "russian": "работаю",
+          "translit": "rabótayu",
+          "english": "(I) work",
+          "pos": "verb",
+          "example": "Я работаю в банке.",
+          "exampleEn": "I work at the bank."
+        },
+        {
+          "russian": "работает",
+          "translit": "rabótayet",
+          "english": "(he/she) works",
+          "pos": "verb",
+          "example": "Папа работает в офисе.",
+          "exampleEn": "Dad works in the office."
+        },
+        {
+          "russian": "квартира",
+          "translit": "kvartíra",
+          "english": "apartment, flat",
+          "pos": "noun",
+          "example": "Я живу в квартире.",
+          "exampleEn": "I live in an apartment."
+        },
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "particle",
+          "example": "Я живу и работаю в городе.",
+          "exampleEn": "I live and work in the city."
+        }
+      ],
+      "grammar": {
+        "title": "Using location with живу and работаю",
+        "explanation": "The prepositional is used after verbs of being and living/working **somewhere**. The location ending stays the same **-е** pattern you have learned.\n\n**жить** (to live): я **живу**, он/она **живёт**. **работать** (to work): я **работаю**, он/она **работает**.\n\nPut them with в/на + place: _Я живу в городе. Я работаю в банке. Папа работает в офисе._\n\nJoin two ideas with **и** (and): _Я живу и работаю в центре._",
+        "examples": [
+          {
+            "russian": "Я живу в городе.",
+            "english": "I live in the city."
+          },
+          {
+            "russian": "Мама работает в магазине.",
+            "english": "Mum works in the shop."
+          },
+          {
+            "russian": "Я живу в квартире и работаю в офисе.",
+            "english": "I live in an apartment and work in an office."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Где ты живёшь?",
+        "text": "— Где ты живёшь? — Я живу в центре, в квартире. — А где работаешь? — Я работаю в банке.",
+        "translation": "— Where do you live? — I live downtown, in an apartment. — And where do you work? — I work at the bank.",
+        "glossary": [
+          {
+            "russian": "живёшь",
+            "english": "(you) live"
+          },
+          {
+            "russian": "работаешь",
+            "english": "(you) work"
+          }
+        ]
+      },
+      "speakingPrompt": "Introduce yourself: say where you live and where you work, then say where one family member lives and works. Use живу/живёт and работаю/работает with в/на + prepositional."
+    },
+    {
+      "day": 7,
+      "title": "Review: places in the city and в/на + где",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: prepositional case for location",
+        "explanation": "This week you learned to say **where** people and things are located.\n\n**Key pattern:** **в** or **на** + noun with the prepositional ending, usually **-е**.\n- Masculine consonant: банк → в банк**е**, офис → в офис**е**.\n- Masculine -й: музей → в музе**е**.\n- Feminine -а: школа → в школ**е**, больница → в больниц**е**.\n- Indeclinable: кафе stays **кафе**.\n\n**в vs на:** buildings usually take **в** (в магазине, в школе); work, open spaces and some places take **на** (на работе, на улице, на вокзале). **дома** = at home (fixed form).\n\nAsk with **где?** and answer with **здесь / там / близко / далеко** or a в/на phrase.",
+        "examples": [
+          {
+            "russian": "Где мама? — Мама в магазине.",
+            "english": "Where is Mum? — Mum is in the shop."
+          },
+          {
+            "russian": "Папа на работе, а я дома.",
+            "english": "Dad is at work, and I am at home."
+          },
+          {
+            "russian": "Я живу в городе и работаю в банке.",
+            "english": "I live in the city and work at the bank."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В городе",
+        "text": "— Где ты сейчас? — Я в центре, в кафе. — А мама? — Мама на работе, а папа дома. — Это далеко? — Нет, близко.",
+        "translation": "— Where are you now? — I am downtown, in a café. — And Mum? — Mum is at work, and Dad is at home. — Is it far? — No, close.",
+        "glossary": [
+          {
+            "russian": "сейчас",
+            "english": "now"
+          },
+          {
+            "russian": "близко",
+            "english": "near, close"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short imaginary phone conversation: ask and answer where three different people are right now. Use где?, в/на + prepositional, дома, близко and далеко. Then say one sentence about where you live and work."
+    }
+  ]
+}

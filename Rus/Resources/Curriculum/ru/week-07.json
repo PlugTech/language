@@ -1,0 +1,616 @@
+{
+  "week": 7,
+  "theme": "Describing things",
+  "days": [
+    {
+      "day": 1,
+      "title": "Big and small: introducing adjectives",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "большой",
+          "translit": "bol'shóy",
+          "english": "big, large",
+          "pos": "adjective",
+          "example": "Это большой дом.",
+          "exampleEn": "This is a big house."
+        },
+        {
+          "russian": "маленький",
+          "translit": "málen'kiy",
+          "english": "small, little",
+          "pos": "adjective",
+          "example": "Это маленький стол.",
+          "exampleEn": "This is a small table."
+        },
+        {
+          "russian": "дом",
+          "translit": "dom",
+          "english": "house, home",
+          "pos": "noun",
+          "example": "Вот мой дом.",
+          "exampleEn": "Here is my house."
+        },
+        {
+          "russian": "стол",
+          "translit": "stol",
+          "english": "table",
+          "pos": "noun",
+          "example": "Это стол.",
+          "exampleEn": "This is a table."
+        },
+        {
+          "russian": "город",
+          "translit": "górod",
+          "english": "city, town",
+          "pos": "noun",
+          "example": "Москва — большой город.",
+          "exampleEn": "Moscow is a big city."
+        },
+        {
+          "russian": "это",
+          "translit": "éto",
+          "english": "this is, it is",
+          "pos": "particle",
+          "example": "Это маленький город.",
+          "exampleEn": "This is a small town."
+        }
+      ],
+      "grammar": {
+        "title": "Adjectives with masculine nouns",
+        "explanation": "Russian adjectives change their ending to **agree** with the noun. With a **masculine** noun, the adjective usually ends in **-ый** or **-ий**. After certain stressed endings you see **-ой** (as in **большой**). So *big house* = **большой дом**, *small table* = **маленький стол**. The adjective comes before the noun, just like in English.",
+        "examples": [
+          {
+            "russian": "большой дом",
+            "english": "a big house"
+          },
+          {
+            "russian": "маленький стол",
+            "english": "a small table"
+          },
+          {
+            "russian": "Это большой город.",
+            "english": "This is a big city."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Дом и стол",
+        "text": "Это дом. Дом большой. А это стол. Стол маленький.",
+        "translation": "This is a house. The house is big. And this is a table. The table is small.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          },
+          {
+            "russian": "это",
+            "english": "this is"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at two objects near you and describe each one in Russian using большой or маленький with a masculine noun, for example: «Это большой стол.»"
+    },
+    {
+      "day": 2,
+      "title": "Good and beautiful: more adjectives",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "хороший",
+          "translit": "khoróshiy",
+          "english": "good",
+          "pos": "adjective",
+          "example": "Это хороший день.",
+          "exampleEn": "It is a good day."
+        },
+        {
+          "russian": "красивый",
+          "translit": "krasívyy",
+          "english": "beautiful, handsome",
+          "pos": "adjective",
+          "example": "Какой красивый город!",
+          "exampleEn": "What a beautiful city!"
+        },
+        {
+          "russian": "новый",
+          "translit": "nóvyy",
+          "english": "new",
+          "pos": "adjective",
+          "example": "Это новый дом.",
+          "exampleEn": "This is a new house."
+        },
+        {
+          "russian": "старый",
+          "translit": "stáryy",
+          "english": "old",
+          "pos": "adjective",
+          "example": "Это старый город.",
+          "exampleEn": "This is an old city."
+        },
+        {
+          "russian": "парк",
+          "translit": "park",
+          "english": "park",
+          "pos": "noun",
+          "example": "Это красивый парк.",
+          "exampleEn": "This is a beautiful park."
+        },
+        {
+          "russian": "какой",
+          "translit": "kakóy",
+          "english": "what (a), which (masc.)",
+          "pos": "pronoun",
+          "example": "Какой красивый дом!",
+          "exampleEn": "What a beautiful house!"
+        }
+      ],
+      "grammar": {
+        "title": "More masculine adjective endings",
+        "explanation": "Most masculine adjectives end in **-ый** (**новый**, **красивый**, **старый**). After **г, к, х, ж, ч, ш, щ** you cannot write **-ый**, so you use **-ий** instead — that is why it is **хороший** (not *хорошый*). The question word **какой** (*what kind of?*) also follows the masculine pattern.",
+        "examples": [
+          {
+            "russian": "новый дом",
+            "english": "a new house"
+          },
+          {
+            "russian": "хороший город",
+            "english": "a good city"
+          },
+          {
+            "russian": "Какой красивый парк!",
+            "english": "What a beautiful park!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Парк",
+        "text": "Это парк. Парк красивый и большой. Это хороший, новый парк.",
+        "translation": "This is a park. The park is beautiful and big. It is a good, new park.",
+        "glossary": [
+          {
+            "russian": "и",
+            "english": "and"
+          },
+          {
+            "russian": "парк",
+            "english": "park"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a place you like (a park, a city) using two masculine adjectives, for example: «Это красивый, старый город.»"
+    },
+    {
+      "day": 3,
+      "title": "Feminine and neuter: новая, новое",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "машина",
+          "translit": "mashína",
+          "english": "car",
+          "pos": "noun",
+          "example": "Это новая машина.",
+          "exampleEn": "This is a new car."
+        },
+        {
+          "russian": "улица",
+          "translit": "úlitsa",
+          "english": "street",
+          "pos": "noun",
+          "example": "Это красивая улица.",
+          "exampleEn": "This is a beautiful street."
+        },
+        {
+          "russian": "окно",
+          "translit": "oknó",
+          "english": "window",
+          "pos": "noun",
+          "example": "Это большое окно.",
+          "exampleEn": "This is a big window."
+        },
+        {
+          "russian": "кафе",
+          "translit": "kafé",
+          "english": "café",
+          "pos": "noun",
+          "example": "Это маленькое кафе.",
+          "exampleEn": "This is a small café."
+        },
+        {
+          "russian": "новая",
+          "translit": "nóvaya",
+          "english": "new (feminine)",
+          "pos": "adjective",
+          "example": "Это новая улица.",
+          "exampleEn": "This is a new street."
+        },
+        {
+          "russian": "новое",
+          "translit": "nóvoye",
+          "english": "new (neuter)",
+          "pos": "adjective",
+          "example": "Это новое окно.",
+          "exampleEn": "This is a new window."
+        },
+        {
+          "russian": "большая",
+          "translit": "bol'sháya",
+          "english": "big (feminine)",
+          "pos": "adjective",
+          "example": "Это большая машина.",
+          "exampleEn": "This is a big car."
+        }
+      ],
+      "grammar": {
+        "title": "Feminine -ая and neuter -ое endings",
+        "explanation": "Adjectives must match the noun's **gender**. With **feminine** nouns (often ending in **-а/-я**) the adjective ends in **-ая**: **новая машина**. With **neuter** nouns (often ending in **-о/-е**) it ends in **-ое**: **новое окно**. So one word, **новый**, becomes **новый / новая / новое** depending on the noun.",
+        "examples": [
+          {
+            "russian": "новая машина",
+            "english": "a new car"
+          },
+          {
+            "russian": "красивая улица",
+            "english": "a beautiful street"
+          },
+          {
+            "russian": "большое окно",
+            "english": "a big window"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Улица и машина",
+        "text": "Это улица. Улица красивая и большая. А вот машина. Машина новая.",
+        "translation": "This is a street. The street is beautiful and big. And here is a car. The car is new.",
+        "glossary": [
+          {
+            "russian": "вот",
+            "english": "here is"
+          },
+          {
+            "russian": "улица",
+            "english": "street"
+          }
+        ]
+      },
+      "speakingPrompt": "Take three nouns — one masculine, one feminine, one neuter — and describe each with новый in the correct form: «новый дом, новая машина, новое окно.»"
+    },
+    {
+      "day": 4,
+      "title": "Plurals: новые and все agreement",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "новые",
+          "translit": "nóvyye",
+          "english": "new (plural)",
+          "pos": "adjective",
+          "example": "Это новые дома.",
+          "exampleEn": "These are new houses."
+        },
+        {
+          "russian": "красивые",
+          "translit": "krasívyye",
+          "english": "beautiful (plural)",
+          "pos": "adjective",
+          "example": "Какие красивые улицы!",
+          "exampleEn": "What beautiful streets!"
+        },
+        {
+          "russian": "дома",
+          "translit": "domá",
+          "english": "houses",
+          "pos": "noun",
+          "example": "Это большие дома.",
+          "exampleEn": "These are big houses."
+        },
+        {
+          "russian": "улицы",
+          "translit": "úlitsy",
+          "english": "streets",
+          "pos": "noun",
+          "example": "Улицы красивые.",
+          "exampleEn": "The streets are beautiful."
+        },
+        {
+          "russian": "машины",
+          "translit": "mashíny",
+          "english": "cars",
+          "pos": "noun",
+          "example": "Это новые машины.",
+          "exampleEn": "These are new cars."
+        },
+        {
+          "russian": "хорошие",
+          "translit": "khoróshiye",
+          "english": "good (plural)",
+          "pos": "adjective",
+          "example": "Это хорошие кафе.",
+          "exampleEn": "These are good cafés."
+        },
+        {
+          "russian": "какие",
+          "translit": "kakíye",
+          "english": "what (kind of), which (plural)",
+          "pos": "pronoun",
+          "example": "Какие большие дома!",
+          "exampleEn": "What big houses!"
+        }
+      ],
+      "grammar": {
+        "title": "Plural adjectives -ые / -ие",
+        "explanation": "In the **plural**, adjectives use one ending for all genders: **-ые** (or **-ие** after **г, к, х, ж, ч, ш, щ**). So **новый дом** → **новые дома**, **красивая улица** → **красивые улицы**, **хороший** → **хорошие**. The full set is now: **новый / новая / новое / новые**.",
+        "examples": [
+          {
+            "russian": "новые дома",
+            "english": "new houses"
+          },
+          {
+            "russian": "красивые улицы",
+            "english": "beautiful streets"
+          },
+          {
+            "russian": "Какие хорошие кафе!",
+            "english": "What good cafés!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Город",
+        "text": "Это город. Здесь новые дома и красивые улицы. Какой хороший город!",
+        "translation": "This is a city. Here there are new houses and beautiful streets. What a good city!",
+        "glossary": [
+          {
+            "russian": "здесь",
+            "english": "here"
+          },
+          {
+            "russian": "дома",
+            "english": "houses (plural)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe what you see on a street using a plural adjective and plural noun, for example: «Здесь большие дома и новые машины.»"
+    },
+    {
+      "day": 5,
+      "title": "My, your, our: наш and ваш",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "наш",
+          "translit": "nash",
+          "english": "our (masc.)",
+          "pos": "pronoun",
+          "example": "Это наш дом.",
+          "exampleEn": "This is our house."
+        },
+        {
+          "russian": "наша",
+          "translit": "násha",
+          "english": "our (fem.)",
+          "pos": "pronoun",
+          "example": "Это наша машина.",
+          "exampleEn": "This is our car."
+        },
+        {
+          "russian": "наше",
+          "translit": "náshe",
+          "english": "our (neuter)",
+          "pos": "pronoun",
+          "example": "Это наше окно.",
+          "exampleEn": "This is our window."
+        },
+        {
+          "russian": "наши",
+          "translit": "náshi",
+          "english": "our (plural)",
+          "pos": "pronoun",
+          "example": "Это наши дома.",
+          "exampleEn": "These are our houses."
+        },
+        {
+          "russian": "ваш",
+          "translit": "vash",
+          "english": "your (formal/plural, masc.)",
+          "pos": "pronoun",
+          "example": "Это ваш стол.",
+          "exampleEn": "This is your table."
+        },
+        {
+          "russian": "ваша",
+          "translit": "vásha",
+          "english": "your (formal/plural, fem.)",
+          "pos": "pronoun",
+          "example": "Это ваша улица.",
+          "exampleEn": "This is your street."
+        },
+        {
+          "russian": "квартира",
+          "translit": "kvartíra",
+          "english": "apartment, flat",
+          "pos": "noun",
+          "example": "Это наша квартира.",
+          "exampleEn": "This is our apartment."
+        }
+      ],
+      "grammar": {
+        "title": "Possessives наш and ваш agree like adjectives",
+        "explanation": "The possessives **наш** (*our*) and **ваш** (*your*, formal or plural) change for gender and number, just like adjectives: **наш дом**, **наша машина**, **наше окно**, **наши дома**. The same pattern applies to **ваш / ваша / ваше / ваши**.",
+        "examples": [
+          {
+            "russian": "наш город",
+            "english": "our city"
+          },
+          {
+            "russian": "наша квартира",
+            "english": "our apartment"
+          },
+          {
+            "russian": "ваши машины",
+            "english": "your cars"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Наша квартира",
+        "text": "Это наша квартира. Она маленькая, но красивая. А это ваш дом? Какой большой!",
+        "translation": "This is our apartment. It is small but beautiful. And is this your house? How big!",
+        "glossary": [
+          {
+            "russian": "она",
+            "english": "it / she"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          }
+        ]
+      },
+      "speakingPrompt": "Show someone around an imaginary home. Use наш/наша/наше with two or three things, for example: «Это наша квартира. Вот наше окно.»"
+    },
+    {
+      "day": 6,
+      "title": "His, her, their: его, её, их",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "его",
+          "translit": "yevó",
+          "english": "his, its",
+          "pos": "pronoun",
+          "example": "Это его машина.",
+          "exampleEn": "This is his car."
+        },
+        {
+          "russian": "её",
+          "translit": "yeyó",
+          "english": "her, hers",
+          "pos": "pronoun",
+          "example": "Это её квартира.",
+          "exampleEn": "This is her apartment."
+        },
+        {
+          "russian": "их",
+          "translit": "ikh",
+          "english": "their, theirs",
+          "pos": "pronoun",
+          "example": "Это их дом.",
+          "exampleEn": "This is their house."
+        },
+        {
+          "russian": "брат",
+          "translit": "brat",
+          "english": "brother",
+          "pos": "noun",
+          "example": "Это его брат.",
+          "exampleEn": "This is his brother."
+        },
+        {
+          "russian": "сестра",
+          "translit": "sestrá",
+          "english": "sister",
+          "pos": "noun",
+          "example": "Это её сестра.",
+          "exampleEn": "This is her sister."
+        },
+        {
+          "russian": "друг",
+          "translit": "drug",
+          "english": "friend (male)",
+          "pos": "noun",
+          "example": "Это наш друг.",
+          "exampleEn": "This is our friend."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also, too",
+          "pos": "adverb",
+          "example": "Её дом тоже красивый.",
+          "exampleEn": "Her house is also beautiful."
+        }
+      ],
+      "grammar": {
+        "title": "Unchanging possessives его, её, их",
+        "explanation": "Unlike **наш** and **ваш**, the possessives **его** (*his*), **её** (*her*), and **их** (*their*) **never change** — they stay the same for every gender and number. So: **его дом**, **его машина**, **его окна**; **её брат**, **её сестра**; **их друзья**. Note: **его** is pronounced *yevó*.",
+        "examples": [
+          {
+            "russian": "его машина",
+            "english": "his car"
+          },
+          {
+            "russian": "её квартира",
+            "english": "her apartment"
+          },
+          {
+            "russian": "их город",
+            "english": "their city"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Его и её",
+        "text": "Это его брат. А это её сестра. Их дом большой и красивый.",
+        "translation": "This is his brother. And this is her sister. Their house is big and beautiful.",
+        "glossary": [
+          {
+            "russian": "брат",
+            "english": "brother"
+          },
+          {
+            "russian": "сестра",
+            "english": "sister"
+          }
+        ]
+      },
+      "speakingPrompt": "Talk about a friend or relative's things using его, её, or их, for example: «Это её машина. Её машина новая.»"
+    },
+    {
+      "day": 7,
+      "title": "Review: describing things",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 7 recap: agreement and possessives",
+        "explanation": "This week you learned that adjectives **agree** with their noun. **новый** has four forms: **новый** (masc.), **новая** (fem.), **новое** (neuter), **новые** (plural). The same goes for **большой, маленький, хороший, красивый**. Possessives **наш/ваш** change just like adjectives, but **его, её, их** never change.",
+        "examples": [
+          {
+            "russian": "новый дом, новая машина, новое окно, новые улицы",
+            "english": "a new house, a new car, a new window, new streets"
+          },
+          {
+            "russian": "наша квартира, ваш город",
+            "english": "our apartment, your city"
+          },
+          {
+            "russian": "его брат, её сестра, их дом",
+            "english": "his brother, her sister, their house"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Это наш город",
+        "text": "— Это ваш город? — Да, это наш город. Он старый, но красивый. Вот наша улица и наш дом. А это его машина. Она новая!",
+        "translation": "— Is this your city? — Yes, this is our city. It is old but beautiful. Here is our street and our house. And this is his car. It is new!",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "он",
+            "english": "it / he"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your neighbourhood for one minute. Use at least one adjective in each gender (новый/новая/новое/новые) and at least two possessives (наш, ваш, его, её, or их), for example: «Это наша улица. Наш дом большой. Его машина новая.»"
+    }
+  ]
+}

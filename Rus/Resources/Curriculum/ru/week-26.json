@@ -1,0 +1,632 @@
+{
+  "theme": "Final consolidation & assessment",
+  "week": 26,
+  "days": [
+    {
+      "day": 1,
+      "title": "Day 1: Кто я и что я делаю — pronouns & present tense",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "каждый день",
+          "translit": "kázhdyy den'",
+          "english": "every day",
+          "pos": "phrase",
+          "example": "Я работаю каждый день.",
+          "exampleEn": "I work every day."
+        },
+        {
+          "russian": "обычно",
+          "translit": "obýchno",
+          "english": "usually",
+          "pos": "adverb",
+          "example": "Обычно я читаю утром.",
+          "exampleEn": "Usually I read in the morning."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "seychás",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Сейчас я думаю о работе.",
+          "exampleEn": "Now I am thinking about work."
+        },
+        {
+          "russian": "вместе",
+          "translit": "vméste",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Мы работаем вместе.",
+          "exampleEn": "We work together."
+        },
+        {
+          "russian": "немного",
+          "translit": "nemnógo",
+          "english": "a little",
+          "pos": "adverb",
+          "example": "Я немного говорю по-русски.",
+          "exampleEn": "I speak a little Russian."
+        },
+        {
+          "russian": "по-русски",
+          "translit": "po-rússki",
+          "english": "in Russian",
+          "pos": "adverb",
+          "example": "Я понимаю по-русски.",
+          "exampleEn": "I understand Russian."
+        },
+        {
+          "russian": "хорошо",
+          "translit": "kharashó",
+          "english": "well / good",
+          "pos": "adverb",
+          "example": "Она хорошо говорит.",
+          "exampleEn": "She speaks well."
+        }
+      ],
+      "grammar": {
+        "title": "Review: pronouns and the present tense",
+        "explanation": "We begin our final week by reviewing the **present tense**, the heart of everyday Russian.\n\n**Pronouns:** я, ты, он, она, мы, вы, они.\n\nMost verbs follow the **-ать** pattern: *работать* (to work) → я работа**ю**, ты работа**ешь**, он работа**ет**, мы работа**ем**, вы работа**ете**, они работа**ют**.\n\nVerbs like *говорить* (to speak) take **-ишь/-ит/-ят**: я говор**ю**, ты говор**ишь**, они говор**ят**.\n\nAdd adverbs like **обычно**, **часто**, **всегда**, **иногда** to say how often.",
+        "examples": [
+          {
+            "russian": "Обычно я работаю, а сейчас я отдыхаю.",
+            "english": "Usually I work, but now I am resting."
+          },
+          {
+            "russian": "Мы вместе читаем и говорим по-русски.",
+            "english": "We read and speak Russian together."
+          },
+          {
+            "russian": "Она хорошо понимает, но говорит немного.",
+            "english": "She understands well, but speaks a little."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мой день",
+        "text": "Обычно я работаю каждый день. Сейчас я немного говорю по-русски. Мы читаем вместе, и это хорошо.",
+        "translation": "Usually I work every day. Now I speak a little Russian. We read together, and that is good.",
+        "glossary": [
+          {
+            "russian": "обычно",
+            "english": "usually"
+          },
+          {
+            "russian": "вместе",
+            "english": "together"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your typical day in the present tense. Use «обычно», «каждый день» and «сейчас», and say «Я немного говорю по-русски»."
+    },
+    {
+      "day": 2,
+      "title": "Day 2: Где и куда — prepositional case & places",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "везде",
+          "translit": "vezdé",
+          "english": "everywhere",
+          "pos": "adverb",
+          "example": "Люди везде говорят о погоде.",
+          "exampleEn": "People everywhere talk about the weather."
+        },
+        {
+          "russian": "далеко",
+          "translit": "dalekó",
+          "english": "far",
+          "pos": "adverb",
+          "example": "Магазин далеко.",
+          "exampleEn": "The shop is far."
+        },
+        {
+          "russian": "близко",
+          "translit": "blízko",
+          "english": "near / close",
+          "pos": "adverb",
+          "example": "Парк близко.",
+          "exampleEn": "The park is close."
+        },
+        {
+          "russian": "здесь",
+          "translit": "zdes'",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Я живу здесь.",
+          "exampleEn": "I live here."
+        },
+        {
+          "russian": "там",
+          "translit": "tam",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Магазин там.",
+          "exampleEn": "The shop is there."
+        },
+        {
+          "russian": "улица",
+          "translit": "úlitsa",
+          "english": "street",
+          "pos": "noun",
+          "example": "Я живу на этой улице.",
+          "exampleEn": "I live on this street."
+        },
+        {
+          "russian": "центр",
+          "translit": "tsentr",
+          "english": "centre / downtown",
+          "pos": "noun",
+          "example": "Магазин в центре.",
+          "exampleEn": "The shop is in the centre."
+        }
+      ],
+      "grammar": {
+        "title": "Review: the prepositional case for location (где?)",
+        "explanation": "To say **where** something is, use **в** (in) or **на** (on/at) plus the **prepositional case**.\n\nMost nouns add **-е**:\n- город → в **городе** (in the city)\n- улица → на **улице** (on the street)\n- центр → в **центре** (in the centre)\n\nUse **на** for activities and open spaces (на работе, на улице) and **в** for enclosed places (в городе, в магазине, в комнате).\n\nAdd location adverbs: **здесь** (here), **там** (there), **близко** (near), **далеко** (far), **везде** (everywhere).",
+        "examples": [
+          {
+            "russian": "Я живу в центре, на этой улице.",
+            "english": "I live in the centre, on this street."
+          },
+          {
+            "russian": "Магазин здесь близко, а парк там, далеко.",
+            "english": "The shop is here, close, and the park is there, far."
+          },
+          {
+            "russian": "Сейчас она на работе, в городе.",
+            "english": "Now she is at work, in the city."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мой город",
+        "text": "Я живу в центре. Магазин здесь, близко. А парк там, далеко. Мне нравится мой город.",
+        "translation": "I live in the centre. The shop is here, close. And the park is there, far. I like my city.",
+        "glossary": [
+          {
+            "russian": "близко",
+            "english": "near / close"
+          },
+          {
+            "russian": "далеко",
+            "english": "far"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe where you live using «в» and «на» with the prepositional case. Say what is «здесь / близко» and what is «там / далеко»."
+    },
+    {
+      "day": 3,
+      "title": "Day 3: Что я вижу и хочу — the accusative case",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "вещь",
+          "translit": "veshch'",
+          "english": "thing",
+          "pos": "noun",
+          "example": "Это полезная вещь.",
+          "exampleEn": "This is a useful thing."
+        },
+        {
+          "russian": "нужный",
+          "translit": "núzhnyy",
+          "english": "needed / necessary",
+          "pos": "adjective",
+          "example": "Это нужная книга.",
+          "exampleEn": "This is a necessary book."
+        },
+        {
+          "russian": "новость",
+          "translit": "nóvost'",
+          "english": "news (a piece of news)",
+          "pos": "noun",
+          "example": "Я знаю эту новость.",
+          "exampleEn": "I know this piece of news."
+        },
+        {
+          "russian": "письмо",
+          "translit": "pis'mó",
+          "english": "letter",
+          "pos": "noun",
+          "example": "Я читаю письмо.",
+          "exampleEn": "I am reading a letter."
+        },
+        {
+          "russian": "история",
+          "translit": "istóriya",
+          "english": "story / history",
+          "pos": "noun",
+          "example": "Я люблю эту историю.",
+          "exampleEn": "I love this story."
+        },
+        {
+          "russian": "найти",
+          "translit": "naytí",
+          "english": "to find",
+          "pos": "verb",
+          "example": "Я хочу найти эту книгу.",
+          "exampleEn": "I want to find this book."
+        },
+        {
+          "russian": "помнить",
+          "translit": "pómnit'",
+          "english": "to remember",
+          "pos": "verb",
+          "example": "Я помню эту историю.",
+          "exampleEn": "I remember this story."
+        }
+      ],
+      "grammar": {
+        "title": "Review: the accusative case for direct objects",
+        "explanation": "The **accusative case** marks the **direct object** — the thing a verb acts on (with *читать*, *хотеть*, *любить*, *знать*, *помнить*).\n\n- **Masculine inanimate** and **neuter** nouns do not change: я читаю **журнал**, я люблю **письмо**.\n- **Feminine -а → -у**: книга → я читаю **книгу**.\n- **Feminine -я → -ю**: история → я помню **историю**.\n- The pointer word **этот/эта/это** changes too: эта книга → **эту** книгу.\n\nCompare with **любить + accusative**: Я люблю **эту историю**.",
+        "examples": [
+          {
+            "russian": "Я хочу найти нужную книгу.",
+            "english": "I want to find the necessary book."
+          },
+          {
+            "russian": "Я помню эту историю и это письмо.",
+            "english": "I remember this story and this letter."
+          },
+          {
+            "russian": "Ты знаешь эту новость?",
+            "english": "Do you know this news?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Письмо",
+        "text": "Я читаю это письмо. Я помню эту историю. Я хочу найти одну нужную вещь.",
+        "translation": "I am reading this letter. I remember this story. I want to find one necessary thing.",
+        "glossary": [
+          {
+            "russian": "помню",
+            "english": "(I) remember"
+          },
+          {
+            "russian": "нужную",
+            "english": "necessary (accusative)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say three things you want, love, or remember using the accusative: «Я хочу найти...», «Я люблю...», «Я помню...». Use «эту» with a feminine noun at least once."
+    },
+    {
+      "day": 4,
+      "title": "Day 4: У меня есть — possession & the genitive",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "деньги",
+          "translit": "dén'gi",
+          "english": "money",
+          "pos": "noun",
+          "example": "У меня есть деньги.",
+          "exampleEn": "I have money."
+        },
+        {
+          "russian": "время",
+          "translit": "vrémya",
+          "english": "time",
+          "pos": "noun",
+          "example": "У меня нет времени.",
+          "exampleEn": "I have no time."
+        },
+        {
+          "russian": "работа",
+          "translit": "rabóta",
+          "english": "work / job",
+          "pos": "noun",
+          "example": "У него есть работа.",
+          "exampleEn": "He has a job."
+        },
+        {
+          "russian": "вопрос",
+          "translit": "vaprós",
+          "english": "question",
+          "pos": "noun",
+          "example": "У меня есть вопрос.",
+          "exampleEn": "I have a question."
+        },
+        {
+          "russian": "семья",
+          "translit": "sem'yá",
+          "english": "family",
+          "pos": "noun",
+          "example": "У неё есть семья.",
+          "exampleEn": "She has a family."
+        },
+        {
+          "russian": "идея",
+          "translit": "idéya",
+          "english": "idea",
+          "pos": "noun",
+          "example": "У меня есть идея.",
+          "exampleEn": "I have an idea."
+        },
+        {
+          "russian": "ещё",
+          "translit": "yeshchó",
+          "english": "still / more / yet",
+          "pos": "adverb",
+          "example": "У меня есть ещё вопрос.",
+          "exampleEn": "I have another question."
+        }
+      ],
+      "grammar": {
+        "title": "Review: possession with у + genitive, есть and нет",
+        "explanation": "To say someone **has** something, Russian uses **у + person (genitive) + есть + thing**.\n\n**Genitive pronouns:** я → **у меня**, ты → **у тебя**, он → **у него**, она → **у неё**, мы → **у нас**, вы → **у вас**.\n\n- **У меня есть** деньги. = I have money.\n- **У неё есть** семья. = She has a family.\n\nTo say someone **does not have** something, use **нет** + the genitive of the thing:\n- **У меня нет** времени. = I have no time. (время → времени)\n- **У него нет** работы. = He has no work. (работа → работы)",
+        "examples": [
+          {
+            "russian": "У меня есть вопрос и ещё одна идея.",
+            "english": "I have a question and one more idea."
+          },
+          {
+            "russian": "У неё есть семья, но нет времени.",
+            "english": "She has a family but no time."
+          },
+          {
+            "russian": "У тебя есть деньги?",
+            "english": "Do you have money?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вопрос",
+        "text": "— У тебя есть время? У меня есть вопрос.\n— Сейчас нет времени, но у меня есть идея.",
+        "translation": "— Do you have time? I have a question.\n— Now I have no time, but I have an idea.",
+        "glossary": [
+          {
+            "russian": "время",
+            "english": "time"
+          },
+          {
+            "russian": "нет времени",
+            "english": "no time"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you have and don't have: «У меня есть...» (money, a family, a question) and «У меня нет...» (time). Then ask a friend «У тебя есть...?»"
+    },
+    {
+      "day": 5,
+      "title": "Day 5: Вчера и раньше — the past tense",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "вчера",
+          "translit": "vcherá",
+          "english": "yesterday",
+          "pos": "adverb",
+          "example": "Вчера я был дома.",
+          "exampleEn": "Yesterday I was at home."
+        },
+        {
+          "russian": "раньше",
+          "translit": "rán'she",
+          "english": "earlier / before",
+          "pos": "adverb",
+          "example": "Раньше я жил в городе.",
+          "exampleEn": "Before, I lived in the city."
+        },
+        {
+          "russian": "потом",
+          "translit": "patóm",
+          "english": "then / afterwards",
+          "pos": "adverb",
+          "example": "Потом я читал книгу.",
+          "exampleEn": "Then I read a book."
+        },
+        {
+          "russian": "год",
+          "translit": "god",
+          "english": "year",
+          "pos": "noun",
+          "example": "Я работал там год.",
+          "exampleEn": "I worked there for a year."
+        },
+        {
+          "russian": "встретить",
+          "translit": "vstrétit'",
+          "english": "to meet",
+          "pos": "verb",
+          "example": "Вчера я встретил друга.",
+          "exampleEn": "Yesterday I met a friend."
+        },
+        {
+          "russian": "родиться",
+          "translit": "radítsa",
+          "english": "to be born",
+          "pos": "verb",
+          "example": "Я родился здесь.",
+          "exampleEn": "I was born here."
+        },
+        {
+          "russian": "давно",
+          "translit": "davnó",
+          "english": "long ago / for a long time",
+          "pos": "adverb",
+          "example": "Это было давно.",
+          "exampleEn": "That was long ago."
+        }
+      ],
+      "grammar": {
+        "title": "Review: the past tense (-л / -ла / -ло / -ли)",
+        "explanation": "The **past tense** is built from the verb stem plus an ending that agrees with the **subject's gender and number** (not the person):\n\n- **masculine** → **-л**: он работа**л**, я (male) был\n- **feminine** → **-ла**: она работа**ла**, я (female) была\n- **neuter** → **-ло**: это бы**ло**\n- **plural** → **-ли**: они работа**ли**, мы были\n\nThe verb **быть** (to be) in the past is **был / была / было / были**. Add time markers: **вчера**, **раньше**, **потом**, **давно**.",
+        "examples": [
+          {
+            "russian": "Вчера я был дома, а потом работал.",
+            "english": "Yesterday I was at home, and then I worked."
+          },
+          {
+            "russian": "Раньше она жила в городе.",
+            "english": "Before, she lived in the city."
+          },
+          {
+            "russian": "Это было давно.",
+            "english": "That was long ago."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Раньше",
+        "text": "Раньше я жил в другом городе. Вчера я встретил старого друга. Это было хорошо!",
+        "translation": "Before, I lived in another city. Yesterday I met an old friend. It was good!",
+        "glossary": [
+          {
+            "russian": "раньше",
+            "english": "before / earlier"
+          },
+          {
+            "russian": "встретил",
+            "english": "(I) met"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a short story about your past using the past tense. Use «вчера», «раньше», «потом» and the verb «был / была». Say where you were born and where you lived."
+    },
+    {
+      "day": 6,
+      "title": "Day 6: Что мне нравится — the dative & putting it all together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "нам",
+          "translit": "nam",
+          "english": "to us (dative)",
+          "pos": "pronoun",
+          "example": "Нам нравится этот город.",
+          "exampleEn": "We like this city."
+        },
+        {
+          "russian": "им",
+          "translit": "im",
+          "english": "to them (dative)",
+          "pos": "pronoun",
+          "example": "Им нравится музыка.",
+          "exampleEn": "They like music."
+        },
+        {
+          "russian": "нужно",
+          "translit": "núzhno",
+          "english": "(it is) necessary / need to",
+          "pos": "adverb",
+          "example": "Мне нужно работать.",
+          "exampleEn": "I need to work."
+        },
+        {
+          "russian": "можно",
+          "translit": "mózhno",
+          "english": "(it is) possible / may",
+          "pos": "adverb",
+          "example": "Здесь можно читать.",
+          "exampleEn": "One may read here."
+        },
+        {
+          "russian": "помогать",
+          "translit": "pamagát'",
+          "english": "to help",
+          "pos": "verb",
+          "example": "Я помогаю другу.",
+          "exampleEn": "I help my friend."
+        },
+        {
+          "russian": "конечно",
+          "translit": "kanéshno",
+          "english": "of course",
+          "pos": "adverb",
+          "example": "Конечно, мне нравится!",
+          "exampleEn": "Of course I like it!"
+        },
+        {
+          "russian": "наконец",
+          "translit": "nakonéts",
+          "english": "finally / at last",
+          "pos": "adverb",
+          "example": "Наконец я понимаю!",
+          "exampleEn": "Finally I understand!"
+        }
+      ],
+      "grammar": {
+        "title": "Review: the dative case — нравиться, нужно, and helping",
+        "explanation": "The **dative case** marks the person who likes, needs, or receives.\n\n**Dative pronouns:** я → **мне**, ты → **тебе**, он → **ему**, она → **ей**, мы → **нам**, они → **им**.\n\n- **нравиться** (to like): the person is dative, and the verb agrees with the *thing* — **нравится** (one thing) / **нравятся** (many). *Нам нравится город. / Им нравятся цветы.*\n- **нужно** + dative = *need to*: **Мне нужно** работать.\n- **можно** = *may / is allowed*: **Здесь можно** читать.\n- Verbs like **помогать** (to help) also take the dative: Я помогаю **другу**.",
+        "examples": [
+          {
+            "russian": "Нам нравится этот город, и им тоже.",
+            "english": "We like this city, and they do too."
+          },
+          {
+            "russian": "Мне нужно работать, но я хочу отдыхать.",
+            "english": "I need to work, but I want to rest."
+          },
+          {
+            "russian": "Конечно, я помогаю другу!",
+            "english": "Of course I help my friend!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Наконец вместе",
+        "text": "Нам нравится этот город. Конечно, мне нужно работать, но сегодня можно отдыхать. Наконец мы вместе!",
+        "translation": "We like this city. Of course I need to work, but today one may rest. Finally we are together!",
+        "glossary": [
+          {
+            "russian": "нужно",
+            "english": "need to"
+          },
+          {
+            "russian": "наконец",
+            "english": "finally"
+          }
+        ]
+      },
+      "speakingPrompt": "Use the dative to say what you and others like and need: «Нам нравится...», «Им нравятся...», «Мне нужно...». Add «конечно» and «можно» in your answer."
+    },
+    {
+      "day": 7,
+      "title": "Day 7: Final review & self-assessment",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Six-month recap: the cases and tenses you know",
+        "explanation": "Congratulations — this is your final review! Here is everything in one place.\n\n**Tenses:** present (я работа**ю**, она говор**ит**) and past (он бы**л**, она была, они были; работа**л/-ла/-ли**).\n\n**The cases:**\n- **Nominative** — the subject: *Книга интересная.*\n- **Accusative** — the direct object: *Я читаю книг**у**.* (любить/хотеть + acc.)\n- **Prepositional** — location with в/на: *в город**е**, на улиц**е**.*\n- **Genitive** — possession and absence: *у меня есть деньги; у меня нет времен**и**.*\n- **Dative** — likes, needs, receiving: *Мне нравится; мне нужно; я дарю ей цветы.*\n\n**Pronoun sets:** nominative (я, ты, он…), genitive (у меня, у тебя…), dative (мне, тебе, ему, ей, нам, им).\n\nYou can now describe yourself, your day, your past, your city, what you have, and what you like. That is a real A2!",
+        "examples": [
+          {
+            "russian": "Раньше я жил в другом городе, а сейчас живу здесь.",
+            "english": "Before, I lived in another city, and now I live here."
+          },
+          {
+            "russian": "У меня есть семья, и нам нравится этот город.",
+            "english": "I have a family, and we like this city."
+          },
+          {
+            "russian": "Вчера я встретил друга. Мне нужно было работать, но было хорошо.",
+            "english": "Yesterday I met a friend. I needed to work, but it was good."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Наконец A2!",
+        "text": "— Привет! Как дела?\n— Хорошо! Раньше я немного говорил по-русски, а сейчас говорю хорошо.\n— Конечно! У тебя есть время? Можно вместе читать.\n— Да! Мне очень нравится. Наконец я понимаю по-русски!",
+        "translation": "— Hi! How are you?\n— Good! Before, I spoke a little Russian, and now I speak well.\n— Of course! Do you have time? We can read together.\n— Yes! I like it very much. Finally I understand Russian!",
+        "glossary": [
+          {
+            "russian": "раньше",
+            "english": "before / earlier"
+          },
+          {
+            "russian": "наконец",
+            "english": "finally"
+          },
+          {
+            "russian": "конечно",
+            "english": "of course"
+          }
+        ]
+      },
+      "speakingPrompt": "Self-assessment: speak for two minutes about yourself. Introduce yourself, say where you live (prepositional), what you do every day (present), what you did yesterday and earlier (past), what you have (у меня есть…), and what you like (мне нравится…). Try to use all five cases at least once."
+    }
+  ]
+}

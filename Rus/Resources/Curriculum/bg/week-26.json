@@ -1,0 +1,656 @@
+{
+  "week": 26,
+  "theme": "Final review & assessment",
+  "days": [
+    {
+      "day": 1,
+      "title": "Day 1: \"Съм\" and the present tense again",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "здравей",
+          "translit": "zdravéy",
+          "english": "hello (informal)",
+          "pos": "interjection",
+          "example": "Здравей, как си днес?",
+          "exampleEn": "Hello, how are you today?"
+        },
+        {
+          "russian": "приятел",
+          "translit": "priyátel",
+          "english": "friend (m.)",
+          "pos": "noun",
+          "example": "Той е мой добър приятел.",
+          "exampleEn": "He is my good friend."
+        },
+        {
+          "russian": "семейство",
+          "translit": "seméystvo",
+          "english": "family",
+          "pos": "noun",
+          "example": "Семейството ми е голямо.",
+          "exampleEn": "My family is big."
+        },
+        {
+          "russian": "работя",
+          "translit": "rabótya",
+          "english": "to work",
+          "pos": "verb",
+          "example": "Аз работя всеки ден.",
+          "exampleEn": "I work every day."
+        },
+        {
+          "russian": "живея",
+          "translit": "zhivéya",
+          "english": "to live",
+          "pos": "verb",
+          "example": "Ние живеем в София.",
+          "exampleEn": "We live in Sofia."
+        },
+        {
+          "russian": "сега",
+          "translit": "segá",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Сега съм вкъщи.",
+          "exampleEn": "Now I am at home."
+        },
+        {
+          "russian": "често",
+          "translit": "chésto",
+          "english": "often",
+          "pos": "adverb",
+          "example": "Често пия кафе сутрин.",
+          "exampleEn": "I often drink coffee in the morning."
+        }
+      ],
+      "grammar": {
+        "title": "The verb \"съм\" and everyday present tense",
+        "explanation": "We start the review with the present tense. Remember that Bulgarian, unlike Russian, HAS a present-tense \"to be\": аз съм, ти си, той/тя/то е, ние сме, вие сте, те са. It is used for states, identity and location: Аз съм учител (I am a teacher), Ние сме вкъщи (We are at home). For actions, regular present-tense verbs end with personal endings: работя, работиш, работи, работим, работите, работят. There is no separate \"do/does\" helper — Аз работя means both \"I work\" and \"I am working\". Note Bulgarian has no infinitive: to say \"I want to work\" you use искам да работя (да + present tense).",
+        "examples": [
+          {
+            "russian": "Аз съм Иван и живея в София.",
+            "english": "I am Ivan and I live in Sofia."
+          },
+          {
+            "russian": "Те са приятели и работят заедно.",
+            "english": "They are friends and they work together."
+          },
+          {
+            "russian": "Сега ние сме вкъщи и пием чай.",
+            "english": "Now we are at home and drinking tea."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Двама приятели",
+        "text": "— Здравей! Как си сега? — Добре съм. Аз работя често, но днес съм вкъщи със семейството.",
+        "translation": "— Hello! How are you now? — I am well. I work often, but today I am at home with the family.",
+        "glossary": [
+          {
+            "russian": "как си",
+            "english": "how are you"
+          },
+          {
+            "russian": "вкъщи",
+            "english": "at home"
+          },
+          {
+            "russian": "със",
+            "english": "with"
+          }
+        ]
+      },
+      "speakingPrompt": "Introduce yourself in Bulgarian using съм: say your name, where you live, and what you do. Use at least three forms of the verb съм."
+    },
+    {
+      "day": 2,
+      "title": "Day 2: Talking about the past",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "вчера",
+          "translit": "vchéra",
+          "english": "yesterday",
+          "pos": "adverb",
+          "example": "Вчера бях на работа.",
+          "exampleEn": "Yesterday I was at work."
+        },
+        {
+          "russian": "купих",
+          "translit": "kúpih",
+          "english": "I bought",
+          "pos": "verb",
+          "example": "Купих хляб и мляко.",
+          "exampleEn": "I bought bread and milk."
+        },
+        {
+          "russian": "видях",
+          "translit": "vidyáh",
+          "english": "I saw",
+          "pos": "verb",
+          "example": "Видях стар приятел вчера.",
+          "exampleEn": "I saw an old friend yesterday."
+        },
+        {
+          "russian": "минала",
+          "translit": "mínala",
+          "english": "past, last (f.)",
+          "pos": "adjective",
+          "example": "Миналата седмица бях болен.",
+          "exampleEn": "Last week I was sick."
+        },
+        {
+          "russian": "пътувам",
+          "translit": "pătúvam",
+          "english": "to travel",
+          "pos": "verb",
+          "example": "Обичам да пътувам.",
+          "exampleEn": "I love to travel."
+        },
+        {
+          "russian": "разговор",
+          "translit": "razgovór",
+          "english": "conversation",
+          "pos": "noun",
+          "example": "Имахме дълъг разговор.",
+          "exampleEn": "We had a long conversation."
+        },
+        {
+          "russian": "спомен",
+          "translit": "spómen",
+          "english": "memory",
+          "pos": "noun",
+          "example": "Това е хубав спомен.",
+          "exampleEn": "This is a nice memory."
+        }
+      ],
+      "grammar": {
+        "title": "Past tense: бях and the simple past",
+        "explanation": "The past tense of съм is: аз бях, ти беше, той/тя/то беше, ние бяхме, вие бяхте, те бяха — used for past states and location: Вчера бях вкъщи. For completed past actions, Bulgarian uses the aorist (simple past). Regular verbs add past endings, often -х in the first person: работих (I worked), купих (I bought), видях (I saw), пътувах (I travelled). Compare present аз работя with past аз работих. Many high-frequency verbs are slightly irregular, so it helps to memorise the first-person past form alongside the present.",
+        "examples": [
+          {
+            "russian": "Вчера бях в магазина и купих хляб.",
+            "english": "Yesterday I was in the shop and bought bread."
+          },
+          {
+            "russian": "Миналата седмица пътувахме до морето.",
+            "english": "Last week we travelled to the sea."
+          },
+          {
+            "russian": "Видях приятеля си и имахме дълъг разговор.",
+            "english": "I saw my friend and we had a long conversation."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какво правих вчера",
+        "text": "Вчера бях в града. Купих хляб и видях стар приятел. Имахме хубав разговор.",
+        "translation": "Yesterday I was in the city. I bought bread and saw an old friend. We had a nice conversation.",
+        "glossary": [
+          {
+            "russian": "в града",
+            "english": "in the city"
+          },
+          {
+            "russian": "стар",
+            "english": "old"
+          },
+          {
+            "russian": "хубав",
+            "english": "nice, good"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe what you did yesterday in Bulgarian. Use бях and at least two past-tense action verbs (for example купих, видях, пътувах)."
+    },
+    {
+      "day": 3,
+      "title": "Day 3: Plans and the future",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "утре",
+          "translit": "útre",
+          "english": "tomorrow",
+          "pos": "adverb",
+          "example": "Утре ще пътувам.",
+          "exampleEn": "Tomorrow I will travel."
+        },
+        {
+          "russian": "ще",
+          "translit": "shte",
+          "english": "will (future marker)",
+          "pos": "particle",
+          "example": "Ще дойда по-късно.",
+          "exampleEn": "I will come later."
+        },
+        {
+          "russian": "план",
+          "translit": "plan",
+          "english": "plan",
+          "pos": "noun",
+          "example": "Имам план за утре.",
+          "exampleEn": "I have a plan for tomorrow."
+        },
+        {
+          "russian": "среща",
+          "translit": "sréshta",
+          "english": "meeting, date",
+          "pos": "noun",
+          "example": "Утре имам важна среща.",
+          "exampleEn": "Tomorrow I have an important meeting."
+        },
+        {
+          "russian": "започна",
+          "translit": "zapóchna",
+          "english": "to begin",
+          "pos": "verb",
+          "example": "Ще започна нова работа.",
+          "exampleEn": "I will start a new job."
+        },
+        {
+          "russian": "по-късно",
+          "translit": "po-kắsno",
+          "english": "later",
+          "pos": "adverb",
+          "example": "Ще се видим по-късно.",
+          "exampleEn": "We will see each other later."
+        },
+        {
+          "russian": "следваща",
+          "translit": "slédvashta",
+          "english": "next (f.)",
+          "pos": "adjective",
+          "example": "Следващата седмица ще почивам.",
+          "exampleEn": "Next week I will rest."
+        }
+      ],
+      "grammar": {
+        "title": "Future tense with \"ще\"",
+        "explanation": "The future is easy in Bulgarian: put the unchanging particle ще before the present-tense verb. Ще работя (I will work), ще работиш, ще работи, ще работим, ще работите, ще работят. The particle never changes — only the verb takes the personal ending. To make it negative, use няма да + present tense: Утре няма да работя (Tomorrow I won't work). Compare the three tenses: вчера работих (past), сега работя (present), утре ще работя (future).",
+        "examples": [
+          {
+            "russian": "Утре ще започна нова работа.",
+            "english": "Tomorrow I will start a new job."
+          },
+          {
+            "russian": "Следващата седмица ще пътуваме до морето.",
+            "english": "Next week we will travel to the sea."
+          },
+          {
+            "russian": "По-късно ще се видим на срещата.",
+            "english": "Later we will see each other at the meeting."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Планове за утре",
+        "text": "Утре ще имам важна среща. После ще започна нова работа. Следващата седмица ще почивам.",
+        "translation": "Tomorrow I will have an important meeting. After that I will start a new job. Next week I will rest.",
+        "glossary": [
+          {
+            "russian": "важна",
+            "english": "important (f.)"
+          },
+          {
+            "russian": "после",
+            "english": "after that, then"
+          },
+          {
+            "russian": "почивам",
+            "english": "to rest"
+          }
+        ]
+      },
+      "speakingPrompt": "Talk about your plans for tomorrow and next week using ще. Include at least one negative plan with няма да."
+    },
+    {
+      "day": 4,
+      "title": "Day 4: The definite article",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "градът",
+          "translit": "gradắt",
+          "english": "the city",
+          "pos": "noun",
+          "example": "Градът е голям и красив.",
+          "exampleEn": "The city is big and beautiful."
+        },
+        {
+          "russian": "къщата",
+          "translit": "kắshtata",
+          "english": "the house",
+          "pos": "noun",
+          "example": "Къщата е до реката.",
+          "exampleEn": "The house is by the river."
+        },
+        {
+          "russian": "детето",
+          "translit": "detéto",
+          "english": "the child",
+          "pos": "noun",
+          "example": "Детето спи сега.",
+          "exampleEn": "The child is sleeping now."
+        },
+        {
+          "russian": "хората",
+          "translit": "hórata",
+          "english": "the people",
+          "pos": "noun",
+          "example": "Хората тук са мили.",
+          "exampleEn": "The people here are kind."
+        },
+        {
+          "russian": "пазар",
+          "translit": "pazár",
+          "english": "market",
+          "pos": "noun",
+          "example": "Пазарът е отворен сутрin.",
+          "exampleEn": "The market is open in the morning."
+        },
+        {
+          "russian": "улица",
+          "translit": "úlitsa",
+          "english": "street",
+          "pos": "noun",
+          "example": "Улицата е тиха вечер.",
+          "exampleEn": "The street is quiet in the evening."
+        },
+        {
+          "russian": "близо",
+          "translit": "blízo",
+          "english": "near, close",
+          "pos": "adverb",
+          "example": "Пазарът е близо до къщата.",
+          "exampleEn": "The market is close to the house."
+        }
+      ],
+      "grammar": {
+        "title": "The definite article as a suffix",
+        "explanation": "Bulgarian has no separate word for \"the\" — the definite article is a suffix attached to the noun. Masculine: -ът/-а (град → градът/града); feminine: -та (къща → къщата); neuter: -то (дете → детето); plural: -те (хора → хората, улици → улиците). The full -ът is used as subject of the sentence; the short -а is common in speech and after prepositions. When an adjective comes first, the article moves onto the adjective: голям град → големият град, хубава къща → хубавата къща. Remember: Bulgarian has NO noun cases, so relations are shown by prepositions like в, на, до, от, с, за.",
+        "examples": [
+          {
+            "russian": "Градът е голям, но улиците са тихи.",
+            "english": "The city is big, but the streets are quiet."
+          },
+          {
+            "russian": "Къщата е близо до пазара.",
+            "english": "The house is near the market."
+          },
+          {
+            "russian": "Детето и хората чакат на улицата.",
+            "english": "The child and the people are waiting on the street."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В града",
+        "text": "Градът е голям. Пазарът е близо до къщата. Хората на улицата са мили.",
+        "translation": "The city is big. The market is near the house. The people on the street are kind.",
+        "glossary": [
+          {
+            "russian": "голям",
+            "english": "big (m.)"
+          },
+          {
+            "russian": "мили",
+            "english": "kind (pl.)"
+          },
+          {
+            "russian": "до",
+            "english": "near, next to"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your neighbourhood using at least four nouns with the definite article (for example градът, къщата, улицата, пазарът) and the prepositions в, до or на."
+    },
+    {
+      "day": 5,
+      "title": "Day 5: Adjectives and agreement",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "хубав",
+          "translit": "húbav",
+          "english": "nice, beautiful (m.)",
+          "pos": "adjective",
+          "example": "Това е хубав ден.",
+          "exampleEn": "This is a nice day."
+        },
+        {
+          "russian": "голяма",
+          "translit": "golyáma",
+          "english": "big (f.)",
+          "pos": "adjective",
+          "example": "Имам голяма стая.",
+          "exampleEn": "I have a big room."
+        },
+        {
+          "russian": "малко",
+          "translit": "málko",
+          "english": "small (n.); a little",
+          "pos": "adjective",
+          "example": "Това е малко дете.",
+          "exampleEn": "This is a small child."
+        },
+        {
+          "russian": "нови",
+          "translit": "nóvi",
+          "english": "new (pl.)",
+          "pos": "adjective",
+          "example": "Купих нови обувки.",
+          "exampleEn": "I bought new shoes."
+        },
+        {
+          "russian": "интересен",
+          "translit": "interésen",
+          "english": "interesting (m.)",
+          "pos": "adjective",
+          "example": "Това е интересен филм.",
+          "exampleEn": "This is an interesting film."
+        },
+        {
+          "russian": "цвят",
+          "translit": "tsvyat",
+          "english": "colour",
+          "pos": "noun",
+          "example": "Какъв цвят е колата?",
+          "exampleEn": "What colour is the car?"
+        },
+        {
+          "russian": "повече",
+          "translit": "póveche",
+          "english": "more",
+          "pos": "adverb",
+          "example": "Искам повече време.",
+          "exampleEn": "I want more time."
+        }
+      ],
+      "grammar": {
+        "title": "Adjective agreement and comparison",
+        "explanation": "Adjectives agree with the noun in gender and number. The masculine is the base form (хубав); feminine adds -а (хубава); neuter adds -о (хубаво); plural adds -и (хубави). So: хубав ден, хубава къща, хубаво дете, хубави хора. With the definite article, the article attaches to the adjective: хубавият ден, хубавата къща, хубавото дете, хубавите хора. To compare, add по- for \"more/-er\" and най- for \"the most\": голям → по-голям (bigger) → най-голям (biggest). These are written with a hyphen and are always stressed: по-хубав, най-хубав.",
+        "examples": [
+          {
+            "russian": "Това е хубава къща и голяма градина.",
+            "english": "This is a nice house and a big garden."
+          },
+          {
+            "russian": "Новите обувки са по-удобни.",
+            "english": "The new shoes are more comfortable."
+          },
+          {
+            "russian": "Това е най-интересният филм.",
+            "english": "This is the most interesting film."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Новата къща",
+        "text": "Имаме нова къща. Тя е по-голяма и по-хубава. Градината е малка, но интересна.",
+        "translation": "We have a new house. It is bigger and nicer. The garden is small but interesting.",
+        "glossary": [
+          {
+            "russian": "градина",
+            "english": "garden"
+          },
+          {
+            "russian": "по-голяма",
+            "english": "bigger (f.)"
+          },
+          {
+            "russian": "удобни",
+            "english": "comfortable (pl.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe three things you own using adjectives that agree in gender and number. Use at least one comparison with по- or най-."
+    },
+    {
+      "day": 6,
+      "title": "Day 6: Modals — мога, искам, трябва",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "мога",
+          "translit": "móga",
+          "english": "can, to be able",
+          "pos": "verb",
+          "example": "Мога да говоря български.",
+          "exampleEn": "I can speak Bulgarian."
+        },
+        {
+          "russian": "искам",
+          "translit": "ískam",
+          "english": "to want",
+          "pos": "verb",
+          "example": "Искам да почивам.",
+          "exampleEn": "I want to rest."
+        },
+        {
+          "russian": "трябва",
+          "translit": "tryábva",
+          "english": "must, need to",
+          "pos": "verb",
+          "example": "Трябва да работя утре.",
+          "exampleEn": "I must work tomorrow."
+        },
+        {
+          "russian": "помогна",
+          "translit": "pomógna",
+          "english": "to help",
+          "pos": "verb",
+          "example": "Може ли да помогна?",
+          "exampleEn": "May I help?"
+        },
+        {
+          "russian": "разбирам",
+          "translit": "razbíram",
+          "english": "to understand",
+          "pos": "verb",
+          "example": "Не разбирам добре.",
+          "exampleEn": "I don't understand well."
+        },
+        {
+          "russian": "трудно",
+          "translit": "trúdno",
+          "english": "difficult",
+          "pos": "adverb",
+          "example": "Това е трудно за мен.",
+          "exampleEn": "This is difficult for me."
+        },
+        {
+          "russian": "лесно",
+          "translit": "lésno",
+          "english": "easy",
+          "pos": "adverb",
+          "example": "Сега е по-лесно.",
+          "exampleEn": "Now it is easier."
+        }
+      ],
+      "grammar": {
+        "title": "Modal verbs with \"да\"",
+        "explanation": "Modal verbs combine with да + present tense, because Bulgarian has no infinitive. Мога да... (I can...): Мога да чета (I can read). Искам да... (I want to...): Искам да спя (I want to sleep). The verb трябва (must/need to) is special — it is usually impersonal and does not change for person: Трябва да работя / трябва да работиш / трябва да работим (I/you/we must work). The second verb after да always carries the personal ending. To say \"may I?\", use Може ли да...?: Може ли да помогна? (May I help?).",
+        "examples": [
+          {
+            "russian": "Искам да пътувам, но трябва да работя.",
+            "english": "I want to travel, but I have to work."
+          },
+          {
+            "russian": "Можеш ли да говориш по-бавно?",
+            "english": "Can you speak more slowly?"
+          },
+          {
+            "russian": "Трябва да тръгнем сега, защото е късно.",
+            "english": "We must leave now, because it is late."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Може ли да помогна?",
+        "text": "— Искам да говоря български, но е трудно. — Мога да ти помогна. Сега ще е по-лесно.",
+        "translation": "— I want to speak Bulgarian, but it is difficult. — I can help you. Now it will be easier.",
+        "glossary": [
+          {
+            "russian": "ти",
+            "english": "to you (informal)"
+          },
+          {
+            "russian": "български",
+            "english": "Bulgarian (the language)"
+          },
+          {
+            "russian": "защото",
+            "english": "because"
+          }
+        ]
+      },
+      "speakingPrompt": "Say one thing you can do, one thing you want to do, and one thing you must do this week. Use мога да, искам да and трябва да."
+    },
+    {
+      "day": 7,
+      "title": "Day 7: Weekly review & self-assessment",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Six-month recap: all tenses, articles, adjectives and modals",
+        "explanation": "This week pulled together the whole course. Check yourself on each point: (1) съм in the present (съм, си, е, сме, сте, са) for states and identity. (2) The three time frames — past with бях and aorist verbs (купих, видях), present (работя, живея), and future with ще (ще работя), negated with няма да. (3) The definite article as a suffix: -ът/-а (m.), -та (f.), -то (n.), -те (pl.), moving onto the first adjective: големият град. (4) Adjective agreement (хубав/хубава/хубаво/хубави) and comparison with по- and най-. (5) Modals мога да, искам да and the impersonal трябва да, all followed by да + present tense, because Bulgarian has no infinitive. Remember throughout: Bulgarian has NO noun cases — relations come from word order and prepositions (в, на, до, от, с, за).",
+        "examples": [
+          {
+            "russian": "Вчера бях вкъщи, сега съм на работа, а утре ще пътувам.",
+            "english": "Yesterday I was at home, now I am at work, and tomorrow I will travel."
+          },
+          {
+            "russian": "Новата къща е по-голяма и трябва да работя повече.",
+            "english": "The new house is bigger and I have to work more."
+          },
+          {
+            "russian": "Искам да говоря български, защото градът е красив и хората са мили.",
+            "english": "I want to speak Bulgarian, because the city is beautiful and the people are kind."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кратък разговор",
+        "text": "— Здравей! Какво направи вчера? — Бях в града и купих нови обувки. Утре ще пътувам, но днес трябва да работя. — Мога ли да помогна? — Да, благодаря!",
+        "translation": "— Hello! What did you do yesterday? — I was in the city and bought new shoes. Tomorrow I will travel, but today I must work. — Can I help? — Yes, thank you!",
+        "glossary": [
+          {
+            "russian": "какво направи",
+            "english": "what did you do"
+          },
+          {
+            "russian": "обувки",
+            "english": "shoes"
+          },
+          {
+            "russian": "благодаря",
+            "english": "thank you"
+          }
+        ]
+      },
+      "speakingPrompt": "Give a one-minute self-assessment in Bulgarian: say what you did last week (past), what you are doing now (present), and your plans (future). Use съм, the definite article, an adjective, and at least one modal (мога, искам or трябва)."
+    }
+  ]
+}

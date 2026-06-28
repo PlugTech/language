@@ -1,0 +1,648 @@
+{
+  "week": 14,
+  "theme": "Having & possession",
+  "days": [
+    {
+      "day": 1,
+      "title": "У меня есть… — saying what you have",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "телефон",
+          "translit": "telefón",
+          "english": "phone",
+          "pos": "noun",
+          "example": "У меня есть телефон.",
+          "exampleEn": "I have a phone."
+        },
+        {
+          "russian": "паспорт",
+          "translit": "pásport",
+          "english": "passport",
+          "pos": "noun",
+          "example": "У меня есть паспорт.",
+          "exampleEn": "I have a passport."
+        },
+        {
+          "russian": "ключ",
+          "translit": "klyuch",
+          "english": "key",
+          "pos": "noun",
+          "example": "У меня есть ключ.",
+          "exampleEn": "I have a key."
+        },
+        {
+          "russian": "деньги",
+          "translit": "dén'gi",
+          "english": "money",
+          "pos": "noun",
+          "example": "У меня есть деньги.",
+          "exampleEn": "I have money."
+        },
+        {
+          "russian": "у",
+          "translit": "u",
+          "english": "at / by (with genitive, for 'have')",
+          "pos": "particle",
+          "example": "У меня есть кот.",
+          "exampleEn": "I have a cat."
+        },
+        {
+          "russian": "есть",
+          "translit": "yest'",
+          "english": "there is / have",
+          "pos": "verb",
+          "example": "У меня есть дом.",
+          "exampleEn": "I have a house."
+        },
+        {
+          "russian": "меня",
+          "translit": "menyá",
+          "english": "me (genitive of 'I')",
+          "pos": "pronoun",
+          "example": "У меня есть машина.",
+          "exampleEn": "I have a car."
+        }
+      ],
+      "grammar": {
+        "title": "Saying \"I have\" with у меня есть",
+        "explanation": "Russian has no verb \"to have\" like English. Instead it uses **у + a person (in the genitive) + есть + the thing**. Literally: \"by me there-is a thing.\" For now, learn the fixed phrase **у меня есть** = \"I have.\" Here **меня** is the genitive form of **я** (I). The thing you have stays in its normal (nominative) form: *у меня есть телефон* = \"I have a phone.\" The word **есть** means \"there is\" and confirms that the thing exists.",
+        "examples": [
+          {
+            "russian": "У меня есть телефон.",
+            "english": "I have a phone."
+          },
+          {
+            "russian": "У меня есть деньги.",
+            "english": "I have money."
+          },
+          {
+            "russian": "У меня есть ключ и паспорт.",
+            "english": "I have a key and a passport."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Что у меня есть",
+        "text": "У меня есть телефон. У меня есть ключ и паспорт. У меня есть деньги.",
+        "translation": "I have a phone. I have a key and a passport. I have money.",
+        "glossary": [
+          {
+            "russian": "у меня есть",
+            "english": "I have"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Look around you. Say three things you have using \"У меня есть…\" out loud, for example: У меня есть телефон, ключ и деньги."
+    },
+    {
+      "day": 2,
+      "title": "У тебя и у вас есть? — do you have?",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "тебя",
+          "translit": "tebyá",
+          "english": "you (genitive, informal)",
+          "pos": "pronoun",
+          "example": "У тебя есть телефон?",
+          "exampleEn": "Do you have a phone?"
+        },
+        {
+          "russian": "вас",
+          "translit": "vas",
+          "english": "you (genitive, formal/plural)",
+          "pos": "pronoun",
+          "example": "У вас есть паспорт?",
+          "exampleEn": "Do you have a passport?"
+        },
+        {
+          "russian": "сумка",
+          "translit": "súmka",
+          "english": "bag",
+          "pos": "noun",
+          "example": "У тебя есть сумка?",
+          "exampleEn": "Do you have a bag?"
+        },
+        {
+          "russian": "часы",
+          "translit": "chasý",
+          "english": "watch / clock",
+          "pos": "noun",
+          "example": "У вас есть часы?",
+          "exampleEn": "Do you have a watch?"
+        },
+        {
+          "russian": "карта",
+          "translit": "kárta",
+          "english": "map / card",
+          "pos": "noun",
+          "example": "У тебя есть карта?",
+          "exampleEn": "Do you have a map?"
+        },
+        {
+          "russian": "билет",
+          "translit": "bilét",
+          "english": "ticket",
+          "pos": "noun",
+          "example": "У вас есть билет?",
+          "exampleEn": "Do you have a ticket?"
+        },
+        {
+          "russian": "конечно",
+          "translit": "konéchno",
+          "english": "of course",
+          "pos": "adverb",
+          "example": "Да, конечно, есть.",
+          "exampleEn": "Yes, of course, I do."
+        }
+      ],
+      "grammar": {
+        "title": "Asking \"do you have?\" — у тебя / у вас",
+        "explanation": "To ask another person, swap **меня** for the genitive of \"you.\" Use **тебя** (informal, one friend) or **вас** (formal or several people). The pattern is the same: **у + person + есть + thing**, just said with a question intonation. So *У тебя есть карта?* = \"Do you have a map?\" To answer yes, you can say **Да, есть** (\"Yes, I do\") or add **конечно** (\"of course\").",
+        "examples": [
+          {
+            "russian": "У тебя есть сумка?",
+            "english": "Do you have a bag?"
+          },
+          {
+            "russian": "У вас есть билет?",
+            "english": "Do you have a ticket?"
+          },
+          {
+            "russian": "Да, конечно, есть.",
+            "english": "Yes, of course, I do."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Билет",
+        "text": "— У вас есть билет? — Да, конечно, есть. У меня есть билет и паспорт.",
+        "translation": "\"Do you have a ticket?\" \"Yes, of course, I do. I have a ticket and a passport.\"",
+        "glossary": [
+          {
+            "russian": "у вас есть?",
+            "english": "do you have? (formal)"
+          },
+          {
+            "russian": "да",
+            "english": "yes"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine asking a friend and then a stranger. Ask \"У тебя есть карта?\" and \"У вас есть билет?\" out loud, then answer \"Да, конечно, есть.\""
+    },
+    {
+      "day": 3,
+      "title": "У него и у неё — he has, she has",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "него",
+          "translit": "nevó",
+          "english": "him (genitive, after у)",
+          "pos": "pronoun",
+          "example": "У него есть машина.",
+          "exampleEn": "He has a car."
+        },
+        {
+          "russian": "неё",
+          "translit": "neyó",
+          "english": "her (genitive, after у)",
+          "pos": "pronoun",
+          "example": "У неё есть собака.",
+          "exampleEn": "She has a dog."
+        },
+        {
+          "russian": "нас",
+          "translit": "nas",
+          "english": "us (genitive)",
+          "pos": "pronoun",
+          "example": "У нас есть дом.",
+          "exampleEn": "We have a house."
+        },
+        {
+          "russian": "них",
+          "translit": "nikh",
+          "english": "them (genitive, after у)",
+          "pos": "pronoun",
+          "example": "У них есть дети.",
+          "exampleEn": "They have children."
+        },
+        {
+          "russian": "ноутбук",
+          "translit": "noutbúk",
+          "english": "laptop",
+          "pos": "noun",
+          "example": "У него есть ноутбук.",
+          "exampleEn": "He has a laptop."
+        },
+        {
+          "russian": "велосипед",
+          "translit": "velosipéd",
+          "english": "bicycle",
+          "pos": "noun",
+          "example": "У неё есть велосипед.",
+          "exampleEn": "She has a bicycle."
+        },
+        {
+          "russian": "фотоаппарат",
+          "translit": "fotoapparát",
+          "english": "camera",
+          "pos": "noun",
+          "example": "У них есть фотоаппарат.",
+          "exampleEn": "They have a camera."
+        }
+      ],
+      "grammar": {
+        "title": "\"He / she / we / they have\" — у него, у неё, у нас, у них",
+        "explanation": "The same **у + person + есть** pattern works for everyone. After **у**, the pronouns for he/she/they add an **н-**: **у него** (he has), **у неё** (she has), **у них** (they have). Note the spelling: *него* and *неё* are pronounced \"nevó\" and \"neyó.\" For \"we\" use **у нас**. The thing owned still stays unchanged: *У неё есть велосипед* = \"She has a bicycle.\"",
+        "examples": [
+          {
+            "russian": "У него есть ноутбук.",
+            "english": "He has a laptop."
+          },
+          {
+            "russian": "У неё есть велосипед.",
+            "english": "She has a bicycle."
+          },
+          {
+            "russian": "У нас есть фотоаппарат.",
+            "english": "We have a camera."
+          },
+          {
+            "russian": "У них есть дом.",
+            "english": "They have a house."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Семья",
+        "text": "У него есть ноутбук. У неё есть велосипед. У нас есть фотоаппарат.",
+        "translation": "He has a laptop. She has a bicycle. We have a camera.",
+        "glossary": [
+          {
+            "russian": "у него",
+            "english": "he has"
+          },
+          {
+            "russian": "у неё",
+            "english": "she has"
+          },
+          {
+            "russian": "у нас",
+            "english": "we have"
+          }
+        ]
+      },
+      "speakingPrompt": "Think of two people you know. Say what each one has: \"У него есть ноутбук\" and \"У неё есть велосипед.\""
+    },
+    {
+      "day": 4,
+      "title": "У меня нет — saying what you don't have",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "нет",
+          "translit": "net",
+          "english": "there is no / don't have",
+          "pos": "particle",
+          "example": "У меня нет машины.",
+          "exampleEn": "I don't have a car."
+        },
+        {
+          "russian": "машины",
+          "translit": "mashíny",
+          "english": "car (genitive of машина)",
+          "pos": "noun",
+          "example": "У меня нет машины.",
+          "exampleEn": "I don't have a car."
+        },
+        {
+          "russian": "времени",
+          "translit": "vrémeni",
+          "english": "time (genitive of время)",
+          "pos": "noun",
+          "example": "У меня нет времени.",
+          "exampleEn": "I don't have time."
+        },
+        {
+          "russian": "собаки",
+          "translit": "sobáki",
+          "english": "dog (genitive of собака)",
+          "pos": "noun",
+          "example": "У него нет собаки.",
+          "exampleEn": "He doesn't have a dog."
+        },
+        {
+          "russian": "работы",
+          "translit": "rabóty",
+          "english": "work / job (genitive of работа)",
+          "pos": "noun",
+          "example": "У неё нет работы.",
+          "exampleEn": "She doesn't have a job."
+        },
+        {
+          "russian": "вопроса",
+          "translit": "voprósa",
+          "english": "question (genitive of вопрос)",
+          "pos": "noun",
+          "example": "У меня нет вопроса.",
+          "exampleEn": "I don't have a question."
+        },
+        {
+          "russian": "проблемы",
+          "translit": "problémy",
+          "english": "problem (genitive of проблема)",
+          "pos": "noun",
+          "example": "У нас нет проблемы.",
+          "exampleEn": "We don't have a problem."
+        }
+      ],
+      "grammar": {
+        "title": "Saying you don't have something — нет + genitive",
+        "explanation": "To say \"I don't have,\" replace **есть** with **нет** (\"there is no\"). But there is a key change: the thing you lack now goes into the **genitive case** — it changes its ending. For feminine nouns ending in **-а**, change **-а → -ы/-и**: *машина → машины*, *собака → собаки*, *работа → работы*. For masculine nouns, add **-а**: *вопрос → вопроса*. So *У меня нет машины* = \"I don't have a car.\" The genitive is the \"missing\" form — think of it as \"of a car, there is none.\"",
+        "examples": [
+          {
+            "russian": "У меня нет машины.",
+            "english": "I don't have a car."
+          },
+          {
+            "russian": "У меня нет времени.",
+            "english": "I don't have time."
+          },
+          {
+            "russian": "У неё нет работы.",
+            "english": "She doesn't have a job."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Нет времени",
+        "text": "У меня нет машины. У меня нет времени. Но у меня есть велосипед!",
+        "translation": "I don't have a car. I don't have time. But I have a bicycle!",
+        "glossary": [
+          {
+            "russian": "у меня нет",
+            "english": "I don't have"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          }
+        ]
+      },
+      "speakingPrompt": "Say two things you don't have and one thing you do: \"У меня нет машины, но у меня есть велосипед.\""
+    },
+    {
+      "day": 5,
+      "title": "Genitive of possession — чей это? (whose is this?)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "брата",
+          "translit": "bráta",
+          "english": "brother's (genitive of брат)",
+          "pos": "noun",
+          "example": "Это телефон брата.",
+          "exampleEn": "This is my brother's phone."
+        },
+        {
+          "russian": "сестры",
+          "translit": "sestrý",
+          "english": "sister's (genitive of сестра)",
+          "pos": "noun",
+          "example": "Это сумка сестры.",
+          "exampleEn": "This is my sister's bag."
+        },
+        {
+          "russian": "мамы",
+          "translit": "mámy",
+          "english": "mom's (genitive of мама)",
+          "pos": "noun",
+          "example": "Это карта мамы.",
+          "exampleEn": "This is mom's map."
+        },
+        {
+          "russian": "папы",
+          "translit": "pápy",
+          "english": "dad's (genitive of папа)",
+          "pos": "noun",
+          "example": "Это машина папы.",
+          "exampleEn": "This is dad's car."
+        },
+        {
+          "russian": "друга",
+          "translit": "drúga",
+          "english": "friend's (genitive of друг)",
+          "pos": "noun",
+          "example": "Это ноутбук друга.",
+          "exampleEn": "This is my friend's laptop."
+        },
+        {
+          "russian": "чей",
+          "translit": "chey",
+          "english": "whose",
+          "pos": "pronoun",
+          "example": "Чей это телефон?",
+          "exampleEn": "Whose phone is this?"
+        },
+        {
+          "russian": "это",
+          "translit": "éto",
+          "english": "this is / it is",
+          "pos": "pronoun",
+          "example": "Это телефон брата.",
+          "exampleEn": "This is my brother's phone."
+        }
+      ],
+      "grammar": {
+        "title": "Genitive for \"of\" — whose thing it is",
+        "explanation": "The genitive case also shows **possession**, like English \"'s\" or \"of.\" Put the owner into the genitive **after** the thing: *телефон брата* = \"brother's phone\" (literally \"phone of brother\"). Same endings as yesterday: masculine adds **-а** (*брат → брата*, *друг → друга*), feminine **-а → -ы/-и** (*сестра → сестры*, *мама → мамы*). To ask \"whose?\" use **чей**: *Чей это телефон?* — *Это телефон брата.*",
+        "examples": [
+          {
+            "russian": "Чей это телефон?",
+            "english": "Whose phone is this?"
+          },
+          {
+            "russian": "Это телефон брата.",
+            "english": "This is my brother's phone."
+          },
+          {
+            "russian": "Это сумка сестры.",
+            "english": "This is my sister's bag."
+          },
+          {
+            "russian": "Это машина папы.",
+            "english": "This is dad's car."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Чей это ноутбук?",
+        "text": "— Чей это ноутбук? — Это ноутбук друга. А это сумка сестры.",
+        "translation": "\"Whose laptop is this?\" \"This is my friend's laptop. And this is my sister's bag.\"",
+        "glossary": [
+          {
+            "russian": "чей это…?",
+            "english": "whose … is this?"
+          },
+          {
+            "russian": "а",
+            "english": "and / but"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at objects around you and say whose they are: \"Это телефон брата\", \"Это сумка сестры.\" Then ask yourself \"Чей это ноутбук?\""
+    },
+    {
+      "day": 6,
+      "title": "У кого есть? — putting it all together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "кого",
+          "translit": "kovó",
+          "english": "who(m) (genitive of кто)",
+          "pos": "pronoun",
+          "example": "У кого есть ключ?",
+          "exampleEn": "Who has a key?"
+        },
+        {
+          "russian": "паспорта",
+          "translit": "pásporta",
+          "english": "passport (genitive of паспорт)",
+          "pos": "noun",
+          "example": "У меня нет паспорта.",
+          "exampleEn": "I don't have a passport."
+        },
+        {
+          "russian": "билета",
+          "translit": "biléta",
+          "english": "ticket (genitive of билет)",
+          "pos": "noun",
+          "example": "У него нет билета.",
+          "exampleEn": "He doesn't have a ticket."
+        },
+        {
+          "russian": "денег",
+          "translit": "déneg",
+          "english": "money (genitive of деньги)",
+          "pos": "noun",
+          "example": "У нас нет денег.",
+          "exampleEn": "We don't have money."
+        },
+        {
+          "russian": "сумки",
+          "translit": "súmki",
+          "english": "bag (genitive of сумка)",
+          "pos": "noun",
+          "example": "У неё нет сумки.",
+          "exampleEn": "She doesn't have a bag."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also / too",
+          "pos": "adverb",
+          "example": "У меня тоже есть карта.",
+          "exampleEn": "I have a map too."
+        },
+        {
+          "russian": "только",
+          "translit": "tól'ko",
+          "english": "only",
+          "pos": "adverb",
+          "example": "У меня есть только телефон.",
+          "exampleEn": "I only have a phone."
+        }
+      ],
+      "grammar": {
+        "title": "Asking \"who has?\" and combining есть / нет",
+        "explanation": "To ask **\"who has?\"** use **у кого есть** — *кого* is the genitive of *кто* (who). Answer with *у меня есть* or *у него нет*. Remember the rule: **есть** keeps the thing in its plain form, but **нет** sends it to the genitive (*билет → билета*, *сумка → сумки*, *деньги → денег*). Use **тоже** (also) and **только** (only) to add detail: *У меня тоже есть карта* / *У меня есть только телефон*.",
+        "examples": [
+          {
+            "russian": "У кого есть ключ?",
+            "english": "Who has a key?"
+          },
+          {
+            "russian": "У него нет билета.",
+            "english": "He doesn't have a ticket."
+          },
+          {
+            "russian": "У меня тоже есть карта.",
+            "english": "I have a map too."
+          },
+          {
+            "russian": "У меня есть только телефон.",
+            "english": "I only have a phone."
+          }
+        ]
+      },
+      "reading": {
+        "title": "У кого есть ключ?",
+        "text": "— У кого есть ключ? — У меня нет ключа. У него тоже нет. Но у неё есть!",
+        "translation": "\"Who has a key?\" \"I don't have a key. He doesn't either. But she does!\"",
+        "glossary": [
+          {
+            "russian": "у кого есть?",
+            "english": "who has?"
+          },
+          {
+            "russian": "тоже нет",
+            "english": "doesn't either"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask and answer: \"У кого есть билет?\" Then reply about three people: \"У меня нет билета, у него тоже нет, но у неё есть.\""
+    },
+    {
+      "day": 7,
+      "title": "Review: Having & possession",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week recap: у + genitive, есть, and нет + genitive",
+        "explanation": "This week you learned how Russian expresses **having**:\n\n- **\"I have\" = у + person (genitive) + есть + thing.** The thing stays in its plain form: *У меня есть телефон.*\n- **Genitive pronouns after у:** у **меня**, у **тебя**, у **него**, у **неё**, у **нас**, у **вас**, у **них**.\n- **\"I don't have\" = у + person + нет + thing in the GENITIVE.** Masculine adds **-а** (*билет → билета*), feminine **-а → -ы/-и** (*сумка → сумки*). Example: *У меня нет машины.*\n- **Genitive of possession (\"of / 's\"):** owner goes after the thing in the genitive — *телефон брата*, *сумка сестры*.\n- **Questions:** *У тебя есть…?* (do you have?), *Чей это…?* (whose?), *У кого есть…?* (who has?).",
+        "examples": [
+          {
+            "russian": "У меня есть ключ, но нет паспорта.",
+            "english": "I have a key, but I don't have a passport."
+          },
+          {
+            "russian": "Чей это ноутбук? — Это ноутбук друга.",
+            "english": "Whose laptop is this? — It's my friend's laptop."
+          },
+          {
+            "russian": "У кого есть карта? — У неё есть.",
+            "english": "Who has a map? — She has one."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Диалог: на вокзале",
+        "text": "— У тебя есть билет? — Да, есть. А паспорт? — Нет, у меня нет паспорта! — А у меня есть только телефон. — Чей это паспорт? — Это паспорт брата!",
+        "translation": "\"Do you have a ticket?\" \"Yes, I do. And a passport?\" \"No, I don't have a passport!\" \"And I only have a phone.\" \"Whose passport is this?\" \"It's my brother's passport!\"",
+        "glossary": [
+          {
+            "russian": "у тебя есть?",
+            "english": "do you have? (informal)"
+          },
+          {
+            "russian": "у меня нет",
+            "english": "I don't have"
+          },
+          {
+            "russian": "чей это?",
+            "english": "whose is this?"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play the station dialogue. Say what you have (У меня есть…), what you don't have (У меня нет…), ask a partner (У тебя есть…?), and identify an object's owner (Это паспорт брата)."
+    }
+  ]
+}

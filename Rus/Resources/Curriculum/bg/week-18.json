@@ -1,0 +1,652 @@
+{
+  "week": 18,
+  "theme": "Can, must, want",
+  "days": [
+    {
+      "day": 1,
+      "title": "Мога: I can (ability)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "мога",
+          "translit": "móga",
+          "english": "I can / I am able",
+          "pos": "verb",
+          "example": "Аз мога да чета на български.",
+          "exampleEn": "I can read in Bulgarian."
+        },
+        {
+          "russian": "можеш",
+          "translit": "mózhesh",
+          "english": "you can",
+          "pos": "verb",
+          "example": "Ти можеш да пееш хубаво.",
+          "exampleEn": "You can sing well."
+        },
+        {
+          "russian": "плувам",
+          "translit": "plúvam",
+          "english": "to swim",
+          "pos": "verb",
+          "example": "Мога да плувам в морето.",
+          "exampleEn": "I can swim in the sea."
+        },
+        {
+          "russian": "карам",
+          "translit": "káram",
+          "english": "to drive",
+          "pos": "verb",
+          "example": "Тя може да кара кола.",
+          "exampleEn": "She can drive a car."
+        },
+        {
+          "russian": "колело",
+          "translit": "koleló",
+          "english": "bicycle",
+          "pos": "noun",
+          "example": "Детето кара колело.",
+          "exampleEn": "The child rides a bicycle."
+        },
+        {
+          "russian": "готвя",
+          "translit": "gótvya",
+          "english": "to cook",
+          "pos": "verb",
+          "example": "Мога да готвя супа.",
+          "exampleEn": "I can cook soup."
+        },
+        {
+          "russian": "добре",
+          "translit": "dobré",
+          "english": "well / fine",
+          "pos": "adverb",
+          "example": "Той танцува добре.",
+          "exampleEn": "He dances well."
+        }
+      ],
+      "grammar": {
+        "title": "The verb мога + да + present",
+        "explanation": "Bulgarian has no infinitive. To say 'I can do something' you use мога followed by да and a present-tense verb that agrees with the same subject: мога да чета (I can read). The full present of мога is: аз мога, ти можеш, той/тя може, ние можем, вие можете, те могат. Note the г/ж change: мога and могат keep -г-, while all the middle forms (можеш, може, можем, можете) have -ж-. Both verbs share one subject, so both are conjugated: тя може да готви (she can cook).",
+        "examples": [
+          {
+            "russian": "Аз мога да плувам.",
+            "english": "I can swim."
+          },
+          {
+            "russian": "Ти можеш да караш кола.",
+            "english": "You can drive a car."
+          },
+          {
+            "russian": "Тя може да готви добре.",
+            "english": "She can cook well."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какво можеш да правиш?",
+        "text": "— Можеш ли да плуваш? — Да, мога да плувам добре. А ти можеш ли да караш колело?",
+        "translation": "— Can you swim? — Yes, I can swim well. And can you ride a bicycle?",
+        "glossary": [
+          {
+            "russian": "ли",
+            "english": "question particle (yes/no)"
+          },
+          {
+            "russian": "правиш",
+            "english": "you do / make"
+          }
+        ]
+      },
+      "speakingPrompt": "List three things you can do well using 'мога да...' (e.g. swim, cook, drive). Then ask a friend 'Можеш ли да...?' for each."
+    },
+    {
+      "day": 2,
+      "title": "Не мога: I cannot",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "не мога",
+          "translit": "ne móga",
+          "english": "I cannot",
+          "pos": "verb phrase",
+          "example": "Не мога да спя.",
+          "exampleEn": "I cannot sleep."
+        },
+        {
+          "russian": "спя",
+          "translit": "spya",
+          "english": "to sleep",
+          "pos": "verb",
+          "example": "Не мога да спя нощем.",
+          "exampleEn": "I cannot sleep at night."
+        },
+        {
+          "russian": "чувам",
+          "translit": "chúvam",
+          "english": "to hear",
+          "pos": "verb",
+          "example": "Не те чувам добре.",
+          "exampleEn": "I cannot hear you well."
+        },
+        {
+          "russian": "виждам",
+          "translit": "vízhdam",
+          "english": "to see",
+          "pos": "verb",
+          "example": "Не виждам нищо.",
+          "exampleEn": "I cannot see anything."
+        },
+        {
+          "russian": "разбирам",
+          "translit": "razbíram",
+          "english": "to understand",
+          "pos": "verb",
+          "example": "Не разбирам въпроса.",
+          "exampleEn": "I don't understand the question."
+        },
+        {
+          "russian": "защото",
+          "translit": "zashtóto",
+          "english": "because",
+          "pos": "conjunction",
+          "example": "Не мога да дойда, защото съм болен.",
+          "exampleEn": "I can't come because I am ill."
+        },
+        {
+          "russian": "болен",
+          "translit": "bólen",
+          "english": "ill / sick",
+          "pos": "adjective",
+          "example": "Той е болен днес.",
+          "exampleEn": "He is ill today."
+        },
+        {
+          "russian": "уморен",
+          "translit": "umorén",
+          "english": "tired",
+          "pos": "adjective",
+          "example": "Уморена съм и не мога да работя.",
+          "exampleEn": "I am tired and cannot work."
+        }
+      ],
+      "grammar": {
+        "title": "Negation: не мога да...",
+        "explanation": "To make мога negative, place не directly before it: не мога, не можеш, не може, не можем, не можете, не могат. The structure stays не мога + да + present verb: не мога да спя (I can't sleep). You can give a reason with защото (because) and remember Bulgarian uses the present tense of 'to be' съм: уморен съм (I am tired), той е болен (he is ill). The adjective agrees in gender: болен (m), болна (f), уморен (m), уморена (f).",
+        "examples": [
+          {
+            "russian": "Не мога да виждам без очила.",
+            "english": "I cannot see without glasses."
+          },
+          {
+            "russian": "Тя не може да дойде, защото е болна.",
+            "english": "She cannot come because she is ill."
+          },
+          {
+            "russian": "Не можем да чуем музиката.",
+            "english": "We cannot hear the music."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Защо не можеш?",
+        "text": "— Можеш ли да работиш днес? — Не, не мога, защото съм болен. — А утре? — Утре може би.",
+        "translation": "— Can you work today? — No, I can't, because I am ill. — And tomorrow? — Tomorrow maybe.",
+        "glossary": [
+          {
+            "russian": "днес",
+            "english": "today"
+          },
+          {
+            "russian": "утре",
+            "english": "tomorrow"
+          },
+          {
+            "russian": "може би",
+            "english": "maybe"
+          }
+        ]
+      },
+      "speakingPrompt": "Decline three invitations using 'Не мога да... защото...' and give a reason each time (you are tired, ill, busy)."
+    },
+    {
+      "day": 3,
+      "title": "Искам: I want",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "искам",
+          "translit": "ískam",
+          "english": "I want",
+          "pos": "verb",
+          "example": "Искам да пътувам.",
+          "exampleEn": "I want to travel."
+        },
+        {
+          "russian": "искаш",
+          "translit": "ískash",
+          "english": "you want",
+          "pos": "verb",
+          "example": "Какво искаш да ядеш?",
+          "exampleEn": "What do you want to eat?"
+        },
+        {
+          "russian": "пътувам",
+          "translit": "patúvam",
+          "english": "to travel",
+          "pos": "verb",
+          "example": "Искам да пътувам до морето.",
+          "exampleEn": "I want to travel to the sea."
+        },
+        {
+          "russian": "почивам",
+          "translit": "pochívam",
+          "english": "to rest",
+          "pos": "verb",
+          "example": "Искам да почивам днес.",
+          "exampleEn": "I want to rest today."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun",
+          "example": "Искам чаша вода.",
+          "exampleEn": "I want a glass of water."
+        },
+        {
+          "russian": "купувам",
+          "translit": "kupúvam",
+          "english": "to buy",
+          "pos": "verb",
+          "example": "Искам да купувам хляб.",
+          "exampleEn": "I want to buy bread."
+        },
+        {
+          "russian": "научавам",
+          "translit": "nauchávam",
+          "english": "to learn",
+          "pos": "verb",
+          "example": "Искам да науча български.",
+          "exampleEn": "I want to learn Bulgarian."
+        }
+      ],
+      "grammar": {
+        "title": "The verb искам + да + present (and direct objects)",
+        "explanation": "искам is a regular -а verb: аз искам, ти искаш, той/тя иска, ние искаме, вие искате, те искат. For a desired action use искам да + present: искам да пътувам (I want to travel). For a desired thing, use искам + noun directly: искам вода (I want water). Because Bulgarian has no noun cases, the noun does not change form — only word order and articles matter: искам водата (I want the water), искам книгата (I want the book).",
+        "examples": [
+          {
+            "russian": "Искам да почивам.",
+            "english": "I want to rest."
+          },
+          {
+            "russian": "Ти искаш ли вода?",
+            "english": "Do you want water?"
+          },
+          {
+            "russian": "Те искат да купуват кола.",
+            "english": "They want to buy a car."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафенето",
+        "text": "— Какво искаш? — Искам чаша вода и кафе. — Аз искам само вода.",
+        "translation": "— What do you want? — I want a glass of water and a coffee. — I want only water.",
+        "glossary": [
+          {
+            "russian": "чаша",
+            "english": "glass / cup"
+          },
+          {
+            "russian": "кафе",
+            "english": "coffee"
+          },
+          {
+            "russian": "само",
+            "english": "only"
+          }
+        ]
+      },
+      "speakingPrompt": "Order in a cafe: say three things you want using 'Искам...' (a thing) and 'Искам да...' (an action, e.g. to rest, to pay)."
+    },
+    {
+      "day": 4,
+      "title": "Трябва: I must / have to",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "трябва",
+          "translit": "tryábva",
+          "english": "must / have to (it is necessary)",
+          "pos": "verb",
+          "example": "Трябва да работя.",
+          "exampleEn": "I must work."
+        },
+        {
+          "russian": "ставам",
+          "translit": "stávam",
+          "english": "to get up",
+          "pos": "verb",
+          "example": "Трябва да ставам рано.",
+          "exampleEn": "I have to get up early."
+        },
+        {
+          "russian": "рано",
+          "translit": "ráno",
+          "english": "early",
+          "pos": "adverb",
+          "example": "Ставам рано всеки ден.",
+          "exampleEn": "I get up early every day."
+        },
+        {
+          "russian": "плащам",
+          "translit": "pláshtam",
+          "english": "to pay",
+          "pos": "verb",
+          "example": "Трябва да плащам сметката.",
+          "exampleEn": "I have to pay the bill."
+        },
+        {
+          "russian": "сметка",
+          "translit": "smétka",
+          "english": "bill / check",
+          "pos": "noun",
+          "example": "Сметката е голяма.",
+          "exampleEn": "The bill is big."
+        },
+        {
+          "russian": "чакам",
+          "translit": "chákam",
+          "english": "to wait",
+          "pos": "verb",
+          "example": "Трябва да чакаш тук.",
+          "exampleEn": "You have to wait here."
+        },
+        {
+          "russian": "бързам",
+          "translit": "bárzam",
+          "english": "to hurry",
+          "pos": "verb",
+          "example": "Трябва да бързам.",
+          "exampleEn": "I have to hurry."
+        }
+      ],
+      "grammar": {
+        "title": "Impersonal трябва + да + present",
+        "explanation": "трябва means 'it is necessary' and is impersonal — it does NOT change for person. The person is shown by the verb after да: трябва да работя (I must work), трябва да работиш (you must work), трябва да работим (we must work). The form трябва stays the same for everyone. Negative: не трябва да... means 'must not / should not': не трябва да бързаш (you shouldn't hurry).",
+        "examples": [
+          {
+            "russian": "Трябва да ставам рано.",
+            "english": "I have to get up early."
+          },
+          {
+            "russian": "Трябва да платиш сметката.",
+            "english": "You have to pay the bill."
+          },
+          {
+            "russian": "Не трябва да чакаме тук.",
+            "english": "We shouldn't wait here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сутрин",
+        "text": "Трябва да ставам рано, защото трябва да работя. Не мога да почивам, защото бързам.",
+        "translation": "I have to get up early because I have to work. I cannot rest because I am in a hurry.",
+        "glossary": [
+          {
+            "russian": "сутрин",
+            "english": "in the morning"
+          },
+          {
+            "russian": "защото",
+            "english": "because"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your morning duties: name four things you must do using 'Трябва да...' (get up early, hurry, pay a bill, wait)."
+    },
+    {
+      "day": 5,
+      "title": "Може ли?: May I? (permission)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "може",
+          "translit": "mózhe",
+          "english": "it is allowed / one may",
+          "pos": "verb",
+          "example": "Може ли да вляза?",
+          "exampleEn": "May I come in?"
+        },
+        {
+          "russian": "влизам",
+          "translit": "vlízam",
+          "english": "to enter / come in",
+          "pos": "verb",
+          "example": "Може ли да влизам сега?",
+          "exampleEn": "May I come in now?"
+        },
+        {
+          "russian": "седя",
+          "translit": "sedyá",
+          "english": "to sit",
+          "pos": "verb",
+          "example": "Може ли да седя тук?",
+          "exampleEn": "May I sit here?"
+        },
+        {
+          "russian": "пуша",
+          "translit": "púsha",
+          "english": "to smoke",
+          "pos": "verb",
+          "example": "Тук не може да се пуши.",
+          "exampleEn": "Smoking is not allowed here."
+        },
+        {
+          "russian": "помогна",
+          "translit": "pomógna",
+          "english": "to help",
+          "pos": "verb",
+          "example": "Може ли да помогна?",
+          "exampleEn": "May I help?"
+        },
+        {
+          "russian": "разбира се",
+          "translit": "razbíra se",
+          "english": "of course",
+          "pos": "phrase",
+          "example": "Разбира се, може.",
+          "exampleEn": "Of course, you may."
+        },
+        {
+          "russian": "съжалявам",
+          "translit": "sazhalyávam",
+          "english": "I'm sorry",
+          "pos": "verb",
+          "example": "Съжалявам, не може.",
+          "exampleEn": "I'm sorry, it's not allowed."
+        }
+      ],
+      "grammar": {
+        "title": "Може ли да...? for permission",
+        "explanation": "While може is the 'he/she/it' form of мога, on its own може is also impersonal and means 'it is allowed / one may'. To ask permission, use Може ли да + present: Може ли да вляза? (May I come in?). To grant: Да, може / Разбира се, може. To refuse: Не, не може / Съжалявам, не може. For general rules use the reflexive се: Тук не може да се пуши (Smoking isn't allowed here). Compare: мога = personal ability, може ли = asking if something is permitted.",
+        "examples": [
+          {
+            "russian": "Може ли да седна тук?",
+            "english": "May I sit here?"
+          },
+          {
+            "russian": "Разбира се, може.",
+            "english": "Of course, you may."
+          },
+          {
+            "russian": "Съжалявам, тук не може.",
+            "english": "I'm sorry, it's not allowed here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В ресторанта",
+        "text": "— Може ли да седя до прозореца? — Разбира се, може. — А може ли да пуша? — Не, съжалявам, тук не може.",
+        "translation": "— May I sit by the window? — Of course, you may. — And may I smoke? — No, I'm sorry, it's not allowed here.",
+        "glossary": [
+          {
+            "russian": "до",
+            "english": "by / next to"
+          },
+          {
+            "russian": "прозореца",
+            "english": "the window"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play asking for permission in three situations using 'Може ли да...?' (sit here, come in, help). Give a polite 'yes' and a polite 'no' answer for each."
+    },
+    {
+      "day": 6,
+      "title": "All together: can, want, must, may",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "трябва ми",
+          "translit": "tryábva mi",
+          "english": "I need (it is needed to me)",
+          "pos": "phrase",
+          "example": "Трябва ми помощ.",
+          "exampleEn": "I need help."
+        },
+        {
+          "russian": "помощ",
+          "translit": "pómosht",
+          "english": "help",
+          "pos": "noun",
+          "example": "Трябва ми малко помощ.",
+          "exampleEn": "I need a little help."
+        },
+        {
+          "russian": "почивка",
+          "translit": "pochívka",
+          "english": "rest / break",
+          "pos": "noun",
+          "example": "Искам почивка.",
+          "exampleEn": "I want a break."
+        },
+        {
+          "russian": "веднага",
+          "translit": "vednága",
+          "english": "immediately / right away",
+          "pos": "adverb",
+          "example": "Трябва да тръгна веднага.",
+          "exampleEn": "I have to leave right away."
+        },
+        {
+          "russian": "тръгвам",
+          "translit": "trágvam",
+          "english": "to leave / set off",
+          "pos": "verb",
+          "example": "Може ли да тръгнем сега?",
+          "exampleEn": "May we leave now?"
+        },
+        {
+          "russian": "оставам",
+          "translit": "ostávam",
+          "english": "to stay / remain",
+          "pos": "verb",
+          "example": "Искам да остана тук.",
+          "exampleEn": "I want to stay here."
+        },
+        {
+          "russian": "наистина",
+          "translit": "naístina",
+          "english": "really / truly",
+          "pos": "adverb",
+          "example": "Наистина трябва да спя.",
+          "exampleEn": "I really have to sleep."
+        }
+      ],
+      "grammar": {
+        "title": "Combining the modals and 'трябва ми'",
+        "explanation": "You can now choose the right modal by meaning: мога да = ability ('I can'), искам да = desire ('I want'), трябва да = necessity ('I must'), може ли да = permission ('may I'). There is also трябва ми + noun, meaning 'I need (something)', where the person is shown by a short pronoun: трябва ми (I need), трябва ти (you need), трябва му (he needs), трябва ѝ (she needs). The thing needed is the subject, so plural needs use трябват: трябват ми пари (I need money).",
+        "examples": [
+          {
+            "russian": "Искам да остана, но трябва да тръгна.",
+            "english": "I want to stay, but I have to leave."
+          },
+          {
+            "russian": "Може ли да помогна? Трябва ти помощ.",
+            "english": "May I help? You need help."
+          },
+          {
+            "russian": "Трябва ми почивка веднага.",
+            "english": "I need a break right away."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Трудно решение",
+        "text": "Искам да остана, но трябва да тръгна веднага. Не мога да чакам, защото наистина бързам.",
+        "translation": "I want to stay, but I have to leave right away. I cannot wait because I am really in a hurry.",
+        "glossary": [
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "трудно",
+            "english": "difficult / hard"
+          },
+          {
+            "russian": "решение",
+            "english": "decision"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a short story about a busy day using all four modals at least once: something you can do, want to do, must do, and ask permission for. End with one 'Трябва ми...' sentence."
+    },
+    {
+      "day": 7,
+      "title": "Review: Can, must, want",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: the four modal patterns",
+        "explanation": "This week you learned four ways to express modality, all followed by да + a present-tense verb (Bulgarian has no infinitive). 1) мога да = ability ('I can'); conjugates fully (мога, можеш, може, можем, можете, могат); negate with не мога. 2) искам да = desire ('I want'); regular verb, also takes a noun directly (искам вода). 3) трябва да = necessity ('I must'); impersonal, never changes for person — the second verb shows who. 4) може ли да = permission ('may I?'); answer with разбира се, може or съжалявам, не може. Remember трябва ми + noun = 'I need', and always use съм/си/е for 'to be' (уморен съм). No noun cases: relations come from prepositions and word order.",
+        "examples": [
+          {
+            "russian": "Мога да плувам, но не мога да карам кола.",
+            "english": "I can swim, but I can't drive a car."
+          },
+          {
+            "russian": "Искам да почивам, защото трябва да работя утре.",
+            "english": "I want to rest because I have to work tomorrow."
+          },
+          {
+            "russian": "Може ли да седя тук? — Разбира се, може.",
+            "english": "May I sit here? — Of course, you may."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Планове за деня",
+        "text": "— Какво искаш да правиш днес? — Искам да почивам, но трябва да работя. — Може ли да помогна? — Разбира се! Не мога да свърша всичко сам.",
+        "translation": "— What do you want to do today? — I want to rest, but I have to work. — May I help? — Of course! I can't finish everything alone.",
+        "glossary": [
+          {
+            "russian": "планове",
+            "english": "plans"
+          },
+          {
+            "russian": "да свърша",
+            "english": "to finish"
+          },
+          {
+            "russian": "сам",
+            "english": "alone / by myself"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a two-minute conversation about your weekend: say one thing you can do, one you want to do, one you must do, and ask permission for one thing. Use мога, искам, трябва, and може ли at least once each."
+    }
+  ]
+}

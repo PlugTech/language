@@ -1,0 +1,620 @@
+{
+  "week": 11,
+  "theme": "Shopping & money",
+  "days": [
+    {
+      "day": 1,
+      "title": "At the shop: основни думи",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop, store",
+          "pos": "noun (m)",
+          "example": "Магазинът е голям.",
+          "exampleEn": "The shop is big."
+        },
+        {
+          "russian": "пазарувам",
+          "translit": "pazarúvam",
+          "english": "to shop",
+          "pos": "verb",
+          "example": "Обичам да пазарувам.",
+          "exampleEn": "I like to shop."
+        },
+        {
+          "russian": "купувам",
+          "translit": "kupúvam",
+          "english": "to buy",
+          "pos": "verb",
+          "example": "Купувам хляб.",
+          "exampleEn": "I am buying bread."
+        },
+        {
+          "russian": "продавам",
+          "translit": "prodávam",
+          "english": "to sell",
+          "pos": "verb",
+          "example": "Те продават плодове.",
+          "exampleEn": "They sell fruit."
+        },
+        {
+          "russian": "продавач",
+          "translit": "prodavách",
+          "english": "shop assistant, seller",
+          "pos": "noun (m)",
+          "example": "Продавачът е любезен.",
+          "exampleEn": "The shop assistant is kind."
+        },
+        {
+          "russian": "клиент",
+          "translit": "kliént",
+          "english": "customer",
+          "pos": "noun (m)",
+          "example": "Клиентът чака.",
+          "exampleEn": "The customer is waiting."
+        },
+        {
+          "russian": "стока",
+          "translit": "stóka",
+          "english": "goods, product",
+          "pos": "noun (f)",
+          "example": "Стоката е нова.",
+          "exampleEn": "The product is new."
+        }
+      ],
+      "grammar": {
+        "title": "Numbers 11–19",
+        "explanation": "Teens in Bulgarian are formed with the digit + '-надесет' (often shortened to '-найсет' in speech): единадесет (11), дванадесет (12), тринадесет (13), четиринадесет (14), петнадесет (15), шестнадесет (16), седемнадесет (17), осемнадесет (18), деветнадесет (19). The stress falls on '-на-'. These are used for counting items in a shop and saying simple quantities. Bulgarian has no noun cases, so the noun after a number simply takes its plural form: дванадесет ябълки (twelve apples).",
+        "examples": [
+          {
+            "russian": "Имам единадесет лева.",
+            "english": "I have eleven leva."
+          },
+          {
+            "russian": "Купувам дванадесет ябълки.",
+            "english": "I am buying twelve apples."
+          },
+          {
+            "russian": "В магазина има петнадесет клиенти.",
+            "english": "There are fifteen customers in the shop."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазина",
+        "text": "Продавачът е любезен. Клиентът купува хляб и плодове. Той има дванадесет лева.",
+        "translation": "The shop assistant is kind. The customer is buying bread and fruit. He has twelve leva.",
+        "glossary": [
+          {
+            "russian": "любезен",
+            "english": "kind, polite"
+          },
+          {
+            "russian": "плодове",
+            "english": "fruit (pl.)"
+          },
+          {
+            "russian": "лев",
+            "english": "lev (currency)"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine you walk into a small shop. Greet the seller and say what you want to buy, then say how many leva you have (use a number between 11 and 19). Practise saying it aloud in Bulgarian."
+    },
+    {
+      "day": 2,
+      "title": "Tens: 20, 30 … 100",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "пари",
+          "translit": "parí",
+          "english": "money",
+          "pos": "noun (pl)",
+          "example": "Нямам пари днес.",
+          "exampleEn": "I have no money today."
+        },
+        {
+          "russian": "цена",
+          "translit": "ts700ená",
+          "english": "price",
+          "pos": "noun (f)",
+          "example": "Цената е добра.",
+          "exampleEn": "The price is good."
+        },
+        {
+          "russian": "евтин",
+          "translit": "évtin",
+          "english": "cheap",
+          "pos": "adjective",
+          "example": "Този магазин е евтин.",
+          "exampleEn": "This shop is cheap."
+        },
+        {
+          "russian": "скъп",
+          "translit": "skǎp",
+          "english": "expensive",
+          "pos": "adjective",
+          "example": "Палтото е скъпо.",
+          "exampleEn": "The coat is expensive."
+        },
+        {
+          "russian": "плащам",
+          "translit": "pláshtam",
+          "english": "to pay",
+          "pos": "verb",
+          "example": "Плащам в брой.",
+          "exampleEn": "I pay in cash."
+        },
+        {
+          "russian": "каса",
+          "translit": "kása",
+          "english": "cash desk, checkout",
+          "pos": "noun (f)",
+          "example": "Касата е там.",
+          "exampleEn": "The checkout is over there."
+        },
+        {
+          "russian": "брой",
+          "translit": "broy",
+          "english": "cash (in 'в брой')",
+          "pos": "noun (m)",
+          "example": "Плащам в брой.",
+          "exampleEn": "I pay in cash."
+        }
+      ],
+      "grammar": {
+        "title": "Tens 20–100",
+        "explanation": "The round tens are: двадесет (20), тридесет (30), четиридесет (40), петдесет (50), шестдесет (60), седемдесет (70), осемдесет (80), деветдесет (90), сто (100). To form numbers in between, join the ten and the unit with 'и' (and): двадесет и едно (21), тридесет и пет (35), осемдесет и осем (88). The noun stays in the plural and never changes its ending, because Bulgarian has no cases.",
+        "examples": [
+          {
+            "russian": "Цената е двадесет лева.",
+            "english": "The price is twenty leva."
+          },
+          {
+            "russian": "Имам тридесет и пет лева.",
+            "english": "I have thirty-five leva."
+          },
+          {
+            "russian": "Палтото струва сто лева.",
+            "english": "The coat costs one hundred leva."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Цената",
+        "text": "Този магазин е евтин. Цената е двадесет лева. Плащам в брой на касата.",
+        "translation": "This shop is cheap. The price is twenty leva. I pay in cash at the checkout.",
+        "glossary": [
+          {
+            "russian": "този",
+            "english": "this (m)"
+          },
+          {
+            "russian": "в брой",
+            "english": "in cash"
+          }
+        ]
+      },
+      "speakingPrompt": "Say three prices aloud in Bulgarian using round tens (e.g. 30, 50, 100 leva), then say whether each one is cheap (евтино) or expensive (скъпо) for you."
+    },
+    {
+      "day": 3,
+      "title": "Колко струва? Asking the price",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "колко",
+          "translit": "kólko",
+          "english": "how much, how many",
+          "pos": "adverb",
+          "example": "Колко струва това?",
+          "exampleEn": "How much does this cost?"
+        },
+        {
+          "russian": "струвам",
+          "translit": "strúvam",
+          "english": "to cost",
+          "pos": "verb",
+          "example": "Книгата струва десет лева.",
+          "exampleEn": "The book costs ten leva."
+        },
+        {
+          "russian": "това",
+          "translit": "tová",
+          "english": "this (one), that",
+          "pos": "pronoun",
+          "example": "Какво е това?",
+          "exampleEn": "What is this?"
+        },
+        {
+          "russian": "общо",
+          "translit": "óbshto",
+          "english": "in total, altogether",
+          "pos": "adverb",
+          "example": "Общо колко струва?",
+          "exampleEn": "How much is it in total?"
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "much, a lot, very",
+          "pos": "adverb",
+          "example": "Това е много скъпо.",
+          "exampleEn": "This is very expensive."
+        },
+        {
+          "russian": "малко",
+          "translit": "málko",
+          "english": "a little, few",
+          "pos": "adverb",
+          "example": "Имам малко пари.",
+          "exampleEn": "I have a little money."
+        }
+      ],
+      "grammar": {
+        "title": "Колко струва? — asking how much",
+        "explanation": "To ask a price use 'Колко струва …?' (How much does … cost?) for one item, and 'Колко струват …?' for several items, because the verb 'струвам' agrees with the subject (струва = it costs, струват = they cost). The answer is 'Струва + number + лева': Струва двадесет лева. For a running total ask 'Колко струва общо?' (How much altogether?). 'Колко' can also count things: 'Колко ябълки?' (How many apples?).",
+        "examples": [
+          {
+            "russian": "Колко струва това палто?",
+            "english": "How much does this coat cost?"
+          },
+          {
+            "russian": "Колко струват тези обувки?",
+            "english": "How much do these shoes cost?"
+          },
+          {
+            "russian": "Общо струва четиридесет лева.",
+            "english": "In total it costs forty leva."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Колко струва?",
+        "text": "— Колко струва това палто? — Струва четиридесет лева. — Не е скъпо, купувам го.",
+        "translation": "— How much does this coat cost? — It costs forty leva. — That is not expensive, I'll buy it.",
+        "glossary": [
+          {
+            "russian": "палто",
+            "english": "coat"
+          },
+          {
+            "russian": "го",
+            "english": "it (object pronoun)"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play asking the price of three different things in a shop. For each, ask 'Колко струва …?' and give yourself an answer with a number between 11 and 100 leva."
+    },
+    {
+      "day": 4,
+      "title": "The lev and the stotinka",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "лев",
+          "translit": "lev",
+          "english": "lev (Bulgarian currency)",
+          "pos": "noun (m)",
+          "example": "Един лев е малко.",
+          "exampleEn": "One lev is a little."
+        },
+        {
+          "russian": "лева",
+          "translit": "léva",
+          "english": "leva (plural after numbers)",
+          "pos": "noun (pl)",
+          "example": "Това струва пет лева.",
+          "exampleEn": "This costs five leva."
+        },
+        {
+          "russian": "стотинка",
+          "translit": "stotínka",
+          "english": "stotinka (1/100 of a lev)",
+          "pos": "noun (f)",
+          "example": "Една стотинка е малко.",
+          "exampleEn": "One stotinka is a little."
+        },
+        {
+          "russian": "стотинки",
+          "translit": "stotínki",
+          "english": "stotinki (plural)",
+          "pos": "noun (pl)",
+          "example": "Имам петдесет стотинки.",
+          "exampleEn": "I have fifty stotinki."
+        },
+        {
+          "russian": "ресто",
+          "translit": "résto",
+          "english": "change (money back)",
+          "pos": "noun (n)",
+          "example": "Това е вашето ресто.",
+          "exampleEn": "Here is your change."
+        },
+        {
+          "russian": "банкнота",
+          "translit": "banknóta",
+          "english": "banknote, bill",
+          "pos": "noun (f)",
+          "example": "Имам банкнота от десет лева.",
+          "exampleEn": "I have a ten-lev banknote."
+        },
+        {
+          "russian": "монета",
+          "translit": "monéta",
+          "english": "coin",
+          "pos": "noun (f)",
+          "example": "Монетата е малка.",
+          "exampleEn": "The coin is small."
+        }
+      ],
+      "grammar": {
+        "title": "Лев и стотинка — using the currency",
+        "explanation": "One lev (1 лев) divides into 100 stotinki (стотинки). After the number 'one' the singular is used: един лев, една стотинка. After any number from two upwards use the plural: два лева, пет лева, петдесет стотинки. Note the special masculine counting form 'лева' used after numbers. To give a mixed price, join the parts with 'и': пет лева и петдесет стотинки (5.50). The currency word comes after the number, never before it.",
+        "examples": [
+          {
+            "russian": "Това струва три лева и двадесет стотинки.",
+            "english": "This costs three leva and twenty stotinki."
+          },
+          {
+            "russian": "Имам само една банкнота от двадесет лева.",
+            "english": "I only have one twenty-lev banknote."
+          },
+          {
+            "russian": "Продавачът дава ресто.",
+            "english": "The shop assistant gives change."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Рестото",
+        "text": "Хлябът струва два лева и петдесет стотинки. Давам банкнота от пет лева. Продавачът дава ресто.",
+        "translation": "The bread costs two leva and fifty stotinki. I give a five-lev banknote. The shop assistant gives change.",
+        "glossary": [
+          {
+            "russian": "давам",
+            "english": "to give"
+          },
+          {
+            "russian": "хляб",
+            "english": "bread"
+          }
+        ]
+      },
+      "speakingPrompt": "Practise saying five mixed prices aloud, for example '3 лева и 40 стотинки'. Then say which banknote or coin you would use to pay."
+    },
+    {
+      "day": 5,
+      "title": "Clothes & sizes",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "дрехи",
+          "translit": "dréhi",
+          "english": "clothes",
+          "pos": "noun (pl)",
+          "example": "Тези дрехи са нови.",
+          "exampleEn": "These clothes are new."
+        },
+        {
+          "russian": "риза",
+          "translit": "ríza",
+          "english": "shirt",
+          "pos": "noun (f)",
+          "example": "Ризата е бяла.",
+          "exampleEn": "The shirt is white."
+        },
+        {
+          "russian": "панталон",
+          "translit": "pantalón",
+          "english": "trousers",
+          "pos": "noun (m)",
+          "example": "Панталонът е черен.",
+          "exampleEn": "The trousers are black."
+        },
+        {
+          "russian": "обувки",
+          "translit": "obúvki",
+          "english": "shoes",
+          "pos": "noun (pl)",
+          "example": "Обувките са скъпи.",
+          "exampleEn": "The shoes are expensive."
+        },
+        {
+          "russian": "рокля",
+          "translit": "róklya",
+          "english": "dress",
+          "pos": "noun (f)",
+          "example": "Роклята е червена.",
+          "exampleEn": "The dress is red."
+        },
+        {
+          "russian": "размер",
+          "translit": "razmér",
+          "english": "size",
+          "pos": "noun (m)",
+          "example": "Какъв размер носите?",
+          "exampleEn": "What size do you wear?"
+        },
+        {
+          "russian": "пробвам",
+          "translit": "próbvam",
+          "english": "to try on",
+          "pos": "verb",
+          "example": "Искам да пробвам ризата.",
+          "exampleEn": "I want to try on the shirt."
+        }
+      ],
+      "grammar": {
+        "title": "Numbers with clothes: agreement & plural nouns",
+        "explanation": "When you count things in a shop, the noun goes into the plural and keeps that one form for every number: две ризи, петнадесет ризи, сто ризи. Bulgarian has no cases, so the ending never changes with the number. Adjectives agree with the noun's gender and number: бяла риза (white shirt, f), черен панталон (black trousers, m), червени обувки (red shoes, pl). Remember 'да' + present tense to express wanting: 'Искам да пробвам роклята' (I want to try on the dress).",
+        "examples": [
+          {
+            "russian": "Искам да пробвам тези обувки.",
+            "english": "I want to try on these shoes."
+          },
+          {
+            "russian": "Колко струват двете ризи?",
+            "english": "How much do the two shirts cost?"
+          },
+          {
+            "russian": "Какъв размер носите?",
+            "english": "What size do you wear?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазина за дрехи",
+        "text": "— Искам да пробвам тази риза. Какъв размер е? — Това е голям размер. — Колко струва? — Двадесет лева.",
+        "translation": "— I want to try on this shirt. What size is it? — This is a large size. — How much does it cost? — Twenty leva.",
+        "glossary": [
+          {
+            "russian": "голям",
+            "english": "big, large"
+          },
+          {
+            "russian": "носите",
+            "english": "you wear (formal)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe three clothing items you would like to buy. For each, name the item, give a colour, say the size you want, and ask the price in Bulgarian."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: a shopping trip",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "искам",
+          "translit": "ískam",
+          "english": "to want",
+          "pos": "verb",
+          "example": "Искам да купя риза.",
+          "exampleEn": "I want to buy a shirt."
+        },
+        {
+          "russian": "търся",
+          "translit": "tǎ́rsya",
+          "english": "to look for",
+          "pos": "verb",
+          "example": "Търся обувки.",
+          "exampleEn": "I am looking for shoes."
+        },
+        {
+          "russian": "намаление",
+          "translit": "namalénie",
+          "english": "discount, sale",
+          "pos": "noun (n)",
+          "example": "Има голямо намаление.",
+          "exampleEn": "There is a big discount."
+        },
+        {
+          "russian": "пазар",
+          "translit": "pazár",
+          "english": "market",
+          "pos": "noun (m)",
+          "example": "Пазарът е до магазина.",
+          "exampleEn": "The market is next to the shop."
+        },
+        {
+          "russian": "торба",
+          "translit": "torbá",
+          "english": "bag",
+          "pos": "noun (f)",
+          "example": "Дайте ми една торба.",
+          "exampleEn": "Give me a bag."
+        },
+        {
+          "russian": "още",
+          "translit": "óshte",
+          "english": "more, still, yet",
+          "pos": "adverb",
+          "example": "Искам още една риза.",
+          "exampleEn": "I want one more shirt."
+        }
+      ],
+      "grammar": {
+        "title": "Counting and totals in a real dialogue",
+        "explanation": "Now we combine everything: numbers 11–100, 'колко струва/струват', and the lev. Ask for items with 'Искам …' or 'Търся …', ask the price with 'Колко струва?', and the total with 'Колко струва общо?'. The seller answers with a number plus лева/стотинки. To add an item use 'още' (more): 'Искам още един панталон' (I want one more pair of trousers). All nouns stay in the plural after numbers with no case change.",
+        "examples": [
+          {
+            "russian": "Търся риза и панталон.",
+            "english": "I am looking for a shirt and trousers."
+          },
+          {
+            "russian": "Има намаление: ризата струва петнадесет лева.",
+            "english": "There is a discount: the shirt costs fifteen leva."
+          },
+          {
+            "russian": "Общо струва шестдесет лева.",
+            "english": "In total it costs sixty leva."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На пазара",
+        "text": "— Търся риза и обувки. — Ризата струва петнадесет лева, обувките — четиридесет. — Общо петдесет и пет лева. Дайте ми една торба.",
+        "translation": "— I'm looking for a shirt and shoes. — The shirt costs fifteen leva, the shoes forty. — Fifty-five leva in total. Give me a bag.",
+        "glossary": [
+          {
+            "russian": "дайте ми",
+            "english": "give me (formal)"
+          },
+          {
+            "russian": "намаление",
+            "english": "discount, sale"
+          }
+        ]
+      },
+      "speakingPrompt": "Act out a full shopping trip: greet the seller, say you are looking for two items, ask the price of each, ask for the total ('Колко струва общо?'), and ask for a bag. Use numbers between 11 and 100."
+    },
+    {
+      "day": 7,
+      "title": "Review: Shopping & money",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 11 recap: numbers, prices and the lev",
+        "explanation": "This week you learned numbers 11–100: teens with '-надесет' (единадесет, петнадесет), tens (двадесет, тридесет … сто), and combined numbers joined with 'и' (тридесет и пет). You asked prices with 'Колко струва?' (one item) and 'Колко струват?' (several), and totals with 'Колко струва общо?'. You used the currency: лев / лева and стотинка / стотинки, with the singular after 'one' (един лев, една стотинка) and the plural after every other number. Remember: Bulgarian has no noun cases, the noun stays in the plural after numbers, and adjectives agree in gender and number (бяла риза, черен панталон, червени обувки).",
+        "examples": [
+          {
+            "russian": "Колко струва тази рокля?",
+            "english": "How much does this dress cost?"
+          },
+          {
+            "russian": "Струва осемдесет лева и петдесет стотинки.",
+            "english": "It costs eighty leva and fifty stotinki."
+          },
+          {
+            "russian": "Общо имам деветдесет лева.",
+            "english": "In total I have ninety leva."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На касата",
+        "text": "— Добър ден! Търся рокля. — Тази струва четиридесет лева. Има намаление. — Добре, купувам я. Колко струва общо? — Четиридесет лева. Ето вашето ресто и една торба.",
+        "translation": "— Good day! I'm looking for a dress. — This one costs forty leva. There's a discount. — Good, I'll buy it. How much is it in total? — Forty leva. Here is your change and a bag.",
+        "glossary": [
+          {
+            "russian": "ето",
+            "english": "here is / here you are"
+          },
+          {
+            "russian": "я",
+            "english": "it / her (object pronoun)"
+          },
+          {
+            "russian": "вашето",
+            "english": "your (n, formal)"
+          }
+        ]
+      },
+      "speakingPrompt": "Without notes, role-play both parts of a shopping conversation: ask for a clothing item, ask its price and the total, pay with leva and stotinki, and receive your change. Use at least three numbers between 11 and 100."
+    }
+  ]
+}

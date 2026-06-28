@@ -1,0 +1,660 @@
+{
+  "week": 15,
+  "theme": "Quantities",
+  "days": [
+    {
+      "day": 1,
+      "title": "Много и мало: a lot and a little",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "many, a lot",
+          "pos": "adverb",
+          "example": "У нас много воды.",
+          "exampleEn": "We have a lot of water."
+        },
+        {
+          "russian": "мало",
+          "translit": "málo",
+          "english": "few, little",
+          "pos": "adverb",
+          "example": "Здесь мало кафе.",
+          "exampleEn": "There are few cafés here."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun",
+          "example": "Я пью много воды.",
+          "exampleEn": "I drink a lot of water."
+        },
+        {
+          "russian": "хлеб",
+          "translit": "khleb",
+          "english": "bread",
+          "pos": "noun",
+          "example": "Дома мало хлеба.",
+          "exampleEn": "There is little bread at home."
+        },
+        {
+          "russian": "молоко",
+          "translit": "molokó",
+          "english": "milk",
+          "pos": "noun",
+          "example": "У меня мало молока.",
+          "exampleEn": "I have little milk."
+        },
+        {
+          "russian": "сахар",
+          "translit": "sákhar",
+          "english": "sugar",
+          "pos": "noun",
+          "example": "В чае много сахара.",
+          "exampleEn": "There is a lot of sugar in the tea."
+        },
+        {
+          "russian": "соль",
+          "translit": "sol'",
+          "english": "salt",
+          "pos": "noun",
+          "example": "Здесь мало соли.",
+          "exampleEn": "There is little salt here."
+        }
+      ],
+      "grammar": {
+        "title": "Много / мало + genitive (uncountable nouns)",
+        "explanation": "After **много** (a lot) and **мало** (little/few) you use the **genitive case**, not the nominative. With uncountable nouns (water, bread, milk) you use the **genitive singular**.\n\nFor most masculine and neuter nouns, the genitive singular ends in **-а / -я**: хлеб → хлеб**а**, молоко → молок**а**, сахар → сахар**а**.\n\nFor feminine nouns ending in **-а**, change to **-ы**: вода → вод**ы**. For feminine nouns in **-ь**, change to **-и**: соль → сол**и**.",
+        "examples": [
+          {
+            "russian": "У нас много хлеба.",
+            "english": "We have a lot of bread."
+          },
+          {
+            "russian": "Дома мало воды.",
+            "english": "There is little water at home."
+          },
+          {
+            "russian": "В чашке много молока.",
+            "english": "There is a lot of milk in the cup."
+          },
+          {
+            "russian": "Здесь мало соли.",
+            "english": "There is little salt here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Дома",
+        "text": "— Дома есть хлеб? — Нет, хлеба мало. А воды много.",
+        "translation": "— Is there bread at home? — No, there is little bread. But there is a lot of water.",
+        "glossary": [
+          {
+            "russian": "дома",
+            "english": "at home"
+          },
+          {
+            "russian": "есть",
+            "english": "there is / there are"
+          },
+          {
+            "russian": "нет",
+            "english": "no"
+          }
+        ]
+      },
+      "speakingPrompt": "Look in your kitchen. Say one thing you have a lot of and one thing you have little of, using много and мало plus the genitive (e.g. У меня много воды, но мало хлеба)."
+    },
+    {
+      "day": 2,
+      "title": "Немного: a little bit",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "немного",
+          "translit": "nemnógo",
+          "english": "a little, a bit",
+          "pos": "adverb",
+          "example": "Дай немного хлеба.",
+          "exampleEn": "Give a little bread."
+        },
+        {
+          "russian": "чай",
+          "translit": "chai",
+          "english": "tea",
+          "pos": "noun",
+          "example": "Я хочу немного чая.",
+          "exampleEn": "I want a little tea."
+        },
+        {
+          "russian": "кофе",
+          "translit": "kófe",
+          "english": "coffee",
+          "pos": "noun",
+          "example": "Утром я пью кофе.",
+          "exampleEn": "In the morning I drink coffee."
+        },
+        {
+          "russian": "сок",
+          "translit": "sok",
+          "english": "juice",
+          "pos": "noun",
+          "example": "Здесь немного сока.",
+          "exampleEn": "There is a little juice here."
+        },
+        {
+          "russian": "масло",
+          "translit": "máslo",
+          "english": "butter, oil",
+          "pos": "noun",
+          "example": "На хлебе немного масла.",
+          "exampleEn": "There is a little butter on the bread."
+        },
+        {
+          "russian": "сыр",
+          "translit": "syr",
+          "english": "cheese",
+          "pos": "noun",
+          "example": "Я хочу немного сыра.",
+          "exampleEn": "I want a little cheese."
+        },
+        {
+          "russian": "хотеть",
+          "translit": "khotét'",
+          "english": "to want",
+          "pos": "verb",
+          "example": "Я хочу немного чая.",
+          "exampleEn": "I want a little tea."
+        }
+      ],
+      "grammar": {
+        "title": "Немного + genitive (a small amount)",
+        "explanation": "**Немного** means \"a little / a bit\" and, like много and мало, it takes the **genitive case**. It is used for a small but positive amount.\n\nThe genitive singular endings are the same as yesterday: masculine/neuter → **-а / -я** (чай → ча**я**, масло → масл**а**), feminine **-а** → **-ы**.\n\nNote: **кофе** does not change — it is an indeclinable masculine noun: *немного кофе*.",
+        "examples": [
+          {
+            "russian": "Я хочу немного сыра.",
+            "english": "I want a little cheese."
+          },
+          {
+            "russian": "Дай немного чая.",
+            "english": "Give a little tea."
+          },
+          {
+            "russian": "Здесь немного сока.",
+            "english": "There is a little juice here."
+          },
+          {
+            "russian": "Утром я пью немного кофе.",
+            "english": "In the morning I drink a little coffee."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Завтрак",
+        "text": "— Что ты хочешь? — Немного чая и немного сыра.",
+        "translation": "— What do you want? — A little tea and a little cheese.",
+        "glossary": [
+          {
+            "russian": "что",
+            "english": "what"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine ordering a light breakfast. Ask for two items using немного plus the genitive (e.g. Я хочу немного чая и немного масла)."
+    },
+    {
+      "day": 3,
+      "title": "Containers: бутылка, чашка, стакан",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "бутылка",
+          "translit": "butýlka",
+          "english": "bottle",
+          "pos": "noun",
+          "example": "Это бутылка воды.",
+          "exampleEn": "This is a bottle of water."
+        },
+        {
+          "russian": "чашка",
+          "translit": "cháshka",
+          "english": "cup",
+          "pos": "noun",
+          "example": "Дай чашку чая.",
+          "exampleEn": "Give a cup of tea."
+        },
+        {
+          "russian": "стакан",
+          "translit": "stakán",
+          "english": "glass",
+          "pos": "noun",
+          "example": "Я хочу стакан сока.",
+          "exampleEn": "I want a glass of juice."
+        },
+        {
+          "russian": "пакет",
+          "translit": "pakét",
+          "english": "carton, bag",
+          "pos": "noun",
+          "example": "Это пакет молока.",
+          "exampleEn": "This is a carton of milk."
+        },
+        {
+          "russian": "ложка",
+          "translit": "lózhka",
+          "english": "spoon",
+          "pos": "noun",
+          "example": "Ложка сахара, пожалуйста.",
+          "exampleEn": "A spoon of sugar, please."
+        },
+        {
+          "russian": "тарелка",
+          "translit": "tarélka",
+          "english": "plate",
+          "pos": "noun",
+          "example": "Тарелка супа на столе.",
+          "exampleEn": "A plate of soup is on the table."
+        },
+        {
+          "russian": "суп",
+          "translit": "sup",
+          "english": "soup",
+          "pos": "noun",
+          "example": "Я хочу тарелку супа.",
+          "exampleEn": "I want a plate of soup."
+        }
+      ],
+      "grammar": {
+        "title": "Container + genitive (a bottle of...)",
+        "explanation": "To say \"a cup **of** tea\" or \"a bottle **of** water\", Russian puts the **second noun in the genitive case** — there is no separate word for \"of\".\n\n*чашка ча**я*** = a cup of tea; *бутылка вод**ы*** = a bottle of water; *стакан сок**а*** = a glass of juice.\n\nThe genitive singular endings are the same ones you already know: masculine/neuter **-а / -я**, feminine **-а → -ы**.",
+        "examples": [
+          {
+            "russian": "Бутылка воды, пожалуйста.",
+            "english": "A bottle of water, please."
+          },
+          {
+            "russian": "Это чашка чая.",
+            "english": "This is a cup of tea."
+          },
+          {
+            "russian": "Я хочу стакан сока.",
+            "english": "I want a glass of juice."
+          },
+          {
+            "russian": "Пакет молока на столе.",
+            "english": "A carton of milk is on the table."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафе",
+        "text": "— Что вы хотите? — Чашку чая и стакан воды, пожалуйста.",
+        "translation": "— What do you want? — A cup of tea and a glass of water, please.",
+        "glossary": [
+          {
+            "russian": "в кафе",
+            "english": "in the café"
+          },
+          {
+            "russian": "пожалуйста",
+            "english": "please"
+          }
+        ]
+      },
+      "speakingPrompt": "Order three things in a café using container + genitive (e.g. Чашку кофе, бутылку воды и тарелку супа, пожалуйста)."
+    },
+    {
+      "day": 4,
+      "title": "Weights: килограмм, грамм, литр",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "килограмм",
+          "translit": "kilográmm",
+          "english": "kilogram",
+          "pos": "noun",
+          "example": "Килограмм сыра, пожалуйста.",
+          "exampleEn": "A kilogram of cheese, please."
+        },
+        {
+          "russian": "грамм",
+          "translit": "gramm",
+          "english": "gram",
+          "pos": "noun",
+          "example": "Сто грамм масла.",
+          "exampleEn": "A hundred grams of butter."
+        },
+        {
+          "russian": "литр",
+          "translit": "litr",
+          "english": "litre",
+          "pos": "noun",
+          "example": "Литр молока, пожалуйста.",
+          "exampleEn": "A litre of milk, please."
+        },
+        {
+          "russian": "кусок",
+          "translit": "kusók",
+          "english": "piece",
+          "pos": "noun",
+          "example": "Кусок хлеба, пожалуйста.",
+          "exampleEn": "A piece of bread, please."
+        },
+        {
+          "russian": "рыба",
+          "translit": "rýba",
+          "english": "fish",
+          "pos": "noun",
+          "example": "Я хочу килограмм рыбы.",
+          "exampleEn": "I want a kilogram of fish."
+        },
+        {
+          "russian": "мясо",
+          "translit": "myáso",
+          "english": "meat",
+          "pos": "noun",
+          "example": "Килограмм мяса, пожалуйста.",
+          "exampleEn": "A kilogram of meat, please."
+        },
+        {
+          "russian": "рис",
+          "translit": "ris",
+          "english": "rice",
+          "pos": "noun",
+          "example": "Дай немного риса.",
+          "exampleEn": "Give a little rice."
+        }
+      ],
+      "grammar": {
+        "title": "Measures of weight + genitive",
+        "explanation": "Units of weight and volume behave like containers: the thing measured goes in the **genitive case**.\n\n*килограмм сыр**а*** = a kilo of cheese; *литр молок**а*** = a litre of milk; *кусок хлеб**а*** = a piece of bread.\n\nWith feminine nouns: *килограмм рыб**ы*** = a kilo of fish. The measure word itself (килограмм, литр) stays in its base form when you say just \"a\" of something.",
+        "examples": [
+          {
+            "russian": "Килограмм мяса, пожалуйста.",
+            "english": "A kilogram of meat, please."
+          },
+          {
+            "russian": "Литр молока, пожалуйста.",
+            "english": "A litre of milk, please."
+          },
+          {
+            "russian": "Кусок сыра, пожалуйста.",
+            "english": "A piece of cheese, please."
+          },
+          {
+            "russian": "Я хочу килограмм рыбы.",
+            "english": "I want a kilogram of fish."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазине",
+        "text": "— Что вы хотите? — Килограмм рыбы и литр молока, пожалуйста.",
+        "translation": "— What do you want? — A kilogram of fish and a litre of milk, please.",
+        "glossary": [
+          {
+            "russian": "в магазине",
+            "english": "in the shop"
+          },
+          {
+            "russian": "вы",
+            "english": "you (formal/plural)"
+          }
+        ]
+      },
+      "speakingPrompt": "You are at a market. Ask for three items using measures plus the genitive (e.g. Килограмм мяса, литр молока и кусок сыра, пожалуйста)."
+    },
+    {
+      "day": 5,
+      "title": "Genitive plural basics: 5+ and many",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "яблоко",
+          "translit": "yábloko",
+          "english": "apple",
+          "pos": "noun",
+          "example": "Много яблок на столе.",
+          "exampleEn": "There are many apples on the table."
+        },
+        {
+          "russian": "банан",
+          "translit": "banán",
+          "english": "banana",
+          "pos": "noun",
+          "example": "Пять бананов, пожалуйста.",
+          "exampleEn": "Five bananas, please."
+        },
+        {
+          "russian": "помидор",
+          "translit": "pomidór",
+          "english": "tomato",
+          "pos": "noun",
+          "example": "Шесть помидоров, пожалуйста.",
+          "exampleEn": "Six tomatoes, please."
+        },
+        {
+          "russian": "яйцо",
+          "translit": "yaytsó",
+          "english": "egg",
+          "pos": "noun",
+          "example": "Десять яиц, пожалуйста.",
+          "exampleEn": "Ten eggs, please."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "many (with countables)",
+          "pos": "adverb",
+          "example": "Здесь много яблок.",
+          "exampleEn": "There are many apples here."
+        },
+        {
+          "russian": "сколько",
+          "translit": "skól'ko",
+          "english": "how many, how much",
+          "pos": "adverb",
+          "example": "Сколько яблок?",
+          "exampleEn": "How many apples?"
+        },
+        {
+          "russian": "штука",
+          "translit": "shtúka",
+          "english": "piece, item",
+          "pos": "noun",
+          "example": "Пять штук, пожалуйста.",
+          "exampleEn": "Five pieces, please."
+        }
+      ],
+      "grammar": {
+        "title": "Genitive plural after много and 5–20",
+        "explanation": "With **countable** things, **много** (\"many\") and the numbers **5 and up** (5, 6, 7... up to 20) take the **genitive plural**.\n\nA common pattern for masculine nouns is to add **-ов**: банан → банан**ов**, помидор → помидор**ов**.\n\nMany neuter and feminine nouns have a **zero ending** (just drop the final vowel): яблоко → **яблок**, яйцо → **яиц** (irregular), штука → **штук**.\n\nSo: *пять бананов*, *много яблок*, *десять яиц*.",
+        "examples": [
+          {
+            "russian": "Пять бананов, пожалуйста.",
+            "english": "Five bananas, please."
+          },
+          {
+            "russian": "Здесь много яблок.",
+            "english": "There are many apples here."
+          },
+          {
+            "russian": "Десять яиц, пожалуйста.",
+            "english": "Ten eggs, please."
+          },
+          {
+            "russian": "Сколько помидоров?",
+            "english": "How many tomatoes?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "На рынке",
+        "text": "— Сколько яблок вы хотите? — Шесть яблок и пять бананов, пожалуйста.",
+        "translation": "— How many apples do you want? — Six apples and five bananas, please.",
+        "glossary": [
+          {
+            "russian": "на рынке",
+            "english": "at the market"
+          },
+          {
+            "russian": "хотите",
+            "english": "(you) want"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask how many of something there are, then order 5 or more of three fruits/vegetables using the genitive plural (e.g. Пять бананов, шесть помидоров и много яблок)."
+    },
+    {
+      "day": 6,
+      "title": "Numbers 2–4 vs 5+: choosing the form",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "два",
+          "translit": "dva",
+          "english": "two (m/n)",
+          "pos": "number",
+          "example": "Два банана, пожалуйста.",
+          "exampleEn": "Two bananas, please."
+        },
+        {
+          "russian": "две",
+          "translit": "dve",
+          "english": "two (feminine)",
+          "pos": "number",
+          "example": "Две бутылки воды.",
+          "exampleEn": "Two bottles of water."
+        },
+        {
+          "russian": "три",
+          "translit": "tri",
+          "english": "three",
+          "pos": "number",
+          "example": "Три яблока, пожалуйста.",
+          "exampleEn": "Three apples, please."
+        },
+        {
+          "russian": "четыре",
+          "translit": "chetýre",
+          "english": "four",
+          "pos": "number",
+          "example": "Четыре чашки чая.",
+          "exampleEn": "Four cups of tea."
+        },
+        {
+          "russian": "пять",
+          "translit": "pyat'",
+          "english": "five",
+          "pos": "number",
+          "example": "Пять помидоров, пожалуйста.",
+          "exampleEn": "Five tomatoes, please."
+        },
+        {
+          "russian": "огурец",
+          "translit": "oguréts",
+          "english": "cucumber",
+          "pos": "noun",
+          "example": "Два огурца, пожалуйста.",
+          "exampleEn": "Two cucumbers, please."
+        },
+        {
+          "russian": "ещё",
+          "translit": "yeshchó",
+          "english": "more, else",
+          "pos": "adverb",
+          "example": "Дай ещё хлеба.",
+          "exampleEn": "Give more bread."
+        }
+      ],
+      "grammar": {
+        "title": "2, 3, 4 + genitive singular; 5+ + genitive plural",
+        "explanation": "Russian numbers split into two groups:\n\n**2, 3, 4** take the **genitive singular**: *два банан**а***, *три яблок**а***, *четыре чашк**и***.\n\n**5 and above** take the **genitive plural**: *пять банан**ов***, *пять яблок*, *пять чашек*.\n\nThe number **2** has two forms: **два** with masculine/neuter nouns, **две** with feminine nouns (две бутылк**и**, две чашк**и**). The number 1 uses the nominative: *один банан*.",
+        "examples": [
+          {
+            "russian": "Два банана, пожалуйста.",
+            "english": "Two bananas, please."
+          },
+          {
+            "russian": "Три яблока и четыре помидора.",
+            "english": "Three apples and four tomatoes."
+          },
+          {
+            "russian": "Две бутылки воды.",
+            "english": "Two bottles of water."
+          },
+          {
+            "russian": "Пять огурцов, пожалуйста.",
+            "english": "Five cucumbers, please."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Покупки",
+        "text": "— Два огурца, три помидора и пять яблок, пожалуйста. — И ещё бутылку воды.",
+        "translation": "— Two cucumbers, three tomatoes and five apples, please. — And also a bottle of water.",
+        "glossary": [
+          {
+            "russian": "покупки",
+            "english": "shopping, purchases"
+          },
+          {
+            "russian": "ещё",
+            "english": "also, more"
+          }
+        ]
+      },
+      "speakingPrompt": "Make a shopping list out loud with five items: use 2, 3 or 4 with two of them and 5+ with the others, choosing the right genitive form (e.g. Два банана, три яблока и пять помидоров)."
+    },
+    {
+      "day": 7,
+      "title": "Review: Quantities",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: quantities and the genitive",
+        "explanation": "This week everything pointed to the **genitive case**:\n\n- **много / мало / немного / сколько** + genitive: singular for uncountables (много вод**ы**), plural for countables (много яблок).\n- **Containers and measures** + genitive: чашка ча**я**, литр молок**а**, килограмм рыб**ы**.\n- **Numbers**: **2, 3, 4** + genitive singular (три яблок**а**); **5 and up** + genitive plural (пять яблок). Remember **два** (m/n) vs **две** (f).",
+        "examples": [
+          {
+            "russian": "У нас мало хлеба, но много воды.",
+            "english": "We have little bread, but a lot of water."
+          },
+          {
+            "russian": "Чашку чая и кусок сыра, пожалуйста.",
+            "english": "A cup of tea and a piece of cheese, please."
+          },
+          {
+            "russian": "Два банана и пять яблок.",
+            "english": "Two bananas and five apples."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазине",
+        "text": "— Что вы хотите? — Два огурца, килограмм рыбы и бутылку воды. — А молоко? — Немного молока, пожалуйста.",
+        "translation": "— What do you want? — Two cucumbers, a kilogram of fish and a bottle of water. — And milk? — A little milk, please.",
+        "glossary": [
+          {
+            "russian": "что",
+            "english": "what"
+          },
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          },
+          {
+            "russian": "пожалуйста",
+            "english": "please"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a full shopping trip. Buy at least six things using a mix of много/мало/немного, containers and measures, and numbers (both 2–4 and 5+) with the correct genitive forms."
+    }
+  ]
+}

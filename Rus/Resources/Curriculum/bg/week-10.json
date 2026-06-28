@@ -1,0 +1,600 @@
+{
+  "week": 10,
+  "theme": "Food & drink",
+  "days": [
+    {
+      "day": 1,
+      "title": "Day 1: I want — искам + noun",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "хляб",
+          "translit": "hlyab",
+          "english": "bread",
+          "pos": "noun (m)",
+          "example": "Искам хляб.",
+          "exampleEn": "I want bread."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun (f)",
+          "example": "Искам вода.",
+          "exampleEn": "I want water."
+        },
+        {
+          "russian": "кафе",
+          "translit": "kafé",
+          "english": "coffee",
+          "pos": "noun (n)",
+          "example": "Искам кафе.",
+          "exampleEn": "I want coffee."
+        },
+        {
+          "russian": "чай",
+          "translit": "chay",
+          "english": "tea",
+          "pos": "noun (m)",
+          "example": "Той иска чай.",
+          "exampleEn": "He wants tea."
+        },
+        {
+          "russian": "искам",
+          "translit": "ískam",
+          "english": "I want",
+          "pos": "verb",
+          "example": "Аз искам кафе.",
+          "exampleEn": "I want coffee."
+        },
+        {
+          "russian": "моля",
+          "translit": "mólya",
+          "english": "please",
+          "pos": "adverb",
+          "example": "Вода, моля.",
+          "exampleEn": "Water, please."
+        },
+        {
+          "russian": "да",
+          "translit": "da",
+          "english": "yes",
+          "pos": "particle",
+          "example": "Да, искам чай.",
+          "exampleEn": "Yes, I want tea."
+        }
+      ],
+      "grammar": {
+        "title": "искам + noun (I want something)",
+        "explanation": "The verb искам means 'I want'. To ask for a thing, just say искам plus the noun: искам кафе (I want coffee), искам вода (I want water). Bulgarian has no noun cases, so the noun never changes its ending after искам. The pronoun аз (I) is optional because the verb ending already shows the subject. Add моля (please) to be polite, usually at the end: Кафе, моля.",
+        "examples": [
+          {
+            "russian": "Искам хляб.",
+            "english": "I want bread."
+          },
+          {
+            "russian": "Аз искам вода.",
+            "english": "I want water."
+          },
+          {
+            "russian": "Кафе, моля.",
+            "english": "Coffee, please."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафенето",
+        "text": "— Искам кафе, моля. — Да. А ти? — Аз искам чай.",
+        "translation": "— I want coffee, please. — Yes. And you? — I want tea.",
+        "glossary": [
+          {
+            "russian": "а ти?",
+            "english": "and you?"
+          },
+          {
+            "russian": "кафене",
+            "english": "café"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine you are at a café. Order three different drinks or foods using 'Искам ..., моля.' Say each one aloud."
+    },
+    {
+      "day": 2,
+      "title": "Day 2: I/you/he want — искам, искаш, иска",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "сирене",
+          "translit": "sírene",
+          "english": "cheese",
+          "pos": "noun (n)",
+          "example": "Искам сирене.",
+          "exampleEn": "I want cheese."
+        },
+        {
+          "russian": "супа",
+          "translit": "súpa",
+          "english": "soup",
+          "pos": "noun (f)",
+          "example": "Тя иска супа.",
+          "exampleEn": "She wants soup."
+        },
+        {
+          "russian": "месо",
+          "translit": "mesó",
+          "english": "meat",
+          "pos": "noun (n)",
+          "example": "Ние искаме месо.",
+          "exampleEn": "We want meat."
+        },
+        {
+          "russian": "искаш",
+          "translit": "ískash",
+          "english": "you want (sg.)",
+          "pos": "verb",
+          "example": "Какво искаш?",
+          "exampleEn": "What do you want?"
+        },
+        {
+          "russian": "иска",
+          "translit": "íska",
+          "english": "he/she wants",
+          "pos": "verb",
+          "example": "Той иска супа.",
+          "exampleEn": "He wants soup."
+        },
+        {
+          "russian": "какво",
+          "translit": "kakvó",
+          "english": "what",
+          "pos": "pronoun",
+          "example": "Какво искаш?",
+          "exampleEn": "What do you want?"
+        },
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "conjunction",
+          "example": "Хляб и сирене.",
+          "exampleEn": "Bread and cheese."
+        }
+      ],
+      "grammar": {
+        "title": "искам, искаш, иска (singular forms)",
+        "explanation": "искам changes its ending with the person. аз искам (I want), ти искаш (you want, one person), той/тя иска (he/she wants). The noun after the verb still does not change. Use какво (what) to ask: Какво искаш? = What do you want? Answer with искам + noun.",
+        "examples": [
+          {
+            "russian": "Какво искаш?",
+            "english": "What do you want?"
+          },
+          {
+            "russian": "Искам супа и хляб.",
+            "english": "I want soup and bread."
+          },
+          {
+            "russian": "Тя иска сирене.",
+            "english": "She wants cheese."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какво искаш?",
+        "text": "— Какво искаш? — Искам супа и хляб. — А тя? — Тя иска месо.",
+        "translation": "— What do you want? — I want soup and bread. — And she? — She wants meat.",
+        "glossary": [
+          {
+            "russian": "а тя?",
+            "english": "and she?"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask a friend 'Какво искаш?' and then answer for yourself and for a third person (той/тя). Use сирене, супа, and месо."
+    },
+    {
+      "day": 3,
+      "title": "Day 3: We/you/they want — искаме, искате, искат",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "искаме",
+          "translit": "ískame",
+          "english": "we want",
+          "pos": "verb",
+          "example": "Ние искаме чай.",
+          "exampleEn": "We want tea."
+        },
+        {
+          "russian": "искате",
+          "translit": "ískate",
+          "english": "you want (pl./formal)",
+          "pos": "verb",
+          "example": "Какво искате?",
+          "exampleEn": "What do you want?"
+        },
+        {
+          "russian": "искат",
+          "translit": "ískat",
+          "english": "they want",
+          "pos": "verb",
+          "example": "Те искат вода.",
+          "exampleEn": "They want water."
+        },
+        {
+          "russian": "ние",
+          "translit": "níe",
+          "english": "we",
+          "pos": "pronoun",
+          "example": "Ние искаме супа.",
+          "exampleEn": "We want soup."
+        },
+        {
+          "russian": "те",
+          "translit": "te",
+          "english": "they",
+          "pos": "pronoun",
+          "example": "Те искат кафе.",
+          "exampleEn": "They want coffee."
+        },
+        {
+          "russian": "захар",
+          "translit": "záhar",
+          "english": "sugar",
+          "pos": "noun (f)",
+          "example": "Искам кафе със захар.",
+          "exampleEn": "I want coffee with sugar."
+        },
+        {
+          "russian": "със",
+          "translit": "sas",
+          "english": "with",
+          "pos": "preposition",
+          "example": "Чай със захар.",
+          "exampleEn": "Tea with sugar."
+        }
+      ],
+      "grammar": {
+        "title": "искаме, искате, искат (plural forms)",
+        "explanation": "The plural forms are ние искаме (we want), вие искате (you want — plural or polite), те искат (they want). Now you know all six forms. The preposition с (with) becomes със before words starting with с or з, e.g. кафе със захар (coffee with sugar). Prepositions, not case endings, show relations in Bulgarian.",
+        "examples": [
+          {
+            "russian": "Ние искаме кафе със захар.",
+            "english": "We want coffee with sugar."
+          },
+          {
+            "russian": "Какво искате?",
+            "english": "What do you want? (plural/polite)"
+          },
+          {
+            "russian": "Те искат чай.",
+            "english": "They want tea."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В ресторанта",
+        "text": "— Какво искате? — Ние искаме супа и хляб. — А те? — Те искат кафе със захар.",
+        "translation": "— What do you want? — We want soup and bread. — And they? — They want coffee with sugar.",
+        "glossary": [
+          {
+            "russian": "ресторант",
+            "english": "restaurant"
+          }
+        ]
+      },
+      "speakingPrompt": "Order for a group: say what 'we' (ние) want and what 'they' (те) want. Include one drink със захар."
+    },
+    {
+      "day": 4,
+      "title": "Day 4: I like — обичам + noun",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "обичам",
+          "translit": "obícham",
+          "english": "I like / I love",
+          "pos": "verb",
+          "example": "Обичам кафе.",
+          "exampleEn": "I like coffee."
+        },
+        {
+          "russian": "обичаш",
+          "translit": "obíchash",
+          "english": "you like (sg.)",
+          "pos": "verb",
+          "example": "Обичаш ли чай?",
+          "exampleEn": "Do you like tea?"
+        },
+        {
+          "russian": "обича",
+          "translit": "obícha",
+          "english": "he/she likes",
+          "pos": "verb",
+          "example": "Тя обича сирене.",
+          "exampleEn": "She likes cheese."
+        },
+        {
+          "russian": "мляко",
+          "translit": "mlyáko",
+          "english": "milk",
+          "pos": "noun (n)",
+          "example": "Обичам мляко.",
+          "exampleEn": "I like milk."
+        },
+        {
+          "russian": "сок",
+          "translit": "sok",
+          "english": "juice",
+          "pos": "noun (m)",
+          "example": "Децата обичат сок.",
+          "exampleEn": "The children like juice."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "very much / a lot",
+          "pos": "adverb",
+          "example": "Обичам много чай.",
+          "exampleEn": "I like tea a lot."
+        },
+        {
+          "russian": "ли",
+          "translit": "li",
+          "english": "(question particle)",
+          "pos": "particle",
+          "example": "Обичаш ли кафе?",
+          "exampleEn": "Do you like coffee?"
+        }
+      ],
+      "grammar": {
+        "title": "обичам + noun (I like / love something)",
+        "explanation": "обичам means 'I like' or 'I love' and works like искам: обичам + noun. It conjugates the same way: обичам, обичаш, обича, обичаме, обичате, обичат. To make a yes/no question, put ли after the verb: Обичаш ли чай? = Do you like tea? Add много for emphasis, before the noun: Обичам много кафе (I like coffee a lot).",
+        "examples": [
+          {
+            "russian": "Обичам мляко.",
+            "english": "I like milk."
+          },
+          {
+            "russian": "Обичаш ли сок?",
+            "english": "Do you like juice?"
+          },
+          {
+            "russian": "Тя обича много сирене.",
+            "english": "She likes cheese a lot."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Обичаш ли чай?",
+        "text": "— Обичаш ли чай? — Да, обичам много чай. А ти обичаш ли кафе? — Не, обичам мляко.",
+        "translation": "— Do you like tea? — Yes, I like tea a lot. And do you like coffee? — No, I like milk.",
+        "glossary": [
+          {
+            "russian": "не",
+            "english": "no / not"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask 'Обичаш ли ...?' about three foods or drinks, then answer for yourself with да or не. Use много at least once."
+    },
+    {
+      "day": 5,
+      "title": "Day 5: I want to eat — искам да ям",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ям",
+          "translit": "yam",
+          "english": "I eat",
+          "pos": "verb",
+          "example": "Искам да ям.",
+          "exampleEn": "I want to eat."
+        },
+        {
+          "russian": "ядеш",
+          "translit": "yadésh",
+          "english": "you eat (sg.)",
+          "pos": "verb",
+          "example": "Какво ядеш?",
+          "exampleEn": "What are you eating?"
+        },
+        {
+          "russian": "яде",
+          "translit": "yadé",
+          "english": "he/she eats",
+          "pos": "verb",
+          "example": "Тя яде супа.",
+          "exampleEn": "She is eating soup."
+        },
+        {
+          "russian": "пия",
+          "translit": "píya",
+          "english": "I drink",
+          "pos": "verb",
+          "example": "Искам да пия вода.",
+          "exampleEn": "I want to drink water."
+        },
+        {
+          "russian": "пие",
+          "translit": "píe",
+          "english": "he/she drinks",
+          "pos": "verb",
+          "example": "Той пие кафе.",
+          "exampleEn": "He is drinking coffee."
+        },
+        {
+          "russian": "сега",
+          "translit": "segá",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Искам да ям сега.",
+          "exampleEn": "I want to eat now."
+        }
+      ],
+      "grammar": {
+        "title": "да + present (искам да ям)",
+        "explanation": "Bulgarian has NO infinitive. To say 'I want to eat', you use искам + да + a present-tense verb: искам да ям. The verb after да must agree with the subject: искам да ям (I want to eat), искаш да ядеш (you want to eat), той иска да яде (he wants to eat). The same works with пия (drink): искам да пия вода.",
+        "examples": [
+          {
+            "russian": "Искам да ям сега.",
+            "english": "I want to eat now."
+          },
+          {
+            "russian": "Искаш ли да пиеш чай?",
+            "english": "Do you want to drink tea?"
+          },
+          {
+            "russian": "Тя иска да яде супа.",
+            "english": "She wants to eat soup."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Гладен съм",
+        "text": "— Искам да ям сега. — Какво искаш да ядеш? — Искам да ям хляб със сирене и да пия вода.",
+        "translation": "— I want to eat now. — What do you want to eat? — I want to eat bread with cheese and to drink water.",
+        "glossary": [
+          {
+            "russian": "гладен съм",
+            "english": "I am hungry"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you want to eat and drink right now using 'искам да ям ...' and 'искам да пия ...'. Then ask a friend 'Какво искаш да ядеш?'"
+    },
+    {
+      "day": 6,
+      "title": "Day 6: You want to drink — искаш да пиеш",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ядем",
+          "translit": "yadém",
+          "english": "we eat",
+          "pos": "verb",
+          "example": "Искаме да ядем супа.",
+          "exampleEn": "We want to eat soup."
+        },
+        {
+          "russian": "пием",
+          "translit": "píem",
+          "english": "we drink",
+          "pos": "verb",
+          "example": "Искаме да пием чай.",
+          "exampleEn": "We want to drink tea."
+        },
+        {
+          "russian": "пиеш",
+          "translit": "píesh",
+          "english": "you drink (sg.)",
+          "pos": "verb",
+          "example": "Какво искаш да пиеш?",
+          "exampleEn": "What do you want to drink?"
+        },
+        {
+          "russian": "закуска",
+          "translit": "zakúska",
+          "english": "breakfast / snack",
+          "pos": "noun (f)",
+          "example": "За закуска искам хляб.",
+          "exampleEn": "For breakfast I want bread."
+        },
+        {
+          "russian": "обяд",
+          "translit": "obyád",
+          "english": "lunch",
+          "pos": "noun (m)",
+          "example": "За обяд ядем супа.",
+          "exampleEn": "For lunch we eat soup."
+        },
+        {
+          "russian": "за",
+          "translit": "za",
+          "english": "for",
+          "pos": "preposition",
+          "example": "За закуска искам кафе.",
+          "exampleEn": "For breakfast I want coffee."
+        },
+        {
+          "russian": "топъл",
+          "translit": "tópal",
+          "english": "warm / hot",
+          "pos": "adjective",
+          "example": "Обичам топъл чай.",
+          "exampleEn": "I like hot tea."
+        }
+      ],
+      "grammar": {
+        "title": "да + present across all persons; за + meal",
+        "explanation": "Now combine да + present in the plural too: искаме да ядем (we want to eat), искаме да пием (we want to drink). The preposition за means 'for' and is great with meals: за закуска (for breakfast), за обяд (for lunch). Adjectives agree with the noun: топъл чай (m), but тя обича топла супа (f) — for now just learn топъл with masculine nouns.",
+        "examples": [
+          {
+            "russian": "За закуска искам да ям хляб със сирене.",
+            "english": "For breakfast I want to eat bread with cheese."
+          },
+          {
+            "russian": "Какво искаш да пиеш за обяд?",
+            "english": "What do you want to drink for lunch?"
+          },
+          {
+            "russian": "Обичам топъл чай.",
+            "english": "I like hot tea."
+          }
+        ]
+      },
+      "reading": {
+        "title": "За закуска",
+        "text": "— Какво искаш за закуска? — Искам да ям хляб със сирене и да пия топъл чай. — А за обяд? — За обяд искаме да ядем супа.",
+        "translation": "— What do you want for breakfast? — I want to eat bread with cheese and to drink hot tea. — And for lunch? — For lunch we want to eat soup.",
+        "glossary": [
+          {
+            "russian": "а за обяд?",
+            "english": "and for lunch?"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your meals: say what you want to eat and drink за закуска and за обяд. Use искам да ... and at least one adjective (топъл)."
+    },
+    {
+      "day": 7,
+      "title": "Day 7: Review — Food & drink",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: искам / обичам + noun and да + present",
+        "explanation": "This week you learned two key patterns. (1) искам / обичам + noun: искам кафе (I want coffee), обичам сирене (I like cheese) — the noun never changes, because Bulgarian has no cases. Both verbs conjugate the same: -ам, -аш, -а, -аме, -ате, -ат. (2) Since there is no infinitive, 'to do something' is да + present, agreeing with the subject: искам да ям, искаш да ядеш, искаме да пием. Make yes/no questions with ли after the verb (Обичаш ли чай?) and use prepositions със (with) and за (for) instead of case endings.",
+        "examples": [
+          {
+            "russian": "Обичаш ли кафе със захар?",
+            "english": "Do you like coffee with sugar?"
+          },
+          {
+            "russian": "За обяд искаме да ядем супа и хляб.",
+            "english": "For lunch we want to eat soup and bread."
+          },
+          {
+            "russian": "Тя иска да пие топъл чай сега.",
+            "english": "She wants to drink hot tea now."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафенето (review)",
+        "text": "— Здравей! Какво искаш да ядеш? — Обичам сирене, искам хляб със сирене. — А за пиене? — Искам да пия топъл чай със захар, моля.",
+        "translation": "— Hi! What do you want to eat? — I like cheese, I want bread with cheese. — And to drink? — I want to drink hot tea with sugar, please.",
+        "glossary": [
+          {
+            "russian": "здравей",
+            "english": "hi / hello"
+          },
+          {
+            "russian": "за пиене",
+            "english": "to drink (lit. for drinking)"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play ordering a full meal at a café: greet, say what you like (обичам), order food and a drink (искам ..., искам да ям ...), and ask your friend 'Какво искаш да пиеш?'"
+    }
+  ]
+}

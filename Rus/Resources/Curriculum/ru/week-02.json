@@ -1,0 +1,596 @@
+{
+  "week": 2,
+  "theme": "Family & people",
+  "days": [
+    {
+      "day": 1,
+      "title": "Saying \"this is\": это + family members",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "это",
+          "translit": "éto",
+          "english": "this is / these are",
+          "pos": "particle",
+          "example": "Это мама.",
+          "exampleEn": "This is mum."
+        },
+        {
+          "russian": "мама",
+          "translit": "máma",
+          "english": "mum, mother",
+          "pos": "noun",
+          "example": "Это моя мама.",
+          "exampleEn": "This is my mum."
+        },
+        {
+          "russian": "папа",
+          "translit": "pápa",
+          "english": "dad, father",
+          "pos": "noun",
+          "example": "Это папа.",
+          "exampleEn": "This is dad."
+        },
+        {
+          "russian": "брат",
+          "translit": "brat",
+          "english": "brother",
+          "pos": "noun",
+          "example": "Это мой брат.",
+          "exampleEn": "This is my brother."
+        },
+        {
+          "russian": "сестра",
+          "translit": "sestrá",
+          "english": "sister",
+          "pos": "noun",
+          "example": "Это сестра.",
+          "exampleEn": "This is a sister."
+        },
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "conjunction",
+          "example": "Мама и папа.",
+          "exampleEn": "Mum and dad."
+        }
+      ],
+      "grammar": {
+        "title": "Это — \"this is\" / \"these are\"",
+        "explanation": "**Это** is a handy little word that means **this is**, **that is**, or **these are**. It never changes form, no matter who or what you point at. Russian has no word for *am/is/are* in the present, so you simply put **это** next to the noun.\n\n- **Это** + noun = *This is (a) noun.*\n- The same **это** works for one thing or many things.\n- Russian uses no articles (no *a* or *the*).",
+        "examples": [
+          {
+            "russian": "Это мама.",
+            "english": "This is mum."
+          },
+          {
+            "russian": "Это папа.",
+            "english": "This is dad."
+          },
+          {
+            "russian": "Это брат и сестра.",
+            "english": "This is (a) brother and sister."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кто это? (Who is this?)",
+        "text": "Это мама. Это папа. Это брат и сестра.",
+        "translation": "This is mum. This is dad. This is brother and sister.",
+        "glossary": [
+          {
+            "russian": "это",
+            "english": "this is"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at photos of people you know and say \"Это ...\" for each one: Это мама, это папа, это брат, это сестра. Say at least four sentences out loud."
+    },
+    {
+      "day": 2,
+      "title": "My (masculine): мой брат, мой папа",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "мой",
+          "translit": "moy",
+          "english": "my (with masculine nouns)",
+          "pos": "pronoun",
+          "example": "Это мой брат.",
+          "exampleEn": "This is my brother."
+        },
+        {
+          "russian": "сын",
+          "translit": "syn",
+          "english": "son",
+          "pos": "noun",
+          "example": "Это мой сын.",
+          "exampleEn": "This is my son."
+        },
+        {
+          "russian": "муж",
+          "translit": "muzh",
+          "english": "husband",
+          "pos": "noun",
+          "example": "Это мой муж.",
+          "exampleEn": "This is my husband."
+        },
+        {
+          "russian": "друг",
+          "translit": "druk",
+          "english": "friend (male)",
+          "pos": "noun",
+          "example": "Это мой друг.",
+          "exampleEn": "This is my friend."
+        },
+        {
+          "russian": "да",
+          "translit": "da",
+          "english": "yes",
+          "pos": "particle",
+          "example": "Да, это мой брат.",
+          "exampleEn": "Yes, this is my brother."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also, too",
+          "pos": "adverb",
+          "example": "Папа тоже тут.",
+          "exampleEn": "Dad is here too."
+        }
+      ],
+      "grammar": {
+        "title": "Possessive мой — \"my\" with masculine nouns",
+        "explanation": "Russian nouns have a **gender**. Masculine nouns usually end in a **consonant** (брат, сын, муж, друг, папа is a special masculine word too). With masculine nouns, *my* is **мой**.\n\n- **мой** + masculine noun = *my (noun)*\n- Note: **папа** ends in -а but is still masculine, so it is **мой папа**.\n- The word *my* must match the gender of the noun — today only the masculine form.",
+        "examples": [
+          {
+            "russian": "Это мой брат.",
+            "english": "This is my brother."
+          },
+          {
+            "russian": "Это мой сын.",
+            "english": "This is my son."
+          },
+          {
+            "russian": "Это мой муж и мой друг.",
+            "english": "This is my husband and my friend."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моя семья (only masculine)",
+        "text": "Это мой папа. Это мой брат. Мой сын тоже тут.",
+        "translation": "This is my dad. This is my brother. My son is here too.",
+        "glossary": [
+          {
+            "russian": "тоже",
+            "english": "also, too"
+          },
+          {
+            "russian": "тут",
+            "english": "here"
+          }
+        ]
+      },
+      "speakingPrompt": "Introduce the men in your life: say \"Это мой папа\", \"Это мой брат\", \"Это мой друг\". Add \"тоже\" once, e.g. \"Мой сын тоже тут.\""
+    },
+    {
+      "day": 3,
+      "title": "My (feminine): моя мама, моя сестра",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "моя",
+          "translit": "mayá",
+          "english": "my (with feminine nouns)",
+          "pos": "pronoun",
+          "example": "Это моя мама.",
+          "exampleEn": "This is my mum."
+        },
+        {
+          "russian": "дочь",
+          "translit": "doch",
+          "english": "daughter",
+          "pos": "noun",
+          "example": "Это моя дочь.",
+          "exampleEn": "This is my daughter."
+        },
+        {
+          "russian": "жена",
+          "translit": "zhená",
+          "english": "wife",
+          "pos": "noun",
+          "example": "Это моя жена.",
+          "exampleEn": "This is my wife."
+        },
+        {
+          "russian": "подруга",
+          "translit": "padrúga",
+          "english": "friend (female)",
+          "pos": "noun",
+          "example": "Это моя подруга.",
+          "exampleEn": "This is my friend."
+        },
+        {
+          "russian": "нет",
+          "translit": "nyet",
+          "english": "no",
+          "pos": "particle",
+          "example": "Нет, это моя сестра.",
+          "exampleEn": "No, this is my sister."
+        },
+        {
+          "russian": "тут",
+          "translit": "tut",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Моя мама тут.",
+          "exampleEn": "My mum is here."
+        }
+      ],
+      "grammar": {
+        "title": "Possessive моя — \"my\" with feminine nouns",
+        "explanation": "Feminine nouns usually end in **-а** or **-я** (мама, сестра, жена, дочь is feminine too even though it ends in -ь). With feminine nouns, *my* is **моя**.\n\n- **моя** + feminine noun = *my (noun)*\n- Compare with yesterday: **мой** brat (m.) vs **моя** sestrá (f.).\n- **дочь** ends in a soft sign -ь but is feminine, so it is **моя дочь**.",
+        "examples": [
+          {
+            "russian": "Это моя мама.",
+            "english": "This is my mum."
+          },
+          {
+            "russian": "Это моя сестра.",
+            "english": "This is my sister."
+          },
+          {
+            "russian": "Это моя жена и моя дочь.",
+            "english": "This is my wife and my daughter."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моя семья (only feminine)",
+        "text": "Это моя мама. Это моя сестра. Моя дочь тоже тут.",
+        "translation": "This is my mum. This is my sister. My daughter is here too.",
+        "glossary": [
+          {
+            "russian": "тут",
+            "english": "here"
+          },
+          {
+            "russian": "тоже",
+            "english": "also, too"
+          }
+        ]
+      },
+      "speakingPrompt": "Introduce the women in your life: \"Это моя мама\", \"Это моя сестра\", \"Это моя подруга\". Answer a yes/no question with \"Нет, это моя ...\""
+    },
+    {
+      "day": 4,
+      "title": "My (neuter): моё",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "моё",
+          "translit": "mayó",
+          "english": "my (with neuter nouns)",
+          "pos": "pronoun",
+          "example": "Это моё письмо.",
+          "exampleEn": "This is my letter."
+        },
+        {
+          "russian": "имя",
+          "translit": "ímya",
+          "english": "name (first name)",
+          "pos": "noun",
+          "example": "Моё имя — Анна.",
+          "exampleEn": "My name is Anna."
+        },
+        {
+          "russian": "фото",
+          "translit": "fóto",
+          "english": "photo",
+          "pos": "noun",
+          "example": "Это моё фото.",
+          "exampleEn": "This is my photo."
+        },
+        {
+          "russian": "письмо",
+          "translit": "pis'mó",
+          "english": "letter (message)",
+          "pos": "noun",
+          "example": "Это моё письмо.",
+          "exampleEn": "This is my letter."
+        },
+        {
+          "russian": "семья",
+          "translit": "sem'yá",
+          "english": "family",
+          "pos": "noun",
+          "example": "Это моя семья.",
+          "exampleEn": "This is my family."
+        },
+        {
+          "russian": "вот",
+          "translit": "vot",
+          "english": "here is, here are",
+          "pos": "particle",
+          "example": "Вот моё фото.",
+          "exampleEn": "Here is my photo."
+        }
+      ],
+      "grammar": {
+        "title": "Possessive моё — \"my\" with neuter nouns",
+        "explanation": "Russian has a third gender: **neuter**. Neuter nouns usually end in **-о** or **-е** (письмо, фото, имя is a special neuter word). With neuter nouns, *my* is **моё**.\n\nNow you have all three singular forms:\n- **мой** + masculine (мой брат)\n- **моя** + feminine (моя сестра)\n- **моё** + neuter (моё фото)",
+        "examples": [
+          {
+            "russian": "Это моё фото.",
+            "english": "This is my photo."
+          },
+          {
+            "russian": "Вот моё письмо.",
+            "english": "Here is my letter."
+          },
+          {
+            "russian": "Моё имя — Анна.",
+            "english": "My name is Anna."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вот моё фото",
+        "text": "Вот моё фото. Это моя семья: мама, папа и брат.",
+        "translation": "Here is my photo. This is my family: mum, dad and brother.",
+        "glossary": [
+          {
+            "russian": "вот",
+            "english": "here is"
+          },
+          {
+            "russian": "семья",
+            "english": "family"
+          }
+        ]
+      },
+      "speakingPrompt": "Show a photo and say \"Вот моё фото. Это моя семья.\" Then point out three people using мой/моя correctly."
+    },
+    {
+      "day": 5,
+      "title": "My (plural): мои + naming people",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "мои",
+          "translit": "maí",
+          "english": "my (with plural nouns)",
+          "pos": "pronoun",
+          "example": "Это мои родители.",
+          "exampleEn": "These are my parents."
+        },
+        {
+          "russian": "родители",
+          "translit": "radíteli",
+          "english": "parents",
+          "pos": "noun",
+          "example": "Это мои родители.",
+          "exampleEn": "These are my parents."
+        },
+        {
+          "russian": "дети",
+          "translit": "déti",
+          "english": "children",
+          "pos": "noun",
+          "example": "Это мои дети.",
+          "exampleEn": "These are my children."
+        },
+        {
+          "russian": "братья",
+          "translit": "brát'ya",
+          "english": "brothers",
+          "pos": "noun",
+          "example": "Это мои братья.",
+          "exampleEn": "These are my brothers."
+        },
+        {
+          "russian": "сёстры",
+          "translit": "syóstry",
+          "english": "sisters",
+          "pos": "noun",
+          "example": "Это мои сёстры.",
+          "exampleEn": "These are my sisters."
+        },
+        {
+          "russian": "друзья",
+          "translit": "druz'yá",
+          "english": "friends",
+          "pos": "noun",
+          "example": "Это мои друзья.",
+          "exampleEn": "These are my friends."
+        },
+        {
+          "russian": "люди",
+          "translit": "lyúdi",
+          "english": "people",
+          "pos": "noun",
+          "example": "Это хорошие люди.",
+          "exampleEn": "These are good people."
+        }
+      ],
+      "grammar": {
+        "title": "Possessive мои — \"my\" with plural nouns",
+        "explanation": "When you talk about **more than one** person or thing, *my* is **мои** — one form for all genders in the plural.\n\n- **мои** + plural noun = *my (things/people)*\n- Use **это** for plurals too: *Это мои друзья* = *These are my friends.*\n- Many family plurals are irregular: брат → **братья**, сестра → **сёстры**, друг → **друзья**, ребёнок → **дети**.",
+        "examples": [
+          {
+            "russian": "Это мои родители.",
+            "english": "These are my parents."
+          },
+          {
+            "russian": "Это мои дети.",
+            "english": "These are my children."
+          },
+          {
+            "russian": "Это мои друзья.",
+            "english": "These are my friends."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мои люди",
+        "text": "Это мои родители. Это мои братья и сёстры. Вот мои друзья.",
+        "translation": "These are my parents. These are my brothers and sisters. Here are my friends.",
+        "glossary": [
+          {
+            "russian": "родители",
+            "english": "parents"
+          },
+          {
+            "russian": "друзья",
+            "english": "friends"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your circle in plurals: \"Это мои родители\", \"Это мои друзья\", \"Это мои дети\". Use мои at least three times."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: introducing your family",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "знакомьтесь",
+          "translit": "znakóm'tes'",
+          "english": "meet (introducing people)",
+          "pos": "phrase",
+          "example": "Знакомьтесь, это моя семья.",
+          "exampleEn": "Meet my family."
+        },
+        {
+          "russian": "тётя",
+          "translit": "tyótya",
+          "english": "aunt",
+          "pos": "noun",
+          "example": "Это моя тётя.",
+          "exampleEn": "This is my aunt."
+        },
+        {
+          "russian": "дядя",
+          "translit": "dyádya",
+          "english": "uncle",
+          "pos": "noun",
+          "example": "Это мой дядя.",
+          "exampleEn": "This is my uncle."
+        },
+        {
+          "russian": "бабушка",
+          "translit": "bábushka",
+          "english": "grandmother",
+          "pos": "noun",
+          "example": "Это моя бабушка.",
+          "exampleEn": "This is my grandmother."
+        },
+        {
+          "russian": "дедушка",
+          "translit": "dédushka",
+          "english": "grandfather",
+          "pos": "noun",
+          "example": "Это мой дедушка.",
+          "exampleEn": "This is my grandfather."
+        },
+        {
+          "russian": "очень",
+          "translit": "óchen'",
+          "english": "very",
+          "pos": "adverb",
+          "example": "Очень приятно.",
+          "exampleEn": "Very nice (to meet you)."
+        },
+        {
+          "russian": "приятно",
+          "translit": "priyátno",
+          "english": "nice, pleasant",
+          "pos": "adverb",
+          "example": "Очень приятно!",
+          "exampleEn": "Very nice to meet you!"
+        }
+      ],
+      "grammar": {
+        "title": "All four forms together: мой / моя / моё / мои",
+        "explanation": "Today you choose the right form of *my* by the noun's gender and number. Note: **дядя** and **дедушка** end in -а/-я but are **masculine** (they name males), so they take **мой**; **тётя** and **бабушка** are feminine and take **моя**.\n\n- **мой** дядя, **мой** дедушка (masculine)\n- **моя** тётя, **моя** бабушка (feminine)\n- **моё** фото (neuter)\n- **мои** родители (plural)",
+        "examples": [
+          {
+            "russian": "Это мой дедушка и моя бабушка.",
+            "english": "This is my grandfather and my grandmother."
+          },
+          {
+            "russian": "Это мой дядя и моя тётя.",
+            "english": "This is my uncle and my aunt."
+          },
+          {
+            "russian": "Знакомьтесь, это мои родители.",
+            "english": "Meet my parents."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Знакомьтесь!",
+        "text": "Знакомьтесь! Это мой дедушка и моя бабушка. Очень приятно!",
+        "translation": "Meet (them)! This is my grandfather and my grandmother. Very nice to meet you!",
+        "glossary": [
+          {
+            "russian": "знакомьтесь",
+            "english": "meet (someone)"
+          },
+          {
+            "russian": "очень приятно",
+            "english": "very nice to meet you"
+          }
+        ]
+      },
+      "speakingPrompt": "Pretend to introduce your whole family to a guest: start with \"Знакомьтесь!\" and name six relatives, each with the correct мой/моя/моё/мои."
+    },
+    {
+      "day": 7,
+      "title": "Review: family, people & my",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: это and мой / моя / моё / мои",
+        "explanation": "This week you learned to point out people with **это** (*this is / these are*) and to say *my* in all four forms.\n\n- **мой** — masculine (мой брат, мой папа, мой дядя)\n- **моя** — feminine (моя сестра, моя мама, моя дочь)\n- **моё** — neuter (моё фото, моё имя)\n- **мои** — plural (мои родители, мои друзья)\n\nRemember the tricky ones: **папа, дядя, дедушка** are masculine; **дочь** is feminine; **дети** is plural.",
+        "examples": [
+          {
+            "russian": "Это мой брат и моя сестра.",
+            "english": "This is my brother and my sister."
+          },
+          {
+            "russian": "Это мои родители.",
+            "english": "These are my parents."
+          },
+          {
+            "russian": "Вот моё фото.",
+            "english": "Here is my photo."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кто это? (A tiny dialogue)",
+        "text": "— Кто это? — Это моя мама и мой папа. — А это? — Это мои дети.",
+        "translation": "\"Who is this?\" \"This is my mum and my dad.\" \"And this?\" \"These are my children.\"",
+        "glossary": [
+          {
+            "russian": "кто",
+            "english": "who"
+          },
+          {
+            "russian": "а",
+            "english": "and / but (so what about)"
+          }
+        ]
+      },
+      "speakingPrompt": "Without notes, point at five different people (real or imagined) and answer the question \"Кто это?\" each time using это plus the correct form of мой/моя/моё/мои."
+    }
+  ]
+}

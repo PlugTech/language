@@ -1,0 +1,628 @@
+{
+  "week": 10,
+  "theme": "At the restaurant",
+  "days": [
+    {
+      "day": 1,
+      "title": "Arriving at the restaurant",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ресторан",
+          "translit": "restorán",
+          "english": "restaurant",
+          "pos": "noun",
+          "example": "Я люблю этот ресторан.",
+          "exampleEn": "I love this restaurant."
+        },
+        {
+          "russian": "кафе",
+          "translit": "kafé",
+          "english": "café",
+          "pos": "noun",
+          "example": "Кафе работает сейчас.",
+          "exampleEn": "The café is open now."
+        },
+        {
+          "russian": "стол",
+          "translit": "stol",
+          "english": "table",
+          "pos": "noun",
+          "example": "Где наш стол?",
+          "exampleEn": "Where is our table?"
+        },
+        {
+          "russian": "меню",
+          "translit": "menyú",
+          "english": "menu",
+          "pos": "noun",
+          "example": "Вот меню, пожалуйста.",
+          "exampleEn": "Here is the menu, please."
+        },
+        {
+          "russian": "официант",
+          "translit": "ofitsiánt",
+          "english": "waiter",
+          "pos": "noun",
+          "example": "Официант здесь.",
+          "exampleEn": "The waiter is here."
+        },
+        {
+          "russian": "свободный",
+          "translit": "svobódnyy",
+          "english": "free, available",
+          "pos": "adjective",
+          "example": "Это свободный стол?",
+          "exampleEn": "Is this table free?"
+        },
+        {
+          "russian": "вход",
+          "translit": "vkhód",
+          "english": "entrance",
+          "pos": "noun",
+          "example": "Вход здесь.",
+          "exampleEn": "The entrance is here."
+        }
+      ],
+      "grammar": {
+        "title": "The accusative case: direct objects",
+        "explanation": "When a noun is the **direct object** of a verb (the thing you see, want, love), it goes in the **accusative case**. Good news: **inanimate masculine** nouns (like *стол*, *ресторан*) and **neuter** nouns (like *меню*, *кафе*) look exactly the same as the dictionary form. So *Я вижу стол* (I see a table) uses *стол* unchanged. This week we add the endings that actually change.",
+        "examples": [
+          {
+            "russian": "Я люблю этот ресторан.",
+            "english": "I love this restaurant."
+          },
+          {
+            "russian": "Я вижу свободный стол.",
+            "english": "I see a free table."
+          },
+          {
+            "russian": "Дайте меню, пожалуйста.",
+            "english": "Give me the menu, please."
+          }
+        ]
+      },
+      "reading": {
+        "title": "У входа",
+        "text": "— Добрый вечер! Это свободный стол? — Да. Вот меню, пожалуйста.",
+        "translation": "— Good evening! Is this table free? — Yes. Here is the menu, please.",
+        "glossary": [
+          {
+            "russian": "добрый вечер",
+            "english": "good evening"
+          },
+          {
+            "russian": "вот",
+            "english": "here is"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine you walk into a café. Greet the waiter and ask if a table is free. Then ask for the menu. Say it aloud in Russian."
+    },
+    {
+      "day": 2,
+      "title": "I love this dish (любить + accusative)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "любить",
+          "translit": "lyubít'",
+          "english": "to love, to like",
+          "pos": "verb",
+          "example": "Я люблю суп.",
+          "exampleEn": "I love soup."
+        },
+        {
+          "russian": "суп",
+          "translit": "sup",
+          "english": "soup",
+          "pos": "noun",
+          "example": "Я люблю горячий суп.",
+          "exampleEn": "I love hot soup."
+        },
+        {
+          "russian": "салат",
+          "translit": "salát",
+          "english": "salad",
+          "pos": "noun",
+          "example": "Он любит салат.",
+          "exampleEn": "He likes salad."
+        },
+        {
+          "russian": "сыр",
+          "translit": "syr",
+          "english": "cheese",
+          "pos": "noun",
+          "example": "Я очень люблю сыр.",
+          "exampleEn": "I really like cheese."
+        },
+        {
+          "russian": "хлеб",
+          "translit": "khleb",
+          "english": "bread",
+          "pos": "noun",
+          "example": "Мы любим хлеб.",
+          "exampleEn": "We like bread."
+        },
+        {
+          "russian": "горячий",
+          "translit": "goryáchiy",
+          "english": "hot (temperature)",
+          "pos": "adjective",
+          "example": "Это горячий суп.",
+          "exampleEn": "This is hot soup."
+        },
+        {
+          "russian": "очень",
+          "translit": "óchen'",
+          "english": "very, really",
+          "pos": "adverb",
+          "example": "Я очень люблю сыр.",
+          "exampleEn": "I really like cheese."
+        }
+      ],
+      "grammar": {
+        "title": "Conjugating любить with accusative objects",
+        "explanation": "**любить** (to love/like) is a key verb followed by the accusative. It conjugates: *я люблю* (note the extra **л**), *ты любишь*, *он/она любит*, *мы любим*, *вы любите*, *они любят*. The thing loved goes in the accusative. With **inanimate masculine and neuter** nouns the form does not change, so *суп*, *салат*, *сыр*, *хлеб* stay the same: *Я люблю суп*.",
+        "examples": [
+          {
+            "russian": "Я люблю суп.",
+            "english": "I love soup."
+          },
+          {
+            "russian": "Он любит салат и хлеб.",
+            "english": "He likes salad and bread."
+          },
+          {
+            "russian": "Мы очень любим сыр.",
+            "english": "We really like cheese."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Что ты любишь?",
+        "text": "— Что ты любишь? — Я очень люблю суп и хлеб. А ты любишь салат? — Да, люблю.",
+        "translation": "— What do you like? — I really love soup and bread. And do you like salad? — Yes, I do.",
+        "glossary": [
+          {
+            "russian": "что",
+            "english": "what"
+          },
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "List three foods you love and one you don't, using любить. For example: Я люблю суп, but try it with сыр and салат too. Say it aloud."
+    },
+    {
+      "day": 3,
+      "title": "Ordering a feminine dish (-а → -у)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "заказывать",
+          "translit": "zakázyvat'",
+          "english": "to order",
+          "pos": "verb",
+          "example": "Я заказываю рыбу.",
+          "exampleEn": "I am ordering fish."
+        },
+        {
+          "russian": "рыба",
+          "translit": "rýba",
+          "english": "fish",
+          "pos": "noun",
+          "example": "Я люблю рыбу.",
+          "exampleEn": "I love fish."
+        },
+        {
+          "russian": "пицца",
+          "translit": "pítsa",
+          "english": "pizza",
+          "pos": "noun",
+          "example": "Она заказывает пиццу.",
+          "exampleEn": "She is ordering pizza."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun",
+          "example": "Я хочу воду.",
+          "exampleEn": "I want water."
+        },
+        {
+          "russian": "котлета",
+          "translit": "kotléta",
+          "english": "cutlet, patty",
+          "pos": "noun",
+          "example": "Он заказывает котлету.",
+          "exampleEn": "He is ordering a cutlet."
+        },
+        {
+          "russian": "колбаса",
+          "translit": "kolbasá",
+          "english": "sausage",
+          "pos": "noun",
+          "example": "Я люблю колбасу.",
+          "exampleEn": "I like sausage."
+        },
+        {
+          "russian": "хотеть",
+          "translit": "khotét'",
+          "english": "to want",
+          "pos": "verb",
+          "example": "Я хочу пиццу.",
+          "exampleEn": "I want pizza."
+        }
+      ],
+      "grammar": {
+        "title": "Feminine nouns in -а: change -а to -у",
+        "explanation": "Feminine nouns ending in **-а** change that ending to **-у** in the accusative. So *рыба* → *рыбу*, *пицца* → *пиццу*, *вода* → *воду*, *котлета* → *котлету*, *колбаса* → *колбасу*. This happens whether the noun is animate or not. Use it after verbs like **хотеть** (to want), **заказывать** (to order), and **любить**.",
+        "examples": [
+          {
+            "russian": "Я хочу воду.",
+            "english": "I want water."
+          },
+          {
+            "russian": "Она заказывает пиццу.",
+            "english": "She is ordering pizza."
+          },
+          {
+            "russian": "Мы любим рыбу.",
+            "english": "We love fish."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Заказ",
+        "text": "— Что вы хотите? — Я хочу рыбу и воду. — А она заказывает пиццу.",
+        "translation": "— What would you like? — I want fish and water. — And she is ordering pizza.",
+        "glossary": [
+          {
+            "russian": "что вы хотите",
+            "english": "what would you like"
+          },
+          {
+            "russian": "заказ",
+            "english": "order"
+          }
+        ]
+      },
+      "speakingPrompt": "Order a meal: say what you want and what you love using -а → -у feminine nouns (рыба, пицца, вода, котлета). Say it aloud as if talking to a waiter."
+    },
+    {
+      "day": 4,
+      "title": "Soft feminine dishes (-я → -ю)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "кухня",
+          "translit": "kúkhnya",
+          "english": "cuisine, kitchen",
+          "pos": "noun",
+          "example": "Я люблю русскую кухню.",
+          "exampleEn": "I love Russian cuisine."
+        },
+        {
+          "russian": "дыня",
+          "translit": "dýnya",
+          "english": "melon",
+          "pos": "noun",
+          "example": "Я хочу дыню.",
+          "exampleEn": "I want melon."
+        },
+        {
+          "russian": "лазанья",
+          "translit": "lazán'ya",
+          "english": "lasagna",
+          "pos": "noun",
+          "example": "Он заказывает лазанью.",
+          "exampleEn": "He is ordering lasagna."
+        },
+        {
+          "russian": "вкусный",
+          "translit": "vkúsnyy",
+          "english": "tasty, delicious",
+          "pos": "adjective",
+          "example": "Это вкусный суп.",
+          "exampleEn": "This is delicious soup."
+        },
+        {
+          "russian": "блюдо",
+          "translit": "blyúdo",
+          "english": "dish (food item)",
+          "pos": "noun",
+          "example": "Это вкусное блюдо.",
+          "exampleEn": "This is a tasty dish."
+        },
+        {
+          "russian": "сладкий",
+          "translit": "sládkiy",
+          "english": "sweet",
+          "pos": "adjective",
+          "example": "Я люблю сладкий чай.",
+          "exampleEn": "I like sweet tea."
+        }
+      ],
+      "grammar": {
+        "title": "Feminine nouns in -я: change -я to -ю",
+        "explanation": "Feminine nouns ending in **-я** change that soft ending to **-ю** in the accusative. So *кухня* → *кухню*, *дыня* → *дыню*, *лазанья* → *лазанью*. This mirrors yesterday's *-а → -у* rule, just with the soft pair of letters. Neuter nouns like *блюдо* and *кафе* do not change.",
+        "examples": [
+          {
+            "russian": "Я люблю русскую кухню.",
+            "english": "I love Russian cuisine."
+          },
+          {
+            "russian": "Я хочу дыню.",
+            "english": "I want melon."
+          },
+          {
+            "russian": "Он заказывает лазанью.",
+            "english": "He is ordering lasagna."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вкусно!",
+        "text": "— Я очень люблю эту кухню. Блюдо вкусное! — А я хочу дыню. Она сладкая.",
+        "translation": "— I really love this cuisine. The dish is tasty! — And I want melon. It's sweet.",
+        "glossary": [
+          {
+            "russian": "вкусно",
+            "english": "(it's) tasty"
+          },
+          {
+            "russian": "эту",
+            "english": "this (fem. accusative)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say which cuisine you love and name one sweet dish you want, using -я → -ю nouns (кухня, дыня). Add вкусный or сладкий to describe it. Say it aloud."
+    },
+    {
+      "day": 5,
+      "title": "I see the waiter (animate masculine -а/-я)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "видеть",
+          "translit": "vídet'",
+          "english": "to see",
+          "pos": "verb",
+          "example": "Я вижу официанта.",
+          "exampleEn": "I see the waiter."
+        },
+        {
+          "russian": "повар",
+          "translit": "póvar",
+          "english": "cook, chef",
+          "pos": "noun",
+          "example": "Я знаю этого повара.",
+          "exampleEn": "I know this chef."
+        },
+        {
+          "russian": "друг",
+          "translit": "drug",
+          "english": "friend (male)",
+          "pos": "noun",
+          "example": "Я жду друга.",
+          "exampleEn": "I am waiting for a friend."
+        },
+        {
+          "russian": "ждать",
+          "translit": "zhdat'",
+          "english": "to wait (for)",
+          "pos": "verb",
+          "example": "Я жду официанта.",
+          "exampleEn": "I am waiting for the waiter."
+        },
+        {
+          "russian": "знать",
+          "translit": "znat'",
+          "english": "to know",
+          "pos": "verb",
+          "example": "Я знаю повара.",
+          "exampleEn": "I know the cook."
+        },
+        {
+          "russian": "счёт",
+          "translit": "shchót",
+          "english": "the bill, check",
+          "pos": "noun",
+          "example": "Дайте счёт, пожалуйста.",
+          "exampleEn": "Give me the bill, please."
+        },
+        {
+          "russian": "звать",
+          "translit": "zvat'",
+          "english": "to call (someone over)",
+          "pos": "verb",
+          "example": "Я зову официанта.",
+          "exampleEn": "I am calling the waiter."
+        }
+      ],
+      "grammar": {
+        "title": "Animate masculine nouns: add -а / -я",
+        "explanation": "When a **masculine** noun is **animate** (a person or animal), the accusative is NOT the same as the dictionary form. It takes the genitive-style ending: add **-а** to a consonant ending (*официант* → *официанта*, *повар* → *повара*, *друг* → *друга*), or **-я** to a soft ending. Compare with inanimate *стол* → *стол* (no change). So *Я вижу стол* but *Я вижу официанта*.",
+        "examples": [
+          {
+            "russian": "Я вижу официанта.",
+            "english": "I see the waiter."
+          },
+          {
+            "russian": "Я жду друга.",
+            "english": "I am waiting for a friend."
+          },
+          {
+            "russian": "Она знает повара.",
+            "english": "She knows the cook."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Где официант?",
+        "text": "— Я жду официанта. Где он? — Вот он! Я зову его. Дайте счёт, пожалуйста.",
+        "translation": "— I'm waiting for the waiter. Where is he? — There he is! I'm calling him. Give us the bill, please.",
+        "glossary": [
+          {
+            "russian": "его",
+            "english": "him (accusative)"
+          },
+          {
+            "russian": "где",
+            "english": "where"
+          }
+        ]
+      },
+      "speakingPrompt": "Practice animate masculine accusatives: say you see the waiter, you're waiting for a friend, and you know the chef (официанта, друга, повара). Then ask for the bill. Say it aloud."
+    },
+    {
+      "day": 6,
+      "title": "A full order: putting it together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "официантка",
+          "translit": "ofitsiántka",
+          "english": "waitress",
+          "pos": "noun",
+          "example": "Я зову официантку.",
+          "exampleEn": "I am calling the waitress."
+        },
+        {
+          "russian": "десерт",
+          "translit": "desért",
+          "english": "dessert",
+          "pos": "noun",
+          "example": "Я хочу десерт.",
+          "exampleEn": "I want dessert."
+        },
+        {
+          "russian": "мороженое",
+          "translit": "morózhenoye",
+          "english": "ice cream",
+          "pos": "noun",
+          "example": "Дети любят мороженое.",
+          "exampleEn": "Children love ice cream."
+        },
+        {
+          "russian": "курица",
+          "translit": "kúritsa",
+          "english": "chicken",
+          "pos": "noun",
+          "example": "Я заказываю курицу.",
+          "exampleEn": "I am ordering chicken."
+        },
+        {
+          "russian": "приносить",
+          "translit": "prinosít'",
+          "english": "to bring",
+          "pos": "verb",
+          "example": "Официант приносит суп.",
+          "exampleEn": "The waiter brings the soup."
+        },
+        {
+          "russian": "пробовать",
+          "translit": "próbovat'",
+          "english": "to try, to taste",
+          "pos": "verb",
+          "example": "Я пробую пиццу.",
+          "exampleEn": "I am trying the pizza."
+        },
+        {
+          "russian": "вилка",
+          "translit": "vílka",
+          "english": "fork",
+          "pos": "noun",
+          "example": "Дайте вилку, пожалуйста.",
+          "exampleEn": "Give me a fork, please."
+        }
+      ],
+      "grammar": {
+        "title": "All the accusative endings together",
+        "explanation": "Combine this week's rules in one order. **Inanimate masc/neuter** = no change (*суп*, *десерт*, *мороженое*). **Feminine -а → -у** (*курица* → *курицу*, *вилка* → *вилку*). **Feminine -я → -ю** (*кухня* → *кухню*). **Animate masc + -а/-я** (*официант* → *официанта*). Note: feminine animate nouns like *официантка* still follow the feminine rule → *официантку*.",
+        "examples": [
+          {
+            "russian": "Я заказываю курицу и десерт.",
+            "english": "I am ordering chicken and dessert."
+          },
+          {
+            "russian": "Я зову официантку.",
+            "english": "I am calling the waitress."
+          },
+          {
+            "russian": "Дети любят мороженое.",
+            "english": "Children love ice cream."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Полный заказ",
+        "text": "— Я хочу курицу и воду. На десерт — мороженое. — Я зову официантку, она приносит вилку.",
+        "translation": "— I want chicken and water. For dessert — ice cream. — I'm calling the waitress, she brings a fork.",
+        "glossary": [
+          {
+            "russian": "на десерт",
+            "english": "for dessert"
+          },
+          {
+            "russian": "полный",
+            "english": "full, complete"
+          }
+        ]
+      },
+      "speakingPrompt": "Give a complete restaurant order: a main (курицу/рыбу), a drink (воду), and a dessert (мороженое/десерт). Then call the waitress and ask her to bring a fork. Say it all aloud."
+    },
+    {
+      "day": 7,
+      "title": "Review: At the restaurant",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Accusative recap: the four patterns",
+        "explanation": "This week's accusative in one glance:\n\n1. **Inanimate masculine / neuter** — no change: *стол*, *суп*, *меню*, *мороженое*.\n2. **Feminine -а → -у**: *рыба → рыбу*, *вода → воду*, *курица → курицу*.\n3. **Feminine -я → -ю**: *кухня → кухню*, *дыня → дыню*.\n4. **Animate masculine + -а/-я**: *официант → официанта*, *друг → друга*, *повар → повара*.\n\nUse it after **любить**, **хотеть**, **заказывать**, **видеть**, **ждать**, **знать**, **звать**, **приносить**, **пробовать**.",
+        "examples": [
+          {
+            "russian": "Я люблю рыбу и воду.",
+            "english": "I love fish and water."
+          },
+          {
+            "russian": "Она заказывает курицу.",
+            "english": "She is ordering chicken."
+          },
+          {
+            "russian": "Я вижу официанта.",
+            "english": "I see the waiter."
+          },
+          {
+            "russian": "Мы любим эту кухню.",
+            "english": "We love this cuisine."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В ресторане",
+        "text": "— Добрый вечер! Это свободный стол? — Да, вот меню. — Я хочу рыбу и воду, а на десерт — мороженое. — А я люблю курицу. Где официант? — Я зову его. Дайте счёт, пожалуйста.",
+        "translation": "— Good evening! Is this table free? — Yes, here is the menu. — I want fish and water, and for dessert — ice cream. — And I love chicken. Where is the waiter? — I'm calling him. Give us the bill, please.",
+        "glossary": [
+          {
+            "russian": "в ресторане",
+            "english": "at the restaurant"
+          },
+          {
+            "russian": "на десерт",
+            "english": "for dessert"
+          },
+          {
+            "russian": "счёт",
+            "english": "the bill"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a full restaurant visit on your own: greet, ask for a free table and the menu, order a main + drink + dessert using correct accusative endings, call the waiter, and ask for the bill. Try to use at least one example of each of the four accusative patterns (inanimate, feminine -у, feminine -ю, animate masculine)."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "week": 1,
+  "theme": "Greetings & getting comfortable reading",
+  "days": [
+    {
+      "day": 1,
+      "title": "Greetings",
+      "isReview": false,
+      "vocab": [
+        { "russian": "привет", "translit": "privét", "english": "hi", "pos": "phrase", "example": "Привет! Как дела?", "exampleEn": "Hi! How are you?" },
+        { "russian": "здравствуйте", "translit": "zdrávstvuyte", "english": "hello (formal)", "pos": "phrase", "example": "Здравствуйте!", "exampleEn": "Hello!" },
+        { "russian": "доброе утро", "translit": "dóbroye útro", "english": "good morning", "pos": "phrase", "example": "Доброе утро!", "exampleEn": "Good morning!" },
+        { "russian": "добрый день", "translit": "dóbryy den'", "english": "good afternoon", "pos": "phrase", "example": "Добрый день!", "exampleEn": "Good afternoon!" },
+        { "russian": "добрый вечер", "translit": "dóbryy vécher", "english": "good evening", "pos": "phrase", "example": "Добрый вечер!", "exampleEn": "Good evening!" },
+        { "russian": "пока", "translit": "paká", "english": "bye", "pos": "phrase", "example": "Пока!", "exampleEn": "Bye!" },
+        { "russian": "до свидания", "translit": "do svidániya", "english": "goodbye", "pos": "phrase", "example": "До свидания!", "exampleEn": "Goodbye!" },
+        { "russian": "спасибо", "translit": "spasíbo", "english": "thank you", "pos": "phrase", "example": "Спасибо большое!", "exampleEn": "Thank you very much!" }
+      ],
+      "grammar": {
+        "title": "No \"to be\" in the present",
+        "explanation": "Russian has **no present-tense verb \"to be\"**. To say *I am a student*, you simply say *I student*. The word order stays simple and you just leave out *am / is / are*.",
+        "examples": [
+          { "russian": "Я студент.", "english": "I am a student." },
+          { "russian": "Это книга.", "english": "This is a book." },
+          { "russian": "Он дома.", "english": "He is at home." }
+        ]
+      },
+      "reading": {
+        "title": "Знакомство",
+        "text": "Привет! Меня зовут Анна. Я студентка. Это моя книга.",
+        "translation": "Hi! My name is Anna. I am a student. This is my book.",
+        "glossary": [
+          { "russian": "меня зовут", "english": "my name is" },
+          { "russian": "студентка", "english": "student (female)" },
+          { "russian": "это", "english": "this is" }
+        ]
+      },
+      "speakingPrompt": "Greet someone formally (здравствуйте) and informally (привет), then thank them (спасибо)."
+    },
+    {
+      "day": 2,
+      "title": "Polite essentials",
+      "isReview": false,
+      "vocab": [
+        { "russian": "да", "translit": "da", "english": "yes", "pos": "particle", "example": "Да, спасибо.", "exampleEn": "Yes, thank you." },
+        { "russian": "нет", "translit": "net", "english": "no", "pos": "particle", "example": "Нет, спасибо.", "exampleEn": "No, thank you." },
+        { "russian": "пожалуйста", "translit": "pozháluysta", "english": "please / you're welcome", "pos": "phrase", "example": "Кофе, пожалуйста.", "exampleEn": "Coffee, please." },
+        { "russian": "извините", "translit": "izviníte", "english": "excuse me / sorry", "pos": "phrase", "example": "Извините!", "exampleEn": "Excuse me!" },
+        { "russian": "хорошо", "translit": "khorashó", "english": "good / okay", "pos": "adverb", "example": "Всё хорошо.", "exampleEn": "Everything is good." },
+        { "russian": "как дела", "translit": "kak delá", "english": "how are you", "pos": "phrase", "example": "Привет, как дела?", "exampleEn": "Hi, how are you?" },
+        { "russian": "меня зовут", "translit": "menyá zovút", "english": "my name is", "pos": "phrase", "example": "Меня зовут Иван.", "exampleEn": "My name is Ivan." },
+        { "russian": "очень приятно", "translit": "óchen' priyátno", "english": "nice to meet you", "pos": "phrase", "example": "Очень приятно!", "exampleEn": "Nice to meet you!" }
+      ],
+      "grammar": {
+        "title": "Asking yes/no questions",
+        "explanation": "To turn a statement into a yes/no question, **keep the same words and word order** — just raise your intonation at the end. No extra word like *do* is needed.",
+        "examples": [
+          { "russian": "Это книга.", "english": "This is a book." },
+          { "russian": "Это книга?", "english": "Is this a book?" },
+          { "russian": "Ты студент?", "english": "Are you a student?" }
+        ]
+      },
+      "reading": {
+        "title": "Встреча",
+        "text": "— Здравствуйте! Меня зовут Иван. — Очень приятно! Как дела? — Хорошо, спасибо.",
+        "translation": "— Hello! My name is Ivan. — Nice to meet you! How are you? — Good, thanks.",
+        "glossary": [
+          { "russian": "очень приятно", "english": "nice to meet you" },
+          { "russian": "хорошо", "english": "good / fine" }
+        ]
+      },
+      "speakingPrompt": "Introduce yourself: say hello, give your name (меня зовут …), and ask как дела?"
+    },
+    {
+      "day": 3,
+      "title": "Personal pronouns",
+      "isReview": false,
+      "vocab": [
+        { "russian": "я", "translit": "ya", "english": "I", "pos": "pronoun", "example": "Я дома.", "exampleEn": "I am at home." },
+        { "russian": "ты", "translit": "ty", "english": "you (informal)", "pos": "pronoun", "example": "Ты студент?", "exampleEn": "Are you a student?" },
+        { "russian": "он", "translit": "on", "english": "he", "pos": "pronoun", "example": "Он врач.", "exampleEn": "He is a doctor." },
+        { "russian": "она", "translit": "aná", "english": "she", "pos": "pronoun", "example": "Она дома.", "exampleEn": "She is at home." },
+        { "russian": "оно", "translit": "anó", "english": "it", "pos": "pronoun", "example": "Оно здесь.", "exampleEn": "It is here." },
+        { "russian": "мы", "translit": "my", "english": "we", "pos": "pronoun", "example": "Мы друзья.", "exampleEn": "We are friends." },
+        { "russian": "вы", "translit": "vy", "english": "you (formal/plural)", "pos": "pronoun", "example": "Вы студент?", "exampleEn": "Are you a student?" },
+        { "russian": "они", "translit": "aní", "english": "they", "pos": "pronoun", "example": "Они дома.", "exampleEn": "They are at home." }
+      ],
+      "grammar": {
+        "title": "Ты vs Вы",
+        "explanation": "Use **ты** with friends, family, and children. Use **вы** with strangers, older people, and in formal situations (it is also the plural *you*). Choosing the right one is an important politeness signal.",
+        "examples": [
+          { "russian": "Как тебя зовут?", "english": "What's your name? (informal)" },
+          { "russian": "Как вас зовут?", "english": "What's your name? (formal)" }
+        ]
+      },
+      "reading": {
+        "title": "Кто это?",
+        "text": "Это Иван. Он студент. Это Анна. Она врач. Они друзья.",
+        "translation": "This is Ivan. He is a student. This is Anna. She is a doctor. They are friends.",
+        "glossary": [
+          { "russian": "друзья", "english": "friends" },
+          { "russian": "врач", "english": "doctor" }
+        ]
+      },
+      "speakingPrompt": "Point at people and say он, она, они with a job or word you know (Он студент)."
+    },
+    {
+      "day": 4,
+      "title": "Everyday nouns & gender",
+      "isReview": false,
+      "vocab": [
+        { "russian": "дом", "translit": "dom", "english": "house", "pos": "noun", "example": "Это мой дом.", "exampleEn": "This is my house." },
+        { "russian": "книга", "translit": "kníga", "english": "book", "pos": "noun", "example": "Где книга?", "exampleEn": "Where is the book?" },
+        { "russian": "окно", "translit": "ahnó", "english": "window", "pos": "noun", "example": "Окно здесь.", "exampleEn": "The window is here." },
+        { "russian": "стол", "translit": "stol", "english": "table", "pos": "noun", "example": "Книга на столе.", "exampleEn": "The book is on the table." },
+        { "russian": "вода", "translit": "vadá", "english": "water", "pos": "noun", "example": "Вода, пожалуйста.", "exampleEn": "Water, please." },
+        { "russian": "молоко", "translit": "malakó", "english": "milk", "pos": "noun", "example": "Это молоко.", "exampleEn": "This is milk." },
+        { "russian": "друг", "translit": "drug", "english": "friend", "pos": "noun", "example": "Он мой друг.", "exampleEn": "He is my friend." },
+        { "russian": "мама", "translit": "máma", "english": "mom", "pos": "noun", "example": "Это моя мама.", "exampleEn": "This is my mom." }
+      ],
+      "grammar": {
+        "title": "Noun gender",
+        "explanation": "Every Russian noun has a gender you can usually guess from its ending: **consonant → masculine** (дом, стол), **-а / -я → feminine** (книга, мама), **-о / -е → neuter** (окно, молоко). Gender controls adjective and pronoun agreement later, so learn it with each word.",
+        "examples": [
+          { "russian": "дом (он)", "english": "house — masculine" },
+          { "russian": "книга (она)", "english": "book — feminine" },
+          { "russian": "окно (оно)", "english": "window — neuter" }
+        ]
+      },
+      "reading": {
+        "title": "Дома",
+        "text": "Это мой дом. Здесь стол и окно. На столе книга и вода.",
+        "translation": "This is my house. Here are a table and a window. On the table are a book and water.",
+        "glossary": [
+          { "russian": "здесь", "english": "here" },
+          { "russian": "на столе", "english": "on the table" }
+        ]
+      },
+      "speakingPrompt": "Name three objects around you in Russian and say whether each is он, она, or оно."
+    },
+    {
+      "day": 5,
+      "title": "Numbers 1–8",
+      "isReview": false,
+      "vocab": [
+        { "russian": "один", "translit": "adín", "english": "one", "pos": "number", "example": "Один дом.", "exampleEn": "One house." },
+        { "russian": "два", "translit": "dva", "english": "two", "pos": "number", "example": "Два друга.", "exampleEn": "Two friends." },
+        { "russian": "три", "translit": "tri", "english": "three", "pos": "number", "example": "Три книги.", "exampleEn": "Three books." },
+        { "russian": "четыре", "translit": "chetýre", "english": "four", "pos": "number", "example": "Четыре окна.", "exampleEn": "Four windows." },
+        { "russian": "пять", "translit": "pyat'", "english": "five", "pos": "number", "example": "Пять столов.", "exampleEn": "Five tables." },
+        { "russian": "шесть", "translit": "shest'", "english": "six", "pos": "number", "example": "Шесть домов.", "exampleEn": "Six houses." },
+        { "russian": "семь", "translit": "sem'", "english": "seven", "pos": "number", "example": "Семь дней.", "exampleEn": "Seven days." },
+        { "russian": "восемь", "translit": "vósem'", "english": "eight", "pos": "number", "example": "Восемь книг.", "exampleEn": "Eight books." }
+      ],
+      "grammar": {
+        "title": "Counting out loud",
+        "explanation": "For now, just learn the numbers as words: **один, два, три, четыре, пять, шесть, семь, восемь**. Russian changes the noun ending after numbers, but you'll meet that gradually — focus on recognising and saying the numbers first.",
+        "examples": [
+          { "russian": "один, два, три", "english": "one, two, three" },
+          { "russian": "Сколько? — Пять.", "english": "How many? — Five." }
+        ]
+      },
+      "reading": {
+        "title": "Считаем",
+        "text": "Один, два, три, четыре, пять. У меня пять книг.",
+        "translation": "One, two, three, four, five. I have five books.",
+        "glossary": [
+          { "russian": "у меня", "english": "I have" },
+          { "russian": "сколько", "english": "how many" }
+        ]
+      },
+      "speakingPrompt": "Count from one to eight out loud, then say how many windows are in the room."
+    },
+    {
+      "day": 6,
+      "title": "Question words",
+      "isReview": false,
+      "vocab": [
+        { "russian": "кто", "translit": "kto", "english": "who", "pos": "pronoun", "example": "Кто это?", "exampleEn": "Who is this?" },
+        { "russian": "что", "translit": "shto", "english": "what", "pos": "pronoun", "example": "Что это?", "exampleEn": "What is this?" },
+        { "russian": "где", "translit": "gde", "english": "where", "pos": "adverb", "example": "Где книга?", "exampleEn": "Where is the book?" },
+        { "russian": "как", "translit": "kak", "english": "how", "pos": "adverb", "example": "Как дела?", "exampleEn": "How are you?" },
+        { "russian": "когда", "translit": "kagdá", "english": "when", "pos": "adverb", "example": "Когда?", "exampleEn": "When?" },
+        { "russian": "почему", "translit": "pachemú", "english": "why", "pos": "adverb", "example": "Почему?", "exampleEn": "Why?" },
+        { "russian": "сколько", "translit": "skól'ka", "english": "how many", "pos": "adverb", "example": "Сколько книг?", "exampleEn": "How many books?" },
+        { "russian": "какой", "translit": "kakóy", "english": "which / what kind", "pos": "adjective", "example": "Какой дом?", "exampleEn": "Which house?" }
+      ],
+      "grammar": {
+        "title": "Question words go first",
+        "explanation": "Question words like **кто, что, где, как** normally come at the **start** of the question. The rest of the sentence keeps its simple order.",
+        "examples": [
+          { "russian": "Кто это?", "english": "Who is this?" },
+          { "russian": "Где мой дом?", "english": "Where is my house?" },
+          { "russian": "Что это?", "english": "What is this?" }
+        ]
+      },
+      "reading": {
+        "title": "Вопросы",
+        "text": "— Кто это? — Это Анна. — Что это? — Это книга. — Где книга? — На столе.",
+        "translation": "— Who is this? — This is Anna. — What is this? — This is a book. — Where is the book? — On the table.",
+        "glossary": [
+          { "russian": "на столе", "english": "on the table" }
+        ]
+      },
+      "speakingPrompt": "Ask three questions using кто, что, and где about things around you."
+    },
+    {
+      "day": 7,
+      "title": "Week 1 review",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "What you learned this week",
+        "explanation": "You can now **greet people**, introduce yourself, use polite words, the pronouns, basic nouns with gender, numbers 1–8, and question words. Today's quiz mixes everything — answer from memory and let the review system resurface the tricky ones.",
+        "examples": [
+          { "russian": "Здравствуйте, меня зовут …", "english": "Hello, my name is …" },
+          { "russian": "Кто это? Что это? Где это?", "english": "Who is this? What is this? Where is this?" }
+        ]
+      },
+      "reading": {
+        "title": "Маленький диалог",
+        "text": "— Доброе утро! Как дела? — Хорошо, спасибо! А вы? — Тоже хорошо. До свидания! — Пока!",
+        "translation": "— Good morning! How are you? — Good, thanks! And you? — Also good. Goodbye! — Bye!",
+        "glossary": [
+          { "russian": "тоже", "english": "also / too" },
+          { "russian": "а вы?", "english": "and you?" }
+        ]
+      },
+      "speakingPrompt": "Have a 4-line conversation: greet, ask how someone is, answer, and say goodbye."
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "week": 24,
+  "theme": "All cases review",
+  "days": [
+    {
+      "day": 1,
+      "title": "Nominative and Accusative: the subject and the direct object",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "вопрос",
+          "translit": "voprós",
+          "english": "question",
+          "pos": "noun",
+          "example": "Я знаю ответ на этот вопрос.",
+          "exampleEn": "I know the answer to this question."
+        },
+        {
+          "russian": "ответ",
+          "translit": "otvét",
+          "english": "answer",
+          "pos": "noun",
+          "example": "Это хороший ответ.",
+          "exampleEn": "This is a good answer."
+        },
+        {
+          "russian": "помнить",
+          "translit": "pómnit'",
+          "english": "to remember",
+          "pos": "verb",
+          "example": "Я помню твоё имя.",
+          "exampleEn": "I remember your name."
+        },
+        {
+          "russian": "забывать",
+          "translit": "zabyvát'",
+          "english": "to forget",
+          "pos": "verb",
+          "example": "Я часто забываю ключи.",
+          "exampleEn": "I often forget my keys."
+        },
+        {
+          "russian": "важный",
+          "translit": "vázhnyj",
+          "english": "important",
+          "pos": "adjective",
+          "example": "Это важный вопрос.",
+          "exampleEn": "This is an important question."
+        },
+        {
+          "russian": "правда",
+          "translit": "právda",
+          "english": "truth",
+          "pos": "noun",
+          "example": "Он говорит правду.",
+          "exampleEn": "He is telling the truth."
+        },
+        {
+          "russian": "слово",
+          "translit": "slóvo",
+          "english": "word",
+          "pos": "noun",
+          "example": "Я не знаю это слово.",
+          "exampleEn": "I don't know this word."
+        }
+      ],
+      "grammar": {
+        "title": "Nominative (who/what does) vs Accusative (what is done to)",
+        "explanation": "The **nominative** marks the subject — the doer of the action. It is the dictionary form: *он, она, стол, книга*. The **accusative** marks the direct object — the thing the action lands on.\n\nKey endings for the accusative:\n- **Masculine inanimate** and **neuter** nouns look the **same as the nominative**: *Я читаю журнал.*\n- **Feminine** nouns in **-а/-я** change to **-у/-ю**: *книга → книгу*, *Я читаю книгу.*\n- **Masculine animate** nouns take a genitive-like ending (*брат → брата*), covered in the next lesson.\n\nAsk **\"кого? что?\"** (whom? what?) to find the accusative.",
+        "examples": [
+          {
+            "russian": "Студент знает ответ.",
+            "english": "The student knows the answer."
+          },
+          {
+            "russian": "Я помню эту правду.",
+            "english": "I remember this truth."
+          },
+          {
+            "russian": "Она забывает важное слово.",
+            "english": "She forgets the important word."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Трудный вопрос",
+        "text": "— Ты помнишь это слово? — Нет, я забываю. — Это важный вопрос, но я знаю ответ.",
+        "translation": "\"Do you remember this word?\" \"No, I forget.\" \"It's an important question, but I know the answer.\"",
+        "glossary": [
+          {
+            "russian": "трудный",
+            "english": "difficult"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          }
+        ]
+      },
+      "speakingPrompt": "Say three sentences: name something you remember (помню) and something you forget (забываю). Use a feminine noun in the accusative (-у), e.g. \"Я помню правду.\""
+    },
+    {
+      "day": 2,
+      "title": "Accusative with animate nouns and motion (куда?)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "приглашать",
+          "translit": "priglashát'",
+          "english": "to invite",
+          "pos": "verb",
+          "example": "Я приглашаю друга в гости.",
+          "exampleEn": "I am inviting a friend over."
+        },
+        {
+          "russian": "встречать",
+          "translit": "vstrechát'",
+          "english": "to meet",
+          "pos": "verb",
+          "example": "Я встречаю сестру на вокзале.",
+          "exampleEn": "I meet my sister at the station."
+        },
+        {
+          "russian": "сосед",
+          "translit": "soséd",
+          "english": "neighbour",
+          "pos": "noun",
+          "example": "Мой сосед очень добрый.",
+          "exampleEn": "My neighbour is very kind."
+        },
+        {
+          "russian": "врач",
+          "translit": "vrach",
+          "english": "doctor",
+          "pos": "noun",
+          "example": "Я знаю этого врача.",
+          "exampleEn": "I know this doctor."
+        },
+        {
+          "russian": "город",
+          "translit": "górod",
+          "english": "city",
+          "pos": "noun",
+          "example": "Я еду в город.",
+          "exampleEn": "I am going to the city."
+        },
+        {
+          "russian": "ждать",
+          "translit": "zhdat'",
+          "english": "to wait (for)",
+          "pos": "verb",
+          "example": "Я жду маму.",
+          "exampleEn": "I am waiting for mum."
+        },
+        {
+          "russian": "уже",
+          "translit": "uzhé",
+          "english": "already",
+          "pos": "adverb",
+          "example": "Я уже знаю ответ.",
+          "exampleEn": "I already know the answer."
+        }
+      ],
+      "grammar": {
+        "title": "Animate accusative and \"в/на + accusative\" for direction",
+        "explanation": "**Animate** masculine nouns (people, animals) take a **genitive-style ending** in the accusative:\n- *брат → брата*, *врач → врача*, *сосед → соседа* (add **-а/-я**).\n- Feminine animate nouns follow the regular feminine rule: *сестра → сестру*, *мама → маму*.\n\nWith verbs of motion, **в** or **на + accusative** answers **\"куда?\"** (to where):\n- *Я еду **в город**.* (city stays the same — inanimate masculine)\n- *Мы идём **на работу**.* (work → -у)\n\nVerbs like *ждать, встречать, приглашать* take the accusative object.",
+        "examples": [
+          {
+            "russian": "Я встречаю врача.",
+            "english": "I am meeting the doctor."
+          },
+          {
+            "russian": "Мы приглашаем соседа.",
+            "english": "We are inviting the neighbour."
+          },
+          {
+            "russian": "Она едет в город.",
+            "english": "She is going to the city."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На вокзале",
+        "text": "— Кого ты ждёшь? — Я жду сестру. — А я уже встречаю соседа.",
+        "translation": "\"Who are you waiting for?\" \"I'm waiting for my sister.\" \"And I'm already meeting the neighbour.\"",
+        "glossary": [
+          {
+            "russian": "кого",
+            "english": "whom"
+          },
+          {
+            "russian": "вокзал",
+            "english": "(train) station"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe who you are meeting and inviting today. Use one animate masculine noun in the accusative (e.g. врача, соседа) and say where you are going with \"в/на + accusative\"."
+    },
+    {
+      "day": 3,
+      "title": "Genitive: possession, absence, and \"of\"",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop, store",
+          "pos": "noun",
+          "example": "Около магазина стоит машина.",
+          "exampleEn": "A car is standing near the shop."
+        },
+        {
+          "russian": "деньги",
+          "translit": "dén'gi",
+          "english": "money",
+          "pos": "noun",
+          "example": "У меня нет денег.",
+          "exampleEn": "I have no money."
+        },
+        {
+          "russian": "время",
+          "translit": "vrémya",
+          "english": "time",
+          "pos": "noun",
+          "example": "У меня мало времени.",
+          "exampleEn": "I have little time."
+        },
+        {
+          "russian": "около",
+          "translit": "ókolo",
+          "english": "near, by",
+          "pos": "preposition",
+          "example": "Я живу около парка.",
+          "exampleEn": "I live near the park."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "many, a lot",
+          "pos": "adverb",
+          "example": "Здесь много людей.",
+          "exampleEn": "There are many people here."
+        },
+        {
+          "russian": "без",
+          "translit": "bez",
+          "english": "without",
+          "pos": "preposition",
+          "example": "Я пью чай без сахара.",
+          "exampleEn": "I drink tea without sugar."
+        },
+        {
+          "russian": "сахар",
+          "translit": "sákhar",
+          "english": "sugar",
+          "pos": "noun",
+          "example": "Дай мне сахар, пожалуйста.",
+          "exampleEn": "Give me the sugar, please."
+        }
+      ],
+      "grammar": {
+        "title": "Genitive: \"of\", possession, and \"нет\"",
+        "explanation": "The **genitive** shows possession (\"of\"), absence, and follows quantity words and certain prepositions.\n\nEndings:\n- **Masculine/neuter**: add **-а/-я** (*магазин → магазина*, *окно → окна*).\n- **Feminine -а/-я**: change to **-ы/-и** (*сестра → сестры*, *неделя → недели*).\n\nMain uses:\n- **Possession / \"of\"**: *книга **брата*** (the brother's book).\n- **After \"у меня нет...\"** (I don't have): *У меня нет **времени**.*\n- **After quantity**: *много **денег***, *мало **времени***.\n- **After prepositions** *около, без, у*: *без **сахара***, *около **магазина***.",
+        "examples": [
+          {
+            "russian": "У меня нет времени.",
+            "english": "I have no time."
+          },
+          {
+            "russian": "Здесь много магазинов.",
+            "english": "There are many shops here."
+          },
+          {
+            "russian": "Я живу около города.",
+            "english": "I live near the city."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Без денег",
+        "text": "Около магазина стоит мама. У неё нет денег и нет времени. «Сегодня без чая», — говорит она.",
+        "translation": "Mum is standing near the shop. She has no money and no time. \"No tea today,\" she says.",
+        "glossary": [
+          {
+            "russian": "у неё",
+            "english": "she has"
+          },
+          {
+            "russian": "сегодня",
+            "english": "today"
+          }
+        ]
+      },
+      "speakingPrompt": "Say two things you don't have using \"У меня нет + genitive\" (e.g. У меня нет времени). Then say what is near your home with \"около + genitive\"."
+    },
+    {
+      "day": 4,
+      "title": "Dative: the recipient and \"to me\"",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "помогать",
+          "translit": "pomogát'",
+          "english": "to help",
+          "pos": "verb",
+          "example": "Я помогаю маме.",
+          "exampleEn": "I help mum."
+        },
+        {
+          "russian": "звонить",
+          "translit": "zvonít'",
+          "english": "to call (phone)",
+          "pos": "verb",
+          "example": "Я звоню другу каждый день.",
+          "exampleEn": "I call my friend every day."
+        },
+        {
+          "russian": "дарить",
+          "translit": "darít'",
+          "english": "to give (as a gift)",
+          "pos": "verb",
+          "example": "Я дарю сестре цветы.",
+          "exampleEn": "I give my sister flowers."
+        },
+        {
+          "russian": "подарок",
+          "translit": "podárok",
+          "english": "gift, present",
+          "pos": "noun",
+          "example": "Это подарок для тебя.",
+          "exampleEn": "This is a present for you."
+        },
+        {
+          "russian": "нравиться",
+          "translit": "nrávit'sya",
+          "english": "to be pleasing (to like)",
+          "pos": "verb",
+          "example": "Мне нравится этот город.",
+          "exampleEn": "I like this city."
+        },
+        {
+          "russian": "холодно",
+          "translit": "khólodno",
+          "english": "(it is) cold",
+          "pos": "adverb",
+          "example": "Мне холодно.",
+          "exampleEn": "I am cold."
+        },
+        {
+          "russian": "интересно",
+          "translit": "interésno",
+          "english": "(it is) interesting",
+          "pos": "adverb",
+          "example": "Мне интересно.",
+          "exampleEn": "I find it interesting."
+        }
+      ],
+      "grammar": {
+        "title": "Dative: to whom? and impersonal feelings",
+        "explanation": "The **dative** marks the **recipient** — the person *to whom* something is given, said, or done. Ask **\"кому?\"** (to whom?).\n\nEndings:\n- **Masculine/neuter**: add **-у/-ю** (*брат → брату*, *друг → другу*).\n- **Feminine -а/-я**: change to **-е** (*сестра → сестре*, *мама → маме*).\n- Pronouns: *мне* (to me), *тебе* (to you), *ему/ей* (to him/her), *нам/вам/им*.\n\nUses:\n- Verbs *помогать, звонить, дарить, нравиться* take the dative: *Я звоню **другу***.\n- **Impersonal feelings**: the person is in the dative — *Мне холодно* (I'm cold), *Ему интересно* (he finds it interesting).\n- With **нравиться**, what you like is the subject: *Мне нравится **город*** (lit. the city is pleasing to me).",
+        "examples": [
+          {
+            "russian": "Я помогаю сестре.",
+            "english": "I help my sister."
+          },
+          {
+            "russian": "Мне нравится этот подарок.",
+            "english": "I like this gift."
+          },
+          {
+            "russian": "Ей холодно сегодня.",
+            "english": "She is cold today."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Подарок",
+        "text": "Я дарю маме подарок. Ей нравится этот подарок. «Спасибо», — говорит мама.",
+        "translation": "I give mum a present. She likes this present. \"Thank you,\" mum says.",
+        "glossary": [
+          {
+            "russian": "спасибо",
+            "english": "thank you"
+          }
+        ]
+      },
+      "speakingPrompt": "Say who you help and who you call using the dative (помогаю + кому, звоню + кому). Then say one thing you like with \"Мне нравится + nominative\"."
+    },
+    {
+      "day": 5,
+      "title": "Instrumental: \"with\" and \"by means of\"",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "интересоваться",
+          "translit": "interesovát'sya",
+          "english": "to be interested (in)",
+          "pos": "verb",
+          "example": "Я интересуюсь музыкой.",
+          "exampleEn": "I am interested in music."
+        },
+        {
+          "russian": "заниматься",
+          "translit": "zanimát'sya",
+          "english": "to study, to do (an activity)",
+          "pos": "verb",
+          "example": "Я занимаюсь спортом.",
+          "exampleEn": "I do sports."
+        },
+        {
+          "russian": "вместе",
+          "translit": "vméste",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Мы работаем вместе.",
+          "exampleEn": "We work together."
+        },
+        {
+          "russian": "автобус",
+          "translit": "avtóbus",
+          "english": "bus",
+          "pos": "noun",
+          "example": "Я еду автобусом на работу.",
+          "exampleEn": "I go to work by bus."
+        },
+        {
+          "russian": "молоко",
+          "translit": "molokó",
+          "english": "milk",
+          "pos": "noun",
+          "example": "Я пью чай с молоком.",
+          "exampleEn": "I drink tea with milk."
+        },
+        {
+          "russian": "спорт",
+          "translit": "sport",
+          "english": "sport",
+          "pos": "noun",
+          "example": "Спорт — это важно.",
+          "exampleEn": "Sport is important."
+        },
+        {
+          "russian": "музыка",
+          "translit": "múzyka",
+          "english": "music",
+          "pos": "noun",
+          "example": "Я люблю музыку.",
+          "exampleEn": "I love music."
+        }
+      ],
+      "grammar": {
+        "title": "Instrumental: \"с + кем/чем\" and means",
+        "explanation": "The **instrumental** answers **\"кем? чем?\"** (with whom? with what?). It shows accompaniment, means, and follows certain verbs.\n\nEndings:\n- **Masculine/neuter**: add **-ом/-ем** (*брат → братом*, *молоко → молоком*).\n- **Feminine -а/-я**: change to **-ой/-ей** (*сестра → сестрой*, *музыка → музыкой*).\n\nUses:\n- **\"с\" (with) + instrumental** for company: *чай **с молоком***, *Я иду **с другом***.\n- **Means / transport without preposition**: *Я еду **автобусом*** (by bus).\n- Verbs *интересоваться, заниматься* take instrumental: *Я занимаюсь **спортом***, *Я интересуюсь **музыкой***.",
+        "examples": [
+          {
+            "russian": "Я пью чай с молоком.",
+            "english": "I drink tea with milk."
+          },
+          {
+            "russian": "Мы занимаемся спортом вместе.",
+            "english": "We do sports together."
+          },
+          {
+            "russian": "Она интересуется музыкой.",
+            "english": "She is interested in music."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вместе",
+        "text": "— Чем ты занимаешься? — Я занимаюсь спортом. — А я интересуюсь музыкой. Давай работать вместе!",
+        "translation": "\"What do you do?\" \"I do sports.\" \"And I'm interested in music. Let's work together!\"",
+        "glossary": [
+          {
+            "russian": "чем",
+            "english": "with what"
+          },
+          {
+            "russian": "давай",
+            "english": "let's"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you are interested in and what activity you do, using the instrumental (интересуюсь + чем, занимаюсь + чем). Then say what you drink your tea/coffee with using \"с + instrumental\"."
+    },
+    {
+      "day": 6,
+      "title": "Prepositional: location and topic (о/в/на)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "думать",
+          "translit": "dúmat'",
+          "english": "to think (about)",
+          "pos": "verb",
+          "example": "Я думаю о работе.",
+          "exampleEn": "I am thinking about work."
+        },
+        {
+          "russian": "рассказывать",
+          "translit": "rasskázyvat'",
+          "english": "to tell, to narrate",
+          "pos": "verb",
+          "example": "Он рассказывает о городе.",
+          "exampleEn": "He tells about the city."
+        },
+        {
+          "russian": "квартира",
+          "translit": "kvartíra",
+          "english": "apartment, flat",
+          "pos": "noun",
+          "example": "Я живу в квартире.",
+          "exampleEn": "I live in an apartment."
+        },
+        {
+          "russian": "природа",
+          "translit": "priróda",
+          "english": "nature",
+          "pos": "noun",
+          "example": "Мы говорим о природе.",
+          "exampleEn": "We are talking about nature."
+        },
+        {
+          "russian": "погода",
+          "translit": "pogóda",
+          "english": "weather",
+          "pos": "noun",
+          "example": "Мы говорим о погоде.",
+          "exampleEn": "We are talking about the weather."
+        },
+        {
+          "russian": "будущее",
+          "translit": "búdushcheye",
+          "english": "future",
+          "pos": "noun",
+          "example": "Я думаю о будущем.",
+          "exampleEn": "I am thinking about the future."
+        },
+        {
+          "russian": "часто",
+          "translit": "chásto",
+          "english": "often",
+          "pos": "adverb",
+          "example": "Я часто думаю о маме.",
+          "exampleEn": "I often think about mum."
+        }
+      ],
+      "grammar": {
+        "title": "Prepositional: \"в/на\" (где?) and \"о\" (about)",
+        "explanation": "The **prepositional** case is used **only after prepositions**. It answers **\"где?\"** (where) and **\"о ком/о чём?\"** (about whom/what).\n\nEndings (very regular): most nouns add **-е**:\n- *город → в городе*, *работа → на работе*, *квартира → в квартире*, *погода → о погоде*.\n- Use **о** = about; before a vowel use **об** (*об отце*).\n\nUses:\n- **Location** with *в/на*: *Я живу **в квартире***, *Я работаю **на заводе***. (This answers \"где?\", unlike the accusative \"куда?\" from Day 2.)\n- **Topic** with *о*: *Я думаю **о работе***, *Он рассказывает **о городе***.",
+        "examples": [
+          {
+            "russian": "Я думаю о будущем.",
+            "english": "I think about the future."
+          },
+          {
+            "russian": "Мы говорим о погоде.",
+            "english": "We are talking about the weather."
+          },
+          {
+            "russian": "Она живёт в квартире.",
+            "english": "She lives in an apartment."
+          }
+        ]
+      },
+      "reading": {
+        "title": "О погоде",
+        "text": "Мы сидим в квартире и говорим о погоде. Я часто думаю о природе и о будущем.",
+        "translation": "We are sitting in the apartment and talking about the weather. I often think about nature and about the future.",
+        "glossary": [
+          {
+            "russian": "сидим",
+            "english": "we are sitting"
+          },
+          {
+            "russian": "говорим",
+            "english": "we are talking"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you live and where you work using \"в/на + prepositional\" (answering где?). Then say two things you often think about using \"Я часто думаю о + prepositional\"."
+    },
+    {
+      "day": 7,
+      "title": "Week 24 review: all six cases together",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "The six cases at a glance",
+        "explanation": "A quick recap of when to use each case this week:\n- **Nominative** (кто? что?): the **subject** — *Студент знает ответ.*\n- **Accusative** (кого? что? / куда?): the **direct object** and direction — *Я жду сестру*; *Я еду в город.*\n- **Genitive** (кого? чего?): \"of\", **absence** (нет), quantity, *около/без* — *У меня нет времени.*\n- **Dative** (кому? чему?): the **recipient**, *нравиться*, feelings — *Мне холодно*; *Я звоню другу.*\n- **Instrumental** (кем? чем?): **\"с\" (with)**, means, *заниматься/интересоваться* — *чай с молоком*; *Я занимаюсь спортом.*\n- **Prepositional** (о ком/чём? где?): only after prepositions, **location** and **topic** — *Я живу в квартире*; *Я думаю о будущем.*",
+        "examples": [
+          {
+            "russian": "Друг звонит сестре и рассказывает о городе.",
+            "english": "A friend calls his sister and tells about the city."
+          },
+          {
+            "russian": "У меня нет времени, но мне нравится этот подарок.",
+            "english": "I have no time, but I like this gift."
+          },
+          {
+            "russian": "Мы едем автобусом в город и думаем о погоде.",
+            "english": "We are going to the city by bus and thinking about the weather."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Письмо другу",
+        "text": "— Привет! Ты помнишь нашего соседа? Он часто звонит мне и рассказывает о работе. У него нет времени, но он любит спорт. Мы вместе едем в город автобусом. Я думаю, это будет интересно!",
+        "translation": "\"Hi! Do you remember our neighbour? He often calls me and tells about work. He has no time, but he loves sport. We are going to the city together by bus. I think it will be interesting!\"",
+        "glossary": [
+          {
+            "russian": "нашего",
+            "english": "our (accusative)"
+          },
+          {
+            "russian": "у него",
+            "english": "he has"
+          },
+          {
+            "russian": "будет",
+            "english": "it will be"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a short story (4–6 sentences) about your day using at least four different cases. For example: who you meet (accusative), who you help (dative), what you do (instrumental), and where you live or what you think about (prepositional)."
+    }
+  ]
+}

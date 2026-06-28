@@ -1,0 +1,62 @@
+name: Rus
+options:
+  bundleIdPrefix: vin.plug
+  deploymentTarget:
+    iOS: "17.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    SWIFT_VERSION: "5.0"
+    DEVELOPMENT_TEAM: ""
+    CODE_SIGN_STYLE: Automatic
+    GENERATE_INFOPLIST_FILE: YES
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+targets:
+  Rus:
+    type: application
+    platform: iOS
+    sources:
+      - path: Rus
+        excludes:
+          - "Resources/Curriculum"
+      - path: Rus/Resources/Curriculum
+        type: folder
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: vin.plug.Rus
+        SUPPORTS_MACCATALYST: YES
+        DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER: NO
+        SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: NO
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
+        INFOPLIST_KEY_NSSpeechRecognitionUsageDescription: "Used to score your spoken Russian pronunciation."
+        INFOPLIST_KEY_NSMicrophoneUsageDescription: "Used to listen to your pronunciation during speaking practice."
+        INFOPLIST_KEY_UIBackgroundModes: "[fetch, processing]"
+    info:
+      path: Rus/Info.plist
+      properties:
+        BGTaskSchedulerPermittedIdentifiers:
+          - vin.plug.Rus.refresh
+  RusTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: RusTests
+    dependencies:
+      - target: Rus
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: vin.plug.RusTests
+        GENERATE_INFOPLIST_FILE: YES
+schemes:
+  Rus:
+    build:
+      targets:
+        Rus: all
+        RusTests: [test]
+    test:
+      targets:
+        - RusTests

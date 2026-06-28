@@ -1,0 +1,624 @@
+{
+  "week": 18,
+  "theme": "Likes & feelings",
+  "days": [
+    {
+      "day": 1,
+      "title": "Day 1: Я люблю — saying what I love",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "любить",
+          "translit": "lyubít'",
+          "english": "to love / to like (a lot)",
+          "pos": "verb",
+          "example": "Я люблю кофе.",
+          "exampleEn": "I love coffee."
+        },
+        {
+          "russian": "чувство",
+          "translit": "chúvstvo",
+          "english": "feeling",
+          "pos": "noun",
+          "example": "Это хорошее чувство.",
+          "exampleEn": "This is a good feeling."
+        },
+        {
+          "russian": "радость",
+          "translit": "rádost'",
+          "english": "joy",
+          "pos": "noun",
+          "example": "Какая радость!",
+          "exampleEn": "What joy!"
+        },
+        {
+          "russian": "счастливый",
+          "translit": "schaslívyy",
+          "english": "happy",
+          "pos": "adjective",
+          "example": "Я очень счастливый.",
+          "exampleEn": "I am very happy."
+        },
+        {
+          "russian": "грустный",
+          "translit": "grúsnyy",
+          "english": "sad",
+          "pos": "adjective",
+          "example": "Почему ты грустный?",
+          "exampleEn": "Why are you sad?"
+        },
+        {
+          "russian": "очень",
+          "translit": "óchen'",
+          "english": "very",
+          "pos": "adverb",
+          "example": "Я очень люблю музыку.",
+          "exampleEn": "I love music very much."
+        },
+        {
+          "russian": "музыка",
+          "translit": "múzyka",
+          "english": "music",
+          "pos": "noun",
+          "example": "Это хорошая музыка.",
+          "exampleEn": "This is good music."
+        }
+      ],
+      "grammar": {
+        "title": "The verb любить (to love / to like a lot)",
+        "explanation": "**любить** means *to love* or *to like a lot*. The thing you love goes after it in the **accusative case** (which you already know). The verb is irregular in the **я** form: note the extra **л**.\n\n- я **люблю** (I love)\n- ты **любишь** (you love)\n- он/она **любит** (he/she loves)\n\nUse **очень** (very) before the verb to make it stronger: *Я очень люблю...*",
+        "examples": [
+          {
+            "russian": "Я люблю чай.",
+            "english": "I love tea."
+          },
+          {
+            "russian": "Ты любишь музыку?",
+            "english": "Do you like music?"
+          },
+          {
+            "russian": "Он очень любит спорт.",
+            "english": "He loves sport very much."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Я люблю",
+        "text": "— Ты любишь музыку?\n— Да, я очень люблю музыку. Это радость!",
+        "translation": "— Do you like music?\n— Yes, I love music very much. It's a joy!",
+        "glossary": [
+          {
+            "russian": "любишь",
+            "english": "you love/like"
+          },
+          {
+            "russian": "радость",
+            "english": "joy"
+          }
+        ]
+      },
+      "speakingPrompt": "Say three things you love using «Я люблю...» — for example coffee, music, and sport. Add «очень» to one of them."
+    },
+    {
+      "day": 2,
+      "title": "Day 2: Мне нравится — the dative pronoun мне",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "нравиться",
+          "translit": "nrávit'sya",
+          "english": "to like (to be pleasing)",
+          "pos": "verb",
+          "example": "Мне нравится этот город.",
+          "exampleEn": "I like this city."
+        },
+        {
+          "russian": "мне",
+          "translit": "mne",
+          "english": "to me (dative)",
+          "pos": "pronoun",
+          "example": "Мне нравится кофе.",
+          "exampleEn": "I like coffee."
+        },
+        {
+          "russian": "фильм",
+          "translit": "fil'm",
+          "english": "film / movie",
+          "pos": "noun",
+          "example": "Мне нравится этот фильм.",
+          "exampleEn": "I like this film."
+        },
+        {
+          "russian": "книга",
+          "translit": "kníga",
+          "english": "book",
+          "pos": "noun",
+          "example": "Мне нравится эта книга.",
+          "exampleEn": "I like this book."
+        },
+        {
+          "russian": "город",
+          "translit": "górod",
+          "english": "city",
+          "pos": "noun",
+          "example": "Мне нравится наш город.",
+          "exampleEn": "I like our city."
+        },
+        {
+          "russian": "погода",
+          "translit": "pogóda",
+          "english": "weather",
+          "pos": "noun",
+          "example": "Сегодня погода хорошая.",
+          "exampleEn": "The weather is good today."
+        },
+        {
+          "russian": "интересный",
+          "translit": "interésnyy",
+          "english": "interesting",
+          "pos": "adjective",
+          "example": "Это интересный фильм.",
+          "exampleEn": "This is an interesting film."
+        }
+      ],
+      "grammar": {
+        "title": "Introducing нравиться with мне",
+        "explanation": "**нравиться** also means *to like*, but it works differently from English. Literally it means *to be pleasing to (someone)*. The person who likes goes in the **dative case**, and the thing liked is the **subject**.\n\n- **Мне** нравится... = *To me is pleasing...* = I like...\n\nThe verb agrees with the **thing**, not the person:\n- one thing → **нравится**\n- (you'll learn the plural form on Day 4)\n\nSo **мне** is the dative form of *я* (I).",
+        "examples": [
+          {
+            "russian": "Мне нравится этот город.",
+            "english": "I like this city."
+          },
+          {
+            "russian": "Мне нравится книга.",
+            "english": "I like the book."
+          },
+          {
+            "russian": "Мне нравится погода.",
+            "english": "I like the weather."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Хороший фильм",
+        "text": "Мне нравится этот фильм. Он очень интересный. И мне нравится музыка.",
+        "translation": "I like this film. It is very interesting. And I like the music.",
+        "glossary": [
+          {
+            "russian": "нравится",
+            "english": "is pleasing / (I) like"
+          },
+          {
+            "russian": "интересный",
+            "english": "interesting"
+          }
+        ]
+      },
+      "speakingPrompt": "Use «Мне нравится...» to name a film, a book, and the weather you like today. Add «очень интересный» to describe one of them."
+    },
+    {
+      "day": 3,
+      "title": "Day 3: Тебе нравится? — asking with тебе",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "тебе",
+          "translit": "tebé",
+          "english": "to you (dative, informal)",
+          "pos": "pronoun",
+          "example": "Тебе нравится чай?",
+          "exampleEn": "Do you like tea?"
+        },
+        {
+          "russian": "нет",
+          "translit": "net",
+          "english": "no / not",
+          "pos": "particle",
+          "example": "Нет, мне не нравится.",
+          "exampleEn": "No, I don't like it."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also / too",
+          "pos": "adverb",
+          "example": "Мне тоже нравится.",
+          "exampleEn": "I like it too."
+        },
+        {
+          "russian": "вкусный",
+          "translit": "vkúsnyy",
+          "english": "tasty",
+          "pos": "adjective",
+          "example": "Это вкусный суп.",
+          "exampleEn": "This is tasty soup."
+        },
+        {
+          "russian": "чай",
+          "translit": "chay",
+          "english": "tea",
+          "pos": "noun",
+          "example": "Тебе нравится чай?",
+          "exampleEn": "Do you like tea?"
+        },
+        {
+          "russian": "спорт",
+          "translit": "sport",
+          "english": "sport",
+          "pos": "noun",
+          "example": "Мне нравится спорт.",
+          "exampleEn": "I like sport."
+        },
+        {
+          "russian": "почему",
+          "translit": "pochemú",
+          "english": "why",
+          "pos": "adverb",
+          "example": "Почему тебе не нравится?",
+          "exampleEn": "Why don't you like it?"
+        }
+      ],
+      "grammar": {
+        "title": "Asking questions with тебе нравится?",
+        "explanation": "**тебе** is the dative form of *ты* (you, informal). Use it to ask what someone likes:\n\n- **Тебе** нравится...? = Do you like...?\n\nTo answer **no**, put **не** before the verb:\n- Нет, **мне не нравится**. = No, I don't like it.\n\nTo agree (\"me too\"), use **тоже**:\n- **Мне тоже** нравится. = I like it too.",
+        "examples": [
+          {
+            "russian": "Тебе нравится чай?",
+            "english": "Do you like tea?"
+          },
+          {
+            "russian": "Нет, мне не нравится.",
+            "english": "No, I don't like it."
+          },
+          {
+            "russian": "Мне тоже нравится спорт.",
+            "english": "I like sport too."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Тебе нравится?",
+        "text": "— Тебе нравится чай?\n— Нет, мне не нравится чай. А кофе мне нравится.\n— Мне тоже!",
+        "translation": "— Do you like tea?\n— No, I don't like tea. But I like coffee.\n— Me too!",
+        "glossary": [
+          {
+            "russian": "тебе",
+            "english": "to you"
+          },
+          {
+            "russian": "тоже",
+            "english": "too / also"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine asking a friend «Тебе нравится...?» about tea, sport, and a film. Give one «нет, мне не нравится» answer and one «мне тоже» answer."
+    },
+    {
+      "day": 4,
+      "title": "Day 4: Plural likes — нравятся",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "нравятся",
+          "translit": "nrávyatsya",
+          "english": "like (plural things)",
+          "pos": "verb",
+          "example": "Мне нравятся эти книги.",
+          "exampleEn": "I like these books."
+        },
+        {
+          "russian": "цветы",
+          "translit": "tsvetý",
+          "english": "flowers",
+          "pos": "noun",
+          "example": "Мне нравятся эти цветы.",
+          "exampleEn": "I like these flowers."
+        },
+        {
+          "russian": "собака",
+          "translit": "sobáka",
+          "english": "dog",
+          "pos": "noun",
+          "example": "Мне нравится эта собака.",
+          "exampleEn": "I like this dog."
+        },
+        {
+          "russian": "кошка",
+          "translit": "kóshka",
+          "english": "cat",
+          "pos": "noun",
+          "example": "Тебе нравятся кошки?",
+          "exampleEn": "Do you like cats?"
+        },
+        {
+          "russian": "люди",
+          "translit": "lyúdi",
+          "english": "people",
+          "pos": "noun",
+          "example": "Мне нравятся эти люди.",
+          "exampleEn": "I like these people."
+        },
+        {
+          "russian": "красивый",
+          "translit": "krasívyy",
+          "english": "beautiful",
+          "pos": "adjective",
+          "example": "Это красивые цветы.",
+          "exampleEn": "These are beautiful flowers."
+        },
+        {
+          "russian": "эти",
+          "translit": "éti",
+          "english": "these",
+          "pos": "pronoun",
+          "example": "Мне нравятся эти песни.",
+          "exampleEn": "I like these songs."
+        }
+      ],
+      "grammar": {
+        "title": "нравится vs. нравятся (one thing or many)",
+        "explanation": "Remember: with **нравиться** the verb agrees with the **thing** liked, not the person.\n\n- One thing → **нравится**: Мне **нравится** книга.\n- Many things → **нравятся**: Мне **нравятся** книги.\n\nThe person stays in the dative either way (**мне**, **тебе**). Only the verb ending changes from **-ится** to **-ятся**.\n\nUse **эти** (these) with plural nouns.",
+        "examples": [
+          {
+            "russian": "Мне нравятся цветы.",
+            "english": "I like flowers."
+          },
+          {
+            "russian": "Тебе нравятся кошки?",
+            "english": "Do you like cats?"
+          },
+          {
+            "russian": "Мне нравятся эти красивые цветы.",
+            "english": "I like these beautiful flowers."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Красивые цветы",
+        "text": "Мне нравятся эти цветы. Они очень красивые. А тебе нравятся собаки или кошки?",
+        "translation": "I like these flowers. They are very beautiful. And do you like dogs or cats?",
+        "glossary": [
+          {
+            "russian": "нравятся",
+            "english": "(I/you) like (plural)"
+          },
+          {
+            "russian": "красивые",
+            "english": "beautiful (plural)"
+          }
+        ]
+      },
+      "speakingPrompt": "Name two plural things you like with «Мне нравятся...» (e.g. flowers, cats) and one single thing with «Мне нравится...». Describe one with «красивый»."
+    },
+    {
+      "day": 5,
+      "title": "Day 5: Ему и ей — what he and she like",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ему",
+          "translit": "yemú",
+          "english": "to him (dative)",
+          "pos": "pronoun",
+          "example": "Ему нравится спорт.",
+          "exampleEn": "He likes sport."
+        },
+        {
+          "russian": "ей",
+          "translit": "yey",
+          "english": "to her (dative)",
+          "pos": "pronoun",
+          "example": "Ей нравится музыка.",
+          "exampleEn": "She likes music."
+        },
+        {
+          "russian": "брат",
+          "translit": "brat",
+          "english": "brother",
+          "pos": "noun",
+          "example": "Это мой брат.",
+          "exampleEn": "This is my brother."
+        },
+        {
+          "russian": "сестра",
+          "translit": "sestrá",
+          "english": "sister",
+          "pos": "noun",
+          "example": "Это моя сестра.",
+          "exampleEn": "This is my sister."
+        },
+        {
+          "russian": "друг",
+          "translit": "drug",
+          "english": "friend (male)",
+          "pos": "noun",
+          "example": "Мой друг любит спорт.",
+          "exampleEn": "My friend loves sport."
+        },
+        {
+          "russian": "подарок",
+          "translit": "podárok",
+          "english": "gift / present",
+          "pos": "noun",
+          "example": "Это хороший подарок.",
+          "exampleEn": "This is a good gift."
+        },
+        {
+          "russian": "нравиться",
+          "translit": "nrávit'sya",
+          "english": "to like (to be pleasing)",
+          "pos": "verb",
+          "example": "Ей нравится этот подарок.",
+          "exampleEn": "She likes this gift."
+        }
+      ],
+      "grammar": {
+        "title": "Dative for he and she: ему and ей",
+        "explanation": "Now we add the dative forms for *he* and *she*:\n\n- он (he) → **ему** (to him)\n- она (she) → **ей** (to her)\n\nUse them just like **мне** and **тебе** with нравиться:\n- **Ему** нравится спорт. = He likes sport.\n- **Ей** нравятся цветы. = She likes flowers.\n\nThe full set so far: **мне, тебе, ему, ей**.",
+        "examples": [
+          {
+            "russian": "Ему нравится музыка.",
+            "english": "He likes music."
+          },
+          {
+            "russian": "Ей нравится этот подарок.",
+            "english": "She likes this gift."
+          },
+          {
+            "russian": "Ему нравятся собаки.",
+            "english": "He likes dogs."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Брат и сестра",
+        "text": "Это мой брат. Ему нравится спорт. А это моя сестра. Ей нравятся цветы и музыка.",
+        "translation": "This is my brother. He likes sport. And this is my sister. She likes flowers and music.",
+        "glossary": [
+          {
+            "russian": "ему",
+            "english": "to him"
+          },
+          {
+            "russian": "ей",
+            "english": "to her"
+          }
+        ]
+      },
+      "speakingPrompt": "Talk about a brother or friend (он) and a sister (она). Say «Ему нравится...» and «Ей нравится...» for what each one likes."
+    },
+    {
+      "day": 6,
+      "title": "Day 6: Giving gifts — the dative as indirect object",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "дарить",
+          "translit": "darít'",
+          "english": "to give (a gift)",
+          "pos": "verb",
+          "example": "Я дарю подарок сестре.",
+          "exampleEn": "I give a gift to my sister."
+        },
+        {
+          "russian": "давать",
+          "translit": "davát'",
+          "english": "to give",
+          "pos": "verb",
+          "example": "Я даю книгу другу.",
+          "exampleEn": "I give a book to my friend."
+        },
+        {
+          "russian": "цветок",
+          "translit": "tsvetók",
+          "english": "flower (one)",
+          "pos": "noun",
+          "example": "Я дарю цветок маме.",
+          "exampleEn": "I give a flower to my mum."
+        },
+        {
+          "russian": "открытка",
+          "translit": "otkrýtka",
+          "english": "postcard / card",
+          "pos": "noun",
+          "example": "Я дарю открытку брату.",
+          "exampleEn": "I give a card to my brother."
+        },
+        {
+          "russian": "спасибо",
+          "translit": "spasíbo",
+          "english": "thank you",
+          "pos": "phrase",
+          "example": "Спасибо за подарок!",
+          "exampleEn": "Thank you for the gift!"
+        },
+        {
+          "russian": "праздник",
+          "translit": "práznik",
+          "english": "holiday / celebration",
+          "pos": "noun",
+          "example": "Сегодня праздник.",
+          "exampleEn": "Today is a holiday."
+        }
+      ],
+      "grammar": {
+        "title": "The dative as indirect object: giving to someone",
+        "explanation": "The dative case also marks the **indirect object** — the person who *receives* something. With verbs like **дарить** (to give a gift) and **давать** (to give), the receiver goes in the dative.\n\nWith pronouns, use the forms you know:\n- Я дарю подарок **ему**. = I give a gift to him.\n- Я дарю цветы **ей**. = I give flowers to her.\n\nStructure: *giver + verb + thing (accusative) + person (dative)*.",
+        "examples": [
+          {
+            "russian": "Я дарю ей цветы.",
+            "english": "I give her flowers."
+          },
+          {
+            "russian": "Я даю ему книгу.",
+            "english": "I give him a book."
+          },
+          {
+            "russian": "Спасибо за подарок!",
+            "english": "Thank you for the gift!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Подарок",
+        "text": "Сегодня праздник. Я дарю ей цветы и открытку. — Спасибо! Мне очень нравится подарок!",
+        "translation": "Today is a holiday. I give her flowers and a card. — Thank you! I really like the gift!",
+        "glossary": [
+          {
+            "russian": "дарю",
+            "english": "(I) give (a gift)"
+          },
+          {
+            "russian": "праздник",
+            "english": "holiday"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe giving gifts for a holiday: say «Я дарю ему...» and «Я дарю ей...» with a flower, a card, or a book. End with «Спасибо!»"
+    },
+    {
+      "day": 7,
+      "title": "Day 7: Review — likes, feelings & giving",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week recap: dative pronouns and нравиться",
+        "explanation": "This week you learned the **dative case** for likes, feelings, and giving.\n\n**Dative pronouns:** я → **мне**, ты → **тебе**, он → **ему**, она → **ей**.\n\n**нравиться (to like):**\n- The person is in the dative; the verb agrees with the *thing*.\n- One thing → **нравится**; many things → **нравятся**.\n- Мне **нравится** книга. / Мне **нравятся** книги.\n\n**Dative as indirect object (giving):** the receiver is in the dative.\n- Я дарю **ей** цветы. = I give her flowers.\n\nCompare **любить** (+ accusative) with **нравиться** (+ dative): Я **люблю** музыку = Мне **нравится** музыка.",
+        "examples": [
+          {
+            "russian": "Тебе нравится этот фильм?",
+            "english": "Do you like this film?"
+          },
+          {
+            "russian": "Ему нравятся цветы, а ей нравится музыка.",
+            "english": "He likes flowers, and she likes music."
+          },
+          {
+            "russian": "Я дарю ей открытку. — Спасибо!",
+            "english": "I give her a card. — Thank you!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Праздник",
+        "text": "— Сегодня праздник! Я дарю тебе цветы.\n— Спасибо! Мне очень нравятся эти цветы. Они красивые!\n— А тебе нравится музыка?\n— Да, очень! Это радость.",
+        "translation": "— Today is a holiday! I give you flowers.\n— Thank you! I really like these flowers. They are beautiful!\n— And do you like the music?\n— Yes, very much! It's a joy.",
+        "glossary": [
+          {
+            "russian": "дарю",
+            "english": "(I) give (a gift)"
+          },
+          {
+            "russian": "нравятся",
+            "english": "(I) like (plural)"
+          },
+          {
+            "russian": "радость",
+            "english": "joy"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short dialogue: give someone a gift («Я дарю тебе...»), have them thank you and say what they like («Мне нравится/нравятся...»), then ask «Тебе нравится...?» about something else. Use мне, тебе, ему, and ей at least once each."
+    }
+  ]
+}

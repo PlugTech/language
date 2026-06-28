@@ -1,0 +1,612 @@
+{
+  "week": 9,
+  "theme": "Food & drink",
+  "days": [
+    {
+      "day": 1,
+      "title": "Food on the table: naming what we eat",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "хлеб",
+          "translit": "khleb",
+          "english": "bread",
+          "pos": "noun",
+          "example": "Это хлеб.",
+          "exampleEn": "This is bread."
+        },
+        {
+          "russian": "сыр",
+          "translit": "syr",
+          "english": "cheese",
+          "pos": "noun",
+          "example": "Это сыр.",
+          "exampleEn": "This is cheese."
+        },
+        {
+          "russian": "суп",
+          "translit": "sup",
+          "english": "soup",
+          "pos": "noun",
+          "example": "Это суп.",
+          "exampleEn": "This is soup."
+        },
+        {
+          "russian": "мясо",
+          "translit": "myáso",
+          "english": "meat",
+          "pos": "noun",
+          "example": "Это мясо.",
+          "exampleEn": "This is meat."
+        },
+        {
+          "russian": "яблоко",
+          "translit": "yábloko",
+          "english": "apple",
+          "pos": "noun",
+          "example": "Это яблоко.",
+          "exampleEn": "This is an apple."
+        },
+        {
+          "russian": "еда",
+          "translit": "yedá",
+          "english": "food",
+          "pos": "noun",
+          "example": "Это еда.",
+          "exampleEn": "This is food."
+        },
+        {
+          "russian": "вкусно",
+          "translit": "vkúsno",
+          "english": "tasty (it is tasty)",
+          "pos": "adverb",
+          "example": "Это вкусно.",
+          "exampleEn": "This is tasty."
+        }
+      ],
+      "grammar": {
+        "title": "What is this? Naming food",
+        "explanation": "Russian has **no word for \"a\" or \"the\"** — a noun stands alone. To name something, use **Это** (\"this is\"). The noun stays in its dictionary form (the **nominative case**) here, because it is the *subject* being identified, not an object of an action.\n\nNotice the **gender** of these nouns, which matters for later lessons:\n- nouns ending in a consonant are **masculine**: **хлеб**, **сыр**, **суп**\n- nouns ending in **-о** are **neuter**: **мясо**, **яблоко**\n- nouns ending in **-а** are **feminine**: **еда**",
+        "examples": [
+          {
+            "russian": "Это хлеб и сыр.",
+            "english": "This is bread and cheese."
+          },
+          {
+            "russian": "Это суп. Это вкусно.",
+            "english": "This is soup. It is tasty."
+          },
+          {
+            "russian": "Это мясо и яблоко.",
+            "english": "This is meat and an apple."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На столе (On the table)",
+        "text": "— Это хлеб? — Да, это хлеб и сыр. Это вкусно!",
+        "translation": "\"Is this bread?\" \"Yes, this is bread and cheese. It is tasty!\"",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at three foods around you (or imagine them) and say what each one is using \"Это ...\". For example: \"Это хлеб. Это сыр. Это вкусно!\""
+    },
+    {
+      "day": 2,
+      "title": "The verb «есть»: I eat something",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "есть",
+          "translit": "yest'",
+          "english": "to eat",
+          "pos": "verb",
+          "example": "Я люблю есть.",
+          "exampleEn": "I like to eat."
+        },
+        {
+          "russian": "я ем",
+          "translit": "ya yem",
+          "english": "I eat / I am eating",
+          "pos": "verb",
+          "example": "Я ем суп.",
+          "exampleEn": "I am eating soup."
+        },
+        {
+          "russian": "ты ешь",
+          "translit": "ty yesh'",
+          "english": "you eat (informal)",
+          "pos": "verb",
+          "example": "Ты ешь хлеб.",
+          "exampleEn": "You are eating bread."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "seychás",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Я сейчас ем суп.",
+          "exampleEn": "I am eating soup now."
+        },
+        {
+          "russian": "завтрак",
+          "translit": "závtrak",
+          "english": "breakfast",
+          "pos": "noun",
+          "example": "Это завтрак.",
+          "exampleEn": "This is breakfast."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also, too",
+          "pos": "adverb",
+          "example": "Я тоже ем сыр.",
+          "exampleEn": "I am eating cheese too."
+        }
+      ],
+      "grammar": {
+        "title": "«есть» + the accusative object",
+        "explanation": "When a noun is the **direct object** — the thing being eaten — it goes into the **accusative case**.\n\nGood news for now: for **masculine inanimate** nouns (like хлеб, сыр, суп) and **neuter** nouns (like мясо, яблоко), the accusative form looks **exactly the same as the dictionary form**. Nothing changes!\n\nThe verb **есть** (to eat) changes its ending by person:\n- я **ем** (I eat)\n- ты **ешь** (you eat, informal)",
+        "examples": [
+          {
+            "russian": "Я ем суп.",
+            "english": "I am eating soup."
+          },
+          {
+            "russian": "Ты ешь хлеб и сыр.",
+            "english": "You are eating bread and cheese."
+          },
+          {
+            "russian": "Я тоже ем мясо.",
+            "english": "I am eating meat too."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Завтрак (Breakfast)",
+        "text": "— Ты ешь хлеб? — Да. Я ем хлеб и сыр. — Я тоже ем сыр.",
+        "translation": "\"Are you eating bread?\" \"Yes. I am eating bread and cheese.\" \"I am eating cheese too.\"",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you are eating for breakfast right now using «Я ем ...» and one of today's foods. Then ask a friend «Ты ешь ...?» about a different food."
+    },
+    {
+      "day": 3,
+      "title": "Feminine objects: «еда» becomes «еду»",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "он ест",
+          "translit": "on yest",
+          "english": "he eats",
+          "pos": "verb",
+          "example": "Он ест яблоко.",
+          "exampleEn": "He is eating an apple."
+        },
+        {
+          "russian": "она ест",
+          "translit": "oná yest",
+          "english": "she eats",
+          "pos": "verb",
+          "example": "Она ест суп.",
+          "exampleEn": "She is eating soup."
+        },
+        {
+          "russian": "рыба",
+          "translit": "rýba",
+          "english": "fish",
+          "pos": "noun",
+          "example": "Она ест рыбу.",
+          "exampleEn": "She is eating fish."
+        },
+        {
+          "russian": "каша",
+          "translit": "kásha",
+          "english": "porridge, kasha",
+          "pos": "noun",
+          "example": "Он ест кашу.",
+          "exampleEn": "He is eating porridge."
+        },
+        {
+          "russian": "колбаса",
+          "translit": "kolbasá",
+          "english": "sausage",
+          "pos": "noun",
+          "example": "Я ем колбасу.",
+          "exampleEn": "I am eating sausage."
+        },
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "particle",
+          "example": "Хлеб и сыр.",
+          "exampleEn": "Bread and cheese."
+        }
+      ],
+      "grammar": {
+        "title": "Accusative of feminine nouns: -а → -у",
+        "explanation": "Feminine nouns ending in **-а** *do* change in the accusative: the **-а becomes -у**.\n\n- **еда** (food) → Я ем **еду**\n- **рыба** (fish) → Я ем **рыбу**\n- **каша** (porridge) → Я ем **кашу**\n- **колбаса** (sausage) → Я ем **колбасу**\n\nThe verb **есть** continues: он/она **ест** (he/she eats).\n\nSo: **masculine inanimate** and **neuter** = no change; **feminine -а** = **-у**.",
+        "examples": [
+          {
+            "russian": "Она ест рыбу.",
+            "english": "She is eating fish."
+          },
+          {
+            "russian": "Он ест кашу.",
+            "english": "He is eating porridge."
+          },
+          {
+            "russian": "Я ем колбасу и хлеб.",
+            "english": "I am eating sausage and bread."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кто что ест (Who eats what)",
+        "text": "Он ест кашу. Она ест рыбу. Я ем хлеб и колбасу.",
+        "translation": "He is eating porridge. She is eating fish. I am eating bread and sausage.",
+        "glossary": [
+          {
+            "russian": "кто",
+            "english": "who"
+          },
+          {
+            "russian": "что",
+            "english": "what"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe three people (он, она, я) eating three different foods. Use at least one feminine noun in the accusative, for example «Она ест рыбу»."
+    },
+    {
+      "day": 4,
+      "title": "The verb «пить»: I drink something",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "пить",
+          "translit": "pit'",
+          "english": "to drink",
+          "pos": "verb",
+          "example": "Я люблю пить чай.",
+          "exampleEn": "I like to drink tea."
+        },
+        {
+          "russian": "я пью",
+          "translit": "ya p'yu",
+          "english": "I drink",
+          "pos": "verb",
+          "example": "Я пью чай.",
+          "exampleEn": "I am drinking tea."
+        },
+        {
+          "russian": "ты пьёшь",
+          "translit": "ty p'yósh'",
+          "english": "you drink (informal)",
+          "pos": "verb",
+          "example": "Ты пьёшь кофе.",
+          "exampleEn": "You are drinking coffee."
+        },
+        {
+          "russian": "чай",
+          "translit": "chay",
+          "english": "tea",
+          "pos": "noun",
+          "example": "Я пью чай.",
+          "exampleEn": "I am drinking tea."
+        },
+        {
+          "russian": "кофе",
+          "translit": "kófe",
+          "english": "coffee",
+          "pos": "noun",
+          "example": "Он пьёт кофе.",
+          "exampleEn": "He is drinking coffee."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun",
+          "example": "Она пьёт воду.",
+          "exampleEn": "She is drinking water."
+        },
+        {
+          "russian": "сок",
+          "translit": "sok",
+          "english": "juice",
+          "pos": "noun",
+          "example": "Я пью сок.",
+          "exampleEn": "I am drinking juice."
+        }
+      ],
+      "grammar": {
+        "title": "«пить» + accusative drinks",
+        "explanation": "The verb **пить** (to drink) also takes a **direct object in the accusative**:\n- я **пью** (I drink)\n- ты **пьёшь** (you drink, informal)\n- он/она **пьёт** (he/she drinks)\n\nThe same accusative rules apply to drinks:\n- **чай**, **кофе**, **сок** — masculine, no change (note: **кофе** never changes its ending at all)\n- **вода** (water) — feminine, so **-а → -у**: Я пью **воду**.",
+        "examples": [
+          {
+            "russian": "Я пью чай.",
+            "english": "I am drinking tea."
+          },
+          {
+            "russian": "Она пьёт воду.",
+            "english": "She is drinking water."
+          },
+          {
+            "russian": "Ты пьёшь кофе или сок?",
+            "english": "Are you drinking coffee or juice?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Чай или кофе? (Tea or coffee?)",
+        "text": "— Ты пьёшь чай? — Нет, я пью кофе. — А я пью воду.",
+        "translation": "\"Are you drinking tea?\" \"No, I am drinking coffee.\" \"And I am drinking water.\"",
+        "glossary": [
+          {
+            "russian": "нет",
+            "english": "no"
+          },
+          {
+            "russian": "или",
+            "english": "or"
+          },
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you usually drink in the morning using «Я пью ...». Include water once (remember: «воду»). Then ask «Ты пьёшь чай или кофе?»"
+    },
+    {
+      "day": 5,
+      "title": "The verb «читать»: reading menus and more",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "читать",
+          "translit": "chitát'",
+          "english": "to read",
+          "pos": "verb",
+          "example": "Я люблю читать.",
+          "exampleEn": "I like to read."
+        },
+        {
+          "russian": "я читаю",
+          "translit": "ya chitáyu",
+          "english": "I read",
+          "pos": "verb",
+          "example": "Я читаю меню.",
+          "exampleEn": "I am reading the menu."
+        },
+        {
+          "russian": "ты читаешь",
+          "translit": "ty chitáyesh'",
+          "english": "you read (informal)",
+          "pos": "verb",
+          "example": "Ты читаешь меню.",
+          "exampleEn": "You are reading the menu."
+        },
+        {
+          "russian": "меню",
+          "translit": "menyú",
+          "english": "menu",
+          "pos": "noun",
+          "example": "Я читаю меню.",
+          "exampleEn": "I am reading the menu."
+        },
+        {
+          "russian": "книга",
+          "translit": "kníga",
+          "english": "book",
+          "pos": "noun",
+          "example": "Она читает книгу.",
+          "exampleEn": "She is reading a book."
+        },
+        {
+          "russian": "газета",
+          "translit": "gazéta",
+          "english": "newspaper",
+          "pos": "noun",
+          "example": "Он читает газету.",
+          "exampleEn": "He is reading a newspaper."
+        }
+      ],
+      "grammar": {
+        "title": "«читать» + accusative — a regular verb",
+        "explanation": "**читать** (to read) is a typical **-ать verb** with very regular endings:\n- я чита**ю**\n- ты чита**ешь**\n- он/она чита**ет**\n\nIts object is in the **accusative**, following the same rules:\n- **меню** — borrowed neuter word, **never changes**\n- **книга → книгу**, **газета → газету** (feminine **-а → -у**)",
+        "examples": [
+          {
+            "russian": "Я читаю меню.",
+            "english": "I am reading the menu."
+          },
+          {
+            "russian": "Она читает книгу.",
+            "english": "She is reading a book."
+          },
+          {
+            "russian": "Ты читаешь газету?",
+            "english": "Are you reading the newspaper?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафе (At the café)",
+        "text": "Я читаю меню и пью чай. Она читает книгу. Он ест суп.",
+        "translation": "I am reading the menu and drinking tea. She is reading a book. He is eating soup.",
+        "glossary": [
+          {
+            "russian": "в кафе",
+            "english": "at the café"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine you are in a café. Say one sentence with «читать», one with «пить», and one with «есть», each with a different object. For example: «Я читаю меню, пью кофе и ем хлеб.»"
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: «я люблю» + accusative",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "я люблю",
+          "translit": "ya lyublyú",
+          "english": "I like / I love",
+          "pos": "verb",
+          "example": "Я люблю чай.",
+          "exampleEn": "I like tea."
+        },
+        {
+          "russian": "ты любишь",
+          "translit": "ty lyúbish'",
+          "english": "you like (informal)",
+          "pos": "verb",
+          "example": "Ты любишь кофе.",
+          "exampleEn": "You like coffee."
+        },
+        {
+          "russian": "очень",
+          "translit": "óchen'",
+          "english": "very, very much",
+          "pos": "adverb",
+          "example": "Я очень люблю сыр.",
+          "exampleEn": "I like cheese very much."
+        },
+        {
+          "russian": "обед",
+          "translit": "obéd",
+          "english": "lunch, midday meal",
+          "pos": "noun",
+          "example": "Это обед.",
+          "exampleEn": "This is lunch."
+        },
+        {
+          "russian": "молоко",
+          "translit": "molokó",
+          "english": "milk",
+          "pos": "noun",
+          "example": "Я пью молоко.",
+          "exampleEn": "I am drinking milk."
+        },
+        {
+          "russian": "пицца",
+          "translit": "pítsa",
+          "english": "pizza",
+          "pos": "noun",
+          "example": "Она ест пиццу.",
+          "exampleEn": "She is eating pizza."
+        },
+        {
+          "russian": "что",
+          "translit": "shto",
+          "english": "what",
+          "pos": "pronoun",
+          "example": "Что ты ешь?",
+          "exampleEn": "What are you eating?"
+        }
+      ],
+      "grammar": {
+        "title": "Liking food, and asking «Что?»",
+        "explanation": "**любить** (to like/love) also takes an object in the **accusative**:\n- я **люблю**, ты **любишь**\n\nYou can add **очень** (very much) before it: Я **очень** люблю сыр.\n\nTo ask **\"What?\"** use **Что** — note it is a question word and does not change here:\n- **Что ты ешь?** — What are you eating?\n- **Что ты пьёшь?** — What are you drinking?\n\nFeminine **-а → -у** still applies: пицц**а** → Она ест пицц**у**. Neuter **молоко** does not change.",
+        "examples": [
+          {
+            "russian": "Я очень люблю чай.",
+            "english": "I like tea very much."
+          },
+          {
+            "russian": "Что ты ешь на обед?",
+            "english": "What are you eating for lunch?"
+          },
+          {
+            "russian": "Она ест пиццу и пьёт молоко.",
+            "english": "She is eating pizza and drinking milk."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Обед (Lunch)",
+        "text": "— Что ты ешь? — Я ем пиццу. — Я очень люблю пиццу! Я тоже ем пиццу и пью молоко.",
+        "translation": "\"What are you eating?\" \"I am eating pizza.\" \"I love pizza very much! I am eating pizza too and drinking milk.\"",
+        "glossary": [
+          {
+            "russian": "на обед",
+            "english": "for lunch"
+          },
+          {
+            "russian": "тоже",
+            "english": "also, too"
+          }
+        ]
+      },
+      "speakingPrompt": "Answer the question «Что ты любишь?» Name two foods and one drink you like, using «Я люблю ...» and «Я очень люблю ...». Remember feminine endings (пиццу, воду)."
+    },
+    {
+      "day": 7,
+      "title": "Review: Food, drink, and the accusative",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 9 recap: the accusative direct object",
+        "explanation": "This week you learned the **accusative case** for the **direct object** (the thing being eaten, drunk, or read), with three verbs: **есть** (eat), **пить** (drink), **читать** (read), plus **любить** (like).\n\n**Accusative endings for inanimate nouns:**\n- **masculine** (хлеб, сыр, суп, чай, сок) → **no change**\n- **neuter** (мясо, яблоко, молоко, меню) → **no change**\n- **feminine -а** (вода, рыба, пицца, книга) → **-а changes to -у**\n\n**Verb forms learned:** я ем / ты ешь / он ест; я пью / ты пьёшь / он пьёт; я читаю / ты читаешь / он читает; я люблю / ты любишь.",
+        "examples": [
+          {
+            "russian": "Я ем суп и пью воду.",
+            "english": "I am eating soup and drinking water."
+          },
+          {
+            "russian": "Она читает книгу и пьёт чай.",
+            "english": "She is reading a book and drinking tea."
+          },
+          {
+            "russian": "Что ты любишь? — Я люблю пиццу.",
+            "english": "What do you like? — I like pizza."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафе (At the café)",
+        "text": "— Что ты ешь? — Я ем суп и хлеб. А ты пьёшь чай? — Нет, я пью воду. Я читаю меню. — Я очень люблю кофе!",
+        "translation": "\"What are you eating?\" \"I am eating soup and bread. And are you drinking tea?\" \"No, I am drinking water. I am reading the menu.\" \"I love coffee very much!\"",
+        "glossary": [
+          {
+            "russian": "что",
+            "english": "what"
+          },
+          {
+            "russian": "нет",
+            "english": "no"
+          },
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a short café conversation with yourself. Ask and answer «Что ты ешь?» and «Что ты пьёшь?», then say one thing you love using «Я очень люблю ...». Use at least one feminine noun in the accusative (воду, пиццу, рыбу)."
+    }
+  ]
+}

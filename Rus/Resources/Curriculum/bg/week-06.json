@@ -1,0 +1,616 @@
+{
+  "week": 6,
+  "theme": "The definite article II & plurals",
+  "days": [
+    {
+      "day": 1,
+      "title": "Neuter -то: places in town",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "място",
+          "translit": "myásto",
+          "english": "place",
+          "pos": "noun",
+          "example": "Това е хубаво място.",
+          "exampleEn": "This is a nice place."
+        },
+        {
+          "russian": "кафене",
+          "translit": "kafené",
+          "english": "café",
+          "pos": "noun",
+          "example": "Кафенето е до парка.",
+          "exampleEn": "The café is next to the park."
+        },
+        {
+          "russian": "училище",
+          "translit": "uchílishte",
+          "english": "school",
+          "pos": "noun",
+          "example": "Училището е голямо.",
+          "exampleEn": "The school is big."
+        },
+        {
+          "russian": "село",
+          "translit": "seló",
+          "english": "village",
+          "pos": "noun",
+          "example": "Селото е малко.",
+          "exampleEn": "The village is small."
+        },
+        {
+          "russian": "кино",
+          "translit": "kíno",
+          "english": "cinema",
+          "pos": "noun",
+          "example": "Киното е в центъра.",
+          "exampleEn": "The cinema is in the centre."
+        },
+        {
+          "russian": "тук",
+          "translit": "tuk",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Кафенето е тук.",
+          "exampleEn": "The café is here."
+        },
+        {
+          "russian": "там",
+          "translit": "tam",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Училището е там.",
+          "exampleEn": "The school is there."
+        }
+      ],
+      "grammar": {
+        "title": "The neuter definite article -то",
+        "explanation": "Bulgarian marks 'the' with a suffix, not a separate word. Neuter nouns (most ending in -о or -е) add -то to say 'the': село → селото (the village), кафене → кафенето (the café), място → мястото (the place). The article goes on the END of the noun. Bulgarian has no cases, so the word never changes its ending for grammar reasons — only this article suffix is added.",
+        "examples": [
+          {
+            "russian": "Селото е малко.",
+            "english": "The village is small."
+          },
+          {
+            "russian": "Кафенето е тук.",
+            "english": "The café is here."
+          },
+          {
+            "russian": "Киното е там.",
+            "english": "The cinema is there."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В града",
+        "text": "Това е кафене. Кафенето е тук. Училището е там.",
+        "translation": "This is a café. The café is here. The school is there.",
+        "glossary": [
+          {
+            "russian": "това е",
+            "english": "this is"
+          },
+          {
+            "russian": "тук",
+            "english": "here"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at three neuter places (a café, a school, a cinema) and say where each one is, using -то and the words тук/там."
+    },
+    {
+      "day": 2,
+      "title": "Neuter article with 'is/are' (съм)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "летище",
+          "translit": "letíshte",
+          "english": "airport",
+          "pos": "noun",
+          "example": "Летището е далече.",
+          "exampleEn": "The airport is far away."
+        },
+        {
+          "russian": "ресторант",
+          "translit": "restoránt",
+          "english": "restaurant",
+          "pos": "noun",
+          "example": "Ресторантът е нов.",
+          "exampleEn": "The restaurant is new."
+        },
+        {
+          "russian": "близо",
+          "translit": "blízo",
+          "english": "near, close",
+          "pos": "adverb",
+          "example": "Киното е близо.",
+          "exampleEn": "The cinema is near."
+        },
+        {
+          "russian": "далече",
+          "translit": "daléche",
+          "english": "far",
+          "pos": "adverb",
+          "example": "Летището е далече.",
+          "exampleEn": "The airport is far."
+        },
+        {
+          "russian": "нов",
+          "translit": "nov",
+          "english": "new",
+          "pos": "adjective",
+          "example": "Кафенето е ново.",
+          "exampleEn": "The café is new."
+        },
+        {
+          "russian": "стар",
+          "translit": "star",
+          "english": "old",
+          "pos": "adjective",
+          "example": "Селото е старо.",
+          "exampleEn": "The village is old."
+        },
+        {
+          "russian": "хубав",
+          "translit": "húbav",
+          "english": "nice, beautiful",
+          "pos": "adjective",
+          "example": "Мястото е хубаво.",
+          "exampleEn": "The place is nice."
+        }
+      ],
+      "grammar": {
+        "title": "Neuter -то with the verb 'to be'",
+        "explanation": "Unlike Russian, Bulgarian DOES use a present-tense verb 'to be': съм, си, е, сме, сте, са. For a single neuter thing you use е (is): Летището е далече (The airport is far). Neuter adjectives end in -о and agree with the noun: ново кафене / кафенето е ново (new café / the café is new), старо село (old village). Remember the -то article still goes only on the noun (and on a front adjective, which you will meet later).",
+        "examples": [
+          {
+            "russian": "Летището е ново.",
+            "english": "The airport is new."
+          },
+          {
+            "russian": "Селото е старо.",
+            "english": "The village is old."
+          },
+          {
+            "russian": "Киното е близо.",
+            "english": "The cinema is near."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Близо или далече?",
+        "text": "Киното е близо. Летището е далече. Кафенето е ново и хубаво.",
+        "translation": "The cinema is near. The airport is far. The café is new and nice.",
+        "glossary": [
+          {
+            "russian": "близо",
+            "english": "near"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe four neuter places near you using е plus an adjective (нов/стар/хубав) and близо/далече, e.g. 'Кафенето е ново и близо.'"
+    },
+    {
+      "day": 3,
+      "title": "Plural article -те: the places",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop, store",
+          "pos": "noun",
+          "example": "Магазините са затворени.",
+          "exampleEn": "The shops are closed."
+        },
+        {
+          "russian": "пазар",
+          "translit": "pazár",
+          "english": "market",
+          "pos": "noun",
+          "example": "Пазарът е голям.",
+          "exampleEn": "The market is big."
+        },
+        {
+          "russian": "улица",
+          "translit": "úlitsa",
+          "english": "street",
+          "pos": "noun",
+          "example": "Улиците са дълги.",
+          "exampleEn": "The streets are long."
+        },
+        {
+          "russian": "хотел",
+          "translit": "hotél",
+          "english": "hotel",
+          "pos": "noun",
+          "example": "Хотелите са нови.",
+          "exampleEn": "The hotels are new."
+        },
+        {
+          "russian": "отворен",
+          "translit": "otvóren",
+          "english": "open",
+          "pos": "adjective",
+          "example": "Магазинът е отворен.",
+          "exampleEn": "The shop is open."
+        },
+        {
+          "russian": "затворен",
+          "translit": "zatvóren",
+          "english": "closed",
+          "pos": "adjective",
+          "example": "Магазините са затворени.",
+          "exampleEn": "The shops are closed."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "many, a lot",
+          "pos": "adverb",
+          "example": "Тук има много магазини.",
+          "exampleEn": "There are many shops here."
+        }
+      ],
+      "grammar": {
+        "title": "The plural definite article -те",
+        "explanation": "Once a noun is already in the plural, you make it definite ('the …s') by adding -те to the plural form: магазини → магазините (the shops), улици → улиците (the streets), хотели → хотелите (the hotels). The verb 'to be' for plurals is са (are): Магазините са затворени (The shops are closed). Adjectives in the plural end in -и: нови хотели, затворени магазини.",
+        "examples": [
+          {
+            "russian": "Магазините са затворени.",
+            "english": "The shops are closed."
+          },
+          {
+            "russian": "Улиците са дълги.",
+            "english": "The streets are long."
+          },
+          {
+            "russian": "Хотелите са нови.",
+            "english": "The hotels are new."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Магазините",
+        "text": "Тук има много магазини. Магазините са отворени. Улиците са хубави.",
+        "translation": "There are many shops here. The shops are open. The streets are nice.",
+        "glossary": [
+          {
+            "russian": "има",
+            "english": "there is / there are"
+          },
+          {
+            "russian": "много",
+            "english": "many"
+          }
+        ]
+      },
+      "speakingPrompt": "Say that the shops, the streets and the hotels in your town are open/closed/new, using plural -те and the verb са."
+    },
+    {
+      "day": 4,
+      "title": "Forming plurals: masculine & feminine nouns",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "град",
+          "translit": "grad",
+          "english": "city, town",
+          "pos": "noun",
+          "example": "Градовете са големи.",
+          "exampleEn": "The cities are big."
+        },
+        {
+          "russian": "парк",
+          "translit": "park",
+          "english": "park",
+          "pos": "noun",
+          "example": "Парковете са зелени.",
+          "exampleEn": "The parks are green."
+        },
+        {
+          "russian": "аптека",
+          "translit": "aptéka",
+          "english": "pharmacy",
+          "pos": "noun",
+          "example": "Аптеките са отворени.",
+          "exampleEn": "The pharmacies are open."
+        },
+        {
+          "russian": "банка",
+          "translit": "bánka",
+          "english": "bank",
+          "pos": "noun",
+          "example": "Банките са затворени.",
+          "exampleEn": "The banks are closed."
+        },
+        {
+          "russian": "голям",
+          "translit": "golyám",
+          "english": "big, large",
+          "pos": "adjective",
+          "example": "Градовете са големи.",
+          "exampleEn": "The cities are big."
+        },
+        {
+          "russian": "малък",
+          "translit": "málǎk",
+          "english": "small",
+          "pos": "adjective",
+          "example": "Селата са малки.",
+          "exampleEn": "The villages are small."
+        }
+      ],
+      "grammar": {
+        "title": "Forming the plural of nouns",
+        "explanation": "Bulgarian plurals depend on gender. Feminine nouns in -а/-я usually change to -и: улица → улици, банка → банки, аптека → аптеки. Many one-syllable masculine nouns add -ове: град → градове, парк → паркове. Longer masculine nouns usually add -и: магазин → магазини, хотел → хотели. (Neuter plurals come tomorrow.) Add -те afterwards to make them definite: градовете, банките.",
+        "examples": [
+          {
+            "russian": "Градовете са големи.",
+            "english": "The cities are big."
+          },
+          {
+            "russian": "Парковете са зелени.",
+            "english": "The parks are green."
+          },
+          {
+            "russian": "Банките са затворени.",
+            "english": "The banks are closed."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Градове и паркове",
+        "text": "Градовете са големи. Парковете са хубави. Аптеките са отворени.",
+        "translation": "The cities are big. The parks are nice. The pharmacies are open.",
+        "glossary": [
+          {
+            "russian": "градове",
+            "english": "cities (plural)"
+          },
+          {
+            "russian": "паркове",
+            "english": "parks (plural)"
+          }
+        ]
+      },
+      "speakingPrompt": "Take four singular nouns (град, парк, банка, аптека), say each plural form, then add -те. Describe them as big/small/open/closed."
+    },
+    {
+      "day": 5,
+      "title": "Forming plurals: neuter nouns",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "момче",
+          "translit": "momché",
+          "english": "boy",
+          "pos": "noun",
+          "example": "Момчетата са в парка.",
+          "exampleEn": "The boys are in the park."
+        },
+        {
+          "russian": "момиче",
+          "translit": "momíche",
+          "english": "girl",
+          "pos": "noun",
+          "example": "Момичетата са в училището.",
+          "exampleEn": "The girls are at the school."
+        },
+        {
+          "russian": "езеро",
+          "translit": "ézero",
+          "english": "lake",
+          "pos": "noun",
+          "example": "Езерата са красиви.",
+          "exampleEn": "The lakes are beautiful."
+        },
+        {
+          "russian": "дърво",
+          "translit": "dǎrvó",
+          "english": "tree",
+          "pos": "noun",
+          "example": "Дърветата са стари.",
+          "exampleEn": "The trees are old."
+        },
+        {
+          "russian": "красив",
+          "translit": "krasív",
+          "english": "beautiful",
+          "pos": "adjective",
+          "example": "Езерата са красиви.",
+          "exampleEn": "The lakes are beautiful."
+        },
+        {
+          "russian": "чист",
+          "translit": "chist",
+          "english": "clean",
+          "pos": "adjective",
+          "example": "Улиците са чисти.",
+          "exampleEn": "The streets are clean."
+        }
+      ],
+      "grammar": {
+        "title": "Neuter plurals and their article",
+        "explanation": "Neuter nouns in -о usually take -а in the plural: село → села, езеро → езера, място → места. Neuter nouns in -е often take -та or -я: момче → момчета, момиче → момичета, кафене → кафенета. To make a neuter plural definite, add -та: селата (the villages), местата (the places), момчетата (the boys). Note the article here is -та (not -те) because the plural ends in a vowel — listen for it.",
+        "examples": [
+          {
+            "russian": "Селата са малки.",
+            "english": "The villages are small."
+          },
+          {
+            "russian": "Местата са хубави.",
+            "english": "The places are nice."
+          },
+          {
+            "russian": "Момчетата са тук.",
+            "english": "The boys are here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Езера и места",
+        "text": "Езерата са красиви и чисти. Местата са хубави. Момичетата са там.",
+        "translation": "The lakes are beautiful and clean. The places are nice. The girls are there.",
+        "glossary": [
+          {
+            "russian": "езера",
+            "english": "lakes (plural)"
+          },
+          {
+            "russian": "места",
+            "english": "places (plural)"
+          }
+        ]
+      },
+      "speakingPrompt": "Make the plural of four neuter nouns (село, езеро, място, момче), add the article (-та), and say one thing about each using красив/чист/хубав."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: my town",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "център",
+          "translit": "tséntǎr",
+          "english": "centre, downtown",
+          "pos": "noun",
+          "example": "Центърът е близо.",
+          "exampleEn": "The centre is near."
+        },
+        {
+          "russian": "площад",
+          "translit": "ploshtád",
+          "english": "square",
+          "pos": "noun",
+          "example": "Площадите са големи.",
+          "exampleEn": "The squares are big."
+        },
+        {
+          "russian": "болница",
+          "translit": "bólnitsa",
+          "english": "hospital",
+          "pos": "noun",
+          "example": "Болницата е далече.",
+          "exampleEn": "The hospital is far."
+        },
+        {
+          "russian": "сграда",
+          "translit": "sgráda",
+          "english": "building",
+          "pos": "noun",
+          "example": "Сградите са високи.",
+          "exampleEn": "The buildings are tall."
+        },
+        {
+          "russian": "висок",
+          "translit": "visók",
+          "english": "tall, high",
+          "pos": "adjective",
+          "example": "Сградите са високи.",
+          "exampleEn": "The buildings are tall."
+        },
+        {
+          "russian": "зелен",
+          "translit": "zelén",
+          "english": "green",
+          "pos": "adjective",
+          "example": "Парковете са зелени.",
+          "exampleEn": "The parks are green."
+        },
+        {
+          "russian": "в",
+          "translit": "v",
+          "english": "in, at",
+          "pos": "preposition",
+          "example": "Магазините са в центъра.",
+          "exampleEn": "The shops are in the centre."
+        }
+      ],
+      "grammar": {
+        "title": "Singular -то/-ът and plural -те/-та together",
+        "explanation": "Now combine everything. Singular places take their gender article (центърът, болницата, кафенето); plural places take -те after a consonant (площадите, сградите) or -та after a vowel-ending neuter plural (селата). Use е for one thing and са for many, and prepositions instead of cases: Болницата е в центъра, Магазините са до площада. Bulgarian never changes the noun for case — only the article and number change.",
+        "examples": [
+          {
+            "russian": "Центърът е близо.",
+            "english": "The centre is near."
+          },
+          {
+            "russian": "Сградите са високи.",
+            "english": "The buildings are tall."
+          },
+          {
+            "russian": "Болницата е в центъра.",
+            "english": "The hospital is in the centre."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моят град",
+        "text": "Центърът е хубав. Сградите са високи. Парковете са зелени и чисти.",
+        "translation": "The centre is nice. The buildings are tall. The parks are green and clean.",
+        "glossary": [
+          {
+            "russian": "център",
+            "english": "centre"
+          },
+          {
+            "russian": "сгради",
+            "english": "buildings (plural)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your town in five sentences: name singular places with their article (-ът/-та/-то) and plural places with -те/-та, using е and са."
+    },
+    {
+      "day": 7,
+      "title": "Review: articles and plurals",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 6 recap: -то, -те and forming plurals",
+        "explanation": "This week: neuter 'the' = -то (село → селото, кафене → кафенето). Plural 'the' = -те after a consonant (магазините, улиците, сградите) and -та on neuter plurals ending in a vowel (селата, местата). Plurals: feminine -а → -и (банка → банки); short masculine + -ове (град → градове); longer masculine + -и (хотел → хотели); neuter -о → -а (езеро → езера), neuter -е → -та (момче → момчета). Use е for one and са for many. Bulgarian has no cases — relations come from word order and prepositions (в, до, на, от).",
+        "examples": [
+          {
+            "russian": "Кафенето е ново.",
+            "english": "The café is new."
+          },
+          {
+            "russian": "Магазините са затворени.",
+            "english": "The shops are closed."
+          },
+          {
+            "russian": "Селата са малки и хубави.",
+            "english": "The villages are small and nice."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Къде са?",
+        "text": "— Кафенето отворено ли е? — Да, кафенето е отворено. Магазините са затворени, но пазарът е тук, близо до площада.",
+        "translation": "— Is the café open? — Yes, the café is open. The shops are closed, but the market is here, near the square.",
+        "glossary": [
+          {
+            "russian": "ли",
+            "english": "question particle"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "до",
+            "english": "next to"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a short dialogue: ask whether two places are open or closed, answer with е/са, and say where one place is using a preposition (в/до/близо до). Use at least one neuter -то noun and one plural -те noun."
+    }
+  ]
+}

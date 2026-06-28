@@ -1,0 +1,616 @@
+{
+  "week": 22,
+  "theme": "Getting around (motion verbs)",
+  "days": [
+    {
+      "day": 1,
+      "title": "On foot and by transport: key words",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "машина",
+          "translit": "mashína",
+          "english": "car",
+          "pos": "noun",
+          "example": "Это моя машина.",
+          "exampleEn": "This is my car."
+        },
+        {
+          "russian": "автобус",
+          "translit": "avtóbus",
+          "english": "bus",
+          "pos": "noun",
+          "example": "Вот автобус.",
+          "exampleEn": "There is the bus."
+        },
+        {
+          "russian": "метро",
+          "translit": "metró",
+          "english": "metro, subway",
+          "pos": "noun",
+          "example": "Метро тут рядом.",
+          "exampleEn": "The metro is near here."
+        },
+        {
+          "russian": "поезд",
+          "translit": "póyezd",
+          "english": "train",
+          "pos": "noun",
+          "example": "Поезд уже тут.",
+          "exampleEn": "The train is already here."
+        },
+        {
+          "russian": "пешком",
+          "translit": "peshkóm",
+          "english": "on foot",
+          "pos": "adverb",
+          "example": "Я иду пешком.",
+          "exampleEn": "I am going on foot."
+        },
+        {
+          "russian": "остановка",
+          "translit": "ostanóvka",
+          "english": "stop (bus stop)",
+          "pos": "noun",
+          "example": "Где остановка?",
+          "exampleEn": "Where is the stop?"
+        },
+        {
+          "russian": "билет",
+          "translit": "bilét",
+          "english": "ticket",
+          "pos": "noun",
+          "example": "Вот мой билет.",
+          "exampleEn": "Here is my ticket."
+        }
+      ],
+      "grammar": {
+        "title": "Transport nouns and 'on foot'",
+        "explanation": "Today we learn the **transport vocabulary** for the week. Note the genders: **машина** (car) is feminine, **автобус** (bus) and **поезд** (train) are masculine, and **метро** (metro) is **neuter and never changes** its ending — it is a borrowed word. The adverb **пешком** means **on foot** and does not change. Use these words with the verbs you already know, e.g. **Это автобус** (This is a bus).",
+        "examples": [
+          {
+            "russian": "Это автобус, а это машина.",
+            "english": "This is a bus, and this is a car."
+          },
+          {
+            "russian": "Я иду пешком.",
+            "english": "I am going on foot."
+          },
+          {
+            "russian": "Где остановка?",
+            "english": "Where is the stop?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Где остановка?",
+        "text": "— Где автобус? — Вот остановка. А вот мой билет.",
+        "translation": "— Where is the bus? — Here is the stop. And here is my ticket.",
+        "glossary": [
+          {
+            "russian": "вот",
+            "english": "here is / there is"
+          },
+          {
+            "russian": "где",
+            "english": "where"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at things around you and name the transport you see. Say in Russian: 'This is a car', 'This is a bus', 'Where is the stop?', and 'Here is my ticket.'"
+    },
+    {
+      "day": 2,
+      "title": "идти — going on foot, right now",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "идти",
+          "translit": "idtí",
+          "english": "to go (on foot, one direction now)",
+          "pos": "verb",
+          "example": "Я иду домой.",
+          "exampleEn": "I am going home."
+        },
+        {
+          "russian": "иду",
+          "translit": "idú",
+          "english": "I go / I am going (on foot)",
+          "pos": "verb",
+          "example": "Я иду в парк.",
+          "exampleEn": "I am going to the park."
+        },
+        {
+          "russian": "идёшь",
+          "translit": "idyósh'",
+          "english": "you go / are going (on foot)",
+          "pos": "verb",
+          "example": "Куда ты идёшь?",
+          "exampleEn": "Where are you going?"
+        },
+        {
+          "russian": "идёт",
+          "translit": "idyót",
+          "english": "he/she goes / is going (on foot)",
+          "pos": "verb",
+          "example": "Он идёт домой.",
+          "exampleEn": "He is going home."
+        },
+        {
+          "russian": "куда",
+          "translit": "kudá",
+          "english": "where to, whither",
+          "pos": "adverb",
+          "example": "Куда ты идёшь?",
+          "exampleEn": "Where are you going?"
+        },
+        {
+          "russian": "домой",
+          "translit": "domóy",
+          "english": "home(ward), to home",
+          "pos": "adverb",
+          "example": "Я иду домой.",
+          "exampleEn": "I am going home."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "seychás",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Я иду сейчас.",
+          "exampleEn": "I am going now."
+        }
+      ],
+      "grammar": {
+        "title": "идти: one direction, happening now",
+        "explanation": "**идти** means **to go on foot** in **one direction, right now**. It is a *unidirectional* motion verb. Memorize the present tense:\n\n- **я иду** — I am going\n- **ты идёшь** — you are going\n- **он/она идёт** — he/she is going\n\nUse **идти** when you are walking toward a goal at this moment. Ask the destination with **куда** (where to). **домой** means *(to) home* and already includes the idea of direction, so you never add a preposition: just **Я иду домой**.",
+        "examples": [
+          {
+            "russian": "Я иду домой.",
+            "english": "I am going home."
+          },
+          {
+            "russian": "Куда ты идёшь?",
+            "english": "Where are you going?"
+          },
+          {
+            "russian": "Она идёт сейчас.",
+            "english": "She is going now."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Куда ты идёшь?",
+        "text": "— Куда ты идёшь? — Я иду домой. — Сейчас? — Да, сейчас.",
+        "translation": "— Where are you going? — I am going home. — Now? — Yes, now.",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine a friend asks 'Куда ты идёшь?'. Answer out loud that you are going home, and say you are going now. Then ask them the same question."
+    },
+    {
+      "day": 3,
+      "title": "ходить — going on foot, often or back-and-forth",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ходить",
+          "translit": "khodít'",
+          "english": "to go (on foot, often / round trip)",
+          "pos": "verb",
+          "example": "Я хожу пешком.",
+          "exampleEn": "I go on foot."
+        },
+        {
+          "russian": "хожу",
+          "translit": "khozhú",
+          "english": "I go (on foot, regularly)",
+          "pos": "verb",
+          "example": "Я хожу в парк.",
+          "exampleEn": "I go to the park."
+        },
+        {
+          "russian": "ходишь",
+          "translit": "khódish'",
+          "english": "you go (on foot, regularly)",
+          "pos": "verb",
+          "example": "Ты часто ходишь туда?",
+          "exampleEn": "Do you often go there?"
+        },
+        {
+          "russian": "ходит",
+          "translit": "khódit",
+          "english": "he/she goes (on foot, regularly)",
+          "pos": "verb",
+          "example": "Она ходит пешком.",
+          "exampleEn": "She goes on foot."
+        },
+        {
+          "russian": "часто",
+          "translit": "chásto",
+          "english": "often",
+          "pos": "adverb",
+          "example": "Я часто хожу пешком.",
+          "exampleEn": "I often go on foot."
+        },
+        {
+          "russian": "иногда",
+          "translit": "inogdá",
+          "english": "sometimes",
+          "pos": "adverb",
+          "example": "Иногда я хожу в парк.",
+          "exampleEn": "Sometimes I go to the park."
+        },
+        {
+          "russian": "редко",
+          "translit": "rédko",
+          "english": "rarely",
+          "pos": "adverb",
+          "example": "Я редко хожу туда.",
+          "exampleEn": "I rarely go there."
+        }
+      ],
+      "grammar": {
+        "title": "ходить: habit, repetition, round trips",
+        "explanation": "**ходить** also means **to go on foot**, but it is the *multidirectional* partner of идти. Use **ходить** for actions that **repeat** (every day, often) or that go **there and back**. Present tense:\n\n- **я хожу** — I go\n- **ты ходишь** — you go\n- **он/она ходит** — he/she goes\n\nCompare: **Я иду домой** (I am going home — right now, one way) vs **Я часто хожу пешком** (I often go on foot — a habit). Time words like **часто** (often), **иногда** (sometimes), and **редко** (rarely) signal a habit, so they pair with **ходить**.",
+        "examples": [
+          {
+            "russian": "Я часто хожу пешком.",
+            "english": "I often go on foot."
+          },
+          {
+            "russian": "Она ходит домой пешком.",
+            "english": "She walks home (on foot)."
+          },
+          {
+            "russian": "Иногда ты ходишь туда?",
+            "english": "Do you sometimes go there?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Часто или редко?",
+        "text": "— Ты часто ходишь пешком? — Иногда. А ты? — Я хожу пешком редко.",
+        "translation": "— Do you often go on foot? — Sometimes. And you? — I rarely go on foot.",
+        "glossary": [
+          {
+            "russian": "или",
+            "english": "or"
+          },
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your walking habits: say how often you go on foot using часто, иногда, or редко with хожу. Then say one thing you are doing right now using иду."
+    },
+    {
+      "day": 4,
+      "title": "ехать — going by transport, right now",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ехать",
+          "translit": "yékhat'",
+          "english": "to go (by vehicle, one direction now)",
+          "pos": "verb",
+          "example": "Я еду домой.",
+          "exampleEn": "I am going home (by vehicle)."
+        },
+        {
+          "russian": "еду",
+          "translit": "yédu",
+          "english": "I go / am going (by vehicle)",
+          "pos": "verb",
+          "example": "Я еду на автобусе.",
+          "exampleEn": "I am going by bus."
+        },
+        {
+          "russian": "едешь",
+          "translit": "yédesh'",
+          "english": "you go / are going (by vehicle)",
+          "pos": "verb",
+          "example": "Куда ты едешь?",
+          "exampleEn": "Where are you going (by vehicle)?"
+        },
+        {
+          "russian": "едет",
+          "translit": "yédet",
+          "english": "he/she goes / is going (by vehicle)",
+          "pos": "verb",
+          "example": "Автобус едет сейчас.",
+          "exampleEn": "The bus is going now."
+        },
+        {
+          "russian": "на машине",
+          "translit": "na mashíne",
+          "english": "by car",
+          "pos": "phrase",
+          "example": "Я еду на машине.",
+          "exampleEn": "I am going by car."
+        },
+        {
+          "russian": "на автобусе",
+          "translit": "na avtóbuse",
+          "english": "by bus",
+          "pos": "phrase",
+          "example": "Я еду на автобусе.",
+          "exampleEn": "I am going by bus."
+        },
+        {
+          "russian": "на метро",
+          "translit": "na metró",
+          "english": "by metro",
+          "pos": "phrase",
+          "example": "Ты едешь на метро?",
+          "exampleEn": "Are you going by metro?"
+        }
+      ],
+      "grammar": {
+        "title": "ехать: by vehicle, one direction, now",
+        "explanation": "When you travel by **vehicle** rather than walking, you switch from идти to **ехать** (to go by transport). Like идти, it is *unidirectional*: one way, right now. Present tense:\n\n- **я еду** — I am going\n- **ты едешь** — you are going\n- **он/она едет** — he/she is going\n\nTo say **by what transport**, use **на** + the transport word: **на машине** (by car), **на автобусе** (by bus), **на метро** (by metro, unchanged). So: **Я еду домой на метро** — I am going home by metro.",
+        "examples": [
+          {
+            "russian": "Я еду домой на автобусе.",
+            "english": "I am going home by bus."
+          },
+          {
+            "russian": "Куда ты едешь?",
+            "english": "Where are you going (by vehicle)?"
+          },
+          {
+            "russian": "Она едет на машине.",
+            "english": "She is going by car."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На чём ты едешь?",
+        "text": "— Куда ты едешь? — Домой. — На метро? — Нет, я еду на автобусе.",
+        "translation": "— Where are you going? — Home. — By metro? — No, I am going by bus.",
+        "glossary": [
+          {
+            "russian": "нет",
+            "english": "no"
+          },
+          {
+            "russian": "на чём",
+            "english": "by what (transport)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you are going right now by vehicle and name the transport: try 'I am going home by bus', 'I am going by car', and 'Are you going by metro?'"
+    },
+    {
+      "day": 5,
+      "title": "ездить — traveling by transport, often",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ездить",
+          "translit": "yézdit'",
+          "english": "to go (by vehicle, often / round trip)",
+          "pos": "verb",
+          "example": "Я езжу на метро.",
+          "exampleEn": "I travel by metro."
+        },
+        {
+          "russian": "езжу",
+          "translit": "yézzhu",
+          "english": "I go (by vehicle, regularly)",
+          "pos": "verb",
+          "example": "Я часто езжу на автобусе.",
+          "exampleEn": "I often travel by bus."
+        },
+        {
+          "russian": "ездишь",
+          "translit": "yézdish'",
+          "english": "you go (by vehicle, regularly)",
+          "pos": "verb",
+          "example": "Ты ездишь на работу?",
+          "exampleEn": "Do you travel to work?"
+        },
+        {
+          "russian": "ездит",
+          "translit": "yézdit",
+          "english": "he/she goes (by vehicle, regularly)",
+          "pos": "verb",
+          "example": "Он ездит на машине.",
+          "exampleEn": "He travels by car."
+        },
+        {
+          "russian": "на работу",
+          "translit": "na rabótu",
+          "english": "to work",
+          "pos": "phrase",
+          "example": "Я езжу на работу на метро.",
+          "exampleEn": "I travel to work by metro."
+        },
+        {
+          "russian": "каждый день",
+          "translit": "kázhdyy den'",
+          "english": "every day",
+          "pos": "phrase",
+          "example": "Я езжу туда каждый день.",
+          "exampleEn": "I go there every day."
+        },
+        {
+          "russian": "обычно",
+          "translit": "obýchno",
+          "english": "usually",
+          "pos": "adverb",
+          "example": "Обычно я езжу на автобусе.",
+          "exampleEn": "Usually I travel by bus."
+        }
+      ],
+      "grammar": {
+        "title": "ездить: the habit partner of ехать",
+        "explanation": "**ездить** is the *multidirectional* partner of ехать — **going by vehicle repeatedly or there-and-back**. It is to ехать what ходить is to идти. Present tense:\n\n- **я езжу** — I go\n- **ты ездишь** — you go\n- **он/она ездит** — he/she goes\n\nCompare: **Я еду на работу** (I am going to work now, one way) vs **Я каждый день езжу на работу** (I go to work every day — a habit). Habit words like **каждый день** (every day) and **обычно** (usually) signal ездить.",
+        "examples": [
+          {
+            "russian": "Я каждый день езжу на работу.",
+            "english": "I go to work every day."
+          },
+          {
+            "russian": "Обычно она ездит на метро.",
+            "english": "Usually she travels by metro."
+          },
+          {
+            "russian": "Ты часто ездишь на машине?",
+            "english": "Do you often travel by car?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "На работу",
+        "text": "— Ты ездишь на работу на метро? — Обычно да. Иногда еду на автобусе.",
+        "translation": "— Do you travel to work by metro? — Usually yes. Sometimes I go by bus.",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your commute: say how you usually travel to work using езжу + a transport, then say what you are doing right now using еду."
+    },
+    {
+      "day": 6,
+      "title": "Choosing the right verb: foot vs vehicle, now vs often",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "далеко",
+          "translit": "dalekó",
+          "english": "far",
+          "pos": "adverb",
+          "example": "Работа далеко.",
+          "exampleEn": "Work is far."
+        },
+        {
+          "russian": "близко",
+          "translit": "blízko",
+          "english": "near, close",
+          "pos": "adverb",
+          "example": "Метро близко.",
+          "exampleEn": "The metro is close."
+        },
+        {
+          "russian": "быстро",
+          "translit": "býstro",
+          "english": "fast, quickly",
+          "pos": "adverb",
+          "example": "Метро едет быстро.",
+          "exampleEn": "The metro goes fast."
+        },
+        {
+          "russian": "медленно",
+          "translit": "médlenno",
+          "english": "slowly",
+          "pos": "adverb",
+          "example": "Автобус едет медленно.",
+          "exampleEn": "The bus goes slowly."
+        },
+        {
+          "russian": "туда",
+          "translit": "tudá",
+          "english": "(to) there",
+          "pos": "adverb",
+          "example": "Я иду туда.",
+          "exampleEn": "I am going there."
+        },
+        {
+          "russian": "на работе",
+          "translit": "na rabóte",
+          "english": "at work",
+          "pos": "phrase",
+          "example": "Я сейчас на работе.",
+          "exampleEn": "I am at work now."
+        }
+      ],
+      "grammar": {
+        "title": "Picking идти/ходить vs ехать/ездить",
+        "explanation": "Now combine everything. Ask two questions to choose the verb:\n\n1. **On foot or by vehicle?** Foot → идти/ходить. Vehicle → ехать/ездить.\n2. **One way now, or a habit/round trip?** Now/one way → идти, ехать. Often/round trip → ходить, ездить.\n\nThis gives a 2×2 grid: **иду/еду** (now), **хожу/езжу** (habit). Words like **сейчас** (now) point to идти/ехать; **часто, обычно, каждый день** point to ходить/ездить. Remember: **метро** never changes, and **домой/туда** already mean *toward*, so no preposition.",
+        "examples": [
+          {
+            "russian": "Сейчас я еду на автобусе, а обычно хожу пешком.",
+            "english": "Right now I'm going by bus, but usually I walk."
+          },
+          {
+            "russian": "Туда близко, я иду пешком.",
+            "english": "It's close to there, I'm walking."
+          },
+          {
+            "russian": "Работа далеко, я езжу на метро.",
+            "english": "Work is far, I travel by metro."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Близко или далеко?",
+        "text": "Работа далеко. Обычно я езжу на метро, метро едет быстро. Но сегодня я еду на автобусе.",
+        "translation": "Work is far. Usually I travel by metro, the metro goes fast. But today I am going by bus.",
+        "glossary": [
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "сегодня",
+            "english": "today"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a place you go to: say whether it is far or close, how you usually get there (habit verb), and how you are getting there right now (one-way verb)."
+    },
+    {
+      "day": 7,
+      "title": "Review: motion verbs and getting around",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: the four motion verbs",
+        "explanation": "This week's verbs form a neat 2×2 system:\n\n- **On foot, now:** идти → **иду, идёшь, идёт**\n- **On foot, habit/round trip:** ходить → **хожу, ходишь, ходит**\n- **By vehicle, now:** ехать → **еду, едешь, едет**\n- **By vehicle, habit/round trip:** ездить → **езжу, ездишь, ездит**\n\nUse **на** + transport (**на автобусе, на метро, на машине**) for *by what*; use **пешком** for *on foot*. **сейчас** signals the 'now' verbs (идти/ехать); **часто, обычно, каждый день** signal the 'habit' verbs (ходить/ездить). Destinations **домой** and **туда** take no preposition.",
+        "examples": [
+          {
+            "russian": "Сейчас я иду домой пешком.",
+            "english": "Right now I'm walking home on foot."
+          },
+          {
+            "russian": "Я каждый день езжу на работу на метро.",
+            "english": "I go to work by metro every day."
+          },
+          {
+            "russian": "Куда ты едешь? — На автобусе домой.",
+            "english": "Where are you going? — Home by bus."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На остановке",
+        "text": "— Привет! Куда ты идёшь? — На остановку. Я еду на автобусе домой. — А я обычно езжу на метро, но сегодня иду пешком. Метро близко. — Пока!",
+        "translation": "— Hi! Where are you going? — To the stop. I'm going home by bus. — And I usually travel by metro, but today I'm walking. The metro is close. — Bye!",
+        "glossary": [
+          {
+            "russian": "привет",
+            "english": "hi"
+          },
+          {
+            "russian": "пока",
+            "english": "bye"
+          },
+          {
+            "russian": "сегодня",
+            "english": "today"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a mini-dialogue with yourself: ask 'Куда ты идёшь/едешь?', then answer using all four verbs across a few sentences — one thing you're doing now (иду/еду) and one habit (хожу/езжу), naming your transport."
+    }
+  ]
+}

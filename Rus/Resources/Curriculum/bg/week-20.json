@@ -1,0 +1,656 @@
+{
+  "week": 20,
+  "theme": "Daily routine (reflexive се)",
+  "days": [
+    {
+      "day": 1,
+      "title": "Waking up: събуждам се",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "събуждам се",
+          "translit": "sabúzhdam se",
+          "english": "I wake up",
+          "pos": "verb (reflexive)",
+          "example": "Събуждам се в седем часа.",
+          "exampleEn": "I wake up at seven o'clock."
+        },
+        {
+          "russian": "ставам",
+          "translit": "stávam",
+          "english": "I get up, I rise",
+          "pos": "verb",
+          "example": "Ставам бавно сутрин.",
+          "exampleEn": "I get up slowly in the morning."
+        },
+        {
+          "russian": "сутрин",
+          "translit": "sútrin",
+          "english": "in the morning",
+          "pos": "adverb",
+          "example": "Сутрин пия кафе.",
+          "exampleEn": "In the morning I drink coffee."
+        },
+        {
+          "russian": "будилник",
+          "translit": "budílnik",
+          "english": "alarm clock",
+          "pos": "noun (m)",
+          "example": "Будилникът звъни рано.",
+          "exampleEn": "The alarm clock rings early."
+        },
+        {
+          "russian": "рано",
+          "translit": "ráno",
+          "english": "early",
+          "pos": "adverb",
+          "example": "Той става много рано.",
+          "exampleEn": "He gets up very early."
+        },
+        {
+          "russian": "късно",
+          "translit": "kásno",
+          "english": "late",
+          "pos": "adverb",
+          "example": "В неделя ставам късно.",
+          "exampleEn": "On Sunday I get up late."
+        },
+        {
+          "russian": "легло",
+          "translit": "legló",
+          "english": "bed",
+          "pos": "noun (n)",
+          "example": "Леглото е до прозореца.",
+          "exampleEn": "The bed is by the window."
+        }
+      ],
+      "grammar": {
+        "title": "Reflexive verbs with се (introduction)",
+        "explanation": "Many Bulgarian daily-routine verbs use the little word 'се' (oneself). With these verbs the action turns back on the doer: 'събуждам' means 'I wake (someone)', but 'събуждам се' means 'I wake up (myself)'. The 'се' does not change form for person — it stays 'се' for I, you, he, we, they. In a simple statement it usually comes right after the verb: 'Събуждам се рано' (I wake up early). Compare with a non-reflexive verb like 'ставам' (I get up), which needs no 'се'. Note Bulgarian has a real present-tense verb 'to be': съм, си, е, сме, сте, са — used like English 'am/is/are'.",
+        "examples": [
+          {
+            "russian": "Събуждам се в шест часа.",
+            "english": "I wake up at six o'clock."
+          },
+          {
+            "russian": "Ти се събуждаш рано.",
+            "english": "You wake up early."
+          },
+          {
+            "russian": "Аз съм буден, но ставам бавно.",
+            "english": "I am awake, but I get up slowly."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сутрин",
+        "text": "Будилникът звъни рано. Събуждам се, но ставам бавно. Сутрин пия кафе.",
+        "translation": "The alarm clock rings early. I wake up, but I get up slowly. In the morning I drink coffee.",
+        "glossary": [
+          {
+            "russian": "звъни",
+            "english": "rings"
+          },
+          {
+            "russian": "бавно",
+            "english": "slowly"
+          },
+          {
+            "russian": "кафе",
+            "english": "coffee"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe when you wake up and get up in the morning. Use 'събуждам се' and 'ставам' with a time (в седем часа) and the words 'рано' or 'късно'."
+    },
+    {
+      "day": 2,
+      "title": "Washing up: измивам се",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "измивам се",
+          "translit": "izmívam se",
+          "english": "I wash (myself)",
+          "pos": "verb (reflexive)",
+          "example": "Сутрин се измивам със студена вода.",
+          "exampleEn": "In the morning I wash with cold water."
+        },
+        {
+          "russian": "мия",
+          "translit": "míya",
+          "english": "I wash (something)",
+          "pos": "verb",
+          "example": "Мия зъбите си всяка сутрin.",
+          "exampleEn": "I wash my teeth every morning."
+        },
+        {
+          "russian": "лице",
+          "translit": "litsé",
+          "english": "face",
+          "pos": "noun (n)",
+          "example": "Лицето ми е чисто.",
+          "exampleEn": "My face is clean."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun (f)",
+          "example": "Водата е студена.",
+          "exampleEn": "The water is cold."
+        },
+        {
+          "russian": "баня",
+          "translit": "bánya",
+          "english": "bathroom",
+          "pos": "noun (f)",
+          "example": "Банята е малка.",
+          "exampleEn": "The bathroom is small."
+        },
+        {
+          "russian": "сапун",
+          "translit": "sapún",
+          "english": "soap",
+          "pos": "noun (m)",
+          "example": "Сапунът мирише хубаво.",
+          "exampleEn": "The soap smells nice."
+        },
+        {
+          "russian": "хавлия",
+          "translit": "havlíya",
+          "english": "towel",
+          "pos": "noun (f)",
+          "example": "Хавлията е до банята.",
+          "exampleEn": "The towel is by the bathroom."
+        }
+      ],
+      "grammar": {
+        "title": "Where 'се' goes in a sentence",
+        "explanation": "The reflexive 'се' is a short clitic word — it cannot stand at the very start of a sentence. Normally it sits right after the verb: 'Измивам се' (I wash up). But if another word comes first (like 'сутрин', 'после', or a subject pronoun), 'се' jumps to BEFORE the verb: 'Сутрин се измивам' (In the morning I wash up); 'Аз се измивам' (I wash myself). Both word orders are correct; only the position of 'се' shifts. Remember: 'мия' = wash something (мия зъбите = wash the teeth), while 'измивам се' = wash oneself.",
+        "examples": [
+          {
+            "russian": "Измивам се със студена вода.",
+            "english": "I wash with cold water."
+          },
+          {
+            "russian": "Сутрин се измивам в банята.",
+            "english": "In the morning I wash up in the bathroom."
+          },
+          {
+            "russian": "После мия лицето си.",
+            "english": "Afterwards I wash my face."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В банята",
+        "text": "Сутрин се измивам в банята. Водата е студена. Сапунът мирише хубаво.",
+        "translation": "In the morning I wash up in the bathroom. The water is cold. The soap smells nice.",
+        "glossary": [
+          {
+            "russian": "студена",
+            "english": "cold (f)"
+          },
+          {
+            "russian": "мирише",
+            "english": "smells"
+          },
+          {
+            "russian": "хубаво",
+            "english": "nice, well"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you do in the bathroom in the morning. Use 'измивам се' and 'мия', and put 'сутрин' or 'после' first so you practise moving 'се' before the verb."
+    },
+    {
+      "day": 3,
+      "title": "Getting dressed: обличам се",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "обличам се",
+          "translit": "oblícham se",
+          "english": "I get dressed",
+          "pos": "verb (reflexive)",
+          "example": "Обличам се бързо сутрин.",
+          "exampleEn": "I get dressed quickly in the morning."
+        },
+        {
+          "russian": "събличам се",
+          "translit": "sablícham se",
+          "english": "I get undressed",
+          "pos": "verb (reflexive)",
+          "example": "Вечер се събличам и си лягам.",
+          "exampleEn": "In the evening I get undressed and go to bed."
+        },
+        {
+          "russian": "дрехи",
+          "translit": "dréhi",
+          "english": "clothes",
+          "pos": "noun (pl)",
+          "example": "Дрехите са на леглото.",
+          "exampleEn": "The clothes are on the bed."
+        },
+        {
+          "russian": "риза",
+          "translit": "ríza",
+          "english": "shirt",
+          "pos": "noun (f)",
+          "example": "Ризата е бяла.",
+          "exampleEn": "The shirt is white."
+        },
+        {
+          "russian": "панталон",
+          "translit": "pantalón",
+          "english": "trousers",
+          "pos": "noun (m)",
+          "example": "Панталонът е нов.",
+          "exampleEn": "The trousers are new."
+        },
+        {
+          "russian": "обувки",
+          "translit": "obúvki",
+          "english": "shoes",
+          "pos": "noun (pl)",
+          "example": "Обувките са до вратата.",
+          "exampleEn": "The shoes are by the door."
+        },
+        {
+          "russian": "бързо",
+          "translit": "bárzo",
+          "english": "quickly, fast",
+          "pos": "adverb",
+          "example": "Обличам се много бързо.",
+          "exampleEn": "I get dressed very fast."
+        }
+      ],
+      "grammar": {
+        "title": "Reflexive pairs: обличам се / събличам се",
+        "explanation": "Reflexive verbs often come in opposite pairs that share the same 'се'. 'Обличам се' = I dress myself; 'събличам се' = I undress myself. The verb part changes endings for person, but 'се' stays the same: обличам се, обличаш се, облича се, обличаме се, обличате се, обличат се. To talk about putting on one specific item without 'се', you can use the object directly: 'обличам ризата' (I put on the shirt). Note: to say you go to bed we use 'лягам си' — here the short word is 'си', a cousin of 'се' that we will meet tomorrow.",
+        "examples": [
+          {
+            "russian": "Обличам се бързо.",
+            "english": "I get dressed quickly."
+          },
+          {
+            "russian": "Вечер се събличам.",
+            "english": "In the evening I get undressed."
+          },
+          {
+            "russian": "Децата се обличат сами.",
+            "english": "The children get dressed by themselves."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Дрехите",
+        "text": "Обличам се бързо сутрин. Ризата е бяла, а панталонът е нов. Обувките са до вратата.",
+        "translation": "I get dressed quickly in the morning. The shirt is white, and the trousers are new. The shoes are by the door.",
+        "glossary": [
+          {
+            "russian": "бяла",
+            "english": "white (f)"
+          },
+          {
+            "russian": "нов",
+            "english": "new (m)"
+          },
+          {
+            "russian": "вратата",
+            "english": "the door"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe how you get dressed in the morning and undressed at night. Use 'обличам се' and 'събличам се' plus two clothing words, and add 'бързо' or 'бавно'."
+    },
+    {
+      "day": 4,
+      "title": "Combing and getting ready: реша се, приготвям се",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "реша се",
+          "translit": "résha se",
+          "english": "I comb my hair",
+          "pos": "verb (reflexive)",
+          "example": "Реша се пред огледалото.",
+          "exampleEn": "I comb my hair in front of the mirror."
+        },
+        {
+          "russian": "приготвям се",
+          "translit": "prigótvyam se",
+          "english": "I get ready",
+          "pos": "verb (reflexive)",
+          "example": "Приготвям се за работа.",
+          "exampleEn": "I get ready for work."
+        },
+        {
+          "russian": "коса",
+          "translit": "kosá",
+          "english": "hair",
+          "pos": "noun (f)",
+          "example": "Косата ми е дълга.",
+          "exampleEn": "My hair is long."
+        },
+        {
+          "russian": "огледало",
+          "translit": "ogledálo",
+          "english": "mirror",
+          "pos": "noun (n)",
+          "example": "Огледалото е в банята.",
+          "exampleEn": "The mirror is in the bathroom."
+        },
+        {
+          "russian": "четка",
+          "translit": "chétka",
+          "english": "brush",
+          "pos": "noun (f)",
+          "example": "Четката е на масата.",
+          "exampleEn": "The brush is on the table."
+        },
+        {
+          "russian": "готов",
+          "translit": "gotóv",
+          "english": "ready",
+          "pos": "adjective",
+          "example": "Готов съм за работа.",
+          "exampleEn": "I am ready for work."
+        },
+        {
+          "russian": "лягам си",
+          "translit": "lyágam si",
+          "english": "I go to bed",
+          "pos": "verb (reflexive)",
+          "example": "Вечер си лягам рано.",
+          "exampleEn": "In the evening I go to bed early."
+        }
+      ],
+      "grammar": {
+        "title": "The short word 'си' vs 'се'",
+        "explanation": "Besides 'се', Bulgarian has a second little reflexive word: 'си'. We use 'си' when the action is done for or to oneself, often with one's own things: 'мия си зъбите' (I brush my teeth), 'лягам си' (I lie down / go to bed), 'почивам си' (I rest). 'Се' is the plain reflexive 'oneself' (обличам се). Like 'се', the word 'си' stays the same for every person and follows the same placement rule: after the verb, but before it when another word starts the sentence — 'Вечер си лягам рано'. Use 'съм' for 'I am ready': 'Готов съм'.",
+        "examples": [
+          {
+            "russian": "Реша се пред огледалото.",
+            "english": "I comb my hair in front of the mirror."
+          },
+          {
+            "russian": "Вечер си лягам рано.",
+            "english": "In the evening I go to bed early."
+          },
+          {
+            "russian": "Сега съм готов.",
+            "english": "Now I am ready."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Готов съм",
+        "text": "Реша се пред огледалото. После се приготвям за работа. Сега съм готов.",
+        "translation": "I comb my hair in front of the mirror. Then I get ready for work. Now I am ready.",
+        "glossary": [
+          {
+            "russian": "пред",
+            "english": "in front of"
+          },
+          {
+            "russian": "после",
+            "english": "then, afterwards"
+          },
+          {
+            "russian": "работа",
+            "english": "work"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe the last steps of getting ready and going to bed. Use 'реша се', 'приготвям се' and 'лягам си', and finish with 'Готов съм' or 'Готова съм'."
+    },
+    {
+      "day": 5,
+      "title": "How I feel: чувствам се",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "чувствам се",
+          "translit": "chúvstvam se",
+          "english": "I feel",
+          "pos": "verb (reflexive)",
+          "example": "Чувствам се добре днес.",
+          "exampleEn": "I feel well today."
+        },
+        {
+          "russian": "добре",
+          "translit": "dobré",
+          "english": "well, fine",
+          "pos": "adverb",
+          "example": "Днес съм добре.",
+          "exampleEn": "Today I am fine."
+        },
+        {
+          "russian": "уморен",
+          "translit": "umorén",
+          "english": "tired",
+          "pos": "adjective",
+          "example": "Вечер съм уморен.",
+          "exampleEn": "In the evening I am tired."
+        },
+        {
+          "russian": "болен",
+          "translit": "bolén",
+          "english": "ill, sick",
+          "pos": "adjective",
+          "example": "Днес съм малко болен.",
+          "exampleEn": "Today I am a little ill."
+        },
+        {
+          "russian": "щастлив",
+          "translit": "shtastlív",
+          "english": "happy",
+          "pos": "adjective",
+          "example": "Чувствам се щастлив.",
+          "exampleEn": "I feel happy."
+        },
+        {
+          "russian": "сега",
+          "translit": "segá",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Сега се чувствам по-добре.",
+          "exampleEn": "Now I feel better."
+        },
+        {
+          "russian": "цял ден",
+          "translit": "tsyál den",
+          "english": "all day",
+          "pos": "phrase",
+          "example": "Работя цял ден.",
+          "exampleEn": "I work all day."
+        }
+      ],
+      "grammar": {
+        "title": "Saying how you feel with 'чувствам се'",
+        "explanation": "'Чувствам се' (I feel) is followed by an ADVERB, not an adjective, when you describe a state: 'Чувствам се добре' (I feel well), 'Чувствам се зле' (I feel bad). To describe yourself with an adjective, you usually drop 'чувствам се' and use the verb 'to be' (съм): 'Уморен съм' (I am tired), 'Болен съм' (I am ill). The adjective then agrees with you: a man says 'уморен съм', a woman 'уморена съм'. Remember 'се' shifts before the verb after another word: 'Сега се чувствам по-добре'.",
+        "examples": [
+          {
+            "russian": "Чувствам се добре днес.",
+            "english": "I feel well today."
+          },
+          {
+            "russian": "Вечер съм уморена.",
+            "english": "In the evening I am tired (woman speaking)."
+          },
+          {
+            "russian": "Сега се чувствам по-добре.",
+            "english": "Now I feel better."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Как се чувствам",
+        "text": "Работя цял ден и вечер съм уморен. Но сега се чувствам добре. Утре ще съм щастлив.",
+        "translation": "I work all day and in the evening I am tired. But now I feel well. Tomorrow I will be happy.",
+        "glossary": [
+          {
+            "russian": "работя",
+            "english": "I work"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "утре",
+            "english": "tomorrow"
+          }
+        ]
+      },
+      "speakingPrompt": "Say how you feel at different times of day. Use 'чувствам се' with an adverb (добре, зле) and 'съм' with an adjective (уморен/уморена, щастлив/щастлива)."
+    },
+    {
+      "day": 6,
+      "title": "My whole day: the routine together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "връщам се",
+          "translit": "vráshtam se",
+          "english": "I return, come back",
+          "pos": "verb (reflexive)",
+          "example": "Връщам се вкъщи вечер.",
+          "exampleEn": "I come back home in the evening."
+        },
+        {
+          "russian": "обикновено",
+          "translit": "obiknovéno",
+          "english": "usually",
+          "pos": "adverb",
+          "example": "Обикновено ставам в седем.",
+          "exampleEn": "I usually get up at seven."
+        },
+        {
+          "russian": "после",
+          "translit": "pósle",
+          "english": "then, afterwards",
+          "pos": "adverb",
+          "example": "Закусвам, после тръгвам.",
+          "exampleEn": "I have breakfast, then I leave."
+        },
+        {
+          "russian": "закусвам",
+          "translit": "zakúsvam",
+          "english": "I have breakfast",
+          "pos": "verb",
+          "example": "Закусвам в кухнята.",
+          "exampleEn": "I have breakfast in the kitchen."
+        },
+        {
+          "russian": "тръгвам",
+          "translit": "trágvam",
+          "english": "I set off, leave",
+          "pos": "verb",
+          "example": "Тръгвам за работа в осем.",
+          "exampleEn": "I leave for work at eight."
+        },
+        {
+          "russian": "вечер",
+          "translit": "vécher",
+          "english": "in the evening",
+          "pos": "adverb",
+          "example": "Вечер си почивам.",
+          "exampleEn": "In the evening I rest."
+        },
+        {
+          "russian": "всеки ден",
+          "translit": "vséki den",
+          "english": "every day",
+          "pos": "phrase",
+          "example": "Правя това всеки ден.",
+          "exampleEn": "I do this every day."
+        }
+      ],
+      "grammar": {
+        "title": "Linking the routine: putting reflexive verbs in sequence",
+        "explanation": "Now we connect the whole day with sequence words: 'обикновено' (usually), 'после' (then), 'после' again, 'вечер' (in the evening). Each step can mix plain verbs and reflexive ones, and the placement rule for 'се'/'си' still applies. When a sentence starts with 'обикновено', 'после' or 'вечер', the short word moves before the verb: 'После се обличам', 'Вечер се връщам вкъщи'. Use 'и' (and) or 'после' to chain steps: 'Събуждам се, измивам се и се обличам.' Notice in a list with one shared 'и' the 'се' attaches to the nearest verb naturally.",
+        "examples": [
+          {
+            "russian": "Обикновено се събуждам в седем.",
+            "english": "I usually wake up at seven."
+          },
+          {
+            "russian": "После се обличам и закусвам.",
+            "english": "Then I get dressed and have breakfast."
+          },
+          {
+            "russian": "Вечер се връщам вкъщи и си почивам.",
+            "english": "In the evening I come back home and rest."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моят ден",
+        "text": "Обикновено се събуждам в седем. После се измивам, обличам се и закусвам. Вечер се връщам вкъщи уморен.",
+        "translation": "I usually wake up at seven. Then I wash up, get dressed and have breakfast. In the evening I come back home tired.",
+        "glossary": [
+          {
+            "russian": "вкъщи",
+            "english": "home, at home"
+          },
+          {
+            "russian": "моят",
+            "english": "my (m)"
+          },
+          {
+            "russian": "ден",
+            "english": "day"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell the story of your whole day in order. Use at least four reflexive verbs from this week and link them with 'обикновено', 'после' and 'вечер'."
+    },
+    {
+      "day": 7,
+      "title": "Review: the reflexive day",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: 'се' and 'си' in the daily routine",
+        "explanation": "This week you learned reflexive verbs with 'се': събуждам се (wake up), измивам се (wash up), обличам се / събличам се (get dressed/undressed), реша се (comb my hair), приготвям се (get ready), чувствам се (feel), връщам се (return). You also met the cousin word 'си' for actions done to one's own things: лягам си (go to bed), мия си зъбите (brush my teeth), почивам си (rest). Key rules: (1) 'се' and 'си' never change for person; (2) they follow the verb, but move BEFORE it when another word opens the clause (Сутрин се обличам); (3) use 'чувствам се' + adverb (добре) but 'съм' + adjective (уморен/уморена); (4) Bulgarian uses real 'to be' forms съм, си, е, сме, сте, са, has no cases, and shows relations with prepositions (в, на, до, за).",
+        "examples": [
+          {
+            "russian": "Сутрин се събуждам рано и ставам бавно.",
+            "english": "In the morning I wake up early and get up slowly."
+          },
+          {
+            "russian": "После се измивам, обличам се и се реша.",
+            "english": "Then I wash up, get dressed and comb my hair."
+          },
+          {
+            "russian": "Вечер съм уморен, но се чувствам добре.",
+            "english": "In the evening I am tired, but I feel well."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Диалог: Как мина денят?",
+        "text": "— Как се чувстваш сега? — Уморен съм, защото работих цял ден. — А сутрин? — Сутрин се събудих рано, измих се и се облякох бързо.",
+        "translation": "— How do you feel now? — I am tired, because I worked all day. — And in the morning? — In the morning I woke up early, washed up and got dressed quickly.",
+        "glossary": [
+          {
+            "russian": "защото",
+            "english": "because"
+          },
+          {
+            "russian": "как мина денят",
+            "english": "how was the day"
+          },
+          {
+            "russian": "работих",
+            "english": "I worked"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short dialogue about your day: ask 'Как се чувстваш?' and answer, then describe your morning routine using three reflexive verbs with 'се'. Try to move 'се' correctly after 'сутрин' or 'после'."
+    }
+  ]
+}

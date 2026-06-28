@@ -1,0 +1,664 @@
+{
+  "theme": "Requests & commands",
+  "week": 23,
+  "days": [
+    {
+      "day": 1,
+      "title": "Basic commands: give, tell, come",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "дай",
+          "translit": "DAY",
+          "english": "give (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Дай ми водата, моля.",
+          "exampleEn": "Give me the water, please."
+        },
+        {
+          "russian": "кажи",
+          "translit": "kaZHEE",
+          "english": "tell / say (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Кажи ми името си.",
+          "exampleEn": "Tell me your name."
+        },
+        {
+          "russian": "ела",
+          "translit": "elA",
+          "english": "come (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Ела тук, моля.",
+          "exampleEn": "Come here, please."
+        },
+        {
+          "russian": "вземи",
+          "translit": "vzeMEE",
+          "english": "take (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Вземи книгата от масата.",
+          "exampleEn": "Take the book from the table."
+        },
+        {
+          "russian": "чакай",
+          "translit": "CHAkay",
+          "english": "wait (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Чакай ме до вратата.",
+          "exampleEn": "Wait for me by the door."
+        },
+        {
+          "russian": "седни",
+          "translit": "sedNEE",
+          "english": "sit down (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Седни тук, до мен.",
+          "exampleEn": "Sit here, next to me."
+        },
+        {
+          "russian": "тук",
+          "translit": "TUK",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Чакай ме тук.",
+          "exampleEn": "Wait for me here."
+        }
+      ],
+      "grammar": {
+        "title": "The informal imperative (singular)",
+        "explanation": "Bulgarian forms commands to one person you know well. Common short forms are дай (give), кажи (tell), ела (come), вземи (take), чакай (wait), седни (sit). These are single-word commands and are very frequent in daily speech. You often add a short pronoun like ми (to me) or ме (me): Дай ми (give me), Чакай ме (wait for me). Remember Bulgarian has no cases, so these pronouns are just fixed little words, not case endings. Adding моля (please) makes any command politer.",
+        "examples": [
+          {
+            "russian": "Дай ми чашата.",
+            "english": "Give me the glass."
+          },
+          {
+            "russian": "Кажи ми сега.",
+            "english": "Tell me now."
+          },
+          {
+            "russian": "Ела тук!",
+            "english": "Come here!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "На вратата (At the door)",
+        "text": "— Ела тук! Седни до мен.\n— Чакай, дай ми водата, моля.\n— Кажи ми, готов ли си?",
+        "translation": "— Come here! Sit next to me.\n— Wait, give me the water, please.\n— Tell me, are you ready?",
+        "glossary": [
+          {
+            "russian": "до",
+            "english": "next to / by"
+          },
+          {
+            "russian": "готов",
+            "english": "ready"
+          },
+          {
+            "russian": "ли",
+            "english": "question particle"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine a close friend just arrived at your home. Give three short informal commands inviting them in and asking for help (e.g. ела, седни, дай ми...). Say them aloud, adding моля where it sounds polite."
+    },
+    {
+      "day": 2,
+      "title": "More everyday commands",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "погледни",
+          "translit": "poGLEDni",
+          "english": "look (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Погледни тук, моля.",
+          "exampleEn": "Look here, please."
+        },
+        {
+          "russian": "слушай",
+          "translit": "SLUshay",
+          "english": "listen (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Слушай ме внимателно.",
+          "exampleEn": "Listen to me carefully."
+        },
+        {
+          "russian": "отвори",
+          "translit": "otvoREE",
+          "english": "open (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Отвори вратата, моля.",
+          "exampleEn": "Open the door, please."
+        },
+        {
+          "russian": "затвори",
+          "translit": "zatvoREE",
+          "english": "close (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Затвори прозореца, моля.",
+          "exampleEn": "Close the window, please."
+        },
+        {
+          "russian": "помогни",
+          "translit": "pomogNEE",
+          "english": "help (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Помогни ми сега.",
+          "exampleEn": "Help me now."
+        },
+        {
+          "russian": "внимателно",
+          "translit": "vniMAtelno",
+          "english": "carefully",
+          "pos": "adverb",
+          "example": "Слушай внимателно.",
+          "exampleEn": "Listen carefully."
+        },
+        {
+          "russian": "прозорецът",
+          "translit": "proZOretsut",
+          "english": "the window",
+          "pos": "noun (m, definite)",
+          "example": "Затвори прозореца.",
+          "exampleEn": "Close the window."
+        },
+        {
+          "russian": "вратата",
+          "translit": "vraTAta",
+          "english": "the door",
+          "pos": "noun (f, definite)",
+          "example": "Отвори вратата, моля.",
+          "exampleEn": "Open the door, please."
+        }
+      ],
+      "grammar": {
+        "title": "Action commands and the definite article",
+        "explanation": "Today's commands act on an object: отвори вратата (open the door), затвори прозореца (close the window). Notice the article is a SUFFIX on the noun: врата → вратата (feminine -та), прозорец → прозорецът / прозореца (masculine -ът full form, -а short form used after verbs). Bulgarian has no cases, so the noun does not change its ending for being an object — only the article suffix marks 'the'. Adverbs like внимателно (carefully) come after the verb: Слушай внимателно.",
+        "examples": [
+          {
+            "russian": "Отвори вратата, моля.",
+            "english": "Open the door, please."
+          },
+          {
+            "russian": "Затвори прозореца.",
+            "english": "Close the window."
+          },
+          {
+            "russian": "Помогни ми, моля.",
+            "english": "Help me, please."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В стаята (In the room)",
+        "text": "— Слушай, помогни ми, моля.\n— Добре. Отвори вратата и затвори прозореца.\n— Погледни тук, готово е.",
+        "translation": "— Listen, help me, please.\n— Okay. Open the door and close the window.\n— Look here, it's done.",
+        "glossary": [
+          {
+            "russian": "стаята",
+            "english": "the room"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          },
+          {
+            "russian": "готово",
+            "english": "done / ready (neuter)"
+          }
+        ]
+      },
+      "speakingPrompt": "You are tidying a room with a friend. Tell them to open the door, close the window, look at something and help you — using today's commands and моля. Say each sentence aloud."
+    },
+    {
+      "day": 3,
+      "title": "Negative commands: don't!",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "недей",
+          "translit": "neDEY",
+          "english": "don't (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Недей, моля те.",
+          "exampleEn": "Don't, please."
+        },
+        {
+          "russian": "спри",
+          "translit": "SPREE",
+          "english": "stop (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Спри тук, моля.",
+          "exampleEn": "Stop here, please."
+        },
+        {
+          "russian": "не пипай",
+          "translit": "ne PEEpay",
+          "english": "don't touch",
+          "pos": "verb phrase (imperative)",
+          "example": "Не пипай това!",
+          "exampleEn": "Don't touch that!"
+        },
+        {
+          "russian": "не бързай",
+          "translit": "ne BURzay",
+          "english": "don't hurry",
+          "pos": "verb phrase (imperative)",
+          "example": "Не бързай, имаме време.",
+          "exampleEn": "Don't hurry, we have time."
+        },
+        {
+          "russian": "тихо",
+          "translit": "TEEho",
+          "english": "quietly / quiet",
+          "pos": "adverb",
+          "example": "Говори тихо, моля.",
+          "exampleEn": "Speak quietly, please."
+        },
+        {
+          "russian": "това",
+          "translit": "toVA",
+          "english": "this / that",
+          "pos": "pronoun (neuter)",
+          "example": "Не пипай това.",
+          "exampleEn": "Don't touch this."
+        },
+        {
+          "russian": "време",
+          "translit": "VREme",
+          "english": "time",
+          "pos": "noun (n)",
+          "example": "Имаме време, не бързай.",
+          "exampleEn": "We have time, don't hurry."
+        }
+      ],
+      "grammar": {
+        "title": "Saying 'don't': не + command and недей",
+        "explanation": "To tell someone NOT to do something, the simplest pattern is не + the present-tense verb: Не пипай (don't touch), Не бързай (don't hurry). The verb is in its normal 'you' present form here. Another very common option is недей plus да + verb: Недей да бързаш (don't hurry). For one strong word, недей alone means 'don't!'. The verb спри (stop) is a positive command on its own. Soften any of these with моля or моля те (please, to a friend).",
+        "examples": [
+          {
+            "russian": "Не пипай това!",
+            "english": "Don't touch that!"
+          },
+          {
+            "russian": "Недей да бързаш.",
+            "english": "Don't hurry."
+          },
+          {
+            "russian": "Спри, моля те.",
+            "english": "Stop, please."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазина (In the shop)",
+        "text": "— Не пипай това, моля.\n— Добре, спри да се притесняваш.\n— Не бързай, имаме време.",
+        "translation": "— Don't touch that, please.\n— Okay, stop worrying.\n— Don't hurry, we have time.",
+        "glossary": [
+          {
+            "russian": "магазина",
+            "english": "the shop"
+          },
+          {
+            "russian": "се притесняваш",
+            "english": "you worry"
+          },
+          {
+            "russian": "имаме",
+            "english": "we have"
+          }
+        ]
+      },
+      "speakingPrompt": "A child is about to touch something fragile and is rushing. Give three negative commands (не пипай, не бързай, спри) and add моля те to stay gentle. Say them aloud."
+    },
+    {
+      "day": 4,
+      "title": "Welcoming guests: заповядай",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "заповядай",
+          "translit": "zapoVYAday",
+          "english": "here you go / come in / help yourself (informal)",
+          "pos": "verb (imperative)",
+          "example": "Заповядай, седни тук.",
+          "exampleEn": "Come in, sit here."
+        },
+        {
+          "russian": "заповядайте",
+          "translit": "zapoVYAdayte",
+          "english": "here you go / come in (polite or plural)",
+          "pos": "verb (imperative)",
+          "example": "Заповядайте в кухнята.",
+          "exampleEn": "Come into the kitchen."
+        },
+        {
+          "russian": "опитай",
+          "translit": "oPEEtay",
+          "english": "try / taste (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Опитай тази супа.",
+          "exampleEn": "Try this soup."
+        },
+        {
+          "russian": "влез",
+          "translit": "VLEZ",
+          "english": "come in / enter (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Влез, заповядай!",
+          "exampleEn": "Come in, please!"
+        },
+        {
+          "russian": "гост",
+          "translit": "GOST",
+          "english": "guest",
+          "pos": "noun (m)",
+          "example": "Имам гост днес.",
+          "exampleEn": "I have a guest today."
+        },
+        {
+          "russian": "кухнята",
+          "translit": "KUHnyata",
+          "english": "the kitchen",
+          "pos": "noun (f, definite)",
+          "example": "Заповядай в кухнята.",
+          "exampleEn": "Come into the kitchen."
+        },
+        {
+          "russian": "супа",
+          "translit": "SUpa",
+          "english": "soup",
+          "pos": "noun (f)",
+          "example": "Опитай супата, моля.",
+          "exampleEn": "Try the soup, please."
+        }
+      ],
+      "grammar": {
+        "title": "Заповядай / заповядайте — the all-purpose welcome",
+        "explanation": "Заповядай is one of the most useful words in Bulgarian. It means roughly 'here you are', 'go ahead', 'help yourself', or 'come in', depending on the situation. Use заповядай to one friend, and заповядайте to someone you address politely or to several people — the -те ending marks the polite/plural 'you'. This -те ending is how almost all imperatives become polite or plural: седни → седнете, опитай → опитайте, влез → влезте.",
+        "examples": [
+          {
+            "russian": "Влез, заповядай!",
+            "english": "Come in, please!"
+          },
+          {
+            "russian": "Заповядайте, седнете.",
+            "english": "Come in, sit down. (polite)"
+          },
+          {
+            "russian": "Опитай супата.",
+            "english": "Try the soup."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На гости (Visiting)",
+        "text": "— Влез, заповядай! Седни тук.\n— Благодаря.\n— Опитай супата, моля. Заповядай в кухнята.",
+        "translation": "— Come in, please! Sit here.\n— Thank you.\n— Try the soup, please. Come into the kitchen.",
+        "glossary": [
+          {
+            "russian": "на гости",
+            "english": "visiting / as a guest"
+          },
+          {
+            "russian": "благодаря",
+            "english": "thank you"
+          },
+          {
+            "russian": "в",
+            "english": "in / into"
+          }
+        ]
+      },
+      "speakingPrompt": "A guest arrives at your home. Welcome them aloud using заповядай, влез, седни and опитай, and offer them soup. Then repeat the same welcome politely to two guests using the -те forms."
+    },
+    {
+      "day": 5,
+      "title": "Polite requests: моля and Бихте ли",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "моля",
+          "translit": "MOlya",
+          "english": "please / I ask",
+          "pos": "particle / verb",
+          "example": "Моля, помогнете ми.",
+          "exampleEn": "Please, help me."
+        },
+        {
+          "russian": "бихте ли",
+          "translit": "BEEhte li",
+          "english": "would you (polite request)",
+          "pos": "verb phrase",
+          "example": "Бихте ли отворили прозореца?",
+          "exampleEn": "Would you open the window?"
+        },
+        {
+          "russian": "можете ли",
+          "translit": "MOzhete li",
+          "english": "can you (polite)",
+          "pos": "verb phrase",
+          "example": "Можете ли да повторите?",
+          "exampleEn": "Can you repeat?"
+        },
+        {
+          "russian": "повторете",
+          "translit": "povtoREte",
+          "english": "repeat (polite command)",
+          "pos": "verb (imperative)",
+          "example": "Повторете, моля.",
+          "exampleEn": "Repeat, please."
+        },
+        {
+          "russian": "извинете",
+          "translit": "izviNEte",
+          "english": "excuse me / sorry (polite)",
+          "pos": "verb (imperative)",
+          "example": "Извинете, можете ли да помогнете?",
+          "exampleEn": "Excuse me, can you help?"
+        },
+        {
+          "russian": "помогнете",
+          "translit": "pomogNEte",
+          "english": "help (polite command)",
+          "pos": "verb (imperative)",
+          "example": "Помогнете ми, моля.",
+          "exampleEn": "Help me, please."
+        },
+        {
+          "russian": "разбира се",
+          "translit": "razBEEra se",
+          "english": "of course",
+          "pos": "phrase",
+          "example": "Разбира се, заповядайте.",
+          "exampleEn": "Of course, here you go."
+        }
+      ],
+      "grammar": {
+        "title": "Polite requests with Бихте ли and Можете ли",
+        "explanation": "For a polite request to someone you address formally, use Бихте ли + past participle (Бихте ли отворили...? Would you open...?) or, more simply, Можете ли да + present verb (Можете ли да повторите? Can you repeat?). Both are softer and more formal than a bare command. The polite imperatives end in -те: повторете, помогнете, извинете. Моля can stand alone for 'please' or be the verb 'I ask'. A natural reply is Разбира се (of course).",
+        "examples": [
+          {
+            "russian": "Бихте ли затворили вратата?",
+            "english": "Would you close the door?"
+          },
+          {
+            "russian": "Можете ли да помогнете, моля?",
+            "english": "Can you help, please?"
+          },
+          {
+            "russian": "Извинете, повторете, моля.",
+            "english": "Excuse me, repeat, please."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На улицата (On the street)",
+        "text": "— Извинете, можете ли да помогнете?\n— Разбира се. Какво искате?\n— Бихте ли повторили, моля?",
+        "translation": "— Excuse me, can you help?\n— Of course. What do you want?\n— Would you repeat, please?",
+        "glossary": [
+          {
+            "russian": "улицата",
+            "english": "the street"
+          },
+          {
+            "russian": "какво",
+            "english": "what"
+          },
+          {
+            "russian": "искате",
+            "english": "you want (polite)"
+          }
+        ]
+      },
+      "speakingPrompt": "You are lost in a Bulgarian city and need help from a stranger. Politely get their attention and make two requests using Извинете, Можете ли да... and Бихте ли..., ending with моля. Say it aloud."
+    },
+    {
+      "day": 6,
+      "title": "Putting requests together in daily life",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "донеси",
+          "translit": "doneSEE",
+          "english": "bring (informal command)",
+          "pos": "verb (imperative)",
+          "example": "Донеси ми чаша вода.",
+          "exampleEn": "Bring me a glass of water."
+        },
+        {
+          "russian": "донесете",
+          "translit": "doneSEte",
+          "english": "bring (polite command)",
+          "pos": "verb (imperative)",
+          "example": "Донесете менюто, моля.",
+          "exampleEn": "Bring the menu, please."
+        },
+        {
+          "russian": "сметката",
+          "translit": "SMETkata",
+          "english": "the bill / check",
+          "pos": "noun (f, definite)",
+          "example": "Сметката, моля.",
+          "exampleEn": "The bill, please."
+        },
+        {
+          "russian": "менюто",
+          "translit": "meNYUto",
+          "english": "the menu",
+          "pos": "noun (n, definite)",
+          "example": "Бихте ли донесли менюто?",
+          "exampleEn": "Would you bring the menu?"
+        },
+        {
+          "russian": "чаша",
+          "translit": "CHAsha",
+          "english": "glass / cup",
+          "pos": "noun (f)",
+          "example": "Донеси ми чаша вода.",
+          "exampleEn": "Bring me a glass of water."
+        },
+        {
+          "russian": "сервитьор",
+          "translit": "serviTYOR",
+          "english": "waiter",
+          "pos": "noun (m)",
+          "example": "Сервитьорът идва сега.",
+          "exampleEn": "The waiter is coming now."
+        },
+        {
+          "russian": "още",
+          "translit": "OSHte",
+          "english": "more / still",
+          "pos": "adverb",
+          "example": "Донесете още вода, моля.",
+          "exampleEn": "Bring more water, please."
+        }
+      ],
+      "grammar": {
+        "title": "Combining commands and polite requests in real settings",
+        "explanation": "This day combines the week's tools. In a cafe or shop you can mix a polite frame with a clear request: Бихте ли донесли менюто? (Would you bring the menu?) or Донесете сметката, моля (Bring the bill, please). With a friend use the informal form: Донеси ми чаша вода. Word order is request-word + verb + object, and the noun shows 'the' with its article suffix: сметка → сметката, меню → менюто. Add още (more) before the noun: още вода (more water). No cases are involved — only articles and prepositions.",
+        "examples": [
+          {
+            "russian": "Бихте ли донесли менюто?",
+            "english": "Would you bring the menu?"
+          },
+          {
+            "russian": "Донесете сметката, моля.",
+            "english": "Bring the bill, please."
+          },
+          {
+            "russian": "Донеси ми още вода.",
+            "english": "Bring me more water."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафенето (In the cafe)",
+        "text": "— Извинете, бихте ли донесли менюто?\n— Разбира се, заповядайте.\n— Донесете още вода и сметката, моля.",
+        "translation": "— Excuse me, would you bring the menu?\n— Of course, here you go.\n— Bring more water and the bill, please.",
+        "glossary": [
+          {
+            "russian": "кафенето",
+            "english": "the cafe"
+          },
+          {
+            "russian": "идва",
+            "english": "is coming / comes"
+          },
+          {
+            "russian": "вода",
+            "english": "water"
+          }
+        ]
+      },
+      "speakingPrompt": "You are at a Bulgarian cafe. Politely ask the waiter for the menu, then for more water and the bill, using Бихте ли..., Донесете... and моля. Then say the same requests informally to a friend with донеси. Speak aloud."
+    },
+    {
+      "day": 7,
+      "title": "Review: requests & commands",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 23 recap: imperatives and polite requests",
+        "explanation": "This week you learned to make requests and give commands. Informal singular commands: дай, кажи, ела, вземи, чакай, седни, погледни, слушай, отвори, затвори, помогни, опитай, влез, донеси. Make them polite or plural by adding -те: седнете, помогнете, донесете, заповядайте. Say 'don't' with не + present verb (не пипай) or недей да + verb. Welcome people with заповядай / заповядайте. For formal requests use Бихте ли + past participle (Бихте ли донесли...) or Можете ли да + verb (Можете ли да помогнете). Soften everything with моля, and remember: Bulgarian has NO noun cases — relations come from word order, prepositions (в, на, до, с), and the article suffix (-ът/-а, -та, -то, -те).",
+        "examples": [
+          {
+            "russian": "Ела тук и седни, моля.",
+            "english": "Come here and sit down, please."
+          },
+          {
+            "russian": "Бихте ли отворили вратата?",
+            "english": "Would you open the door?"
+          },
+          {
+            "russian": "Не пипай това, моля те.",
+            "english": "Don't touch that, please."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Гост в кафенето (A guest at the cafe)",
+        "text": "— Влез, заповядай! Седни тук.\n— Благодаря. Извинете, бихте ли донесли менюто?\n— Разбира се. Опитай супата, моля. И не бързай — имаме време.",
+        "translation": "— Come in, please! Sit here.\n— Thank you. Excuse me, would you bring the menu?\n— Of course. Try the soup, please. And don't hurry — we have time.",
+        "glossary": [
+          {
+            "russian": "заповядай",
+            "english": "come in / here you go"
+          },
+          {
+            "russian": "бихте ли",
+            "english": "would you (polite)"
+          },
+          {
+            "russian": "не бързай",
+            "english": "don't hurry"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a full scene: welcome a friend into your home (заповядай, влез, седни), offer them food (опитай), then switch to a polite waiter and make requests (Бихте ли..., Донесете..., моля), and finally tell a child not to rush (не бързай, не пипай). Use at least one informal command, one polite -те command, one Бихте ли request, and one negative command. Speak the whole scene aloud."
+    }
+  ]
+}

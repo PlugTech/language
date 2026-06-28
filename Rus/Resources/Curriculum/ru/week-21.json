@@ -1,0 +1,640 @@
+{
+  "theme": "Plans & the future",
+  "week": 21,
+  "days": [
+    {
+      "day": 1,
+      "title": "Day 1: Future time words (завтра, скоро, потом)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "завтра",
+          "translit": "závtra",
+          "english": "tomorrow",
+          "pos": "adverb",
+          "example": "Завтра я дома.",
+          "exampleEn": "Tomorrow I'm at home."
+        },
+        {
+          "russian": "скоро",
+          "translit": "skóra",
+          "english": "soon",
+          "pos": "adverb",
+          "example": "Мама скоро дома.",
+          "exampleEn": "Mom is home soon."
+        },
+        {
+          "russian": "потом",
+          "translit": "patóm",
+          "english": "later, then",
+          "pos": "adverb",
+          "example": "Сначала кофе, потом работа.",
+          "exampleEn": "First coffee, then work."
+        },
+        {
+          "russian": "сегодня",
+          "translit": "sevódnya",
+          "english": "today",
+          "pos": "adverb",
+          "example": "Сегодня хорошая погода.",
+          "exampleEn": "The weather is good today."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "sichás",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Я сейчас дома.",
+          "exampleEn": "I'm at home now."
+        },
+        {
+          "russian": "вечером",
+          "translit": "véchiram",
+          "english": "in the evening",
+          "pos": "adverb",
+          "example": "Вечером я свободен.",
+          "exampleEn": "In the evening I'm free."
+        },
+        {
+          "russian": "план",
+          "translit": "plan",
+          "english": "plan",
+          "pos": "noun",
+          "example": "У меня хороший план.",
+          "exampleEn": "I have a good plan."
+        }
+      ],
+      "grammar": {
+        "title": "Talking about \"when\": future time words",
+        "explanation": "Russian uses simple **adverbs** to place an action in time. You already say things in the present; now add words that point to the future. Key ones: **завтра** (tomorrow), **скоро** (soon), **потом** (later/then), **сейчас** (now), **сегодня** (today). They usually go at the **start** of the sentence or right before the verb, and they do **not** change form. Note that with just these words and a present-tense verb, Russian can already imply a near-future plan: *Завтра я дома* literally is \"Tomorrow I [am] home.\"",
+        "examples": [
+          {
+            "russian": "Завтра я дома.",
+            "english": "Tomorrow I'm (at) home."
+          },
+          {
+            "russian": "Скоро мама дома.",
+            "english": "Mom will be home soon."
+          },
+          {
+            "russian": "Сначала работа, потом кофе.",
+            "english": "First work, then coffee."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какие планы?",
+        "text": "— Что сегодня? — Сегодня работа. — А завтра? — Завтра я дома. — Хорошо, потом кофе?",
+        "translation": "\"What's on today?\" \"Today, work.\" \"And tomorrow?\" \"Tomorrow I'm at home.\" \"Good, coffee later?\"",
+        "glossary": [
+          {
+            "russian": "Что сегодня?",
+            "english": "What's on today? (lit. What today?)"
+          },
+          {
+            "russian": "А завтра?",
+            "english": "And tomorrow?"
+          }
+        ]
+      },
+      "speakingPrompt": "Say three short sentences about your week using завтра, скоро, and потом. For example, tell me one thing that is happening today (сегодня) and one thing tomorrow (завтра)."
+    },
+    {
+      "day": 2,
+      "title": "Day 2: Two kinds of verbs — aspect introduced",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "делать",
+          "translit": "délat'",
+          "english": "to do (imperfective)",
+          "pos": "verb",
+          "example": "Что ты делаешь?",
+          "exampleEn": "What are you doing?"
+        },
+        {
+          "russian": "сделать",
+          "translit": "sdélat'",
+          "english": "to do, get done (perfective)",
+          "pos": "verb",
+          "example": "Я хочу сделать план.",
+          "exampleEn": "I want to get the plan done."
+        },
+        {
+          "russian": "читать",
+          "translit": "chitát'",
+          "english": "to read (imperfective)",
+          "pos": "verb",
+          "example": "Я люблю читать.",
+          "exampleEn": "I love to read."
+        },
+        {
+          "russian": "прочитать",
+          "translit": "prachitát'",
+          "english": "to read (through) (perfective)",
+          "pos": "verb",
+          "example": "Я хочу прочитать книгу.",
+          "exampleEn": "I want to read the book (all of it)."
+        },
+        {
+          "russian": "писать",
+          "translit": "pisát'",
+          "english": "to write (imperfective)",
+          "pos": "verb",
+          "example": "Я пишу письмо.",
+          "exampleEn": "I'm writing a letter."
+        },
+        {
+          "russian": "написать",
+          "translit": "napisát'",
+          "english": "to write (perfective)",
+          "pos": "verb",
+          "example": "Надо написать письмо.",
+          "exampleEn": "I need to write a letter."
+        },
+        {
+          "russian": "книга",
+          "translit": "kníga",
+          "english": "book",
+          "pos": "noun",
+          "example": "Это новая книга.",
+          "exampleEn": "This is a new book."
+        },
+        {
+          "russian": "письмо",
+          "translit": "pis'mó",
+          "english": "letter",
+          "pos": "noun",
+          "example": "Я читаю письмо.",
+          "exampleEn": "I'm reading a letter."
+        }
+      ],
+      "grammar": {
+        "title": "Verb aspect: imperfective vs perfective",
+        "explanation": "Russian verbs come in **pairs**. The two members describe the same action but from a different angle:\n\n- **Imperfective** = the action in general, ongoing, or repeated (the *process*). Example: **делать** (to do, to be doing).\n- **Perfective** = the action seen as a *single completed whole*, with a result. Example: **сделать** (to get done).\n\nVery often the perfective is just the imperfective **plus a prefix**: читать → **про**читать, писать → **на**писать, делать → **с**делать. Today just learn to recognise the pairs. Tip: a perfective verb cannot describe something happening *right now*, so you use the **imperfective** for \"I'm reading\" (Я читаю) but the **perfective** when you mean \"read it to the end\" (прочитать).",
+        "examples": [
+          {
+            "russian": "Я читаю книгу.",
+            "english": "I'm reading a book. (process — imperfective)"
+          },
+          {
+            "russian": "Я хочу прочитать книгу.",
+            "english": "I want to read the book (finish it). (result — perfective)"
+          },
+          {
+            "russian": "Что ты делаешь?",
+            "english": "What are you doing? (imperfective)"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Книга и письмо",
+        "text": "— Что ты делаешь? — Я читаю книгу. — А потом? — Потом хочу написать письмо.",
+        "translation": "\"What are you doing?\" \"I'm reading a book.\" \"And after that?\" \"Then I want to write a letter.\"",
+        "glossary": [
+          {
+            "russian": "хочу",
+            "english": "I want (+ verb)"
+          },
+          {
+            "russian": "А потом?",
+            "english": "And after that / then?"
+          }
+        ]
+      },
+      "speakingPrompt": "Pick one verb pair (читать/прочитать or писать/написать). Say one sentence about doing it right now (process) and one about wanting to finish it (result). I'll help you choose the right aspect."
+    },
+    {
+      "day": 3,
+      "title": "Day 3: The future with буду + imperfective",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "буду",
+          "translit": "búdu",
+          "english": "I will (be)",
+          "pos": "verb",
+          "example": "Завтра я буду дома.",
+          "exampleEn": "Tomorrow I will be at home."
+        },
+        {
+          "russian": "будешь",
+          "translit": "búdesh'",
+          "english": "you will (be)",
+          "pos": "verb",
+          "example": "Ты будешь читать?",
+          "exampleEn": "Will you read?"
+        },
+        {
+          "russian": "будет",
+          "translit": "búdit",
+          "english": "he/she/it will (be)",
+          "pos": "verb",
+          "example": "Скоро будет кофе.",
+          "exampleEn": "There will be coffee soon."
+        },
+        {
+          "russian": "будем",
+          "translit": "búdim",
+          "english": "we will (be)",
+          "pos": "verb",
+          "example": "Завтра мы будем работать.",
+          "exampleEn": "Tomorrow we will work."
+        },
+        {
+          "russian": "отдыхать",
+          "translit": "atdykhát'",
+          "english": "to rest, relax (impf)",
+          "pos": "verb",
+          "example": "Вечером я буду отдыхать.",
+          "exampleEn": "In the evening I will rest."
+        },
+        {
+          "russian": "работать",
+          "translit": "rabótat'",
+          "english": "to work (impf)",
+          "pos": "verb",
+          "example": "Завтра я буду работать.",
+          "exampleEn": "Tomorrow I will work."
+        },
+        {
+          "russian": "смотреть",
+          "translit": "smatrét'",
+          "english": "to watch, look (impf)",
+          "pos": "verb",
+          "example": "Я буду смотреть фильм.",
+          "exampleEn": "I will watch a film."
+        }
+      ],
+      "grammar": {
+        "title": "The compound future: буду + imperfective infinitive",
+        "explanation": "To say what you **will be doing** (an ongoing or repeated future action), use the future of the verb \"to be\" plus an **imperfective infinitive**. The verb \"to be\" conjugates; the second verb stays in the dictionary (infinitive) form:\n\n- я **буду** работать — I will work / will be working\n- ты **будешь** работать\n- он/она **будет** работать\n- мы **будем** работать\n\nThis pattern ALWAYS uses the **imperfective** verb (работать, читать, смотреть). It is the natural way to talk about future plans and routines: *Завтра я буду работать* = \"Tomorrow I'll be working.\" You can also use **буду / будет** alone with a place or noun: *Завтра я буду дома* (I'll be home), *Скоро будет кофе* (there'll be coffee soon).",
+        "examples": [
+          {
+            "russian": "Завтра я буду работать.",
+            "english": "Tomorrow I will work."
+          },
+          {
+            "russian": "Вечером мы будем отдыхать.",
+            "english": "In the evening we will relax."
+          },
+          {
+            "russian": "Ты будешь смотреть фильм?",
+            "english": "Will you watch a film?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вечером",
+        "text": "— Что ты будешь делать вечером? — Я буду смотреть фильм. А ты? — Я буду отдыхать.",
+        "translation": "\"What will you be doing in the evening?\" \"I'll watch a film. And you?\" \"I'll relax.\"",
+        "glossary": [
+          {
+            "russian": "будешь делать",
+            "english": "will (you) do / be doing"
+          },
+          {
+            "russian": "А ты?",
+            "english": "And you?"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell me three things you will be doing tomorrow using буду + a verb (работать, отдыхать, читать, смотреть). Start each with завтра or вечером."
+    },
+    {
+      "day": 4,
+      "title": "Day 4: The perfective future (one completed action)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "куплю",
+          "translit": "kuplyú",
+          "english": "I will buy",
+          "pos": "verb",
+          "example": "Завтра я куплю кофе.",
+          "exampleEn": "Tomorrow I'll buy coffee."
+        },
+        {
+          "russian": "купить",
+          "translit": "kupít'",
+          "english": "to buy (perfective)",
+          "pos": "verb",
+          "example": "Надо купить хлеб.",
+          "exampleEn": "I need to buy bread."
+        },
+        {
+          "russian": "напишу",
+          "translit": "napishú",
+          "english": "I will write (and finish)",
+          "pos": "verb",
+          "example": "Скоро я напишу письмо.",
+          "exampleEn": "I'll write the letter soon."
+        },
+        {
+          "russian": "прочитаю",
+          "translit": "prachitáyu",
+          "english": "I will read (through)",
+          "pos": "verb",
+          "example": "Завтра я прочитаю книгу.",
+          "exampleEn": "Tomorrow I'll read the book."
+        },
+        {
+          "russian": "сделаю",
+          "translit": "sdélayu",
+          "english": "I will do (and finish)",
+          "pos": "verb",
+          "example": "Я сделаю план завтра.",
+          "exampleEn": "I'll get the plan done tomorrow."
+        },
+        {
+          "russian": "хлеб",
+          "translit": "khlep",
+          "english": "bread",
+          "pos": "noun",
+          "example": "Я куплю хлеб.",
+          "exampleEn": "I'll buy bread."
+        },
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop, store",
+          "pos": "noun",
+          "example": "Это большой магазин.",
+          "exampleEn": "This is a big shop."
+        }
+      ],
+      "grammar": {
+        "title": "The simple (perfective) future: one finished action",
+        "explanation": "There are **two** futures in Russian. Yesterday you learned the *compound* future (буду + imperfective) for ongoing/repeated actions. Today: the **simple future**, used for a **single, completed** future action with a result.\n\nThe trick: take a **perfective** verb and conjugate it with the **normal present-tense endings** — but because the verb is perfective, the meaning is **future**:\n\n- прочита-ть → я **прочитаю** (I will read it through)\n- напис-ать → я **напишу** (I will write it)\n- сдела-ть → я **сделаю** (I will get it done)\n- куп-ить → я **куплю** (I will buy)\n\nCompare: *Я буду читать* = \"I'll be reading\" (process). *Я прочитаю* = \"I'll read it (finish it)\" (one result). There is **no** буду here — the perfective form alone is already future.",
+        "examples": [
+          {
+            "russian": "Завтра я куплю хлеб.",
+            "english": "Tomorrow I'll buy bread."
+          },
+          {
+            "russian": "Скоро я напишу письмо.",
+            "english": "I'll write the letter soon."
+          },
+          {
+            "russian": "Я прочитаю книгу потом.",
+            "english": "I'll read the book later."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазин",
+        "text": "— Куда ты завтра? — В магазин. Куплю хлеб и кофе. — Хорошо. Потом я прочитаю книгу.",
+        "translation": "\"Where are you going tomorrow?\" \"To the shop. I'll buy bread and coffee.\" \"Good. Then I'll read the book.\"",
+        "glossary": [
+          {
+            "russian": "Куда?",
+            "english": "Where to?"
+          },
+          {
+            "russian": "в магазин",
+            "english": "to the shop"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Say two plans for tomorrow using the perfective future (куплю, напишу, прочитаю, сделаю). These are things you will finish, not just do for a while."
+    },
+    {
+      "day": 5,
+      "title": "Day 5: Choosing the aspect — process vs result in the future",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "встретить",
+          "translit": "vstrétit'",
+          "english": "to meet (perfective)",
+          "pos": "verb",
+          "example": "Завтра я встречу друга.",
+          "exampleEn": "Tomorrow I'll meet a friend."
+        },
+        {
+          "russian": "встречать",
+          "translit": "vstrechát'",
+          "english": "to meet (imperfective)",
+          "pos": "verb",
+          "example": "Я часто встречаю друга.",
+          "exampleEn": "I often meet my friend."
+        },
+        {
+          "russian": "готовить",
+          "translit": "gatóvit'",
+          "english": "to cook, prepare (impf)",
+          "pos": "verb",
+          "example": "Вечером я буду готовить ужин.",
+          "exampleEn": "In the evening I'll be cooking dinner."
+        },
+        {
+          "russian": "приготовить",
+          "translit": "prigatóvit'",
+          "english": "to cook, prepare (pf)",
+          "pos": "verb",
+          "example": "Я приготовлю ужин.",
+          "exampleEn": "I'll make dinner."
+        },
+        {
+          "russian": "друг",
+          "translit": "druk",
+          "english": "friend",
+          "pos": "noun",
+          "example": "Это мой друг.",
+          "exampleEn": "This is my friend."
+        },
+        {
+          "russian": "ужин",
+          "translit": "úzhin",
+          "english": "dinner, supper",
+          "pos": "noun",
+          "example": "Ужин скоро.",
+          "exampleEn": "Dinner is soon."
+        },
+        {
+          "russian": "весь вечер",
+          "translit": "ves' véchir",
+          "english": "all evening",
+          "pos": "phrase",
+          "example": "Я буду читать весь вечер.",
+          "exampleEn": "I'll read all evening."
+        }
+      ],
+      "grammar": {
+        "title": "Which future? Process (буду + impf) vs result (perfective)",
+        "explanation": "Now put the two futures side by side and **choose**:\n\n- **буду + imperfective** → the action will go on for a while, repeat, or you focus on the *activity itself*. Often with words like **весь вечер** (all evening), **часто** (often).\n- **perfective future** → one action, **done and finished**, with a clear result. Often with **завтра**, **скоро**, **потом**.\n\nCompare the pair:\n- *Вечером я буду готовить ужин.* — I'll be cooking dinner (the process, for a while).\n- *Я приготовлю ужин.* — I'll make dinner (and it'll be ready — result).\n\nAnother pair:\n- *Я буду встречать друга.* — I'll be meeting / waiting for my friend.\n- *Завтра я встречу друга.* — Tomorrow I'll meet my friend (one event).",
+        "examples": [
+          {
+            "russian": "Я буду читать весь вечер.",
+            "english": "I'll read all evening. (process)"
+          },
+          {
+            "russian": "Я прочитаю книгу завтра.",
+            "english": "I'll finish the book tomorrow. (result)"
+          },
+          {
+            "russian": "Завтра я приготовлю ужин.",
+            "english": "Tomorrow I'll make dinner. (result)"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Ужин завтра",
+        "text": "— Завтра я встречу друга. Потом приготовлю ужин. — А я буду читать весь вечер.",
+        "translation": "\"Tomorrow I'll meet a friend. Then I'll make dinner.\" \"And I'll be reading all evening.\"",
+        "glossary": [
+          {
+            "russian": "мой друг",
+            "english": "my friend"
+          },
+          {
+            "russian": "весь вечер",
+            "english": "all evening"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe tomorrow evening with two sentences: one process (буду + готовить/читать) and one result (приготовлю, встречу, прочитаю). Tell me why you chose each aspect."
+    },
+    {
+      "day": 6,
+      "title": "Day 6: Putting it together — saying what you plan to do",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "хотеть",
+          "translit": "khatét'",
+          "english": "to want",
+          "pos": "verb",
+          "example": "Я хочу отдыхать.",
+          "exampleEn": "I want to rest."
+        },
+        {
+          "russian": "планировать",
+          "translit": "planíravat'",
+          "english": "to plan (impf)",
+          "pos": "verb",
+          "example": "Я планирую отдых.",
+          "exampleEn": "I'm planning a holiday."
+        },
+        {
+          "russian": "надо",
+          "translit": "náda",
+          "english": "(it's) necessary, need to",
+          "pos": "phrase",
+          "example": "Надо купить хлеб.",
+          "exampleEn": "I need to buy bread."
+        },
+        {
+          "russian": "выходной",
+          "translit": "vykhadnóy",
+          "english": "day off",
+          "pos": "noun",
+          "example": "Завтра выходной.",
+          "exampleEn": "Tomorrow is a day off."
+        },
+        {
+          "russian": "утром",
+          "translit": "útram",
+          "english": "in the morning",
+          "pos": "adverb",
+          "example": "Утром я буду работать.",
+          "exampleEn": "In the morning I'll work."
+        },
+        {
+          "russian": "отдых",
+          "translit": "ótdykh",
+          "english": "rest, holiday",
+          "pos": "noun",
+          "example": "Мне нужен отдых.",
+          "exampleEn": "I need a rest."
+        },
+        {
+          "russian": "поехать",
+          "translit": "payékhat'",
+          "english": "to go (by transport) (pf)",
+          "pos": "verb",
+          "example": "Завтра я поеду в магазин.",
+          "exampleEn": "Tomorrow I'll go to the shop."
+        }
+      ],
+      "grammar": {
+        "title": "Plans in full: intentions, needs, and time",
+        "explanation": "Combine this week's tools into real plans. Three useful frames, each followed by an **infinitive**:\n\n- **хочу** + infinitive → I want to… : *Завтра я хочу отдыхать.*\n- **надо** + infinitive → I need to… (no subject change needed): *Надо купить хлеб.*\n- **планирую** + infinitive → I'm planning to…\n\nThen sequence the day with time words **утром / вечером / потом / скоро**, and choose the right future: **буду + impf** for activities, **perfective** for finished tasks. The verb **поехать** is perfective \"to go (by transport)\": *Завтра я поеду в магазин* (one trip).",
+        "examples": [
+          {
+            "russian": "Завтра выходной, я хочу отдыхать.",
+            "english": "Tomorrow is a day off, I want to rest."
+          },
+          {
+            "russian": "Утром надо купить хлеб.",
+            "english": "In the morning I need to buy bread."
+          },
+          {
+            "russian": "Потом я поеду в магазин.",
+            "english": "Then I'll go to the shop."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Выходной",
+        "text": "— Завтра выходной! Какие планы? — Утром хочу отдыхать. Потом поеду в магазин и приготовлю ужин.",
+        "translation": "\"Tomorrow's a day off! What are the plans?\" \"In the morning I want to rest. Then I'll go to the shop and make dinner.\"",
+        "glossary": [
+          {
+            "russian": "Какие планы?",
+            "english": "What are the plans?"
+          },
+          {
+            "russian": "выходной",
+            "english": "day off"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your ideal day off (выходной). Use хочу, надо, and at least one буду-future and one perfective future, plus утром / потом / вечером."
+    },
+    {
+      "day": 7,
+      "title": "Day 7: Review — Plans & the future",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 21 recap: aspect and the two futures",
+        "explanation": "**The big ideas this week:**\n\n1. **Aspect** — verbs come in pairs: **imperfective** (process/repeated: делать, читать, писать) and **perfective** (single completed result: сделать, прочитать, написать). The perfective is often the imperfective + a prefix.\n\n2. **Compound future** = **буду / будешь / будет / будем + imperfective infinitive** → ongoing or repeated future action: *Завтра я буду работать.*\n\n3. **Simple (perfective) future** = a **perfective verb with present-tense endings** → one finished action, no буду: *Я прочитаю книгу. Я куплю хлеб.*\n\n4. **Choosing:** process / \"for a while\" → буду + impf; one finished result → perfective. Time words **завтра, скоро, потом, утром, вечером** set the scene.",
+        "examples": [
+          {
+            "russian": "Вечером я буду читать.",
+            "english": "In the evening I'll read. (process)"
+          },
+          {
+            "russian": "Завтра я прочитаю книгу.",
+            "english": "Tomorrow I'll finish the book. (result)"
+          },
+          {
+            "russian": "Скоро я куплю хлеб.",
+            "english": "I'll buy bread soon. (result)"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Планы на завтра",
+        "text": "— Что ты будешь делать завтра? — Утром буду работать. Потом куплю хлеб и приготовлю ужин. — А вечером? — Вечером хочу отдыхать. Скоро выходной!",
+        "translation": "\"What will you be doing tomorrow?\" \"In the morning I'll work. Then I'll buy bread and make dinner.\" \"And in the evening?\" \"In the evening I want to rest. The day off is soon!\"",
+        "glossary": [
+          {
+            "russian": "Что ты будешь делать?",
+            "english": "What will you be doing?"
+          },
+          {
+            "russian": "Скоро выходной!",
+            "english": "The day off is soon!"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell me your plans for tomorrow in 4–5 sentences. Use both futures (буду + verb and a perfective verb), at least three time words (завтра, утром, потом, вечером, скоро), and one of хочу / надо. Then say which actions are a process and which are finished results."
+    }
+  ]
+}

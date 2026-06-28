@@ -1,0 +1,644 @@
+{
+  "week": 25,
+  "theme": "Everyday conversation",
+  "days": [
+    {
+      "day": 1,
+      "title": "Greetings and first contact",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "Как си?",
+          "translit": "Kak si?",
+          "english": "How are you? (informal)",
+          "pos": "phrase",
+          "example": "Здравей, как си днес?",
+          "exampleEn": "Hi, how are you today?"
+        },
+        {
+          "russian": "Как сте?",
+          "translit": "Kak ste?",
+          "english": "How are you? (formal/plural)",
+          "pos": "phrase",
+          "example": "Добър ден, как сте?",
+          "exampleEn": "Good day, how are you?"
+        },
+        {
+          "russian": "Добре съм",
+          "translit": "Dobré sam",
+          "english": "I'm fine",
+          "pos": "phrase",
+          "example": "Благодаря, добре съм.",
+          "exampleEn": "Thank you, I'm fine."
+        },
+        {
+          "russian": "Радвам се",
+          "translit": "Rádvam se",
+          "english": "Nice (to meet you), I'm glad",
+          "pos": "phrase",
+          "example": "Радвам се да те видя.",
+          "exampleEn": "I'm glad to see you."
+        },
+        {
+          "russian": "Отдавна",
+          "translit": "Otdávna",
+          "english": "for a long time, long ago",
+          "pos": "adverb",
+          "example": "Не сме се виждали отдавна.",
+          "exampleEn": "We haven't seen each other for a long time."
+        },
+        {
+          "russian": "познат",
+          "translit": "poznát",
+          "english": "acquaintance, familiar person",
+          "pos": "noun",
+          "example": "Той е мой стар познат.",
+          "exampleEn": "He is an old acquaintance of mine."
+        },
+        {
+          "russian": "запознавам се",
+          "translit": "zapoznávam se",
+          "english": "to get acquainted, to meet",
+          "pos": "verb",
+          "example": "Искам да се запозная с теб.",
+          "exampleEn": "I want to get acquainted with you."
+        }
+      ],
+      "grammar": {
+        "title": "Opening a conversation",
+        "explanation": "Small talk in Bulgarian starts with a greeting plus a question about the other person. Use 'Как си?' with friends and family, but 'Как сте?' with strangers, older people, or a group. The reply almost always uses the verb 'to be': 'Добре съм' (I am fine), 'Чудесно съм' (I am great). Remember Bulgarian really has a present-tense 'to be' (съм, си, е, сме, сте, са), unlike Russian. To say you are glad, use 'Радвам се' followed by 'да' + present tense: 'Радвам се да те видя' (I'm glad to see you), because there is no infinitive.",
+        "examples": [
+          {
+            "russian": "Здравей, как си?",
+            "english": "Hi, how are you?"
+          },
+          {
+            "russian": "Благодаря, добре съм. А ти?",
+            "english": "Thanks, I'm fine. And you?"
+          },
+          {
+            "russian": "Радвам се да се запозная с вас.",
+            "english": "I'm glad to meet you."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Стара позната",
+        "text": "— Здравей! Не сме се виждали отдавна. Как си? — Добре съм, благодаря. Радвам се да те видя!",
+        "translation": "— Hi! We haven't seen each other for a long time. How are you? — I'm fine, thank you. I'm glad to see you!",
+        "glossary": [
+          {
+            "russian": "отдавна",
+            "english": "for a long time"
+          },
+          {
+            "russian": "Радвам се",
+            "english": "I'm glad"
+          }
+        ]
+      },
+      "speakingPrompt": "Greet an old acquaintance you haven't seen in a while. Ask how they are and say you are glad to see them, using both 'Как си?' and 'Радвам се'."
+    },
+    {
+      "day": 2,
+      "title": "Talking about the weather",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "времето",
+          "translit": "vrémeto",
+          "english": "the weather",
+          "pos": "noun",
+          "example": "Времето днес е хубаво.",
+          "exampleEn": "The weather today is nice."
+        },
+        {
+          "russian": "слънчево",
+          "translit": "slánchevo",
+          "english": "sunny",
+          "pos": "adjective",
+          "example": "Навън е слънчево.",
+          "exampleEn": "It's sunny outside."
+        },
+        {
+          "russian": "вали",
+          "translit": "valí",
+          "english": "it's raining/snowing",
+          "pos": "verb",
+          "example": "Вали дъжд от сутринта.",
+          "exampleEn": "It's been raining since the morning."
+        },
+        {
+          "russian": "студено",
+          "translit": "studéno",
+          "english": "cold",
+          "pos": "adjective",
+          "example": "Днес е много студено.",
+          "exampleEn": "It's very cold today."
+        },
+        {
+          "russian": "топло",
+          "translit": "tóplo",
+          "english": "warm",
+          "pos": "adjective",
+          "example": "Утре ще бъде топло.",
+          "exampleEn": "Tomorrow it will be warm."
+        },
+        {
+          "russian": "облак",
+          "translit": "óblak",
+          "english": "cloud",
+          "pos": "noun",
+          "example": "Има само един облак на небето.",
+          "exampleEn": "There is only one cloud in the sky."
+        },
+        {
+          "russian": "Какво ужасно време!",
+          "translit": "Kakvó uzhásno vréme!",
+          "english": "What awful weather!",
+          "pos": "phrase",
+          "example": "Вали цял ден. Какво ужасно време!",
+          "exampleEn": "It's been raining all day. What awful weather!"
+        }
+      ],
+      "grammar": {
+        "title": "Weather as small talk",
+        "explanation": "Weather is the safest small-talk topic. Bulgarian uses the verb 'to be' (е) with a neuter adjective for general states: 'Топло е' (It's warm), 'Студено е' (It's cold), 'Слънчево е' (It's sunny). Note the neuter -о ending on these adjectives because they describe an impersonal 'it'. For rain or snow use the special verb 'вали': 'Вали (дъжд)' = it's raining, 'Вали сняг' = it's snowing. The definite article is a suffix: време → времето (the weather). To exclaim, use 'Какво + adjective + време!'.",
+        "examples": [
+          {
+            "russian": "Днес е слънчево и топло.",
+            "english": "Today it's sunny and warm."
+          },
+          {
+            "russian": "Вали дъжд, вземи чадър.",
+            "english": "It's raining, take an umbrella."
+          },
+          {
+            "russian": "Какво хубаво време!",
+            "english": "What lovely weather!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Навън",
+        "text": "— Какво ужасно време! Вали от сутринта. — Да, студено е. Утре ще бъде слънчево, надявам се.",
+        "translation": "— What awful weather! It's been raining since the morning. — Yes, it's cold. Tomorrow it will be sunny, I hope.",
+        "glossary": [
+          {
+            "russian": "вали",
+            "english": "it's raining"
+          },
+          {
+            "russian": "студено е",
+            "english": "it's cold"
+          }
+        ]
+      },
+      "speakingPrompt": "Make small talk about today's weather. Say whether it is sunny, warm, cold, or raining, and add an exclamation like 'Какво хубаво/ужасно време!'."
+    },
+    {
+      "day": 3,
+      "title": "Polite phrases and reactions",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "Няма проблем",
+          "translit": "Nyáma problém",
+          "english": "No problem",
+          "pos": "phrase",
+          "example": "Закъснях малко. — Няма проблем!",
+          "exampleEn": "I'm a little late. — No problem!"
+        },
+        {
+          "russian": "За съжаление",
+          "translit": "Za sazhalénie",
+          "english": "Unfortunately",
+          "pos": "phrase",
+          "example": "За съжаление не мога да дойда.",
+          "exampleEn": "Unfortunately I can't come."
+        },
+        {
+          "russian": "Разбира се",
+          "translit": "Razbíra se",
+          "english": "Of course",
+          "pos": "phrase",
+          "example": "Може ли да помогна? — Разбира се!",
+          "exampleEn": "May I help? — Of course!"
+        },
+        {
+          "russian": "Съгласен съм",
+          "translit": "Saglásen sam",
+          "english": "I agree (male speaker)",
+          "pos": "phrase",
+          "example": "Прав си, съгласен съм.",
+          "exampleEn": "You're right, I agree."
+        },
+        {
+          "russian": "Не се притеснявай",
+          "translit": "Ne se pritesnyávay",
+          "english": "Don't worry",
+          "pos": "phrase",
+          "example": "Всичко е наред, не се притеснявай.",
+          "exampleEn": "Everything is fine, don't worry."
+        },
+        {
+          "russian": "Какво съвпадение!",
+          "translit": "Kakvó savpadénie!",
+          "english": "What a coincidence!",
+          "pos": "phrase",
+          "example": "И ти си тук? Какво съвпадение!",
+          "exampleEn": "You're here too? What a coincidence!"
+        },
+        {
+          "russian": "Жалко",
+          "translit": "Zhálko",
+          "english": "Too bad, what a pity",
+          "pos": "phrase",
+          "example": "Не можеш да дойдеш? Жалко.",
+          "exampleEn": "You can't come? Too bad."
+        }
+      ],
+      "grammar": {
+        "title": "Ready-made reactions",
+        "explanation": "Conversation flows when you have set reactions ready. Many are fixed phrases you simply memorize: 'Разбира се' (of course), 'Няма проблем' (no problem), 'За съжаление' (unfortunately), 'Жалко' (too bad). Some agree with the speaker's gender: a man says 'Съгласен съм', a woman says 'Съгласна съм' (I agree), and 'Прав си' / 'Права си' (you're right). To reassure, use the negative command 'Не се притеснявай' (don't worry, informal) or 'Не се притеснявайте' (formal/plural). Notice 'се' stays with the verb.",
+        "examples": [
+          {
+            "russian": "Може ли да попитам нещо? — Разбира се.",
+            "english": "May I ask something? — Of course."
+          },
+          {
+            "russian": "За съжаление нямам време днес.",
+            "english": "Unfortunately I don't have time today."
+          },
+          {
+            "russian": "Спокойно, не се притеснявай.",
+            "english": "Relax, don't worry."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Малка молба",
+        "text": "— Може ли да ми помогнеш? — Разбира се, няма проблем! — Благодаря ти много. — Не се притеснявай.",
+        "translation": "— Can you help me? — Of course, no problem! — Thank you very much. — Don't worry about it.",
+        "glossary": [
+          {
+            "russian": "Разбира се",
+            "english": "of course"
+          },
+          {
+            "russian": "Не се притеснявай",
+            "english": "don't worry"
+          }
+        ]
+      },
+      "speakingPrompt": "A friend asks you for a small favor. Respond using at least three set reactions: agree ('Разбира се'), reassure ('Няма проблем' / 'Не се притеснявай'), and react to news ('Жалко' or 'Какво съвпадение!')."
+    },
+    {
+      "day": 4,
+      "title": "Asking about someone's life",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "Какво ново?",
+          "translit": "Kakvó nóvo?",
+          "english": "What's new?",
+          "pos": "phrase",
+          "example": "Здравей! Какво ново при теб?",
+          "exampleEn": "Hi! What's new with you?"
+        },
+        {
+          "russian": "Какво правиш?",
+          "translit": "Kakvó právish?",
+          "english": "What are you doing? / How's it going?",
+          "pos": "phrase",
+          "example": "Здрасти, какво правиш?",
+          "exampleEn": "Hey, what are you up to?"
+        },
+        {
+          "russian": "Нищо особено",
+          "translit": "Níshto osóbeno",
+          "english": "Nothing special",
+          "pos": "phrase",
+          "example": "Какво ново? — Нищо особено.",
+          "exampleEn": "What's new? — Nothing special."
+        },
+        {
+          "russian": "семейството",
+          "translit": "seméystvoto",
+          "english": "the family",
+          "pos": "noun",
+          "example": "Как е семейството ти?",
+          "exampleEn": "How is your family?"
+        },
+        {
+          "russian": "работата",
+          "translit": "rabótata",
+          "english": "the work/job",
+          "pos": "noun",
+          "example": "Как върви работата?",
+          "exampleEn": "How is work going?"
+        },
+        {
+          "russian": "зает",
+          "translit": "zaét",
+          "english": "busy",
+          "pos": "adjective",
+          "example": "Тези дни съм много зает.",
+          "exampleEn": "These days I'm very busy."
+        },
+        {
+          "russian": "както обикновено",
+          "translit": "kákto obiknovéno",
+          "english": "as usual",
+          "pos": "phrase",
+          "example": "Всичко е както обикновено.",
+          "exampleEn": "Everything is as usual."
+        }
+      ],
+      "grammar": {
+        "title": "Catching up",
+        "explanation": "After the greeting, Bulgarians ask open questions like 'Какво ново?' (What's new?) or 'Какво правиш?' (What are you doing / How's it going?). Typical low-key answers are 'Нищо особено' (nothing special) and 'Както обикновено' (as usual). To ask about specific areas of life, add the definite-article suffix to the noun: 'Как е семейството?' (How is the family?), 'Как върви работата?' (How is work going?). Adjectives describing you agree with gender: a man is 'зает', a woman is 'заета' (busy). There are no noun cases — relations come from word order and prepositions like 'при' (at, with): 'Какво ново при теб?'.",
+        "examples": [
+          {
+            "russian": "Какво ново при теб?",
+            "english": "What's new with you?"
+          },
+          {
+            "russian": "Нищо особено, всичко е както обикновено.",
+            "english": "Nothing special, everything's as usual."
+          },
+          {
+            "russian": "Как е семейството? — Добре, благодаря.",
+            "english": "How's the family? — Fine, thanks."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Среща на улицата",
+        "text": "— Какво ново при теб? — Нищо особено, както обикновено. Много съм зает с работата. — А семейството? — Всички са добре.",
+        "translation": "— What's new with you? — Nothing special, as usual. I'm very busy with work. — And the family? — Everyone is well.",
+        "glossary": [
+          {
+            "russian": "както обикновено",
+            "english": "as usual"
+          },
+          {
+            "russian": "зает",
+            "english": "busy"
+          },
+          {
+            "russian": "работата",
+            "english": "the work"
+          }
+        ]
+      },
+      "speakingPrompt": "Run into a friend and catch up. Ask 'Какво ново?', then answer about your own week (use 'зает/заета', 'както обикновено'), and ask about their family and work."
+    },
+    {
+      "day": 5,
+      "title": "Making plans and invitations",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "Имаш ли време?",
+          "translit": "Ímash li vréme?",
+          "english": "Do you have time?",
+          "pos": "phrase",
+          "example": "Имаш ли време утре?",
+          "exampleEn": "Do you have time tomorrow?"
+        },
+        {
+          "russian": "Хайде да",
+          "translit": "Háyde da",
+          "english": "Let's (do something)",
+          "pos": "phrase",
+          "example": "Хайде да пием кафе.",
+          "exampleEn": "Let's have a coffee."
+        },
+        {
+          "russian": "С удоволствие",
+          "translit": "S udovólstvie",
+          "english": "With pleasure, gladly",
+          "pos": "phrase",
+          "example": "Ще дойдеш ли? — С удоволствие!",
+          "exampleEn": "Will you come? — With pleasure!"
+        },
+        {
+          "russian": "Може би",
+          "translit": "Mózhe bi",
+          "english": "Maybe, perhaps",
+          "pos": "phrase",
+          "example": "Може би ще закъснея малко.",
+          "exampleEn": "Maybe I'll be a little late."
+        },
+        {
+          "russian": "Кога?",
+          "translit": "Kogá?",
+          "english": "When?",
+          "pos": "adverb",
+          "example": "Кога ще се видим?",
+          "exampleEn": "When shall we meet?"
+        },
+        {
+          "russian": "Звучи добре",
+          "translit": "Zvuchí dobré",
+          "english": "Sounds good",
+          "pos": "phrase",
+          "example": "В седем часа? Звучи добре.",
+          "exampleEn": "At seven o'clock? Sounds good."
+        },
+        {
+          "russian": "Да се видим",
+          "translit": "Da se vídim",
+          "english": "Let's meet / to meet up",
+          "pos": "phrase",
+          "example": "Искаш ли да се видим довечера?",
+          "exampleEn": "Do you want to meet up this evening?"
+        }
+      ],
+      "grammar": {
+        "title": "Suggesting and accepting",
+        "explanation": "To suggest doing something together, use 'Хайде да' + present tense: 'Хайде да пием кафе' (Let's have coffee), 'Хайде да се видим' (Let's meet). Remember there is no infinitive, so 'да' + a conjugated verb does the job. To check availability, ask 'Имаш ли време?' (informal) or 'Имате ли време?' (formal). The particle 'ли' makes a yes/no question and goes after the verb. Accept warmly with 'С удоволствие!' or 'Звучи добре'; soften or hesitate with 'Може би'. Ask for details with 'Кога?' (when) and 'Къде?' (where).",
+        "examples": [
+          {
+            "russian": "Имаш ли време довечера?",
+            "english": "Do you have time this evening?"
+          },
+          {
+            "russian": "Хайде да се видим в кафенето.",
+            "english": "Let's meet at the café."
+          },
+          {
+            "russian": "С удоволствие! Кога?",
+            "english": "With pleasure! When?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Покана за кафе",
+        "text": "— Имаш ли време утре? Хайде да пием кафе. — С удоволствие! Кога? — В пет часа? — Звучи добре.",
+        "translation": "— Do you have time tomorrow? Let's have a coffee. — With pleasure! When? — At five o'clock? — Sounds good.",
+        "glossary": [
+          {
+            "russian": "Хайде да",
+            "english": "let's"
+          },
+          {
+            "russian": "С удоволствие",
+            "english": "with pleasure"
+          },
+          {
+            "russian": "Звучи добре",
+            "english": "sounds good"
+          }
+        ]
+      },
+      "speakingPrompt": "Invite a friend to do something with you. Ask if they have time, suggest an activity with 'Хайде да...', accept their reply, and agree on a time ('Кога?', 'Звучи добре')."
+    },
+    {
+      "day": 6,
+      "title": "Saying goodbye",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "Трябва да тръгвам",
+          "translit": "Tryábva da trágvam",
+          "english": "I have to go",
+          "pos": "phrase",
+          "example": "Стана късно, трябва да тръгвам.",
+          "exampleEn": "It got late, I have to go."
+        },
+        {
+          "russian": "Беше ми приятно",
+          "translit": "Béshe mi priyátno",
+          "english": "It was nice (to talk)",
+          "pos": "phrase",
+          "example": "Беше ми приятно да си поговорим.",
+          "exampleEn": "It was nice to chat."
+        },
+        {
+          "russian": "Пази се",
+          "translit": "Pazí se",
+          "english": "Take care",
+          "pos": "phrase",
+          "example": "Хайде, чао, пази се!",
+          "exampleEn": "Okay, bye, take care!"
+        },
+        {
+          "russian": "До скоро",
+          "translit": "Do skóro",
+          "english": "See you soon",
+          "pos": "phrase",
+          "example": "До скоро, обади се!",
+          "exampleEn": "See you soon, give me a call!"
+        },
+        {
+          "russian": "Поздрави",
+          "translit": "Pozdraví",
+          "english": "Say hi / regards (to someone)",
+          "pos": "phrase",
+          "example": "Поздрави семейството от мен.",
+          "exampleEn": "Say hi to the family from me."
+        },
+        {
+          "russian": "обади се",
+          "translit": "obadí se",
+          "english": "call (me), get in touch",
+          "pos": "verb",
+          "example": "Обади се, като стигнеш.",
+          "exampleEn": "Call when you arrive."
+        },
+        {
+          "russian": "Приятен ден",
+          "translit": "Priyáten den",
+          "english": "Have a nice day",
+          "pos": "phrase",
+          "example": "Благодаря, приятен ден!",
+          "exampleEn": "Thanks, have a nice day!"
+        }
+      ],
+      "grammar": {
+        "title": "Closing a conversation; putting it all together",
+        "explanation": "Bulgarians signal the end of a chat before the final 'чао' or 'довиждане'. Announce you must leave with 'Трябва да...' + present tense: 'Трябва да тръгвам' (I have to go) — again 'да' replaces the missing infinitive. Then wrap up warmly: 'Беше ми приятно' (it was nice), 'Пази се' / 'Пазете се' (take care), 'До скоро' (see you soon), 'Приятен ден' (have a nice day). Send regards with 'Поздрави + (на) someone': 'Поздрави семейството' (say hi to the family) — note the definite-article suffix on the noun. Putting the week together: greet → small talk (weather, what's new) → make plans → close politely. These set phrases let you carry a whole everyday conversation from start to finish.",
+        "examples": [
+          {
+            "russian": "Трябва да тръгвам, стана късно.",
+            "english": "I have to go, it got late."
+          },
+          {
+            "russian": "Беше ми приятно! Пази се.",
+            "english": "It was nice! Take care."
+          },
+          {
+            "russian": "До скоро и поздрави семейството!",
+            "english": "See you soon and say hi to the family!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Раздяла",
+        "text": "— Стана късно, трябва да тръгвам. — Добре. Беше ми приятно! — На мен също. Поздрави семейството и се обади. — До скоро, пази се!",
+        "translation": "— It got late, I have to go. — Okay. It was nice! — Likewise. Say hi to the family and give me a call. — See you soon, take care!",
+        "glossary": [
+          {
+            "russian": "Трябва да тръгвам",
+            "english": "I have to go"
+          },
+          {
+            "russian": "Беше ми приятно",
+            "english": "it was nice"
+          },
+          {
+            "russian": "До скоро",
+            "english": "see you soon"
+          }
+        ]
+      },
+      "speakingPrompt": "Wrap up a conversation politely. Say you have to go, say it was nice, send regards to someone's family, and finish with 'До скоро' and 'Пази се'."
+    },
+    {
+      "day": 7,
+      "title": "Review: A whole everyday conversation",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: from hello to goodbye",
+        "explanation": "This week you built complete everyday conversations from set phrases. Recap the flow: (1) Open with 'Как си?' / 'Как сте?' and reply with the verb 'to be' — 'Добре съм'. (2) Small talk about the weather using 'е' + neuter adjective ('Топло е') or 'вали' for rain. (3) Catch up with 'Какво ново?', answering 'Нищо особено' / 'Както обикновено', and ask 'Как е семейството?' using the article suffix. (4) React with fixed phrases: 'Разбира се', 'За съжаление', 'Жалко', gender-agreeing 'Съгласен/Съгласна съм'. (5) Make plans with 'Хайде да' + present and 'Имаш ли време?', accept with 'С удоволствие'. (6) Close with 'Трябва да тръгвам', 'Беше ми приятно', 'Пази се', 'До скоро'. Throughout, remember: Bulgarian has a present 'to be', no infinitive (use 'да' + present), no noun cases, and a suffixed definite article.",
+        "examples": [
+          {
+            "russian": "Как си? — Добре съм, а ти?",
+            "english": "How are you? — I'm fine, and you?"
+          },
+          {
+            "russian": "Хайде да се видим, имаш ли време?",
+            "english": "Let's meet up, do you have time?"
+          },
+          {
+            "russian": "Трябва да тръгвам. Беше ми приятно!",
+            "english": "I have to go. It was nice!"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Цял разговор",
+        "text": "— Здравей, как си? Не сме се виждали отдавна! — Добре съм, благодаря. Какво ужасно време само! — Да, вали цял ден. Какво ново при теб? — Нищо особено, зает съм с работата. Хайде да пием кафе утре. — С удоволствие! Кога? — В пет? — Звучи добре. Сега трябва да тръгвам. — Беше ми приятно! До скоро, пази се!",
+        "translation": "— Hi, how are you? We haven't seen each other for a long time! — I'm fine, thanks. What awful weather though! — Yes, it's been raining all day. What's new with you? — Nothing special, I'm busy with work. Let's have a coffee tomorrow. — With pleasure! When? — At five? — Sounds good. Now I have to go. — It was nice! See you soon, take care!",
+        "glossary": [
+          {
+            "russian": "Какво ново",
+            "english": "what's new"
+          },
+          {
+            "russian": "Хайде да",
+            "english": "let's"
+          },
+          {
+            "russian": "До скоро",
+            "english": "see you soon"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a full everyday conversation with a friend you bump into: greet and ask how they are, comment on the weather, catch up on news, invite them for coffee and set a time, then say goodbye politely. Try to use one phrase from each day this week."
+    }
+  ]
+}

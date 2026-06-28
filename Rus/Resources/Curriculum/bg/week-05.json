@@ -1,0 +1,640 @@
+{
+  "week": 5,
+  "theme": "The definite article I (the)",
+  "days": [
+    {
+      "day": 1,
+      "title": "Feminine nouns: -та (книга → книгата)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "книга",
+          "translit": "KNI-ga",
+          "english": "book",
+          "pos": "noun (f.)",
+          "example": "Книгата е на масата.",
+          "exampleEn": "The book is on the table."
+        },
+        {
+          "russian": "маса",
+          "translit": "MA-sa",
+          "english": "table",
+          "pos": "noun (f.)",
+          "example": "Масата е голяма.",
+          "exampleEn": "The table is big."
+        },
+        {
+          "russian": "врата",
+          "translit": "vra-TA",
+          "english": "door",
+          "pos": "noun (f.)",
+          "example": "Вратата е затворена.",
+          "exampleEn": "The door is closed."
+        },
+        {
+          "russian": "стая",
+          "translit": "STA-ya",
+          "english": "room",
+          "pos": "noun (f.)",
+          "example": "Стаята е малка.",
+          "exampleEn": "The room is small."
+        },
+        {
+          "russian": "лампа",
+          "translit": "LAM-pa",
+          "english": "lamp",
+          "pos": "noun (f.)",
+          "example": "Лампата е нова.",
+          "exampleEn": "The lamp is new."
+        },
+        {
+          "russian": "купа",
+          "translit": "KU-pa",
+          "english": "bowl",
+          "pos": "noun (f.)",
+          "example": "Купата е на масата.",
+          "exampleEn": "The bowl is on the table."
+        },
+        {
+          "russian": "възглавница",
+          "translit": "vaz-GLAV-ni-tsa",
+          "english": "pillow",
+          "pos": "noun (f.)",
+          "example": "Възглавницата е мека.",
+          "exampleEn": "The pillow is soft."
+        }
+      ],
+      "grammar": {
+        "title": "Feminine definite article: add -та",
+        "explanation": "In Bulgarian 'the' is not a separate word — it is a suffix glued onto the end of the noun. Feminine nouns (most of which end in -а or -я) take -та: книга → книгата (the book), маса → масата (the table), стая → стаята (the room). The noun itself does not change in any other way; Bulgarian has no cases, so you simply add -та. Use the verb 'to be' (е = is) normally: Масата е голяма (The table is big) vs. Това е маса (This is a table / a non-specific table).",
+        "examples": [
+          {
+            "russian": "Вратата е затворена.",
+            "english": "The door is closed."
+          },
+          {
+            "russian": "Книгата е на стола.",
+            "english": "The book is on the chair."
+          },
+          {
+            "russian": "Стаята е чиста.",
+            "english": "The room is clean."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В стаята",
+        "text": "Стаята е малка. Масата е до вратата. Книгата е на масата.",
+        "translation": "The room is small. The table is by the door. The book is on the table.",
+        "glossary": [
+          {
+            "russian": "до",
+            "english": "by, next to"
+          },
+          {
+            "russian": "на",
+            "english": "on"
+          },
+          {
+            "russian": "малка",
+            "english": "small (f.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Look around one room in your home. Name three feminine objects you see and add -та to each (e.g. лампата, вратата). Then say where one of them is using 'на' or 'до'."
+    },
+    {
+      "day": 2,
+      "title": "Masculine nouns: -ът (град → градът)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "стол",
+          "translit": "stol",
+          "english": "chair",
+          "pos": "noun (m.)",
+          "example": "Столът е до масата.",
+          "exampleEn": "The chair is by the table."
+        },
+        {
+          "russian": "хладилник",
+          "translit": "hla-DIL-nik",
+          "english": "refrigerator",
+          "pos": "noun (m.)",
+          "example": "Хладилникът е голям.",
+          "exampleEn": "The refrigerator is big."
+        },
+        {
+          "russian": "телевизор",
+          "translit": "te-le-VI-zor",
+          "english": "television",
+          "pos": "noun (m.)",
+          "example": "Телевизорът е нов.",
+          "exampleEn": "The television is new."
+        },
+        {
+          "russian": "диван",
+          "translit": "di-VAN",
+          "english": "sofa",
+          "pos": "noun (m.)",
+          "example": "Диванът е в стаята.",
+          "exampleEn": "The sofa is in the room."
+        },
+        {
+          "russian": "шкаф",
+          "translit": "shkaf",
+          "english": "cupboard, wardrobe",
+          "pos": "noun (m.)",
+          "example": "Шкафът е до вратата.",
+          "exampleEn": "The cupboard is by the door."
+        },
+        {
+          "russian": "килим",
+          "translit": "ki-LIM",
+          "english": "carpet, rug",
+          "pos": "noun (m.)",
+          "example": "Килимът е мек.",
+          "exampleEn": "The carpet is soft."
+        },
+        {
+          "russian": "прозорец",
+          "translit": "pro-ZO-rets",
+          "english": "window",
+          "pos": "noun (m.)",
+          "example": "Прозорецът е голям.",
+          "exampleEn": "The window is big."
+        }
+      ],
+      "grammar": {
+        "title": "Masculine definite article: the full form -ът",
+        "explanation": "Masculine nouns (which usually end in a consonant) take the suffix -ът: град → градът (the city), стол → столът (the chair), прозорец → прозорецът (the window). This 'full' form -ът is used when the noun is the SUBJECT of the sentence — the doer or the thing being described with 'to be'. So: Столът е нов (The chair is new). Note the spelling of ъ here: it is a real Bulgarian vowel, pronounced like the 'u' in English 'cup'. Some nouns drop a vowel before the ending, e.g. прозорец → прозорецът.",
+        "examples": [
+          {
+            "russian": "Хладилникът е в кухнята.",
+            "english": "The refrigerator is in the kitchen."
+          },
+          {
+            "russian": "Диванът е голям.",
+            "english": "The sofa is big."
+          },
+          {
+            "russian": "Шкафът е стар.",
+            "english": "The cupboard is old."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Новата стая",
+        "text": "Столът е нов. Диванът е до прозореца. Телевизорът е голям.",
+        "translation": "The chair is new. The sofa is by the window. The television is big.",
+        "glossary": [
+          {
+            "russian": "нов",
+            "english": "new (m.)"
+          },
+          {
+            "russian": "до прозореца",
+            "english": "by the window"
+          },
+          {
+            "russian": "голям",
+            "english": "big (m.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Name four masculine objects in your living room and make each one definite with -ът as the subject (e.g. Столът е..., Диванът е...). Describe each with 'е' and an adjective like нов (new) or голям (big)."
+    },
+    {
+      "day": 3,
+      "title": "Masculine short form: -а (object & after prepositions)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "под",
+          "translit": "pod",
+          "english": "floor",
+          "pos": "noun (m.)",
+          "example": "Килимът е на пода.",
+          "exampleEn": "The carpet is on the floor."
+        },
+        {
+          "russian": "таван",
+          "translit": "ta-VAN",
+          "english": "ceiling",
+          "pos": "noun (m.)",
+          "example": "Лампата е на тавана.",
+          "exampleEn": "The lamp is on the ceiling."
+        },
+        {
+          "russian": "ключ",
+          "translit": "klyuch",
+          "english": "key",
+          "pos": "noun (m.)",
+          "example": "Ключът е на масата.",
+          "exampleEn": "The key is on the table."
+        },
+        {
+          "russian": "часовник",
+          "translit": "cha-SOV-nik",
+          "english": "clock",
+          "pos": "noun (m.)",
+          "example": "Часовникът е на стената.",
+          "exampleEn": "The clock is on the wall."
+        },
+        {
+          "russian": "телефон",
+          "translit": "te-le-FON",
+          "english": "telephone",
+          "pos": "noun (m.)",
+          "example": "Телефонът е до лампата.",
+          "exampleEn": "The telephone is by the lamp."
+        },
+        {
+          "russian": "компютър",
+          "translit": "kom-PYU-tar",
+          "english": "computer",
+          "pos": "noun (m.)",
+          "example": "Компютърът е на бюрото.",
+          "exampleEn": "The computer is on the desk."
+        }
+      ],
+      "grammar": {
+        "title": "Masculine short form -а after prepositions",
+        "explanation": "Masculine nouns have a SECOND definite form: the short form -а (pronounced -ъ). You use it when the noun is NOT the subject — most importantly after a preposition (на, до, в, от, с). Compare: Подът е чист (The floor is clean — subject, full form -ът) vs. Килимът е на пода (The carpet is on the floor — after 'на', short form -а). So the same word под becomes подът as subject but пода after a preposition. The short form is extremely common in everyday speech because so many phrases use prepositions.",
+        "examples": [
+          {
+            "russian": "Ключът е на масата.",
+            "english": "The key is on the table."
+          },
+          {
+            "russian": "Часовникът е на тавана.",
+            "english": "The clock is on the ceiling."
+          },
+          {
+            "russian": "Телефонът е до компютъра.",
+            "english": "The telephone is by the computer."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Къде е ключът?",
+        "text": "Ключът е на пода. Часовникът е на тавана. Телефонът е до компютъра.",
+        "translation": "The key is on the floor. The clock is on the ceiling. The telephone is by the computer.",
+        "glossary": [
+          {
+            "russian": "къде",
+            "english": "where"
+          },
+          {
+            "russian": "на пода",
+            "english": "on the floor"
+          },
+          {
+            "russian": "до компютъра",
+            "english": "by the computer"
+          }
+        ]
+      },
+      "speakingPrompt": "Take three masculine objects and say where each one is using 'на' or 'до' plus the short form -а (e.g. на пода, до компютъра). Then say one of them as a subject with the full -ът form to feel the difference."
+    },
+    {
+      "day": 4,
+      "title": "Choosing -ът or -а: subject vs. object",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "стена",
+          "translit": "ste-NA",
+          "english": "wall",
+          "pos": "noun (f.)",
+          "example": "Картината е на стената.",
+          "exampleEn": "The picture is on the wall."
+        },
+        {
+          "russian": "картина",
+          "translit": "kar-TI-na",
+          "english": "picture, painting",
+          "pos": "noun (f.)",
+          "example": "Картината е красива.",
+          "exampleEn": "The picture is beautiful."
+        },
+        {
+          "russian": "завеса",
+          "translit": "za-VE-sa",
+          "english": "curtain",
+          "pos": "noun (f.)",
+          "example": "Завесата е до прозореца.",
+          "exampleEn": "The curtain is by the window."
+        },
+        {
+          "russian": "кухня",
+          "translit": "KUH-nya",
+          "english": "kitchen",
+          "pos": "noun (f.)",
+          "example": "Хладилникът е в кухнята.",
+          "exampleEn": "The refrigerator is in the kitchen."
+        },
+        {
+          "russian": "баня",
+          "translit": "BA-nya",
+          "english": "bathroom",
+          "pos": "noun (f.)",
+          "example": "Огледалото е в банята.",
+          "exampleEn": "The mirror is in the bathroom."
+        },
+        {
+          "russian": "легло",
+          "translit": "leg-LO",
+          "english": "bed",
+          "pos": "noun (n.)",
+          "example": "Възглавницата е на леглото.",
+          "exampleEn": "The pillow is on the bed."
+        },
+        {
+          "russian": "бюро",
+          "translit": "byu-RO",
+          "english": "desk",
+          "pos": "noun (n.)",
+          "example": "Компютърът е на бюрото.",
+          "exampleEn": "The computer is on the desk."
+        }
+      ],
+      "grammar": {
+        "title": "Putting it together: when -ът, when -а",
+        "explanation": "Today combine the two masculine forms with feminine -та. The rule for masculine: use the full -ът when the noun is the SUBJECT (Столът е тук — The chair is here), and use the short -а everywhere else, especially after prepositions (Книгата е на стола — The book is on the chair). Feminine -та never changes: масата is масата whether it is the subject or after a preposition (на масата). A handy preview: feminine nouns ending in -я like кухня and баня form кухнята, банята. So: subject → masc. -ът; after preposition → masc. -а; feminine → always -та.",
+        "examples": [
+          {
+            "russian": "Столът е до масата.",
+            "english": "The chair is by the table."
+          },
+          {
+            "russian": "Картината е на стената.",
+            "english": "The picture is on the wall."
+          },
+          {
+            "russian": "Хладилникът е в кухнята.",
+            "english": "The refrigerator is in the kitchen."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Апартаментът",
+        "text": "Картината е на стената. Завесата е до прозореца. Хладилникът е в кухнята.",
+        "translation": "The picture is on the wall. The curtain is by the window. The refrigerator is in the kitchen.",
+        "glossary": [
+          {
+            "russian": "на стената",
+            "english": "on the wall"
+          },
+          {
+            "russian": "в кухнята",
+            "english": "in the kitchen"
+          },
+          {
+            "russian": "до прозореца",
+            "english": "by the window"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your kitchen or bedroom in three sentences. In each, use one masculine subject (-ът) and one masculine or feminine word after a preposition (-а or -та), for example: Столът е до масата."
+    },
+    {
+      "day": 5,
+      "title": "Article after this/that and possessives",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "огледало",
+          "translit": "o-gle-DA-lo",
+          "english": "mirror",
+          "pos": "noun (n.)",
+          "example": "Огледалото е на стената.",
+          "exampleEn": "The mirror is on the wall."
+        },
+        {
+          "russian": "чиния",
+          "translit": "chi-NI-ya",
+          "english": "plate",
+          "pos": "noun (f.)",
+          "example": "Чинията е на масата.",
+          "exampleEn": "The plate is on the table."
+        },
+        {
+          "russian": "чаша",
+          "translit": "CHA-sha",
+          "english": "cup, glass",
+          "pos": "noun (f.)",
+          "example": "Чашата е до чинията.",
+          "exampleEn": "The cup is by the plate."
+        },
+        {
+          "russian": "лъжица",
+          "translit": "la-ZHI-tsa",
+          "english": "spoon",
+          "pos": "noun (f.)",
+          "example": "Лъжицата е в чашата.",
+          "exampleEn": "The spoon is in the cup."
+        },
+        {
+          "russian": "нож",
+          "translit": "nozh",
+          "english": "knife",
+          "pos": "noun (m.)",
+          "example": "Ножът е на масата.",
+          "exampleEn": "The knife is on the table."
+        },
+        {
+          "russian": "вилица",
+          "translit": "VI-li-tsa",
+          "english": "fork",
+          "pos": "noun (f.)",
+          "example": "Вилицата е до ножа.",
+          "exampleEn": "The fork is by the knife."
+        }
+      ],
+      "grammar": {
+        "title": "The article in real phrases",
+        "explanation": "When a definite noun comes after a preposition you keep the article: на масата (on the table), в чашата (in the cup), до ножа (by the knife — note the masculine short form -а). Use the verb 'to be' to link them: Лъжицата е в чашата (The spoon is in the cup). With masculine words remember the split: as a subject Ножът е тук (The knife is here), after a preposition до ножа (by the knife). Feminine words like чаша, чиния, лъжица, вилица just add -та: чашата, чинията, лъжицата, вилицата.",
+        "examples": [
+          {
+            "russian": "Чашата е на масата.",
+            "english": "The cup is on the table."
+          },
+          {
+            "russian": "Лъжицата е до чинията.",
+            "english": "The spoon is by the plate."
+          },
+          {
+            "russian": "Вилицата е до ножа.",
+            "english": "The fork is by the knife."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На масата",
+        "text": "Чинията е на масата. Чашата е до чинията. Ножът и вилицата са на масата.",
+        "translation": "The plate is on the table. The cup is by the plate. The knife and the fork are on the table.",
+        "glossary": [
+          {
+            "russian": "и",
+            "english": "and"
+          },
+          {
+            "russian": "са",
+            "english": "are (to be)"
+          },
+          {
+            "russian": "до чинията",
+            "english": "by the plate"
+          }
+        ]
+      },
+      "speakingPrompt": "Set an imaginary table. Say where the plate, cup, knife and fork are using definite forms and prepositions (на масата, до чинията, до ножа). Use 'е' for one item and 'са' for two items together."
+    },
+    {
+      "day": 6,
+      "title": "Describing definite home objects with adjectives",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "голям",
+          "translit": "go-LYAM",
+          "english": "big (m.)",
+          "pos": "adjective",
+          "example": "Хладилникът е голям.",
+          "exampleEn": "The refrigerator is big."
+        },
+        {
+          "russian": "малък",
+          "translit": "MA-lak",
+          "english": "small (m.)",
+          "pos": "adjective",
+          "example": "Столът е малък.",
+          "exampleEn": "The chair is small."
+        },
+        {
+          "russian": "нов",
+          "translit": "nov",
+          "english": "new (m.)",
+          "pos": "adjective",
+          "example": "Телевизорът е нов.",
+          "exampleEn": "The television is new."
+        },
+        {
+          "russian": "стар",
+          "translit": "star",
+          "english": "old (m.)",
+          "pos": "adjective",
+          "example": "Шкафът е стар.",
+          "exampleEn": "The cupboard is old."
+        },
+        {
+          "russian": "чист",
+          "translit": "chist",
+          "english": "clean (m.)",
+          "pos": "adjective",
+          "example": "Подът е чист.",
+          "exampleEn": "The floor is clean."
+        },
+        {
+          "russian": "удобен",
+          "translit": "u-DO-ben",
+          "english": "comfortable (m.)",
+          "pos": "adjective",
+          "example": "Диванът е удобен.",
+          "exampleEn": "The sofa is comfortable."
+        },
+        {
+          "russian": "красив",
+          "translit": "kra-SIV",
+          "english": "beautiful (m.)",
+          "pos": "adjective",
+          "example": "Килимът е красив.",
+          "exampleEn": "The carpet is beautiful."
+        }
+      ],
+      "grammar": {
+        "title": "Article + adjective + 'to be'",
+        "explanation": "This week we add the article only to the NOUN; the adjective stays in its short dictionary form when it follows 'to be': Столът е малък (The chair is small), Масата е голяма (The table is big — feminine голяма), Огледалото е чисто (The mirror is clean — neuter чисто). So the pattern is: [noun + article] + е + [plain adjective]. Notice the adjective still agrees in gender with the noun (нов / нова / ново), but it does NOT take an article yet — attaching the article to the adjective is a topic for next week. For now: make the noun definite, keep the adjective simple after 'е'.",
+        "examples": [
+          {
+            "russian": "Диванът е удобен.",
+            "english": "The sofa is comfortable."
+          },
+          {
+            "russian": "Масата е голяма.",
+            "english": "The table is big."
+          },
+          {
+            "russian": "Огледалото е ново.",
+            "english": "The mirror is new."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Хубавата стая",
+        "text": "Диванът е удобен и нов. Килимът е красив. Масата е голяма, но столът е малък.",
+        "translation": "The sofa is comfortable and new. The carpet is beautiful. The table is big, but the chair is small.",
+        "glossary": [
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "удобен",
+            "english": "comfortable"
+          },
+          {
+            "russian": "красив",
+            "english": "beautiful"
+          }
+        ]
+      },
+      "speakingPrompt": "Pick five objects in your home, make each definite (with -ът, -а, -та or -то as needed) and describe it with 'е' and an adjective that agrees in gender, e.g. Хладилникът е голям, Масата е чиста."
+    },
+    {
+      "day": 7,
+      "title": "Review: the definite article and the home",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: the suffixed definite article",
+        "explanation": "This week 'the' was always a SUFFIX, never a separate word. Feminine nouns add -та: книга → книгата, маса → масата, кухня → кухнята. Masculine nouns have two forms: the full -ът when the noun is the subject (Столът е нов) and the short -а after prepositions or as a non-subject (на стола, до ножа). Neuter nouns (which we met in examples) add -то: легло → леглото, бюро → бюрото. Remember: Bulgarian has the verb 'to be' (съм, си, е, сме, сте, са) and NO noun cases — position and prepositions (на, до, в, от, с) carry the meaning. The adjective after 'е' stays plain but still agrees in gender: голям / голяма / голямо.",
+        "examples": [
+          {
+            "russian": "Книгата е на масата.",
+            "english": "The book is on the table."
+          },
+          {
+            "russian": "Столът е до прозореца.",
+            "english": "The chair is by the window."
+          },
+          {
+            "russian": "Леглото е голямо, а стаята е малка.",
+            "english": "The bed is big, and the room is small."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Диалог: новата стая",
+        "text": "— Къде е книгата? — Книгата е на масата. — А ключът? — Ключът е до телефона. Стаята е чиста и хубава.",
+        "translation": "— Where is the book? — The book is on the table. — And the key? — The key is by the telephone. The room is clean and nice.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          },
+          {
+            "russian": "хубава",
+            "english": "nice, lovely (f.)"
+          },
+          {
+            "russian": "до телефона",
+            "english": "by the telephone"
+          }
+        ]
+      },
+      "speakingPrompt": "Give a short tour of one room. Name at least six objects, make each definite (-ът/-а for masculine, -та for feminine, -то for neuter), and say where things are using на, до and в. Use both 'е' (one thing) and 'са' (two things)."
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "week": 24,
+  "theme": "Joining ideas",
+  "days": [
+    {
+      "day": 1,
+      "title": "Adding ideas with \"и\" (and)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "conjunction",
+          "example": "Аз чета и пиша.",
+          "exampleEn": "I read and write."
+        },
+        {
+          "russian": "също",
+          "translit": "sAshto",
+          "english": "also, too",
+          "pos": "adverb",
+          "example": "Той също иска кафе.",
+          "exampleEn": "He also wants coffee."
+        },
+        {
+          "russian": "идея",
+          "translit": "idEya",
+          "english": "idea",
+          "pos": "noun (f)",
+          "example": "Това е добра идея.",
+          "exampleEn": "This is a good idea."
+        },
+        {
+          "russian": "заедно",
+          "translit": "zAedno",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Работим заедно.",
+          "exampleEn": "We work together."
+        },
+        {
+          "russian": "още",
+          "translit": "Oshte",
+          "english": "more, still",
+          "pos": "adverb",
+          "example": "Искам още вода.",
+          "exampleEn": "I want more water."
+        },
+        {
+          "russian": "приятел",
+          "translit": "priyAtel",
+          "english": "friend",
+          "pos": "noun (m)",
+          "example": "Имам нов приятел.",
+          "exampleEn": "I have a new friend."
+        },
+        {
+          "russian": "плюс",
+          "translit": "plyus",
+          "english": "plus",
+          "pos": "preposition",
+          "example": "Чай плюс мляко.",
+          "exampleEn": "Tea plus milk."
+        }
+      ],
+      "grammar": {
+        "title": "Linking words and clauses with \"и\"",
+        "explanation": "The conjunction \"и\" (and) joins words, phrases or whole clauses, just like English \"and\". You can connect two nouns (хляб и сирене = bread and cheese), two verbs (чета и пиша = I read and write), or two full sentences (Аз съм тук и ти си тук = I am here and you are here). Remember Bulgarian uses the present-tense verb \"to be\" (съм, си, е, сме, сте, са), so each clause keeps its own verb. Bulgarian has no noun cases, so nouns do not change form when joined by \"и\".",
+        "examples": [
+          {
+            "russian": "Аз чета и пиша всеки ден.",
+            "english": "I read and write every day."
+          },
+          {
+            "russian": "Мария и Иван са приятели.",
+            "english": "Maria and Ivan are friends."
+          },
+          {
+            "russian": "Искам чай и още вода.",
+            "english": "I want tea and more water."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Заедно",
+        "text": "— Имам нова идея. Искаш ли да работим заедно? — Да! Това е добра идея и аз също искам.",
+        "translation": "\"I have a new idea. Do you want to work together?\" \"Yes! This is a good idea and I want to too.\"",
+        "glossary": [
+          {
+            "russian": "идея",
+            "english": "idea"
+          },
+          {
+            "russian": "заедно",
+            "english": "together"
+          },
+          {
+            "russian": "също",
+            "english": "also"
+          }
+        ]
+      },
+      "speakingPrompt": "Say two things you like using \"и\" to join them, for example \"Обичам кафе и чай\" (I love coffee and tea). Then add a third idea with \"също\"."
+    },
+    {
+      "day": 2,
+      "title": "Contrasting with \"но\" (but)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "но",
+          "translit": "no",
+          "english": "but",
+          "pos": "conjunction",
+          "example": "Искам, но не мога.",
+          "exampleEn": "I want to, but I can't."
+        },
+        {
+          "russian": "проблем",
+          "translit": "problEm",
+          "english": "problem",
+          "pos": "noun (m)",
+          "example": "Имаме малък проблем.",
+          "exampleEn": "We have a small problem."
+        },
+        {
+          "russian": "труден",
+          "translit": "trUden",
+          "english": "difficult",
+          "pos": "adjective",
+          "example": "Това е труден въпрос.",
+          "exampleEn": "This is a difficult question."
+        },
+        {
+          "russian": "лесен",
+          "translit": "lEsen",
+          "english": "easy",
+          "pos": "adjective",
+          "example": "Урокът е лесен.",
+          "exampleEn": "The lesson is easy."
+        },
+        {
+          "russian": "уморен",
+          "translit": "umorEn",
+          "english": "tired",
+          "pos": "adjective",
+          "example": "Аз съм уморен днес.",
+          "exampleEn": "I am tired today."
+        },
+        {
+          "russian": "обаче",
+          "translit": "obAche",
+          "english": "however",
+          "pos": "adverb",
+          "example": "Студено е, обаче излизам.",
+          "exampleEn": "It's cold, however I'm going out."
+        },
+        {
+          "russian": "въпрос",
+          "translit": "vaprOs",
+          "english": "question",
+          "pos": "noun (m)",
+          "example": "Имам един въпрос.",
+          "exampleEn": "I have one question."
+        }
+      ],
+      "grammar": {
+        "title": "Showing contrast with \"но\"",
+        "explanation": "\"Но\" (but) joins two clauses that contrast with each other: the second part says something unexpected after the first. Example: Искам да дойда, но съм уморен (I want to come, but I am tired). Put a comma before \"но\". A stronger, more formal contrast word is \"обаче\" (however), which can also stand inside the second clause: Студено е, обаче излизам (It's cold, however I'm going out). Both clauses keep their own verb, including the verb \"to be\".",
+        "examples": [
+          {
+            "russian": "Урокът е лесен, но дълъг.",
+            "english": "The lesson is easy but long."
+          },
+          {
+            "russian": "Искам да чета, но съм уморен.",
+            "english": "I want to read, but I am tired."
+          },
+          {
+            "russian": "Имаме проблем, обаче имаме идея.",
+            "english": "We have a problem, however we have an idea."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Уморен",
+        "text": "— Искаш ли да работим заедно? — Искам, но съм много уморен днес. Утре обаче имам време.",
+        "translation": "\"Do you want to work together?\" \"I want to, but I am very tired today. Tomorrow, however, I have time.\"",
+        "glossary": [
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "уморен",
+            "english": "tired"
+          },
+          {
+            "russian": "обаче",
+            "english": "however"
+          }
+        ]
+      },
+      "speakingPrompt": "Make a sentence with \"но\" about something you want but can't do, for example \"Искам да спя, но трябва да работя\" (I want to sleep, but I have to work)."
+    },
+    {
+      "day": 3,
+      "title": "Giving reasons with \"защото\" (because)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "защото",
+          "translit": "zashtOto",
+          "english": "because",
+          "pos": "conjunction",
+          "example": "Стоя вкъщи, защото вали.",
+          "exampleEn": "I stay home because it's raining."
+        },
+        {
+          "russian": "причина",
+          "translit": "prichIna",
+          "english": "reason",
+          "pos": "noun (f)",
+          "example": "Каква е причината?",
+          "exampleEn": "What is the reason?"
+        },
+        {
+          "russian": "защо",
+          "translit": "zashtO",
+          "english": "why",
+          "pos": "adverb",
+          "example": "Защо не дойде?",
+          "exampleEn": "Why didn't you come?"
+        },
+        {
+          "russian": "болен",
+          "translit": "bOlen",
+          "english": "sick, ill",
+          "pos": "adjective",
+          "example": "Той е болен днес.",
+          "exampleEn": "He is sick today."
+        },
+        {
+          "russian": "зает",
+          "translit": "zaEt",
+          "english": "busy",
+          "pos": "adjective",
+          "example": "Сега съм зает.",
+          "exampleEn": "I am busy now."
+        },
+        {
+          "russian": "време",
+          "translit": "vrEme",
+          "english": "time, weather",
+          "pos": "noun (n)",
+          "example": "Нямам време сега.",
+          "exampleEn": "I don't have time now."
+        },
+        {
+          "russian": "дъжд",
+          "translit": "dazhd",
+          "english": "rain",
+          "pos": "noun (m)",
+          "example": "Навън има дъжд.",
+          "exampleEn": "There is rain outside."
+        }
+      ],
+      "grammar": {
+        "title": "Answering \"why?\" with \"защото\"",
+        "explanation": "\"Защо?\" means \"why?\" and the answer uses \"защото\" (because) to give a reason. Notice they look almost the same but the stress differs: zashtO (why) vs zashtOto (because). The reason clause comes after \"защото\": Не идвам, защото съм болен (I'm not coming because I am sick). \"Защото\" usually does NOT begin a sentence in everyday speech; it follows the main clause. Use a comma before it.",
+        "examples": [
+          {
+            "russian": "Защо стоиш вкъщи? — Защото има дъжд.",
+            "english": "Why are you staying home? — Because there is rain."
+          },
+          {
+            "russian": "Не работя, защото съм болен.",
+            "english": "I'm not working because I am sick."
+          },
+          {
+            "russian": "Нямам време, защото съм много зает.",
+            "english": "I don't have time because I am very busy."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Защо?",
+        "text": "— Защо не дойде вчера? — Защото бях болен. — А днес? — Днес съм зает, но утре имам време.",
+        "translation": "\"Why didn't you come yesterday?\" \"Because I was sick.\" \"And today?\" \"Today I'm busy, but tomorrow I have time.\"",
+        "glossary": [
+          {
+            "russian": "защо",
+            "english": "why"
+          },
+          {
+            "russian": "защото",
+            "english": "because"
+          },
+          {
+            "russian": "болен",
+            "english": "sick"
+          }
+        ]
+      },
+      "speakingPrompt": "Answer the question \"Защо учиш български?\" (Why are you learning Bulgarian?) starting with \"Защото...\"."
+    },
+    {
+      "day": 4,
+      "title": "Reporting thoughts with \"че\" (that)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "че",
+          "translit": "che",
+          "english": "that (conjunction)",
+          "pos": "conjunction",
+          "example": "Мисля, че си прав.",
+          "exampleEn": "I think that you are right."
+        },
+        {
+          "russian": "мисля",
+          "translit": "mIslya",
+          "english": "to think",
+          "pos": "verb",
+          "example": "Мисля за теб.",
+          "exampleEn": "I think about you."
+        },
+        {
+          "russian": "знам",
+          "translit": "znam",
+          "english": "to know",
+          "pos": "verb",
+          "example": "Знам, че е тук.",
+          "exampleEn": "I know that he is here."
+        },
+        {
+          "russian": "вярвам",
+          "translit": "vyArvam",
+          "english": "to believe",
+          "pos": "verb",
+          "example": "Вярвам, че можеш.",
+          "exampleEn": "I believe that you can."
+        },
+        {
+          "russian": "казвам",
+          "translit": "kAzvam",
+          "english": "to say",
+          "pos": "verb",
+          "example": "Казвам, че е добре.",
+          "exampleEn": "I say that it's fine."
+        },
+        {
+          "russian": "прав",
+          "translit": "prav",
+          "english": "right, correct",
+          "pos": "adjective",
+          "example": "Ти си прав.",
+          "exampleEn": "You are right."
+        },
+        {
+          "russian": "надявам се",
+          "translit": "nadyAvam se",
+          "english": "to hope",
+          "pos": "verb",
+          "example": "Надявам се, че идваш.",
+          "exampleEn": "I hope that you are coming."
+        }
+      ],
+      "grammar": {
+        "title": "Joining a thought with \"че\"",
+        "explanation": "\"Че\" means \"that\" and links a verb of thinking/saying/knowing to a full clause: Мисля, че... (I think that...), Знам, че... (I know that...), Вярвам, че... (I believe that...). Unlike English, \"че\" is almost never dropped, and a comma comes before it. The second clause is a normal sentence with its own subject and verb: Мисля, че той е прав (I think that he is right). Do not confuse \"че\" (that) with \"да\" (used after verbs of wanting: искам да чета).",
+        "examples": [
+          {
+            "russian": "Мисля, че имаш право.",
+            "english": "I think that you are right."
+          },
+          {
+            "russian": "Знам, че утре е събота.",
+            "english": "I know that tomorrow is Saturday."
+          },
+          {
+            "russian": "Надявам се, че времето е хубаво.",
+            "english": "I hope that the weather is nice."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мисля, че...",
+        "text": "— Мисля, че Иван е болен. — Защо? — Не знам, но вярвам, че утре ще е добре.",
+        "translation": "\"I think that Ivan is sick.\" \"Why?\" \"I don't know, but I believe that he will be fine tomorrow.\"",
+        "glossary": [
+          {
+            "russian": "че",
+            "english": "that"
+          },
+          {
+            "russian": "мисля",
+            "english": "to think"
+          },
+          {
+            "russian": "вярвам",
+            "english": "to believe"
+          }
+        ]
+      },
+      "speakingPrompt": "Start three sentences with \"Мисля, че...\", \"Знам, че...\" and \"Надявам се, че...\" about your day."
+    },
+    {
+      "day": 5,
+      "title": "Conditions with \"ако\" (if)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ако",
+          "translit": "akO",
+          "english": "if",
+          "pos": "conjunction",
+          "example": "Ако вали, оставам вкъщи.",
+          "exampleEn": "If it rains, I stay home."
+        },
+        {
+          "russian": "тогава",
+          "translit": "togAva",
+          "english": "then",
+          "pos": "adverb",
+          "example": "Тогава да тръгваме.",
+          "exampleEn": "Then let's go."
+        },
+        {
+          "russian": "може би",
+          "translit": "mOzhe bi",
+          "english": "maybe",
+          "pos": "adverb",
+          "example": "Може би утре.",
+          "exampleEn": "Maybe tomorrow."
+        },
+        {
+          "russian": "помагам",
+          "translit": "pomAgam",
+          "english": "to help",
+          "pos": "verb",
+          "example": "Помагам на приятел.",
+          "exampleEn": "I help a friend."
+        },
+        {
+          "russian": "свободен",
+          "translit": "svobOden",
+          "english": "free, available",
+          "pos": "adjective",
+          "example": "Свободен ли си утре?",
+          "exampleEn": "Are you free tomorrow?"
+        },
+        {
+          "russian": "питам",
+          "translit": "pItam",
+          "english": "to ask",
+          "pos": "verb",
+          "example": "Питам учителя.",
+          "exampleEn": "I ask the teacher."
+        },
+        {
+          "russian": "нужен",
+          "translit": "nUzhen",
+          "english": "needed, necessary",
+          "pos": "adjective",
+          "example": "Нужен си ми.",
+          "exampleEn": "I need you."
+        }
+      ],
+      "grammar": {
+        "title": "Talking about conditions with \"ако\"",
+        "explanation": "\"Ако\" means \"if\" and introduces a condition. The pattern is: Ако + condition, (тогава) + result. Example: Ако имаш време, помогни ми (If you have time, help me). Often the result clause can start with \"тогава\" (then): Ако вали, тогава оставам вкъщи. The \"ако\" clause can come first (with a comma after it) or second: Помогни ми, ако имаш време. Both clauses use the present tense; remember the verb \"to be\": Ако си свободен, обади се (If you are free, call).",
+        "examples": [
+          {
+            "russian": "Ако имаш време, помогни ми.",
+            "english": "If you have time, help me."
+          },
+          {
+            "russian": "Ако си свободен утре, ще се видим.",
+            "english": "If you are free tomorrow, we'll see each other."
+          },
+          {
+            "russian": "Питай ме, ако имаш въпрос.",
+            "english": "Ask me if you have a question."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Ако имаш време",
+        "text": "— Свободен ли си утре? — Може би. Защо? — Ако имаш време, помогни ми. — Добре, тогава ще дойда.",
+        "translation": "\"Are you free tomorrow?\" \"Maybe. Why?\" \"If you have time, help me.\" \"Okay, then I'll come.\"",
+        "glossary": [
+          {
+            "russian": "ако",
+            "english": "if"
+          },
+          {
+            "russian": "тогава",
+            "english": "then"
+          },
+          {
+            "russian": "свободен",
+            "english": "free"
+          }
+        ]
+      },
+      "speakingPrompt": "Make two \"ако\" sentences about your weekend, for example \"Ако времето е хубаво, ще изляза\" (If the weather is nice, I'll go out)."
+    },
+    {
+      "day": 6,
+      "title": "Showing results with \"затова\" (so, therefore)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "затова",
+          "translit": "zatovA",
+          "english": "so, therefore",
+          "pos": "conjunction",
+          "example": "Вали, затова стоя вкъщи.",
+          "exampleEn": "It's raining, so I stay home."
+        },
+        {
+          "russian": "резултат",
+          "translit": "rezultAt",
+          "english": "result",
+          "pos": "noun (m)",
+          "example": "Това е добър резултат.",
+          "exampleEn": "This is a good result."
+        },
+        {
+          "russian": "затварям",
+          "translit": "zatvAryam",
+          "english": "to close",
+          "pos": "verb",
+          "example": "Затварям вратата.",
+          "exampleEn": "I close the door."
+        },
+        {
+          "russian": "решавам",
+          "translit": "reshAvam",
+          "english": "to decide, to solve",
+          "pos": "verb",
+          "example": "Решавам да остана.",
+          "exampleEn": "I decide to stay."
+        },
+        {
+          "russian": "важен",
+          "translit": "vAzhen",
+          "english": "important",
+          "pos": "adjective",
+          "example": "Това е важен ден.",
+          "exampleEn": "This is an important day."
+        },
+        {
+          "russian": "бързам",
+          "translit": "bArzam",
+          "english": "to hurry",
+          "pos": "verb",
+          "example": "Бързам за работа.",
+          "exampleEn": "I'm hurrying to work."
+        },
+        {
+          "russian": "късно",
+          "translit": "kAsno",
+          "english": "late",
+          "pos": "adverb",
+          "example": "Вече е късно.",
+          "exampleEn": "It's already late."
+        }
+      ],
+      "grammar": {
+        "title": "Drawing a conclusion with \"затова\"",
+        "explanation": "\"Затова\" means \"so / therefore / that's why\". It is the mirror of \"защото\": with \"защото\" the reason comes second (Стоя вкъщи, защото вали), but with \"затова\" the reason comes first and the result follows (Вали, затова стоя вкъщи = It's raining, so I stay home). Use a comma before \"затова\". This lets you build cause-and-effect sentences from either direction.",
+        "examples": [
+          {
+            "russian": "Вече е късно, затова бързам.",
+            "english": "It's already late, so I'm hurrying."
+          },
+          {
+            "russian": "Денят е важен, затова съм тук.",
+            "english": "The day is important, so I am here."
+          },
+          {
+            "russian": "Той е болен, затова не идва.",
+            "english": "He is sick, therefore he is not coming."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Затова бързам",
+        "text": "— Вече е късно, затова бързам. — Какъв е проблемът? — Денят е важен. Решавам да тръгна сега.",
+        "translation": "\"It's already late, so I'm hurrying.\" \"What's the problem?\" \"The day is important. I'm deciding to leave now.\"",
+        "glossary": [
+          {
+            "russian": "затова",
+            "english": "so, therefore"
+          },
+          {
+            "russian": "важен",
+            "english": "important"
+          },
+          {
+            "russian": "бързам",
+            "english": "to hurry"
+          }
+        ]
+      },
+      "speakingPrompt": "Take one of your \"защото\" reasons from Day 3 and say it the other way using \"затова\", for example \"Вали, затова стоя вкъщи\"."
+    },
+    {
+      "day": 7,
+      "title": "Review: Joining ideas",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap of the six connectors",
+        "explanation": "This week you learned six ways to join ideas into longer sentences. \"И\" (and) adds: Чета и пиша. \"Но\" (but) contrasts: Искам, но не мога. \"Защото\" (because) gives a reason after the result: Стоя вкъщи, защото вали. \"Затова\" (so/therefore) puts the reason first and the result after: Вали, затова стоя вкъщи. \"Че\" (that) reports a thought after verbs like мисля/знам/вярвам: Мисля, че си прав. \"Ако\" (if) sets a condition: Ако имаш време, помогни ми. Remember: a comma comes before но, защото, че, ако and затова; keep the present-tense verb \"to be\" (съм, си, е, сме, сте, са) in each clause; and never change nouns by case.",
+        "examples": [
+          {
+            "russian": "Уморен съм, но искам да помогна.",
+            "english": "I am tired, but I want to help."
+          },
+          {
+            "russian": "Мисля, че е важно, затова бързам.",
+            "english": "I think that it's important, so I'm hurrying."
+          },
+          {
+            "russian": "Ако си свободен, обади се, защото имам идея.",
+            "english": "If you are free, call, because I have an idea."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Една добра идея",
+        "text": "— Имам идея, но е трудна. — Защо е трудна? — Защото нямаме време. — Ако работим заедно, тогава можем. Идеята е важна, затова да започваме!",
+        "translation": "\"I have an idea, but it's difficult.\" \"Why is it difficult?\" \"Because we don't have time.\" \"If we work together, then we can. The idea is important, so let's start!\"",
+        "glossary": [
+          {
+            "russian": "идея",
+            "english": "idea"
+          },
+          {
+            "russian": "заедно",
+            "english": "together"
+          },
+          {
+            "russian": "важна",
+            "english": "important (f)"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a short story (4–5 sentences) about a plan with a friend, using at least one и, one но, one защото or затова, one че, and one ако."
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "week": 4,
+  "theme": "Asking questions",
+  "days": [
+    {
+      "day": 1,
+      "title": "What is it? какво",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "какво",
+          "translit": "kakvó",
+          "english": "what",
+          "pos": "question word",
+          "example": "Какво е това?",
+          "exampleEn": "What is this?"
+        },
+        {
+          "russian": "това",
+          "translit": "tová",
+          "english": "this / that",
+          "pos": "pronoun",
+          "example": "Това е книга.",
+          "exampleEn": "This is a book."
+        },
+        {
+          "russian": "въпрос",
+          "translit": "vaprós",
+          "english": "question",
+          "pos": "noun",
+          "example": "Имам въпрос.",
+          "exampleEn": "I have a question."
+        },
+        {
+          "russian": "отговор",
+          "translit": "otgovór",
+          "english": "answer",
+          "pos": "noun",
+          "example": "Това е добър отговор.",
+          "exampleEn": "That is a good answer."
+        },
+        {
+          "russian": "име",
+          "translit": "íme",
+          "english": "name",
+          "pos": "noun",
+          "example": "Какво е името?",
+          "exampleEn": "What is the name?"
+        },
+        {
+          "russian": "нещо",
+          "translit": "néshto",
+          "english": "something / thing",
+          "pos": "noun",
+          "example": "Искам да кажа нещо.",
+          "exampleEn": "I want to say something."
+        },
+        {
+          "russian": "казвам",
+          "translit": "kázvam",
+          "english": "to say / be called",
+          "pos": "verb",
+          "example": "Казвам се Анна.",
+          "exampleEn": "My name is Anna."
+        }
+      ],
+      "grammar": {
+        "title": "Asking with какво (what)",
+        "explanation": "The question word **какво** means *what*. It usually starts the question, followed by the verb **съм** (to be): **Какво е това?** = *What is this?* Remember Bulgarian has a present-tense \"to be\": **съм, си, е, сме, сте, са**. So the answer pattern is **Това е…** = *This is…*: Това е книга. To ask someone's name, Bulgarian uses the reflexive verb **казвам се**: **Как се казваш?** literally *How do you call yourself?* — but with **какво** you can ask **Какво е името?** = *What is the name?* There are no noun cases: the word for *book* is simply **книга** in any position.",
+        "examples": [
+          {
+            "russian": "Какво е това?",
+            "english": "What is this?"
+          },
+          {
+            "russian": "Това е въпрос.",
+            "english": "This is a question."
+          },
+          {
+            "russian": "Какво е името?",
+            "english": "What is the name?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какво е това?",
+        "text": "— Какво е това? — Това е книга. — А това? — Това е въпрос!",
+        "translation": "\"What is this?\" \"This is a book.\" \"And this?\" \"This is a question!\"",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          },
+          {
+            "russian": "книга",
+            "english": "book"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at three objects around you and ask Какво е това? Then answer each one with Това е… Try also asking Какво е името? for a person."
+    },
+    {
+      "day": 2,
+      "title": "Who is it? кой",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "кой",
+          "translit": "koy",
+          "english": "who / which (masc.)",
+          "pos": "question word",
+          "example": "Кой е този човек?",
+          "exampleEn": "Who is this person?"
+        },
+        {
+          "russian": "човек",
+          "translit": "chovék",
+          "english": "person / man",
+          "pos": "noun",
+          "example": "Този човек е учител.",
+          "exampleEn": "This person is a teacher."
+        },
+        {
+          "russian": "приятел",
+          "translit": "priyátel",
+          "english": "friend (male)",
+          "pos": "noun",
+          "example": "Той е мой приятел.",
+          "exampleEn": "He is my friend."
+        },
+        {
+          "russian": "приятелка",
+          "translit": "priyátelka",
+          "english": "friend (female)",
+          "pos": "noun",
+          "example": "Тя е моя приятелка.",
+          "exampleEn": "She is my friend."
+        },
+        {
+          "russian": "този",
+          "translit": "tózi",
+          "english": "this (masc.)",
+          "pos": "pronoun",
+          "example": "Този човек е добър.",
+          "exampleEn": "This person is good."
+        },
+        {
+          "russian": "учител",
+          "translit": "uchítel",
+          "english": "teacher",
+          "pos": "noun",
+          "example": "Кой е учителят?",
+          "exampleEn": "Who is the teacher?"
+        },
+        {
+          "russian": "колега",
+          "translit": "koléga",
+          "english": "colleague",
+          "pos": "noun",
+          "example": "Той е мой колега.",
+          "exampleEn": "He is my colleague."
+        }
+      ],
+      "grammar": {
+        "title": "Asking with кой (who)",
+        "explanation": "**Кой** means *who* (and also *which one*). Use it with **е** to ask about a person: **Кой е този човек?** = *Who is this person?* The answer uses a personal pronoun + **е**: **Той е приятел** (*He is a friend*), **Тя е приятелка** (*She is a friend*). Note the definite article is a **suffix**: учител → **учителят** (*the teacher*, masc. subject form). The pointing word **този** (*this*) agrees with masculine nouns and goes before the noun: **този човек**. There are no case endings — only the article suffix changes the noun.",
+        "examples": [
+          {
+            "russian": "Кой е този човек?",
+            "english": "Who is this person?"
+          },
+          {
+            "russian": "Той е мой приятел.",
+            "english": "He is my friend."
+          },
+          {
+            "russian": "Кой е учителят?",
+            "english": "Who is the teacher?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кой е той?",
+        "text": "— Кой е този човек? — Той е мой колега. — А тя? — Тя е моя приятелка.",
+        "translation": "\"Who is this person?\" \"He is my colleague.\" \"And she?\" \"She is my friend.\"",
+        "glossary": [
+          {
+            "russian": "той",
+            "english": "he"
+          },
+          {
+            "russian": "тя",
+            "english": "she"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine pointing at people in a photo. Ask Кой е този човек? and answer with Той е… or Тя е… using приятел, приятелка, учител, колега."
+    },
+    {
+      "day": 3,
+      "title": "Where is it? къде",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "къде",
+          "translit": "kadé",
+          "english": "where",
+          "pos": "question word",
+          "example": "Къде е гарата?",
+          "exampleEn": "Where is the station?"
+        },
+        {
+          "russian": "тук",
+          "translit": "tuk",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Книгата е тук.",
+          "exampleEn": "The book is here."
+        },
+        {
+          "russian": "там",
+          "translit": "tam",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Магазинът е там.",
+          "exampleEn": "The shop is there."
+        },
+        {
+          "russian": "гара",
+          "translit": "gára",
+          "english": "station",
+          "pos": "noun",
+          "example": "Къде е гарата?",
+          "exampleEn": "Where is the station?"
+        },
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop",
+          "pos": "noun",
+          "example": "Магазинът е до гарата.",
+          "exampleEn": "The shop is next to the station."
+        },
+        {
+          "russian": "в",
+          "translit": "v",
+          "english": "in",
+          "pos": "preposition",
+          "example": "Аз съм в София.",
+          "exampleEn": "I am in Sofia."
+        },
+        {
+          "russian": "до",
+          "translit": "do",
+          "english": "next to / until",
+          "pos": "preposition",
+          "example": "Кафето е до книгата.",
+          "exampleEn": "The coffee is next to the book."
+        }
+      ],
+      "grammar": {
+        "title": "Asking with къде (where) and prepositions",
+        "explanation": "**Къде** means *where*: **Къде е гарата?** = *Where is the station?* The answer uses **е** plus a place word or preposition. Since Bulgarian has **no cases**, location is shown with prepositions like **в** (*in*), **до** (*next to*) and the place adverbs **тук** (*here*) and **там** (*there*): **Гарата е там.** Notice the definite article suffix on feminine nouns is **-та**: гара → **гарата** (*the station*), and on masculine nouns **-ът/-а**: магазин → **магазинът** (*the shop*). The noun itself never changes its ending for case.",
+        "examples": [
+          {
+            "russian": "Къде е магазинът?",
+            "english": "Where is the shop?"
+          },
+          {
+            "russian": "Магазинът е до гарата.",
+            "english": "The shop is next to the station."
+          },
+          {
+            "russian": "Аз съм тук, в София.",
+            "english": "I am here, in Sofia."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Къде е гарата?",
+        "text": "— Извинете, къде е гарата? — Гарата е там, до магазина. — Благодаря!",
+        "translation": "\"Excuse me, where is the station?\" \"The station is there, next to the shop.\" \"Thank you!\"",
+        "glossary": [
+          {
+            "russian": "извинете",
+            "english": "excuse me"
+          },
+          {
+            "russian": "благодаря",
+            "english": "thank you"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask where three places are using Къде е…? (гарата, магазинът). Answer with тук, там, or a preposition like в София, до гарата."
+    },
+    {
+      "day": 4,
+      "title": "How and how much? как, колко",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "как",
+          "translit": "kak",
+          "english": "how",
+          "pos": "question word",
+          "example": "Как си?",
+          "exampleEn": "How are you?"
+        },
+        {
+          "russian": "колко",
+          "translit": "kólko",
+          "english": "how much / how many",
+          "pos": "question word",
+          "example": "Колко струва това?",
+          "exampleEn": "How much does this cost?"
+        },
+        {
+          "russian": "добре",
+          "translit": "dobré",
+          "english": "well / fine",
+          "pos": "adverb",
+          "example": "Аз съм добре.",
+          "exampleEn": "I am fine."
+        },
+        {
+          "russian": "зле",
+          "translit": "zlé",
+          "english": "badly",
+          "pos": "adverb",
+          "example": "Днес съм малко зле.",
+          "exampleEn": "Today I am a little unwell."
+        },
+        {
+          "russian": "струвам",
+          "translit": "strúvam",
+          "english": "to cost",
+          "pos": "verb",
+          "example": "Колко струва кафето?",
+          "exampleEn": "How much does the coffee cost?"
+        },
+        {
+          "russian": "лев",
+          "translit": "lev",
+          "english": "lev (currency)",
+          "pos": "noun",
+          "example": "Кафето струва два лева.",
+          "exampleEn": "The coffee costs two leva."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "a lot / very",
+          "pos": "adverb",
+          "example": "Това е много.",
+          "exampleEn": "That is a lot."
+        }
+      ],
+      "grammar": {
+        "title": "Asking with как (how) and колко (how much)",
+        "explanation": "**Как** means *how*. The classic greeting question is **Как си?** = *How are you?* (with **си**, the *you* form of *to be*). The answer: **Добре съм** (*I am fine*) or **Зле съм** (*I am unwell*). **Колко** means *how much / how many* and pairs with verbs like **струвам** (*to cost*): **Колко струва това?** = *How much does this cost?* Answer with a number + noun: **Два лева.** Use **много** (*a lot / very*) for emphasis: **много добре** = *very well*. No cases — only word order and these question words change.",
+        "examples": [
+          {
+            "russian": "Как си днес?",
+            "english": "How are you today?"
+          },
+          {
+            "russian": "Добре съм, благодаря.",
+            "english": "I am fine, thank you."
+          },
+          {
+            "russian": "Колко струва кафето?",
+            "english": "How much does the coffee cost?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Как си?",
+        "text": "— Здравей! Как си? — Много добре, благодаря. А ти? — Аз съм малко зле днес.",
+        "translation": "\"Hi! How are you?\" \"Very well, thank you. And you?\" \"I am a little unwell today.\"",
+        "glossary": [
+          {
+            "russian": "здравей",
+            "english": "hi / hello"
+          },
+          {
+            "russian": "малко",
+            "english": "a little"
+          }
+        ]
+      },
+      "speakingPrompt": "Greet a friend and ask Как си? Answer with Добре съм or Зле съм plus много. Then ask Колко струва…? about two things and answer with a price in лева."
+    },
+    {
+      "day": 5,
+      "title": "When and why? кога, защо",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "кога",
+          "translit": "kogá",
+          "english": "when",
+          "pos": "question word",
+          "example": "Кога е урокът?",
+          "exampleEn": "When is the lesson?"
+        },
+        {
+          "russian": "защо",
+          "translit": "zashtó",
+          "english": "why",
+          "pos": "question word",
+          "example": "Защо питаш?",
+          "exampleEn": "Why do you ask?"
+        },
+        {
+          "russian": "защото",
+          "translit": "zashtóto",
+          "english": "because",
+          "pos": "conjunction",
+          "example": "Уча, защото обичам.",
+          "exampleEn": "I study because I love it."
+        },
+        {
+          "russian": "днес",
+          "translit": "dnes",
+          "english": "today",
+          "pos": "adverb",
+          "example": "Урокът е днес.",
+          "exampleEn": "The lesson is today."
+        },
+        {
+          "russian": "утре",
+          "translit": "útre",
+          "english": "tomorrow",
+          "pos": "adverb",
+          "example": "Утре имам въпрос.",
+          "exampleEn": "Tomorrow I have a question."
+        },
+        {
+          "russian": "урок",
+          "translit": "urók",
+          "english": "lesson",
+          "pos": "noun",
+          "example": "Урокът е интересен.",
+          "exampleEn": "The lesson is interesting."
+        },
+        {
+          "russian": "питам",
+          "translit": "pítam",
+          "english": "to ask",
+          "pos": "verb",
+          "example": "Защо питаш това?",
+          "exampleEn": "Why do you ask that?"
+        }
+      ],
+      "grammar": {
+        "title": "Asking with кога (when) and защо (why)",
+        "explanation": "**Кога** means *when*: **Кога е урокът?** = *When is the lesson?* Answer with a time word like **днес** (*today*) or **утре** (*tomorrow*): **Урокът е утре.** **Защо** means *why*: **Защо питаш?** = *Why do you ask?* The natural reply uses **защото** (*because*) — notice it is **защо + то**, one word: **Питам, защото искам да знам** (*I ask because I want to know*). The verb **питам** (*to ask*) is a regular verb: питам, питаш, пита, питаме, питате, питат.",
+        "examples": [
+          {
+            "russian": "Кога е урокът?",
+            "english": "When is the lesson?"
+          },
+          {
+            "russian": "Урокът е утре.",
+            "english": "The lesson is tomorrow."
+          },
+          {
+            "russian": "Защо питаш? — Защото искам да знам.",
+            "english": "Why do you ask? — Because I want to know."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кога и защо",
+        "text": "— Кога е урокът? — Утре. — Защо питаш? — Защото имам въпрос.",
+        "translation": "\"When is the lesson?\" \"Tomorrow.\" \"Why do you ask?\" \"Because I have a question.\"",
+        "glossary": [
+          {
+            "russian": "имам",
+            "english": "I have"
+          },
+          {
+            "russian": "въпрос",
+            "english": "question"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask a friend Кога е…? about the lesson and answer with днес or утре. Then ask Защо…? and give a reason starting with Защото…"
+    },
+    {
+      "day": 6,
+      "title": "Saying no: negation with не",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "не",
+          "translit": "ne",
+          "english": "no / not",
+          "pos": "particle",
+          "example": "Не, не разбирам.",
+          "exampleEn": "No, I do not understand."
+        },
+        {
+          "russian": "да",
+          "translit": "da",
+          "english": "yes",
+          "pos": "particle",
+          "example": "Да, разбирам.",
+          "exampleEn": "Yes, I understand."
+        },
+        {
+          "russian": "разбирам",
+          "translit": "razbíram",
+          "english": "to understand",
+          "pos": "verb",
+          "example": "Не разбирам въпроса.",
+          "exampleEn": "I do not understand the question."
+        },
+        {
+          "russian": "зная",
+          "translit": "znáya",
+          "english": "to know",
+          "pos": "verb",
+          "example": "Не зная защо.",
+          "exampleEn": "I do not know why."
+        },
+        {
+          "russian": "никой",
+          "translit": "níkoy",
+          "english": "nobody",
+          "pos": "pronoun",
+          "example": "Никой не знае.",
+          "exampleEn": "Nobody knows."
+        },
+        {
+          "russian": "нищо",
+          "translit": "níshto",
+          "english": "nothing",
+          "pos": "pronoun",
+          "example": "Не разбирам нищо.",
+          "exampleEn": "I understand nothing."
+        },
+        {
+          "russian": "никъде",
+          "translit": "níkade",
+          "english": "nowhere",
+          "pos": "adverb",
+          "example": "Не отивам никъде.",
+          "exampleEn": "I am not going anywhere."
+        }
+      ],
+      "grammar": {
+        "title": "Negation with не",
+        "explanation": "To make a sentence negative, put **не** directly **before the verb**: **Разбирам** (*I understand*) → **Не разбирам** (*I do not understand*). To answer a yes/no question, start with **Да** (*yes*) or **Не** (*no*): **Да, зная.** / **Не, не зная.** Bulgarian uses **double negation**: a negative word like **никой** (*nobody*), **нищо** (*nothing*) or **никъде** (*nowhere*) still needs **не** before the verb: **Никой не знае** (literally *Nobody not knows*). This is correct and required — both pieces stay.",
+        "examples": [
+          {
+            "russian": "Не, не разбирам въпроса.",
+            "english": "No, I do not understand the question."
+          },
+          {
+            "russian": "Никой не знае отговора.",
+            "english": "Nobody knows the answer."
+          },
+          {
+            "russian": "Не зная нищо.",
+            "english": "I do not know anything."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Не зная",
+        "text": "— Знаеш ли къде е гарата? — Не, не зная. — Никой не знае? — Никой!",
+        "translation": "\"Do you know where the station is?\" \"No, I do not know.\" \"Nobody knows?\" \"Nobody!\"",
+        "glossary": [
+          {
+            "russian": "знаеш ли",
+            "english": "do you know"
+          },
+          {
+            "russian": "ли",
+            "english": "yes/no question particle"
+          }
+        ]
+      },
+      "speakingPrompt": "Answer five questions in the negative. Use Не + verb (Не зная, Не разбирам) and try the double negation Никой не…, Не… нищо, Не… никъде."
+    },
+    {
+      "day": 7,
+      "title": "Review: Asking questions",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 4 recap: question words and negation",
+        "explanation": "The week's question words:\n\n- **какво** = what — Какво е това?\n- **кой** = who / which — Кой е този човек?\n- **къде** = where — Къде е гарата?\n- **как** = how — Как си?\n- **кога** = when — Кога е урокът?\n- **защо** = why — Защо питаш? (answer with **защото** = because)\n- **колко** = how much / how many — Колко струва това?\n\nAll of them sit at the **start** of the question, usually followed by the verb **съм/си/е** or another verb. **Negation**: put **не** before the verb (Не разбирам), use **Да/Не** to answer yes/no, and remember Bulgarian keeps **double negation**: Никой **не** знае. There are no noun cases — relations come from word order and prepositions (в, до, на, от, с, за).",
+        "examples": [
+          {
+            "russian": "Какво е това и кой е този човек?",
+            "english": "What is this and who is this person?"
+          },
+          {
+            "russian": "Къде е гарата и кога е урокът?",
+            "english": "Where is the station and when is the lesson?"
+          },
+          {
+            "russian": "Защо? Защото никой не знае.",
+            "english": "Why? Because nobody knows."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Много въпроси",
+        "text": "— Здравей! Как си? — Добре. Кой е този човек? — Не зная. — Защо питаш? — Защото никой не знае!",
+        "translation": "\"Hi! How are you?\" \"Fine. Who is this person?\" \"I don't know.\" \"Why do you ask?\" \"Because nobody knows!\"",
+        "glossary": [
+          {
+            "russian": "здравей",
+            "english": "hi / hello"
+          },
+          {
+            "russian": "добре",
+            "english": "fine / well"
+          }
+        ]
+      },
+      "speakingPrompt": "Review challenge: hold a short Q&A. Ask one question with each word — какво, кой, къде, как, кога, защо, колко — and answer each. Make at least two answers negative using не (and try Никой не… once)."
+    }
+  ]
+}

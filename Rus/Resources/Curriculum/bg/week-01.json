@@ -1,0 +1,640 @@
+{
+  "week": 1,
+  "theme": "Greetings & \"to be\" (съм)",
+  "days": [
+    {
+      "day": 1,
+      "title": "Greetings",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "здравей",
+          "translit": "zdravéy",
+          "english": "hello (informal)",
+          "pos": "phrase",
+          "example": "Здравей, Иван!",
+          "exampleEn": "Hello, Ivan!"
+        },
+        {
+          "russian": "здравейте",
+          "translit": "zdravéyte",
+          "english": "hello (formal/plural)",
+          "pos": "phrase",
+          "example": "Здравейте!",
+          "exampleEn": "Hello!"
+        },
+        {
+          "russian": "добро утро",
+          "translit": "dobró útro",
+          "english": "good morning",
+          "pos": "phrase",
+          "example": "Добро утро!",
+          "exampleEn": "Good morning!"
+        },
+        {
+          "russian": "добър ден",
+          "translit": "dóbǎr den",
+          "english": "good afternoon / good day",
+          "pos": "phrase",
+          "example": "Добър ден!",
+          "exampleEn": "Good afternoon!"
+        },
+        {
+          "russian": "добър вечер",
+          "translit": "dóbǎr vécher",
+          "english": "good evening",
+          "pos": "phrase",
+          "example": "Добър вечер!",
+          "exampleEn": "Good evening!"
+        },
+        {
+          "russian": "здрасти",
+          "translit": "zdrásti",
+          "english": "hi (casual)",
+          "pos": "phrase",
+          "example": "Здрасти!",
+          "exampleEn": "Hi!"
+        },
+        {
+          "russian": "лека нощ",
+          "translit": "léka nosht",
+          "english": "good night",
+          "pos": "phrase",
+          "example": "Лека нощ!",
+          "exampleEn": "Good night!"
+        }
+      ],
+      "grammar": {
+        "title": "Bulgarian HAS \"to be\": е (he/she/it is)",
+        "explanation": "Unlike Russian, Bulgarian uses a present-tense verb \"to be\". The most common form is **е**, meaning *is*. To say *This is Ivan* you say *Това е Иван*. You will learn all six forms this week; today just notice that the word **е** is always there.",
+        "examples": [
+          {
+            "russian": "Това е Иван.",
+            "english": "This is Ivan."
+          },
+          {
+            "russian": "Той е тук.",
+            "english": "He is here."
+          },
+          {
+            "russian": "Добър ден! Как е?",
+            "english": "Good afternoon! How is it (going)?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Поздрави",
+        "text": "Добър ден! Здравей, Иван. Това е Анна.",
+        "translation": "Good afternoon! Hello, Ivan. This is Anna.",
+        "glossary": [
+          {
+            "russian": "това",
+            "english": "this"
+          },
+          {
+            "russian": "е",
+            "english": "is"
+          }
+        ]
+      },
+      "speakingPrompt": "Greet someone for each time of day: добро утро, добър ден, добър вечер. Then greet a friend with здравей and a stranger with здравейте."
+    },
+    {
+      "day": 2,
+      "title": "Politeness essentials",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "благодаря",
+          "translit": "blagodaryá",
+          "english": "thank you",
+          "pos": "phrase",
+          "example": "Благодаря!",
+          "exampleEn": "Thank you!"
+        },
+        {
+          "russian": "мерси",
+          "translit": "mersí",
+          "english": "thanks (casual)",
+          "pos": "phrase",
+          "example": "Мерси много!",
+          "exampleEn": "Thanks a lot!"
+        },
+        {
+          "russian": "моля",
+          "translit": "mólya",
+          "english": "please / you're welcome",
+          "pos": "phrase",
+          "example": "Едно кафе, моля.",
+          "exampleEn": "One coffee, please."
+        },
+        {
+          "russian": "извинете",
+          "translit": "izvinéte",
+          "english": "excuse me / sorry (formal)",
+          "pos": "phrase",
+          "example": "Извинете!",
+          "exampleEn": "Excuse me!"
+        },
+        {
+          "russian": "да",
+          "translit": "da",
+          "english": "yes",
+          "pos": "particle",
+          "example": "Да, благодаря.",
+          "exampleEn": "Yes, thank you."
+        },
+        {
+          "russian": "не",
+          "translit": "ne",
+          "english": "no",
+          "pos": "particle",
+          "example": "Не, благодаря.",
+          "exampleEn": "No, thank you."
+        },
+        {
+          "russian": "довиждане",
+          "translit": "dovízhdane",
+          "english": "goodbye",
+          "pos": "phrase",
+          "example": "Довиждане!",
+          "exampleEn": "Goodbye!"
+        }
+      ],
+      "grammar": {
+        "title": "\"to be\": аз съм / ти си (I am / you are)",
+        "explanation": "The first two forms of the verb \"to be\" are **съм** (*I am*) and **си** (*you are*, informal). The verb usually comes right after another word, never first in the sentence. With pronouns: **аз съм** = I am, **ти си** = you are.",
+        "examples": [
+          {
+            "russian": "Аз съм добре.",
+            "english": "I am well."
+          },
+          {
+            "russian": "Ти си тук.",
+            "english": "You are here."
+          },
+          {
+            "russian": "Аз съм Анна.",
+            "english": "I am Anna."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Благодаря",
+        "text": "— Едно кафе, моля. — Заповядай! — Благодаря! — Моля.",
+        "translation": "— One coffee, please. — Here you go! — Thank you! — You're welcome.",
+        "glossary": [
+          {
+            "russian": "заповядай",
+            "english": "here you go / go ahead"
+          },
+          {
+            "russian": "едно кафе",
+            "english": "one coffee"
+          }
+        ]
+      },
+      "speakingPrompt": "Order a coffee politely (Едно кафе, моля), say благодаря when you get it, and finish with довиждане."
+    },
+    {
+      "day": 3,
+      "title": "Personal pronouns",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "аз",
+          "translit": "az",
+          "english": "I",
+          "pos": "pronoun",
+          "example": "Аз съм тук.",
+          "exampleEn": "I am here."
+        },
+        {
+          "russian": "ти",
+          "translit": "ti",
+          "english": "you (informal)",
+          "pos": "pronoun",
+          "example": "Ти си добре.",
+          "exampleEn": "You are well."
+        },
+        {
+          "russian": "той",
+          "translit": "toy",
+          "english": "he",
+          "pos": "pronoun",
+          "example": "Той е тук.",
+          "exampleEn": "He is here."
+        },
+        {
+          "russian": "тя",
+          "translit": "tya",
+          "english": "she",
+          "pos": "pronoun",
+          "example": "Тя е Анна.",
+          "exampleEn": "She is Anna."
+        },
+        {
+          "russian": "то",
+          "translit": "to",
+          "english": "it",
+          "pos": "pronoun",
+          "example": "То е тук.",
+          "exampleEn": "It is here."
+        },
+        {
+          "russian": "ние",
+          "translit": "níe",
+          "english": "we",
+          "pos": "pronoun",
+          "example": "Ние сме приятели.",
+          "exampleEn": "We are friends."
+        },
+        {
+          "russian": "вие",
+          "translit": "víe",
+          "english": "you (formal/plural)",
+          "pos": "pronoun",
+          "example": "Вие сте тук.",
+          "exampleEn": "You are here."
+        },
+        {
+          "russian": "те",
+          "translit": "te",
+          "english": "they",
+          "pos": "pronoun",
+          "example": "Те са приятели.",
+          "exampleEn": "They are friends."
+        }
+      ],
+      "grammar": {
+        "title": "ти vs вие (informal vs formal you)",
+        "explanation": "Bulgarian has three genders in the singular *he/she/it*: **той** (he), **тя** (she), **то** (it). For *you*, use **ти** with friends and family, and **вие** with strangers, older people, or more than one person. Since the verb form already shows the person, the pronoun is often dropped.",
+        "examples": [
+          {
+            "russian": "Той е добре, тя е добре.",
+            "english": "He is well, she is well."
+          },
+          {
+            "russian": "Ти си тук.",
+            "english": "You are here. (informal)"
+          },
+          {
+            "russian": "Вие сте тук.",
+            "english": "You are here. (formal)"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кой е кой",
+        "text": "Това е Иван. Той е тук. Това е Анна. Тя е тук. Те са приятели.",
+        "translation": "This is Ivan. He is here. This is Anna. She is here. They are friends.",
+        "glossary": [
+          {
+            "russian": "приятели",
+            "english": "friends"
+          },
+          {
+            "russian": "кой",
+            "english": "who"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at people you imagine and label them: той, тя, те. Then say аз and ти, choosing ти or вие correctly."
+    },
+    {
+      "day": 4,
+      "title": "Plural \"to be\": сме / сте / са",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "приятел",
+          "translit": "priyátel",
+          "english": "friend (m.)",
+          "pos": "noun",
+          "example": "Той е мой приятел.",
+          "exampleEn": "He is my friend."
+        },
+        {
+          "russian": "приятелка",
+          "translit": "priyátelka",
+          "english": "friend (f.)",
+          "pos": "noun",
+          "example": "Тя е моя приятелка.",
+          "exampleEn": "She is my friend."
+        },
+        {
+          "russian": "тук",
+          "translit": "tuk",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Ние сме тук.",
+          "exampleEn": "We are here."
+        },
+        {
+          "russian": "там",
+          "translit": "tam",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Те са там.",
+          "exampleEn": "They are there."
+        },
+        {
+          "russian": "заедно",
+          "translit": "záedno",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Ние сме заедно.",
+          "exampleEn": "We are together."
+        },
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "conjunction",
+          "example": "Иван и Анна са тук.",
+          "exampleEn": "Ivan and Anna are here."
+        },
+        {
+          "russian": "също",
+          "translit": "sǎ́shto",
+          "english": "also / too",
+          "pos": "adverb",
+          "example": "Аз също съм тук.",
+          "exampleEn": "I am here too."
+        }
+      ],
+      "grammar": {
+        "title": "\"to be\": ние сме / вие сте / те са",
+        "explanation": "The three plural forms are **сме** (*we are*), **сте** (*you are*, formal/plural), and **са** (*they are*). With pronouns: **ние сме**, **вие сте**, **те са**. Now you have all six forms together: съм, си, е, сме, сте, са.",
+        "examples": [
+          {
+            "russian": "Ние сме приятели.",
+            "english": "We are friends."
+          },
+          {
+            "russian": "Вие сте тук.",
+            "english": "You are here. (plural)"
+          },
+          {
+            "russian": "Те са там.",
+            "english": "They are there."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Заедно",
+        "text": "Иван и Анна са приятели. Те са тук. Ние сме заедно.",
+        "translation": "Ivan and Anna are friends. They are here. We are together.",
+        "glossary": [
+          {
+            "russian": "заедно",
+            "english": "together"
+          },
+          {
+            "russian": "са",
+            "english": "(they) are"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a small group: say ние сме заедно, те са там, and add също to include yourself."
+    },
+    {
+      "day": 5,
+      "title": "Negation & questions with съм",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "как",
+          "translit": "kak",
+          "english": "how",
+          "pos": "adverb",
+          "example": "Как си?",
+          "exampleEn": "How are you?"
+        },
+        {
+          "russian": "добре",
+          "translit": "dobré",
+          "english": "well / fine",
+          "pos": "adverb",
+          "example": "Аз съм добре.",
+          "exampleEn": "I am fine."
+        },
+        {
+          "russian": "зле",
+          "translit": "zle",
+          "english": "bad / poorly",
+          "pos": "adverb",
+          "example": "Не съм зле.",
+          "exampleEn": "I am not doing badly."
+        },
+        {
+          "russian": "ли",
+          "translit": "li",
+          "english": "question particle",
+          "pos": "particle",
+          "example": "Ти ли си?",
+          "exampleEn": "Is it you?"
+        },
+        {
+          "russian": "къде",
+          "translit": "kǎdé",
+          "english": "where",
+          "pos": "adverb",
+          "example": "Къде си?",
+          "exampleEn": "Where are you?"
+        },
+        {
+          "russian": "сега",
+          "translit": "segá",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Сега съм тук.",
+          "exampleEn": "I am here now."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "very / a lot",
+          "pos": "adverb",
+          "example": "Много добре!",
+          "exampleEn": "Very well!"
+        }
+      ],
+      "grammar": {
+        "title": "Saying \"not\" and asking questions",
+        "explanation": "To make \"to be\" negative, put **не** directly before the verb: **не съм** (*I am not*), **не е** (*he/she/it is not*). For a yes/no question, add the particle **ли** after the word in focus: **Ти ли си?** (*Is it you?*), **Тук ли си?** (*Are you here?*). Question words like **как** and **къде** go at the front.",
+        "examples": [
+          {
+            "russian": "Аз не съм тук.",
+            "english": "I am not here."
+          },
+          {
+            "russian": "Тук ли си?",
+            "english": "Are you here?"
+          },
+          {
+            "russian": "Как си? — Добре, благодаря.",
+            "english": "How are you? — Fine, thank you."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Как си?",
+        "text": "— Здравей! Как си? — Добре съм, благодаря. А ти? — Много добре!",
+        "translation": "— Hello! How are you? — I'm fine, thank you. And you? — Very well!",
+        "glossary": [
+          {
+            "russian": "а ти",
+            "english": "and you"
+          },
+          {
+            "russian": "добре съм",
+            "english": "I am fine"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask a friend Как си? and answer Добре съм, благодаря. Then ask Къде си? and reply Тук съм."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: introductions",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "казвам се",
+          "translit": "kázvam se",
+          "english": "my name is",
+          "pos": "phrase",
+          "example": "Казвам се Анна.",
+          "exampleEn": "My name is Anna."
+        },
+        {
+          "russian": "приятно ми е",
+          "translit": "priyátno mi e",
+          "english": "nice to meet you",
+          "pos": "phrase",
+          "example": "Приятно ми е!",
+          "exampleEn": "Nice to meet you!"
+        },
+        {
+          "russian": "от",
+          "translit": "ot",
+          "english": "from",
+          "pos": "preposition",
+          "example": "Аз съм от България.",
+          "exampleEn": "I am from Bulgaria."
+        },
+        {
+          "russian": "България",
+          "translit": "Bǎlgáriya",
+          "english": "Bulgaria",
+          "pos": "noun",
+          "example": "Той е от България.",
+          "exampleEn": "He is from Bulgaria."
+        },
+        {
+          "russian": "студент",
+          "translit": "studént",
+          "english": "student (m.)",
+          "pos": "noun",
+          "example": "Аз съм студент.",
+          "exampleEn": "I am a student."
+        },
+        {
+          "russian": "учител",
+          "translit": "uchítel",
+          "english": "teacher (m.)",
+          "pos": "noun",
+          "example": "Той е учител.",
+          "exampleEn": "He is a teacher."
+        },
+        {
+          "russian": "новина",
+          "translit": "noviná",
+          "english": "news / new thing",
+          "pos": "noun",
+          "example": "Каква е новината?",
+          "exampleEn": "What is the news?"
+        }
+      ],
+      "grammar": {
+        "title": "Introducing yourself with съм",
+        "explanation": "Now combine everything to introduce yourself. Use **казвам се** for your name, then **съм** for who/what you are and **от** for where you are from: *Казвам се Анна. Аз съм студент. Аз съм от България.* The preposition **от** shows origin — Bulgarian uses prepositions, not case endings, for these relations.",
+        "examples": [
+          {
+            "russian": "Казвам се Иван.",
+            "english": "My name is Ivan."
+          },
+          {
+            "russian": "Аз съм студент.",
+            "english": "I am a student."
+          },
+          {
+            "russian": "Аз съм от България.",
+            "english": "I am from Bulgaria."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Запознанство",
+        "text": "Здравей! Казвам се Анна. Аз съм студент от България. Приятно ми е!",
+        "translation": "Hello! My name is Anna. I am a student from Bulgaria. Nice to meet you!",
+        "glossary": [
+          {
+            "russian": "запознанство",
+            "english": "getting acquainted"
+          },
+          {
+            "russian": "приятно ми е",
+            "english": "nice to meet you"
+          }
+        ]
+      },
+      "speakingPrompt": "Introduce yourself fully: greet, say казвам се + your name, say what you are (студент/учител), and where you are from with от."
+    },
+    {
+      "day": 7,
+      "title": "Review: greetings & съм",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: the verb съм and pronouns",
+        "explanation": "This week you learned all six present forms of \"to be\": **аз съм, ти си, той/тя/то е, ние сме, вие сте, те са**. Remember: the verb never starts a sentence; make it negative with **не** before it (не съм); and ask yes/no questions with **ли** (Тук ли си?). You also met the pronouns and the polite words здравей, добър ден, благодаря, моля, довиждане.",
+        "examples": [
+          {
+            "russian": "Аз съм добре, а ти?",
+            "english": "I am fine, and you?"
+          },
+          {
+            "russian": "Той не е тук.",
+            "english": "He is not here."
+          },
+          {
+            "russian": "Студент ли си?",
+            "english": "Are you a student?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Среща",
+        "text": "— Добър ден! Казвам се Иван. Как си? — Здравей! Аз съм Анна, добре съм, благодаря. — Приятно ми е! Довиждане! — Довиждане!",
+        "translation": "— Good afternoon! My name is Ivan. How are you? — Hello! I am Anna, I'm fine, thank you. — Nice to meet you! Goodbye! — Goodbye!",
+        "glossary": [
+          {
+            "russian": "среща",
+            "english": "meeting"
+          },
+          {
+            "russian": "как си",
+            "english": "how are you"
+          },
+          {
+            "russian": "довиждане",
+            "english": "goodbye"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a full first meeting: greet, introduce yourself with казвам се, ask Как си?, respond, say приятно ми е, and part with довиждане. Try it once informally (ти) and once formally (вие)."
+    }
+  ]
+}

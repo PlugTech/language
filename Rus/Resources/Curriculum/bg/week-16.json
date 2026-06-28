@@ -1,0 +1,628 @@
+{
+  "week": 16,
+  "theme": "Telling a story",
+  "days": [
+    {
+      "day": 1,
+      "title": "Narrating my day: what I did",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "разказвам",
+          "translit": "razkázvam",
+          "english": "to tell, to narrate",
+          "pos": "verb",
+          "example": "Обичам да разказвам истории.",
+          "exampleEn": "I love to tell stories."
+        },
+        {
+          "russian": "история",
+          "translit": "istóriya",
+          "english": "story",
+          "pos": "noun",
+          "example": "Това е дълга история.",
+          "exampleEn": "This is a long story."
+        },
+        {
+          "russian": "случвам се",
+          "translit": "slúchvam se",
+          "english": "to happen",
+          "pos": "verb",
+          "example": "Какво се случва тук?",
+          "exampleEn": "What is happening here?"
+        },
+        {
+          "russian": "сутрин",
+          "translit": "sútrin",
+          "english": "in the morning",
+          "pos": "adverb",
+          "example": "Сутрин пия кафе.",
+          "exampleEn": "In the morning I drink coffee."
+        },
+        {
+          "russian": "станах",
+          "translit": "stánah",
+          "english": "I got up (past)",
+          "pos": "verb",
+          "example": "Станах рано днес.",
+          "exampleEn": "I got up early today."
+        },
+        {
+          "russian": "закусих",
+          "translit": "zakúsih",
+          "english": "I had breakfast (past)",
+          "pos": "verb",
+          "example": "Закусих с хляб и сирене.",
+          "exampleEn": "I had breakfast with bread and cheese."
+        },
+        {
+          "russian": "отидох",
+          "translit": "otídoh",
+          "english": "I went (past)",
+          "pos": "verb",
+          "example": "Отидох на работа.",
+          "exampleEn": "I went to work."
+        }
+      ],
+      "grammar": {
+        "title": "The past tense (aorist): talking about what I did",
+        "explanation": "Bulgarian uses the aorist past tense to describe completed actions. For 'I', many verbs end in -х: станах (I got up), закусих (I had breakfast), отидох (I went). Notice there are no noun cases — relations come from prepositions like на (to/at) and с (with). Just say the verb plus a preposition where needed: отидох на работа = I went to work.",
+        "examples": [
+          {
+            "russian": "Станах в седем часа.",
+            "english": "I got up at seven o'clock."
+          },
+          {
+            "russian": "После закусих.",
+            "english": "Afterwards I had breakfast."
+          },
+          {
+            "russian": "Отидох на работа с автобуса.",
+            "english": "I went to work by bus."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моята сутрин",
+        "text": "Станах рано. После закусих с хляб и сирене. Сутрин пия кафе, а днес отидох на работа.",
+        "translation": "I got up early. Afterwards I had breakfast with bread and cheese. In the morning I drink coffee, and today I went to work.",
+        "glossary": [
+          {
+            "russian": "рано",
+            "english": "early"
+          },
+          {
+            "russian": "а",
+            "english": "and/but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe what you did this morning using the past tense. Say at least three things: when you got up, what you had for breakfast, and where you went. Use сутрин and после."
+    },
+    {
+      "day": 2,
+      "title": "What happened next: после and тогава",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "после",
+          "translit": "pósle",
+          "english": "afterwards, then",
+          "pos": "adverb",
+          "example": "После отидохме в парка.",
+          "exampleEn": "Afterwards we went to the park."
+        },
+        {
+          "russian": "тогава",
+          "translit": "togáva",
+          "english": "then, at that time",
+          "pos": "adverb",
+          "example": "Тогава видях приятеля си.",
+          "exampleEn": "Then I saw my friend."
+        },
+        {
+          "russian": "първо",
+          "translit": "párvo",
+          "english": "first, firstly",
+          "pos": "adverb",
+          "example": "Първо ядохме, после си тръгнахме.",
+          "exampleEn": "First we ate, then we left."
+        },
+        {
+          "russian": "видях",
+          "translit": "vidyáh",
+          "english": "I saw (past)",
+          "pos": "verb",
+          "example": "Видях стар приятел.",
+          "exampleEn": "I saw an old friend."
+        },
+        {
+          "russian": "срещнах",
+          "translit": "sréshtnah",
+          "english": "I met (past)",
+          "pos": "verb",
+          "example": "Срещнах я на улицата.",
+          "exampleEn": "I met her on the street."
+        },
+        {
+          "russian": "тръгнах",
+          "translit": "trágnah",
+          "english": "I set off, I left (past)",
+          "pos": "verb",
+          "example": "Тръгнах за вкъщи късно.",
+          "exampleEn": "I left for home late."
+        },
+        {
+          "russian": "улица",
+          "translit": "úlitsa",
+          "english": "street",
+          "pos": "noun",
+          "example": "Улицата е дълга и тиха.",
+          "exampleEn": "The street is long and quiet."
+        }
+      ],
+      "grammar": {
+        "title": "Ordering events with после and тогава",
+        "explanation": "To put events in order, use sequence words at the start of the sentence. първо (first), после (afterwards/then), тогава (then, at that point). They simply sit before the verb and do not change any word endings. Combine with aorist verbs: Първо станах, после закусих = First I got up, then I had breakfast.",
+        "examples": [
+          {
+            "russian": "Първо отидох на работа.",
+            "english": "First I went to work."
+          },
+          {
+            "russian": "После срещнах един приятел.",
+            "english": "Afterwards I met a friend."
+          },
+          {
+            "russian": "Тогава видях, че е късно.",
+            "english": "Then I saw that it was late."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На улицата",
+        "text": "Първо тръгнах за работа. После срещнах един приятел на улицата. Тогава видях, че е много късно.",
+        "translation": "First I set off for work. Afterwards I met a friend on the street. Then I saw that it was very late.",
+        "glossary": [
+          {
+            "russian": "един",
+            "english": "a, one (masc.)"
+          },
+          {
+            "russian": "че",
+            "english": "that (conjunction)"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a short story about meeting someone. Order your three sentences with първо, после, and тогава. Use срещнах or видях."
+    },
+    {
+      "day": 3,
+      "title": "He, she and we did: more past forms",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "той каза",
+          "translit": "toy káza",
+          "english": "he said (past)",
+          "pos": "verb phrase",
+          "example": "Той каза, че идва.",
+          "exampleEn": "He said that he is coming."
+        },
+        {
+          "russian": "тя дойде",
+          "translit": "tya doydé",
+          "english": "she came (past)",
+          "pos": "verb phrase",
+          "example": "Тя дойде вчера.",
+          "exampleEn": "She came yesterday."
+        },
+        {
+          "russian": "ние ядохме",
+          "translit": "níe yádohme",
+          "english": "we ate (past)",
+          "pos": "verb phrase",
+          "example": "Ние ядохме заедно.",
+          "exampleEn": "We ate together."
+        },
+        {
+          "russian": "те отидоха",
+          "translit": "te otídoha",
+          "english": "they went (past)",
+          "pos": "verb phrase",
+          "example": "Те отидоха на море.",
+          "exampleEn": "They went to the seaside."
+        },
+        {
+          "russian": "заедно",
+          "translit": "záedno",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Работихме заедно цял ден.",
+          "exampleEn": "We worked together all day."
+        },
+        {
+          "russian": "вчера",
+          "translit": "vchéra",
+          "english": "yesterday",
+          "pos": "adverb",
+          "example": "Вчера беше хубав ден.",
+          "exampleEn": "Yesterday was a nice day."
+        },
+        {
+          "russian": "цял ден",
+          "translit": "tsyal den",
+          "english": "all day",
+          "pos": "phrase",
+          "example": "Спах цял ден.",
+          "exampleEn": "I slept all day."
+        }
+      ],
+      "grammar": {
+        "title": "Past tense for he, she, we and they",
+        "explanation": "In the aorist, third person singular (той/тя/то) often drops the -х ending: каза (said), дойде (came), отиде (went). For 'we' add -хме: ядохме (we ate), отидохме (we went). For 'they' add -ха: отидоха (they went), казаха (they said). The pronoun (той, тя, ние, те) is optional — the verb ending already shows who acts.",
+        "examples": [
+          {
+            "russian": "Тя дойде вчера и ние ядохме заедно.",
+            "english": "She came yesterday and we ate together."
+          },
+          {
+            "russian": "Той каза, че те отидоха на море.",
+            "english": "He said that they went to the seaside."
+          },
+          {
+            "russian": "Работихме заедно цял ден.",
+            "english": "We worked together all day."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вчера заедно",
+        "text": "Тя дойде вчера. После ние ядохме заедно. Той каза, че е хубав ден.",
+        "translation": "She came yesterday. Afterwards we ate together. He said that it is a nice day.",
+        "glossary": [
+          {
+            "russian": "хубав",
+            "english": "nice, good (masc.)"
+          },
+          {
+            "russian": "море",
+            "english": "sea, seaside"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe something you and others did yesterday. Use at least one 'we' form (ядохме, отидохме) and one 'she/he' form (дойде, каза). Add вчера and заедно."
+    },
+    {
+      "day": 4,
+      "title": "Life events: the big moments",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "роден",
+          "translit": "róden",
+          "english": "born (masc.)",
+          "pos": "adjective",
+          "example": "Роден съм в София.",
+          "exampleEn": "I was born in Sofia."
+        },
+        {
+          "russian": "родих се",
+          "translit": "ródih se",
+          "english": "I was born (past)",
+          "pos": "verb",
+          "example": "Родих се през зимата.",
+          "exampleEn": "I was born in the winter."
+        },
+        {
+          "russian": "учих",
+          "translit": "úchih",
+          "english": "I studied (past)",
+          "pos": "verb",
+          "example": "Учих в университета.",
+          "exampleEn": "I studied at the university."
+        },
+        {
+          "russian": "ожених се",
+          "translit": "ozhénih se",
+          "english": "I got married (man, past)",
+          "pos": "verb",
+          "example": "Ожених се млад.",
+          "exampleEn": "I got married young."
+        },
+        {
+          "russian": "дете",
+          "translit": "deté",
+          "english": "child",
+          "pos": "noun",
+          "example": "Детето спи сега.",
+          "exampleEn": "The child is sleeping now."
+        },
+        {
+          "russian": "живот",
+          "translit": "zhivót",
+          "english": "life",
+          "pos": "noun",
+          "example": "Животът е хубав.",
+          "exampleEn": "Life is good."
+        },
+        {
+          "russian": "преместих се",
+          "translit": "preméstih se",
+          "english": "I moved (house, past)",
+          "pos": "verb",
+          "example": "Преместих се в нов град.",
+          "exampleEn": "I moved to a new city."
+        }
+      ],
+      "grammar": {
+        "title": "Telling life events with the verb 'to be' and the past",
+        "explanation": "Unlike Russian, Bulgarian has a present 'to be': съм, си, е, сме, сте, са. Use it to state facts: Роден съм в София = I am born (was born) in Sofia. The adjective роден agrees: роден (masc.), родена (fem.). For dated events use the aorist plus the preposition през (during/in): Родих се през 1990 година. No noun cases — use prepositions в (in), през (during).",
+        "examples": [
+          {
+            "russian": "Роден съм в малък град.",
+            "english": "I was born in a small town."
+          },
+          {
+            "russian": "Учих в София, после се преместих.",
+            "english": "I studied in Sofia, then I moved."
+          },
+          {
+            "russian": "Животът ми е интересен.",
+            "english": "My life is interesting."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моят живот",
+        "text": "Родих се в малък град. После учих в София. Тогава се преместих в нов град.",
+        "translation": "I was born in a small town. Afterwards I studied in Sofia. Then I moved to a new city.",
+        "glossary": [
+          {
+            "russian": "малък",
+            "english": "small (masc.)"
+          },
+          {
+            "russian": "нов",
+            "english": "new (masc.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell three facts about your life using the past tense: where you were born, where you studied, and one more event. Use роден съм / родих се and после."
+    },
+    {
+      "day": 5,
+      "title": "Finishing the story: накрая",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "накрая",
+          "translit": "nakráya",
+          "english": "in the end, finally",
+          "pos": "adverb",
+          "example": "Накрая всичко беше добре.",
+          "exampleEn": "In the end everything was fine."
+        },
+        {
+          "russian": "край",
+          "translit": "kray",
+          "english": "end",
+          "pos": "noun",
+          "example": "Това е краят на историята.",
+          "exampleEn": "This is the end of the story."
+        },
+        {
+          "russian": "върнах се",
+          "translit": "várnah se",
+          "english": "I returned (past)",
+          "pos": "verb",
+          "example": "Върнах се вкъщи късно.",
+          "exampleEn": "I returned home late."
+        },
+        {
+          "russian": "заспах",
+          "translit": "zaspáh",
+          "english": "I fell asleep (past)",
+          "pos": "verb",
+          "example": "Заспах веднага.",
+          "exampleEn": "I fell asleep right away."
+        },
+        {
+          "russian": "уморен",
+          "translit": "umorén",
+          "english": "tired (masc.)",
+          "pos": "adjective",
+          "example": "Много съм уморен.",
+          "exampleEn": "I am very tired."
+        },
+        {
+          "russian": "доволен",
+          "translit": "dovólen",
+          "english": "satisfied, content (masc.)",
+          "pos": "adjective",
+          "example": "Доволен съм от деня.",
+          "exampleEn": "I am content with the day."
+        },
+        {
+          "russian": "всичко",
+          "translit": "vsíchko",
+          "english": "everything",
+          "pos": "pronoun",
+          "example": "Всичко беше наред.",
+          "exampleEn": "Everything was alright."
+        }
+      ],
+      "grammar": {
+        "title": "Closing a story with накрая",
+        "explanation": "накрая (in the end, finally) marks the conclusion of a story. Put it at the start of the last sentence: Накрая се върнах вкъщи = In the end I returned home. To say how you felt, use 'to be' plus an adjective that agrees: уморен съм (I am tired, masc.), доволна съм (I am content, fem.). The full event order becomes: първо… после… тогава… накрая.",
+        "examples": [
+          {
+            "russian": "Накрая се върнах вкъщи.",
+            "english": "In the end I returned home."
+          },
+          {
+            "russian": "Бях уморен и веднага заспах.",
+            "english": "I was tired and fell asleep right away."
+          },
+          {
+            "russian": "Накрая бях много доволен.",
+            "english": "In the end I was very content."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Краят на деня",
+        "text": "Накрая се върнах вкъщи. Бях уморен и заспах веднага. Всичко беше наред.",
+        "translation": "In the end I returned home. I was tired and fell asleep right away. Everything was alright.",
+        "glossary": [
+          {
+            "russian": "веднага",
+            "english": "right away, immediately"
+          },
+          {
+            "russian": "наред",
+            "english": "alright, in order"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell the ending of your day's story. Use накрая for the last event, say where you returned, and describe how you felt with уморен or доволен."
+    },
+    {
+      "day": 6,
+      "title": "A whole story from start to finish",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "спомен",
+          "translit": "spómen",
+          "english": "memory, recollection",
+          "pos": "noun",
+          "example": "Имам хубав спомен.",
+          "exampleEn": "I have a nice memory."
+        },
+        {
+          "russian": "помня",
+          "translit": "pómnya",
+          "english": "to remember",
+          "pos": "verb",
+          "example": "Помня този ден добре.",
+          "exampleEn": "I remember that day well."
+        },
+        {
+          "russian": "забравих",
+          "translit": "zabrávih",
+          "english": "I forgot (past)",
+          "pos": "verb",
+          "example": "Забравих ключа вкъщи.",
+          "exampleEn": "I forgot the key at home."
+        },
+        {
+          "russian": "изведнъж",
+          "translit": "izvednázh",
+          "english": "suddenly",
+          "pos": "adverb",
+          "example": "Изведнъж заваля дъжд.",
+          "exampleEn": "Suddenly it started to rain."
+        },
+        {
+          "russian": "случка",
+          "translit": "slúchka",
+          "english": "incident, event",
+          "pos": "noun",
+          "example": "Това беше смешна случка.",
+          "exampleEn": "That was a funny incident."
+        },
+        {
+          "russian": "смешен",
+          "translit": "sméshen",
+          "english": "funny (masc.)",
+          "pos": "adjective",
+          "example": "Историята е много смешна.",
+          "exampleEn": "The story is very funny."
+        },
+        {
+          "russian": "тогава разбрах",
+          "translit": "togáva razbráh",
+          "english": "then I understood (past)",
+          "pos": "verb phrase",
+          "example": "Тогава разбрах всичко.",
+          "exampleEn": "Then I understood everything."
+        }
+      ],
+      "grammar": {
+        "title": "Putting it all together: a full narration",
+        "explanation": "Now combine everything: open the scene, use sequence words to order events, add изведнъж (suddenly) for a surprise, and close with накрая. A typical chain: Първо… После… Изведнъж… Тогава… Накрая. Keep using aorist verbs and the present 'to be' for feelings. Remember: no cases — prepositions (в, на, с, за) and word order carry the meaning.",
+        "examples": [
+          {
+            "russian": "Помня една смешна случка.",
+            "english": "I remember a funny incident."
+          },
+          {
+            "russian": "Изведнъж забравих какво искам да кажа.",
+            "english": "Suddenly I forgot what I want to say."
+          },
+          {
+            "russian": "Накрая всички се смяхме.",
+            "english": "In the end we all laughed."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Смешна случка",
+        "text": "Помня една смешна случка. Първо забравих ключа, после изведнъж заваля дъжд. Накрая разбрах, че денят е смешен.",
+        "translation": "I remember a funny incident. First I forgot the key, then suddenly it started to rain. In the end I understood that the day is funny.",
+        "glossary": [
+          {
+            "russian": "ключ",
+            "english": "key"
+          },
+          {
+            "russian": "заваля дъжд",
+            "english": "it started to rain"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a complete short story (four or five sentences) about a memorable day. Use първо, после, изведнъж, and накрая, and at least four past-tense verbs."
+    },
+    {
+      "day": 7,
+      "title": "Review: telling a story",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: past tense and ordering events",
+        "explanation": "This week you learned the aorist past tense: -х for 'I' (станах, отидох, видях), often no ending for he/she (каза, дойде), -хме for 'we' (ядохме), -ха for 'they' (отидоха). You ordered events with първо, после, тогава, изведнъж, and накрая, and used the present 'to be' (съм, си, е, сме, сте, са) with agreeing adjectives (уморен, доволна) for feelings. Remember: Bulgarian has no noun cases — use prepositions (в, на, с, за, през) and word order. The definite article is a suffix: ден→денят, история→историята.",
+        "examples": [
+          {
+            "russian": "Първо станах, после закусих.",
+            "english": "First I got up, then I had breakfast."
+          },
+          {
+            "russian": "Тя дойде и ние ядохме заедно.",
+            "english": "She came and we ate together."
+          },
+          {
+            "russian": "Накрая се върнах вкъщи уморен.",
+            "english": "In the end I returned home tired."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Разказ за деня",
+        "text": "— Какво се случи вчера? — Първо станах рано и закусих. После отидох на работа и срещнах приятел. Накрая се върнах вкъщи доволен.",
+        "translation": "— What happened yesterday? — First I got up early and had breakfast. Afterwards I went to work and met a friend. In the end I returned home content.",
+        "glossary": [
+          {
+            "russian": "Какво се случи?",
+            "english": "What happened?"
+          },
+          {
+            "russian": "доволен",
+            "english": "content, satisfied (masc.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell the full story of yesterday from morning to night. Use at least six past-tense verbs and all four sequence words (първо, после, тогава, накрая). End by saying how you felt using съм plus an adjective."
+    }
+  ]
+}

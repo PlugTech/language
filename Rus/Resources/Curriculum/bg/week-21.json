@@ -1,0 +1,632 @@
+{
+  "week": 21,
+  "theme": "Comparing things",
+  "days": [
+    {
+      "day": 1,
+      "title": "Day 1: Forming comparatives with по-",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "голям",
+          "translit": "golYAM",
+          "english": "big, large",
+          "pos": "adjective",
+          "example": "Този град е голям.",
+          "exampleEn": "This city is big."
+        },
+        {
+          "russian": "малък",
+          "translit": "MAlak",
+          "english": "small, little",
+          "pos": "adjective",
+          "example": "Моят дом е малък.",
+          "exampleEn": "My home is small."
+        },
+        {
+          "russian": "по-голям",
+          "translit": "po-golYAM",
+          "english": "bigger",
+          "pos": "adjective",
+          "example": "Софѝя е по-голям град.",
+          "exampleEn": "Sofia is a bigger city."
+        },
+        {
+          "russian": "по-малък",
+          "translit": "po-MAlak",
+          "english": "smaller",
+          "pos": "adjective",
+          "example": "Този дом е по-малък.",
+          "exampleEn": "This home is smaller."
+        },
+        {
+          "russian": "висок",
+          "translit": "viSOK",
+          "english": "tall, high",
+          "pos": "adjective",
+          "example": "Брат ми е висок.",
+          "exampleEn": "My brother is tall."
+        },
+        {
+          "russian": "нисък",
+          "translit": "NIsak",
+          "english": "short, low",
+          "pos": "adjective",
+          "example": "Тази маса е ниска.",
+          "exampleEn": "This table is low."
+        },
+        {
+          "russian": "сграда",
+          "translit": "SGRAda",
+          "english": "building",
+          "pos": "noun",
+          "example": "Сградата е много висока.",
+          "exampleEn": "The building is very tall."
+        }
+      ],
+      "grammar": {
+        "title": "Day 1: Forming comparatives with по-",
+        "explanation": "To make a comparative adjective (bigger, smaller) in Bulgarian, you simply add the prefix по- to the adjective. It is always written with a hyphen and is stressed: ПО-голям (bigger), ПО-малък (smaller), ПО-висок (taller). The base adjective still agrees with the noun in gender and number, and по- attaches in front of every form: по-голям (m), по-голяма (f), по-голямо (n), по-големи (pl). Remember Bulgarian uses the present-tense verb 'to be' (съм, си, е, сме, сте, са), so a full sentence is: Този град е по-голям = This city is bigger.",
+        "examples": [
+          {
+            "russian": "Този град е по-голям.",
+            "english": "This city is bigger."
+          },
+          {
+            "russian": "Моят дом е по-малък.",
+            "english": "My home is smaller."
+          },
+          {
+            "russian": "Сградата е по-висока.",
+            "english": "The building is taller."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Two buildings",
+        "text": "Тази сграда е голяма. Онази сграда е по-голяма. Моят дом е малък, а твоят дом е по-малък.",
+        "translation": "This building is big. That building is bigger. My home is small, and your home is smaller.",
+        "glossary": [
+          {
+            "russian": "онази",
+            "english": "that (feminine)"
+          },
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe two buildings or two homes you know. Say which one is bigger and which one is smaller using по-голям and по-малък. Make the adjective agree in gender."
+    },
+    {
+      "day": 2,
+      "title": "Day 2: Comparing two things with от",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "от",
+          "translit": "ot",
+          "english": "than (in comparisons); from",
+          "pos": "preposition",
+          "example": "Той е по-висок от мен.",
+          "exampleEn": "He is taller than me."
+        },
+        {
+          "russian": "дълъг",
+          "translit": "DAlak",
+          "english": "long",
+          "pos": "adjective",
+          "example": "Тази река е дълга.",
+          "exampleEn": "This river is long."
+        },
+        {
+          "russian": "къс",
+          "translit": "kas",
+          "english": "short (in length)",
+          "pos": "adjective",
+          "example": "Този път е къс.",
+          "exampleEn": "This road is short."
+        },
+        {
+          "russian": "скъп",
+          "translit": "skap",
+          "english": "expensive; dear",
+          "pos": "adjective",
+          "example": "Тази кола е скъпа.",
+          "exampleEn": "This car is expensive."
+        },
+        {
+          "russian": "евтин",
+          "translit": "EVtin",
+          "english": "cheap",
+          "pos": "adjective",
+          "example": "Този хляб е евтин.",
+          "exampleEn": "This bread is cheap."
+        },
+        {
+          "russian": "река",
+          "translit": "reKA",
+          "english": "river",
+          "pos": "noun",
+          "example": "Реката е по-дълга от пътя.",
+          "exampleEn": "The river is longer than the road."
+        },
+        {
+          "russian": "кола",
+          "translit": "koLA",
+          "english": "car",
+          "pos": "noun",
+          "example": "Новата кола е по-скъпа.",
+          "exampleEn": "The new car is more expensive."
+        }
+      ],
+      "grammar": {
+        "title": "Day 2: Comparing two things with от",
+        "explanation": "To say 'X is bigger THAN Y', use по- on the adjective plus the preposition от before the second thing: Иван е по-висок от Петър = Ivan is taller than Peter. The word от means 'than' here (it also means 'from'). Because Bulgarian has no noun cases, nothing changes on the noun after от — you just put the word: по-скъп от хляба, по-дълга от реката. With pronouns, use the object form after от: от мен (than me), от теб (than you), от него (than him).",
+        "examples": [
+          {
+            "russian": "Колата е по-скъпа от хляба.",
+            "english": "The car is more expensive than the bread."
+          },
+          {
+            "russian": "Реката е по-дълга от пътя.",
+            "english": "The river is longer than the road."
+          },
+          {
+            "russian": "Той е по-висок от мен.",
+            "english": "He is taller than me."
+          }
+        ]
+      },
+      "reading": {
+        "title": "At the shop",
+        "text": "— Тази кола е скъпа. — Да, но онази кола е по-скъпа от тази. — А този хляб е по-евтин от млякото.",
+        "translation": "— This car is expensive. — Yes, but that car is more expensive than this one. — And this bread is cheaper than the milk.",
+        "glossary": [
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "мляко",
+            "english": "milk"
+          }
+        ]
+      },
+      "speakingPrompt": "Compare two prices or two objects you own. Say which is more expensive or cheaper using по- ... от, for example: Моят телефон е по-скъп от твоя."
+    },
+    {
+      "day": 3,
+      "title": "Day 3: Forming superlatives with най-",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "най-голям",
+          "translit": "nay-golYAM",
+          "english": "the biggest",
+          "pos": "adjective",
+          "example": "Това е най-големият град.",
+          "exampleEn": "This is the biggest city."
+        },
+        {
+          "russian": "най-малък",
+          "translit": "nay-MAlak",
+          "english": "the smallest",
+          "pos": "adjective",
+          "example": "Той е най-малкият брат.",
+          "exampleEn": "He is the youngest brother."
+        },
+        {
+          "russian": "хубав",
+          "translit": "HUbav",
+          "english": "nice, beautiful, good",
+          "pos": "adjective",
+          "example": "Денят е хубав.",
+          "exampleEn": "The day is nice."
+        },
+        {
+          "russian": "лош",
+          "translit": "losh",
+          "english": "bad",
+          "pos": "adjective",
+          "example": "Времето е лошо.",
+          "exampleEn": "The weather is bad."
+        },
+        {
+          "russian": "стар",
+          "translit": "star",
+          "english": "old",
+          "pos": "adjective",
+          "example": "Тази къща е стара.",
+          "exampleEn": "This house is old."
+        },
+        {
+          "russian": "нов",
+          "translit": "nov",
+          "english": "new",
+          "pos": "adjective",
+          "example": "Моят телефон е нов.",
+          "exampleEn": "My phone is new."
+        },
+        {
+          "russian": "свят",
+          "translit": "svyat",
+          "english": "world",
+          "pos": "noun",
+          "example": "Това е най-голямата река в света.",
+          "exampleEn": "This is the biggest river in the world."
+        }
+      ],
+      "grammar": {
+        "title": "Day 3: Forming superlatives with най-",
+        "explanation": "The superlative ('the biggest', 'the best') is formed with the prefix най- plus the adjective, again written with a hyphen and stressed: НАЙ-голям (biggest), НАЙ-хубав (nicest). Superlatives almost always take the definite article, which is a SUFFIX on the adjective (remember: the article goes on the first adjective). So 'the biggest city' (masculine) = най-големият град, 'the biggest river' (feminine) = най-голямата река, 'the smallest child' (neuter) = най-малкото дете. To say 'in the world', say в света.",
+        "examples": [
+          {
+            "russian": "Това е най-големият град.",
+            "english": "This is the biggest city."
+          },
+          {
+            "russian": "Тя е най-хубавата.",
+            "english": "She is the most beautiful."
+          },
+          {
+            "russian": "Това е най-голямата река в света.",
+            "english": "This is the biggest river in the world."
+          }
+        ]
+      },
+      "reading": {
+        "title": "The biggest city",
+        "text": "Софѝя е най-големият град в България. Това е най-старата сграда тук. Тя е много хубава.",
+        "translation": "Sofia is the biggest city in Bulgaria. This is the oldest building here. It is very beautiful.",
+        "glossary": [
+          {
+            "russian": "тук",
+            "english": "here"
+          },
+          {
+            "russian": "България",
+            "english": "Bulgaria"
+          }
+        ]
+      },
+      "speakingPrompt": "Name the biggest city, the oldest building, or the nicest place you know. Use най- with the definite article, e.g. Това е най-хубавият град."
+    },
+    {
+      "day": 4,
+      "title": "Day 4: Comparing adverbs and quantities (повече, по-малко)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "повече",
+          "translit": "POveche",
+          "english": "more",
+          "pos": "adverb",
+          "example": "Искам повече вода.",
+          "exampleEn": "I want more water."
+        },
+        {
+          "russian": "по-малко",
+          "translit": "po-MALko",
+          "english": "less, fewer",
+          "pos": "adverb",
+          "example": "Имам по-малко време.",
+          "exampleEn": "I have less time."
+        },
+        {
+          "russian": "най-много",
+          "translit": "nay-MNOgo",
+          "english": "the most",
+          "pos": "adverb",
+          "example": "Тя работи най-много.",
+          "exampleEn": "She works the most."
+        },
+        {
+          "russian": "бързо",
+          "translit": "BARzo",
+          "english": "fast, quickly",
+          "pos": "adverb",
+          "example": "Той говори бързо.",
+          "exampleEn": "He speaks fast."
+        },
+        {
+          "russian": "бавно",
+          "translit": "BAVno",
+          "english": "slowly",
+          "pos": "adverb",
+          "example": "Моля, говорете бавно.",
+          "exampleEn": "Please speak slowly."
+        },
+        {
+          "russian": "често",
+          "translit": "CHESto",
+          "english": "often",
+          "pos": "adverb",
+          "example": "Ходя там често.",
+          "exampleEn": "I go there often."
+        },
+        {
+          "russian": "време",
+          "translit": "VREme",
+          "english": "time; weather",
+          "pos": "noun",
+          "example": "Нямам време днес.",
+          "exampleEn": "I have no time today."
+        }
+      ],
+      "grammar": {
+        "title": "Day 4: Comparing adverbs and quantities (повече, по-малко)",
+        "explanation": "The same по- and най- system works with adverbs: бързо → по-бързо (faster) → най-бързо (fastest); често → по-често (more often). For 'more' and 'most' as quantities, Bulgarian uses special words: много (a lot) → повече (more) → най-много (the most). Note повече is one word (irregular), but по-малко (less/fewer) is the regular по- on малко. Use от for 'than' just like with adjectives: Той говори по-бързо от мен = He speaks faster than me.",
+        "examples": [
+          {
+            "russian": "Той говори по-бързо от мен.",
+            "english": "He speaks faster than me."
+          },
+          {
+            "russian": "Имам по-малко време днес.",
+            "english": "I have less time today."
+          },
+          {
+            "russian": "Тя работи най-много.",
+            "english": "She works the most."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Speak more slowly",
+        "text": "— Ти говориш много бързо. Моля, говори по-бавно. — Добре. Сега имам повече време.",
+        "translation": "— You speak very fast. Please speak more slowly. — Okay. Now I have more time.",
+        "glossary": [
+          {
+            "russian": "моля",
+            "english": "please"
+          },
+          {
+            "russian": "сега",
+            "english": "now"
+          }
+        ]
+      },
+      "speakingPrompt": "Talk about your daily habits. Say what you do more often, faster, or slower than someone else, using по-често, по-бързо, повече, по-малко."
+    },
+    {
+      "day": 5,
+      "title": "Day 5: Saying 'as ... as' and 'the same' (толкова, същия)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "толкова",
+          "translit": "TOLkova",
+          "english": "so, as (much)",
+          "pos": "adverb",
+          "example": "Той е толкова висок, колкото мен.",
+          "exampleEn": "He is as tall as me."
+        },
+        {
+          "russian": "колкото",
+          "translit": "KOLkoto",
+          "english": "as (in 'as ... as')",
+          "pos": "conjunction",
+          "example": "Тя е толкова стара, колкото него.",
+          "exampleEn": "She is as old as him."
+        },
+        {
+          "russian": "същ",
+          "translit": "sasht",
+          "english": "same",
+          "pos": "adjective",
+          "example": "Имаме същата кола.",
+          "exampleEn": "We have the same car."
+        },
+        {
+          "russian": "различен",
+          "translit": "razLIchen",
+          "english": "different",
+          "pos": "adjective",
+          "example": "Те са много различни.",
+          "exampleEn": "They are very different."
+        },
+        {
+          "russian": "еднакъв",
+          "translit": "edNAkav",
+          "english": "identical, the same",
+          "pos": "adjective",
+          "example": "Двата дома са еднакви.",
+          "exampleEn": "The two homes are identical."
+        },
+        {
+          "russian": "колкото... толкова",
+          "translit": "KOLkoto... TOLkova",
+          "english": "as ... as",
+          "pos": "phrase",
+          "example": "Той е толкова добър, колкото брат му.",
+          "exampleEn": "He is as good as his brother."
+        },
+        {
+          "russian": "приличам",
+          "translit": "priLIcham",
+          "english": "to resemble, look like",
+          "pos": "verb",
+          "example": "Ти приличаш на майка си.",
+          "exampleEn": "You look like your mother."
+        }
+      ],
+      "grammar": {
+        "title": "Day 5: Saying 'as ... as' and 'the same' (толкова, същия)",
+        "explanation": "Not all comparisons use по-/най-. To say two things are equal ('as tall as'), use the pair толкова + adjective + колкото: Той е толкова висок, колкото Иван = He is as tall as Ivan. To say things are 'the same', use същ (agreeing: същият/същата/същото/същите, usually with the article) or еднакъв (identical). For 'different', use различен. The verb приличам на means 'to resemble / look like': Ти приличаш на баща си = You look like your father.",
+        "examples": [
+          {
+            "russian": "Той е толкова висок, колкото мен.",
+            "english": "He is as tall as me."
+          },
+          {
+            "russian": "Имаме същата кола.",
+            "english": "We have the same car."
+          },
+          {
+            "russian": "Те са много различни.",
+            "english": "They are very different."
+          }
+        ]
+      },
+      "reading": {
+        "title": "The same or different?",
+        "text": "— Тези два телефона еднакви ли са? — Не, различни са. Моят е по-нов, но твоят е толкова хубав, колкото моя.",
+        "translation": "— Are these two phones the same? — No, they are different. Mine is newer, but yours is as nice as mine.",
+        "glossary": [
+          {
+            "russian": "ли",
+            "english": "question particle"
+          },
+          {
+            "russian": "два",
+            "english": "two (masculine)"
+          }
+        ]
+      },
+      "speakingPrompt": "Compare two people or two objects that are similar. Say in what way they are the same (толкова... колкото, същ, еднакъв) and in what way they are different (различен)."
+    },
+    {
+      "day": 6,
+      "title": "Day 6: Giving opinions and preferences",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "мисля",
+          "translit": "MISlya",
+          "english": "to think",
+          "pos": "verb",
+          "example": "Мисля, че този филм е по-добър.",
+          "exampleEn": "I think this film is better."
+        },
+        {
+          "russian": "предпочитам",
+          "translit": "predpoCHItam",
+          "english": "to prefer",
+          "pos": "verb",
+          "example": "Предпочитам чая пред кафето.",
+          "exampleEn": "I prefer tea to coffee."
+        },
+        {
+          "russian": "мнение",
+          "translit": "MNEnie",
+          "english": "opinion",
+          "pos": "noun",
+          "example": "Какво е твоето мнение?",
+          "exampleEn": "What is your opinion?"
+        },
+        {
+          "russian": "по-добър",
+          "translit": "po-DObar",
+          "english": "better",
+          "pos": "adjective",
+          "example": "Този ресторант е по-добър.",
+          "exampleEn": "This restaurant is better."
+        },
+        {
+          "russian": "по-лош",
+          "translit": "po-LOSH",
+          "english": "worse",
+          "pos": "adjective",
+          "example": "Времето днес е по-лошо.",
+          "exampleEn": "The weather today is worse."
+        },
+        {
+          "russian": "най-добър",
+          "translit": "nay-DObar",
+          "english": "the best",
+          "pos": "adjective",
+          "example": "Това е най-добрият избор.",
+          "exampleEn": "This is the best choice."
+        },
+        {
+          "russian": "съгласен",
+          "translit": "saGLAsen",
+          "english": "in agreement, agreed",
+          "pos": "adjective",
+          "example": "Съгласен съм с теб.",
+          "exampleEn": "I agree with you."
+        }
+      ],
+      "grammar": {
+        "title": "Day 6: Giving opinions and preferences",
+        "explanation": "Now use your comparatives to express opinions. Start with мисля, че... (I think that...) or според мен (in my opinion): Мисля, че кафето е по-добро от чая. The adjective добър (good) has a slightly irregular stem in some forms but takes по-/най- normally: по-добър (better), най-добър (best); по-лош (worse), най-лош (worst). To agree, say Съгласен съм (m) / Съгласна съм (f); to prefer one thing over another, use предпочитам... пред...: Предпочитам чая пред кафето = I prefer tea over coffee.",
+        "examples": [
+          {
+            "russian": "Мисля, че този филм е по-добър.",
+            "english": "I think this film is better."
+          },
+          {
+            "russian": "Според мен това е най-добрият избор.",
+            "english": "In my opinion this is the best choice."
+          },
+          {
+            "russian": "Съгласна съм с теб.",
+            "english": "I agree with you (said by a woman)."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Tea or coffee?",
+        "text": "— Според мен чаят е по-добър от кафето. — Не съм съгласен. Мисля, че кафето е най-хубавото нещо сутрин.",
+        "translation": "— In my opinion tea is better than coffee. — I don't agree. I think coffee is the nicest thing in the morning.",
+        "glossary": [
+          {
+            "russian": "нещо",
+            "english": "thing"
+          },
+          {
+            "russian": "сутрин",
+            "english": "in the morning"
+          }
+        ]
+      },
+      "speakingPrompt": "Give your opinion about two things you can compare (two cities, two foods, two films). Say which you think is better or the best, whether you agree with a friend, and which you prefer using мисля, че, предпочитам, по-добър, най-добър."
+    },
+    {
+      "day": 7,
+      "title": "Day 7: Review — Comparing things",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Day 7: Review — Comparatives and superlatives",
+        "explanation": "This week you learned the whole comparison system. COMPARATIVE = по- + adjective/adverb (по-голям, по-бързо), with 'than' = от (по-голям от теб). SUPERLATIVE = най- + adjective/adverb, normally with the article suffix on the adjective (най-големият град, най-добрата кола). Both prefixes are hyphenated and stressed. Quantities are irregular: много → повече → най-много, but по-малко is regular. For equality use толкова... колкото, and for sameness use същ / еднакъв (different = различен). To give opinions, use мисля, че..., според мен, предпочитам... пред..., and agree with съгласен/съгласна съм. Remember: Bulgarian uses the verb 'to be' (е, са) in these sentences, and there are no noun cases — relations come from prepositions like от, в, с, на.",
+        "examples": [
+          {
+            "russian": "Този град е по-голям от моя.",
+            "english": "This city is bigger than mine."
+          },
+          {
+            "russian": "Това е най-добрият ресторант в София.",
+            "english": "This is the best restaurant in Sofia."
+          },
+          {
+            "russian": "Той е толкова висок, колкото брат му.",
+            "english": "He is as tall as his brother."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Which city is better?",
+        "text": "— Кой град е по-хубав, София или Пловдив? — Според мен Пловдив е по-стар, но София е по-голяма. — Съгласен съм. София е най-големият град в България, но Пловдив е толкова хубав, колкото нея.",
+        "translation": "— Which city is nicer, Sofia or Plovdiv? — In my opinion Plovdiv is older, but Sofia is bigger. — I agree. Sofia is the biggest city in Bulgaria, but Plovdiv is as nice as it.",
+        "glossary": [
+          {
+            "russian": "кой",
+            "english": "which, who"
+          },
+          {
+            "russian": "или",
+            "english": "or"
+          },
+          {
+            "russian": "Пловдив",
+            "english": "Plovdiv (a Bulgarian city)"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short conversation comparing two cities, two restaurants, or two people. Use at least one comparative (по-), one superlative (най-), one 'than' (от), one equality phrase (толкова... колкото), and give your opinion (мисля, че / според мен) about which is best."
+    }
+  ]
+}

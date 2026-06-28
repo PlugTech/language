@@ -1,0 +1,644 @@
+{
+  "theme": "The past (aorist)",
+  "week": 14,
+  "days": [
+    {
+      "day": 1,
+      "title": "Yesterday I worked: the aorist and the -х ending (I)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "вчера",
+          "translit": "vchéra",
+          "english": "yesterday",
+          "pos": "adverb",
+          "example": "Вчера работих много.",
+          "exampleEn": "Yesterday I worked a lot."
+        },
+        {
+          "russian": "работих",
+          "translit": "rabotíh",
+          "english": "I worked",
+          "pos": "verb (aorist)",
+          "example": "Работих в офиса вчера.",
+          "exampleEn": "I worked in the office yesterday."
+        },
+        {
+          "russian": "работа",
+          "translit": "rabóta",
+          "english": "work, job",
+          "pos": "noun (f)",
+          "example": "Работата ми е интересна.",
+          "exampleEn": "My work is interesting."
+        },
+        {
+          "russian": "офис",
+          "translit": "ófis",
+          "english": "office",
+          "pos": "noun (m)",
+          "example": "Офисът е голям.",
+          "exampleEn": "The office is big."
+        },
+        {
+          "russian": "цял ден",
+          "translit": "tsyal den",
+          "english": "all day",
+          "pos": "phrase",
+          "example": "Учих цял ден вчера.",
+          "exampleEn": "I studied all day yesterday."
+        },
+        {
+          "russian": "учих",
+          "translit": "uchíh",
+          "english": "I studied",
+          "pos": "verb (aorist)",
+          "example": "Учих български вчера.",
+          "exampleEn": "I studied Bulgarian yesterday."
+        },
+        {
+          "russian": "уморен",
+          "translit": "umorén",
+          "english": "tired",
+          "pos": "adjective",
+          "example": "Бях много уморен.",
+          "exampleEn": "I was very tired."
+        }
+      ],
+      "grammar": {
+        "title": "The aorist: the first-person ending -х",
+        "explanation": "The aorist is the simple past tense for completed actions, like English 'I worked, I studied'. Today we focus on the 'I' form, which always ends in -х. For most verbs you take the present stem and add -их or -ах: работя → работих (I worked), уча → учих (I studied). Note that Bulgarian still uses the present-tense 'to be' (съм, си, е...) normally; the aorist is only for action verbs. Remember there is no infinitive in Bulgarian — verbs are named by their 'I' present form.",
+        "examples": [
+          {
+            "russian": "Вчера работих цял ден.",
+            "english": "Yesterday I worked all day."
+          },
+          {
+            "russian": "Учих български в офиса.",
+            "english": "I studied Bulgarian in the office."
+          },
+          {
+            "russian": "Бях уморен, защото работих много.",
+            "english": "I was tired because I worked a lot."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моят ден вчера",
+        "text": "Вчера работих много. Учих български цял ден. Бях много уморен.",
+        "translation": "Yesterday I worked a lot. I studied Bulgarian all day. I was very tired.",
+        "glossary": [
+          {
+            "russian": "защото",
+            "english": "because"
+          },
+          {
+            "russian": "много",
+            "english": "a lot, very"
+          }
+        ]
+      },
+      "speakingPrompt": "In Bulgarian, say two things you did yesterday using the -х 'I' form (e.g. 'Вчера работих...', 'Учих...'). End by saying whether you were tired."
+    },
+    {
+      "day": 2,
+      "title": "What did you do? The 'you' and 'he/she' forms (no ending)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ти",
+          "translit": "ti",
+          "english": "you (singular)",
+          "pos": "pronoun",
+          "example": "Ти работи ли вчера?",
+          "exampleEn": "Did you work yesterday?"
+        },
+        {
+          "russian": "той",
+          "translit": "toy",
+          "english": "he",
+          "pos": "pronoun",
+          "example": "Той учи цял ден.",
+          "exampleEn": "He studied all day."
+        },
+        {
+          "russian": "тя",
+          "translit": "tya",
+          "english": "she",
+          "pos": "pronoun",
+          "example": "Тя работи в офиса.",
+          "exampleEn": "She worked in the office."
+        },
+        {
+          "russian": "чете",
+          "translit": "chté",
+          "english": "read (he/she, aorist)",
+          "pos": "verb (aorist)",
+          "example": "Тя чете книга вчера.",
+          "exampleEn": "She read a book yesterday."
+        },
+        {
+          "russian": "книга",
+          "translit": "kníga",
+          "english": "book",
+          "pos": "noun (f)",
+          "example": "Книгата е на масата.",
+          "exampleEn": "The book is on the table."
+        },
+        {
+          "russian": "писа",
+          "translit": "písa",
+          "english": "wrote (he/she, aorist)",
+          "pos": "verb (aorist)",
+          "example": "Той писа писмо.",
+          "exampleEn": "He wrote a letter."
+        },
+        {
+          "russian": "писмо",
+          "translit": "pismó",
+          "english": "letter",
+          "pos": "noun (n)",
+          "example": "Писмото е дълго.",
+          "exampleEn": "The letter is long."
+        },
+        {
+          "russian": "ли",
+          "translit": "li",
+          "english": "(question particle)",
+          "pos": "particle",
+          "example": "Ти учи ли вчера?",
+          "exampleEn": "Did you study yesterday?"
+        }
+      ],
+      "grammar": {
+        "title": "The aorist: 'you' and 'he/she' have no ending",
+        "explanation": "In the aorist, the 'you (singular)' form and the 'he/she/it' form are usually identical and carry NO personal ending — just the stem (often with a vowel). From работих (I worked) we get работи (you/he/she worked); from учих → учи; from четох → чете; from писах → писа. To make a yes/no question, put the particle ли right after the verb: Ти работи ли вчера? (Did you work yesterday?).",
+        "examples": [
+          {
+            "russian": "Ти работи ли вчера?",
+            "english": "Did you work yesterday?"
+          },
+          {
+            "russian": "Той чете книга цял ден.",
+            "english": "He read a book all day."
+          },
+          {
+            "russian": "Тя писа писмо в офиса.",
+            "english": "She wrote a letter in the office."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кратък разговор",
+        "text": "— Ти работи ли вчера? — Не. Учих и четох книга. Тя писа писмо.",
+        "translation": "— Did you work yesterday? — No. I studied and read a book. She wrote a letter.",
+        "glossary": [
+          {
+            "russian": "не",
+            "english": "no"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask a friend in Bulgarian whether they worked or studied yesterday using ...ли. Then report one thing that 'he' (той) and one thing that 'she' (тя) did, using the no-ending aorist forms."
+    },
+    {
+      "day": 3,
+      "title": "We did it together: the -хме ending (we)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ние",
+          "translit": "níe",
+          "english": "we",
+          "pos": "pronoun",
+          "example": "Ние говорихме дълго.",
+          "exampleEn": "We talked for a long time."
+        },
+        {
+          "russian": "говорихме",
+          "translit": "govoríhme",
+          "english": "we talked",
+          "pos": "verb (aorist)",
+          "example": "Говорихме за работата.",
+          "exampleEn": "We talked about work."
+        },
+        {
+          "russian": "гледахме",
+          "translit": "glédahme",
+          "english": "we watched",
+          "pos": "verb (aorist)",
+          "example": "Гледахме филм вчера.",
+          "exampleEn": "We watched a film yesterday."
+        },
+        {
+          "russian": "филм",
+          "translit": "film",
+          "english": "film, movie",
+          "pos": "noun (m)",
+          "example": "Филмът беше хубав.",
+          "exampleEn": "The film was nice."
+        },
+        {
+          "russian": "вечеряхме",
+          "translit": "vecheryáhme",
+          "english": "we had dinner",
+          "pos": "verb (aorist)",
+          "example": "Вечеряхме в ресторант.",
+          "exampleEn": "We had dinner at a restaurant."
+        },
+        {
+          "russian": "ресторант",
+          "translit": "restoránt",
+          "english": "restaurant",
+          "pos": "noun (m)",
+          "example": "Ресторантът е до офиса.",
+          "exampleEn": "The restaurant is next to the office."
+        },
+        {
+          "russian": "заедно",
+          "translit": "záedno",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Учихме заедно вчера.",
+          "exampleEn": "We studied together yesterday."
+        }
+      ],
+      "grammar": {
+        "title": "The aorist: the 'we' ending -хме",
+        "explanation": "The 'we' form of the aorist is made by adding -хме to the same stem you used for 'I'. From работих → работихме (we worked); from говорих → говорихме (we talked); from гледах → гледахме (we watched). The vowel before -хме (и or а) matches the vowel in the 'I' form. Use the preposition за to mean 'about': говорихме за работата (we talked about work).",
+        "examples": [
+          {
+            "russian": "Вчера гледахме филм заедно.",
+            "english": "Yesterday we watched a film together."
+          },
+          {
+            "russian": "Говорихме за работата дълго.",
+            "english": "We talked about work for a long time."
+          },
+          {
+            "russian": "Вечеряхме в ресторанта до офиса.",
+            "english": "We had dinner at the restaurant next to the office."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вечерта вчера",
+        "text": "Вчера гледахме филм заедно. После вечеряхме в ресторанта. Говорихме за работата.",
+        "translation": "Yesterday we watched a film together. Afterwards we had dinner at the restaurant. We talked about work.",
+        "glossary": [
+          {
+            "russian": "после",
+            "english": "afterwards, then"
+          },
+          {
+            "russian": "вечерта",
+            "english": "the evening / in the evening"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe in Bulgarian what you and a friend did together yesterday evening. Use at least two -хме 'we' forms (e.g. гледахме, вечеряхме) and the word заедно."
+    },
+    {
+      "day": 4,
+      "title": "And you all? The -хте ending (you plural)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "вие",
+          "translit": "víe",
+          "english": "you (plural/formal)",
+          "pos": "pronoun",
+          "example": "Вие работихте ли вчера?",
+          "exampleEn": "Did you (all) work yesterday?"
+        },
+        {
+          "russian": "купихте",
+          "translit": "kupíhte",
+          "english": "you (pl.) bought",
+          "pos": "verb (aorist)",
+          "example": "Какво купихте вчера?",
+          "exampleEn": "What did you buy yesterday?"
+        },
+        {
+          "russian": "купих",
+          "translit": "kupíh",
+          "english": "I bought",
+          "pos": "verb (aorist)",
+          "example": "Купих хляб вчера.",
+          "exampleEn": "I bought bread yesterday."
+        },
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop, store",
+          "pos": "noun (m)",
+          "example": "Магазинът е затворен.",
+          "exampleEn": "The shop is closed."
+        },
+        {
+          "russian": "какво",
+          "translit": "kakvó",
+          "english": "what",
+          "pos": "pronoun",
+          "example": "Какво гледахте вчера?",
+          "exampleEn": "What did you watch yesterday?"
+        },
+        {
+          "russian": "пазарувахте",
+          "translit": "pazaruváhte",
+          "english": "you (pl.) shopped",
+          "pos": "verb (aorist)",
+          "example": "Пазарувахте ли в магазина?",
+          "exampleEn": "Did you shop at the store?"
+        },
+        {
+          "russian": "сутринта",
+          "translit": "sutrintá",
+          "english": "in the morning",
+          "pos": "adverb",
+          "example": "Сутринта купих хляб.",
+          "exampleEn": "In the morning I bought bread."
+        }
+      ],
+      "grammar": {
+        "title": "The aorist: the 'you plural' ending -хте",
+        "explanation": "For 'you (plural or polite)' add -хте to the aorist stem: работихте (you worked), купихте (you bought), пазарувахте (you shopped). It mirrors the -хме 'we' ending but with -те. Combine it with какво (what) to ask about yesterday: Какво купихте вчера? (What did you buy yesterday?). Add ли for yes/no questions: Пазарувахте ли? (Did you shop?).",
+        "examples": [
+          {
+            "russian": "Какво купихте в магазина?",
+            "english": "What did you buy at the shop?"
+          },
+          {
+            "russian": "Вие работихте ли вчера сутринта?",
+            "english": "Did you work yesterday morning?"
+          },
+          {
+            "russian": "Сутринта пазарувахте, после вечеряхте.",
+            "english": "In the morning you shopped, then you had dinner."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазина",
+        "text": "— Какво купихте вчера? — Купихме хляб в магазина. Пазарувахте ли и вие?",
+        "translation": "— What did you buy yesterday? — We bought bread at the shop. Did you shop too?",
+        "glossary": [
+          {
+            "russian": "хляб",
+            "english": "bread"
+          },
+          {
+            "russian": "и вие",
+            "english": "you too"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine asking two friends in Bulgarian what they did yesterday. Ask one question with какво and -хте (e.g. Какво купихте?) and one yes/no question with ли and a -хте form."
+    },
+    {
+      "day": 5,
+      "title": "They did it: the -ха ending (they)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "те",
+          "translit": "te",
+          "english": "they",
+          "pos": "pronoun",
+          "example": "Те играха футбол вчера.",
+          "exampleEn": "They played football yesterday."
+        },
+        {
+          "russian": "играха",
+          "translit": "igráha",
+          "english": "they played",
+          "pos": "verb (aorist)",
+          "example": "Децата играха в парка.",
+          "exampleEn": "The children played in the park."
+        },
+        {
+          "russian": "пътуваха",
+          "translit": "patúvaha",
+          "english": "they travelled",
+          "pos": "verb (aorist)",
+          "example": "Те пътуваха до София.",
+          "exampleEn": "They travelled to Sofia."
+        },
+        {
+          "russian": "почиваха",
+          "translit": "pochívaha",
+          "english": "they rested",
+          "pos": "verb (aorist)",
+          "example": "Почиваха цял ден.",
+          "exampleEn": "They rested all day."
+        },
+        {
+          "russian": "парк",
+          "translit": "park",
+          "english": "park",
+          "pos": "noun (m)",
+          "example": "Паркът е голям и хубав.",
+          "exampleEn": "The park is big and nice."
+        },
+        {
+          "russian": "деца",
+          "translit": "detsá",
+          "english": "children",
+          "pos": "noun (pl)",
+          "example": "Децата играха заедно.",
+          "exampleEn": "The children played together."
+        },
+        {
+          "russian": "футбол",
+          "translit": "futból",
+          "english": "football",
+          "pos": "noun (m)",
+          "example": "Той гледа футбол вчера.",
+          "exampleEn": "He watched football yesterday."
+        }
+      ],
+      "grammar": {
+        "title": "The aorist: the 'they' ending -ха",
+        "explanation": "The 'they' form of the aorist adds -ха to the aorist stem: играха (they played), пътуваха (they travelled), почиваха (they rested), работиха (they worked). The vowel before -ха matches the 'I' form's vowel. Note the plural definite article is the suffix -та on this noun: деца → децата (the children), so 'the children played' is Децата играха.",
+        "examples": [
+          {
+            "russian": "Децата играха футбол в парка.",
+            "english": "The children played football in the park."
+          },
+          {
+            "russian": "Те пътуваха до София вчера.",
+            "english": "They travelled to Sofia yesterday."
+          },
+          {
+            "russian": "После почиваха цял ден.",
+            "english": "Afterwards they rested all day."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Децата вчера",
+        "text": "Вчера децата играха футбол в парка. После те почиваха. Не пътуваха до София.",
+        "translation": "Yesterday the children played football in the park. Afterwards they rested. They did not travel to Sofia.",
+        "glossary": [
+          {
+            "russian": "София",
+            "english": "Sofia"
+          },
+          {
+            "russian": "не",
+            "english": "not, no"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe in Bulgarian what 'they' (те) did yesterday using at least two -ха forms (e.g. играха, пътуваха, почиваха). Mention where, using a preposition like в or до."
+    },
+    {
+      "day": 6,
+      "title": "The whole story: all six aorist endings together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "станах",
+          "translit": "stánah",
+          "english": "I got up",
+          "pos": "verb (aorist)",
+          "example": "Станах рано вчера.",
+          "exampleEn": "I got up early yesterday."
+        },
+        {
+          "russian": "рано",
+          "translit": "ráno",
+          "english": "early",
+          "pos": "adverb",
+          "example": "Станахме рано сутринта.",
+          "exampleEn": "We got up early in the morning."
+        },
+        {
+          "russian": "късно",
+          "translit": "kásno",
+          "english": "late",
+          "pos": "adverb",
+          "example": "Те си легнаха късно.",
+          "exampleEn": "They went to bed late."
+        },
+        {
+          "russian": "пих",
+          "translit": "pih",
+          "english": "I drank",
+          "pos": "verb (aorist)",
+          "example": "Пих кафе сутринта.",
+          "exampleEn": "I drank coffee in the morning."
+        },
+        {
+          "russian": "кафе",
+          "translit": "kafé",
+          "english": "coffee",
+          "pos": "noun (n)",
+          "example": "Кафето беше горещо.",
+          "exampleEn": "The coffee was hot."
+        },
+        {
+          "russian": "яде",
+          "translit": "yáde",
+          "english": "ate (he/she, aorist)",
+          "pos": "verb (aorist)",
+          "example": "Тя яде закуска.",
+          "exampleEn": "She ate breakfast."
+        },
+        {
+          "russian": "закуска",
+          "translit": "zakúska",
+          "english": "breakfast",
+          "pos": "noun (f)",
+          "example": "Закуската беше вкусна.",
+          "exampleEn": "The breakfast was tasty."
+        },
+        {
+          "russian": "после",
+          "translit": "pósle",
+          "english": "afterwards, then",
+          "pos": "adverb",
+          "example": "После работих цял ден.",
+          "exampleEn": "Afterwards I worked all day."
+        }
+      ],
+      "grammar": {
+        "title": "Putting the whole aorist together",
+        "explanation": "Now combine all six endings on one verb. Example with работя (to work): работих (I), работи (you/he/she), работихме (we), работихте (you pl.), работиха (they). The pattern: stem + -х / – / – / -хме / -хте / -ха. The single ending that changes most is the -х family (х, хме, хте, ха); 'you' and 'he/she' share the bare stem. Use time words рано/късно/сутринта/после to build a sequence of yesterday's events.",
+        "examples": [
+          {
+            "russian": "Станах рано и пих кафе.",
+            "english": "I got up early and drank coffee."
+          },
+          {
+            "russian": "Тя яде закуска, после работихме заедно.",
+            "english": "She ate breakfast, then we worked together."
+          },
+          {
+            "russian": "Те станаха късно и почиваха цял ден.",
+            "english": "They got up late and rested all day."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Цялата сутрин",
+        "text": "Вчера станах рано. Пих кафе и ядох закуска. После работихме заедно цял ден.",
+        "translation": "Yesterday I got up early. I drank coffee and ate breakfast. Afterwards we worked together all day.",
+        "glossary": [
+          {
+            "russian": "ядох",
+            "english": "I ate"
+          },
+          {
+            "russian": "цялата сутрин",
+            "english": "the whole morning"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell the story of your morning yesterday in Bulgarian in 3–4 sentences. Use at least three different aorist forms (different persons), and link them with рано, после, and цял ден."
+    },
+    {
+      "day": 7,
+      "title": "Review: yesterday in the aorist",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: the aorist endings -х, –, –, -хме, -хте, -ха",
+        "explanation": "This week you learned the aorist, the simple past for completed actions. Endings on the aorist stem: I = -х (работих), you/he/she = no ending (работи), we = -хме (работихме), you pl. = -хте (работихте), they = -ха (работиха). Remember: Bulgarian keeps the present-tense 'to be' (съм, си, е, сме, сте, са) and has no infinitive, so verbs are named by the 'I' form. Make questions with ли after the verb, and ask 'what' with какво. There are no noun cases — use prepositions (в, на, до, от, с, за) and word order. The definite article stays a suffix: книгата, паркът, децата.",
+        "examples": [
+          {
+            "russian": "Вчера работих, после гледахме филм.",
+            "english": "Yesterday I worked, then we watched a film."
+          },
+          {
+            "russian": "Какво купихте в магазина?",
+            "english": "What did you buy at the shop?"
+          },
+          {
+            "russian": "Децата играха в парка и пътуваха до София.",
+            "english": "The children played in the park and travelled to Sofia."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какво прави вчера?",
+        "text": "— Какво прави вчера? — Станах рано, пих кафе и работих. После гледахме филм заедно. — А децата? — Те играха в парка.",
+        "translation": "— What did you do yesterday? — I got up early, drank coffee and worked. Afterwards we watched a film together. — And the children? — They played in the park.",
+        "glossary": [
+          {
+            "russian": "прави",
+            "english": "did (you/he/she)"
+          },
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short imaginary conversation about yesterday in Bulgarian. Answer the question 'Какво прави вчера?' with at least four aorist verbs across different persons (I, we, they). Ask your partner one ли question and one какво question."
+    }
+  ]
+}

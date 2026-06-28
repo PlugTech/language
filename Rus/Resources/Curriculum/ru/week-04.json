@@ -1,0 +1,604 @@
+{
+  "week": 4,
+  "theme": "More verbs & routines",
+  "days": [
+    {
+      "day": 1,
+      "title": "Speaking & languages: говорить",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "говорить",
+          "translit": "govorít'",
+          "english": "to speak / to talk",
+          "pos": "verb",
+          "example": "Я говорю по-русски.",
+          "exampleEn": "I speak Russian."
+        },
+        {
+          "russian": "язык",
+          "translit": "yazýk",
+          "english": "language",
+          "pos": "noun",
+          "example": "Русский язык красивый.",
+          "exampleEn": "The Russian language is beautiful."
+        },
+        {
+          "russian": "по-русски",
+          "translit": "po-rússki",
+          "english": "in Russian",
+          "pos": "adverb",
+          "example": "Ты говоришь по-русски?",
+          "exampleEn": "Do you speak Russian?"
+        },
+        {
+          "russian": "по-английски",
+          "translit": "po-anglíyski",
+          "english": "in English",
+          "pos": "adverb",
+          "example": "Мы говорим по-английски.",
+          "exampleEn": "We speak English."
+        },
+        {
+          "russian": "немного",
+          "translit": "nemnógo",
+          "english": "a little",
+          "pos": "adverb",
+          "example": "Я говорю немного.",
+          "exampleEn": "I speak a little."
+        },
+        {
+          "russian": "хорошо",
+          "translit": "khoroshó",
+          "english": "well / good",
+          "pos": "adverb",
+          "example": "Она говорит хорошо.",
+          "exampleEn": "She speaks well."
+        },
+        {
+          "russian": "слово",
+          "translit": "slóvo",
+          "english": "word",
+          "pos": "noun",
+          "example": "Это новое слово.",
+          "exampleEn": "This is a new word."
+        }
+      ],
+      "grammar": {
+        "title": "2nd conjugation: говорить (to speak)",
+        "explanation": "Russian verbs fall into two groups. This week we meet the **2nd conjugation**, where the endings attach after dropping **-ить**. For **говорить** the stem is **говор-**, and you add: я говор**ю**, ты говор**ишь**, он/она говор**ит**, мы говор**им**, вы говор**ите**, они говор**ят**. Note the typical 2nd-conjugation vowel **-и-** in most endings (and **-я-** in они). To say which language you speak, use the adverb **по-русски**, **по-английски** (not the noun).",
+        "examples": [
+          {
+            "russian": "Я говорю по-русски немного.",
+            "english": "I speak a little Russian."
+          },
+          {
+            "russian": "Ты говоришь по-английски?",
+            "english": "Do you speak English?"
+          },
+          {
+            "russian": "Они говорят хорошо.",
+            "english": "They speak well."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Новое слово",
+        "text": "— Ты говоришь по-русски? — Да, немного. Это новое слово для меня.",
+        "translation": "\"Do you speak Russian?\" \"Yes, a little. This is a new word for me.\"",
+        "glossary": [
+          {
+            "russian": "новое",
+            "english": "new (neuter)"
+          },
+          {
+            "russian": "для меня",
+            "english": "for me"
+          }
+        ]
+      },
+      "speakingPrompt": "Say out loud which languages you speak and how well, using говорить and the adverbs по-русски / по-английски / немного / хорошо. Try all six forms of говорить (я, ты, он, мы, вы, они)."
+    },
+    {
+      "day": 2,
+      "title": "Liking things: любить",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "любить",
+          "translit": "lyubít'",
+          "english": "to like / to love",
+          "pos": "verb",
+          "example": "Я люблю музыку.",
+          "exampleEn": "I like music."
+        },
+        {
+          "russian": "музыка",
+          "translit": "múzyka",
+          "english": "music",
+          "pos": "noun",
+          "example": "Она любит музыку.",
+          "exampleEn": "She likes music."
+        },
+        {
+          "russian": "книга",
+          "translit": "kníga",
+          "english": "book",
+          "pos": "noun",
+          "example": "Это хорошая книга.",
+          "exampleEn": "This is a good book."
+        },
+        {
+          "russian": "кофе",
+          "translit": "kófe",
+          "english": "coffee",
+          "pos": "noun",
+          "example": "Мы любим кофе.",
+          "exampleEn": "We like coffee."
+        },
+        {
+          "russian": "чай",
+          "translit": "chay",
+          "english": "tea",
+          "pos": "noun",
+          "example": "Ты любишь чай?",
+          "exampleEn": "Do you like tea?"
+        },
+        {
+          "russian": "очень",
+          "translit": "óchen'",
+          "english": "very (much)",
+          "pos": "adverb",
+          "example": "Я очень люблю кофе.",
+          "exampleEn": "I like coffee very much."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also / too",
+          "pos": "adverb",
+          "example": "Я тоже люблю чай.",
+          "exampleEn": "I also like tea."
+        }
+      ],
+      "grammar": {
+        "title": "2nd conjugation with б→бл: любить (to like/love)",
+        "explanation": "**Любить** is also 2nd conjugation, but it has a special change in the **я** form: when the stem ends in **б, в, м, п, ф**, an **-л-** appears in я only. So: я люб**лю** (with -л-), then normal: ты люб**ишь**, он/она люб**ит**, мы люб**им**, вы люб**ите**, они люб**ят**. To intensify, add **очень** (very). You can also stack **тоже** (also).",
+        "examples": [
+          {
+            "russian": "Я люблю музыку.",
+            "english": "I like music."
+          },
+          {
+            "russian": "Ты любишь кофе или чай?",
+            "english": "Do you like coffee or tea?"
+          },
+          {
+            "russian": "Мы очень любим книги.",
+            "english": "We like books very much."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Кофе или чай",
+        "text": "— Ты любишь кофе? — Нет, я люблю чай. — Я тоже!",
+        "translation": "\"Do you like coffee?\" \"No, I like tea.\" \"Me too!\"",
+        "glossary": [
+          {
+            "russian": "или",
+            "english": "or"
+          },
+          {
+            "russian": "нет",
+            "english": "no"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a friend three things you like and one thing you don't, using люблю / любишь / любит. Add очень to one of them and тоже to another."
+    },
+    {
+      "day": 3,
+      "title": "Hobbies: living for fun with жить",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "жить",
+          "translit": "zhit'",
+          "english": "to live",
+          "pos": "verb",
+          "example": "Я живу в Москве.",
+          "exampleEn": "I live in Moscow."
+        },
+        {
+          "russian": "хобби",
+          "translit": "khóbbi",
+          "english": "hobby",
+          "pos": "noun",
+          "example": "Музыка — моё хобби.",
+          "exampleEn": "Music is my hobby."
+        },
+        {
+          "russian": "спорт",
+          "translit": "sport",
+          "english": "sport",
+          "pos": "noun",
+          "example": "Я люблю спорт.",
+          "exampleEn": "I like sport."
+        },
+        {
+          "russian": "фильм",
+          "translit": "fil'm",
+          "english": "film / movie",
+          "pos": "noun",
+          "example": "Это хороший фильм.",
+          "exampleEn": "This is a good film."
+        },
+        {
+          "russian": "город",
+          "translit": "górod",
+          "english": "city / town",
+          "pos": "noun",
+          "example": "Москва — большой город.",
+          "exampleEn": "Moscow is a big city."
+        },
+        {
+          "russian": "вместе",
+          "translit": "vméste",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Мы живём вместе.",
+          "exampleEn": "We live together."
+        },
+        {
+          "russian": "сейчас",
+          "translit": "seychás",
+          "english": "now",
+          "pos": "adverb",
+          "example": "Я сейчас дома.",
+          "exampleEn": "I am at home now."
+        }
+      ],
+      "grammar": {
+        "title": "Irregular verb жить (to live)",
+        "explanation": "**Жить** does not follow a regular pattern: an unexpected **-в-** appears in the stem. Learn it as a set: я жив**у**, ты жив**ёшь**, он/она жив**ёт**, мы жив**ём**, вы жив**ёте**, они жив**ут**. Note the stressed **ё** in the middle forms. Use it to talk about where you live and your hobbies. **Вместе** (together) and **сейчас** (now) are handy adverbs that go before or after the verb.",
+        "examples": [
+          {
+            "russian": "Я живу в городе.",
+            "english": "I live in the city."
+          },
+          {
+            "russian": "Где ты живёшь?",
+            "english": "Where do you live?"
+          },
+          {
+            "russian": "Мы живём вместе.",
+            "english": "We live together."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Где ты живёшь?",
+        "text": "— Где ты живёшь сейчас? — Я живу в большом городе. Спорт — моё хобби.",
+        "translation": "\"Where do you live now?\" \"I live in a big city. Sport is my hobby.\"",
+        "glossary": [
+          {
+            "russian": "где",
+            "english": "where"
+          },
+          {
+            "russian": "большом",
+            "english": "big (prepositional)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe where you live now (Я живу...) and name one hobby. Then ask a friend Где ты живёшь? and answer for them using живёт."
+    },
+    {
+      "day": 4,
+      "title": "Wanting things: хотеть",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "хотеть",
+          "translit": "khotét'",
+          "english": "to want",
+          "pos": "verb",
+          "example": "Я хочу чай.",
+          "exampleEn": "I want tea."
+        },
+        {
+          "russian": "отдыхать",
+          "translit": "otdykhát'",
+          "english": "to rest / relax",
+          "pos": "verb",
+          "example": "Я хочу отдыхать.",
+          "exampleEn": "I want to rest."
+        },
+        {
+          "russian": "гулять",
+          "translit": "gulyát'",
+          "english": "to walk / go for a walk",
+          "pos": "verb",
+          "example": "Мы хотим гулять.",
+          "exampleEn": "We want to take a walk."
+        },
+        {
+          "russian": "спать",
+          "translit": "spat'",
+          "english": "to sleep",
+          "pos": "verb",
+          "example": "Я хочу спать.",
+          "exampleEn": "I want to sleep."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun",
+          "example": "Я хочу воду.",
+          "exampleEn": "I want water."
+        },
+        {
+          "russian": "сегодня",
+          "translit": "segódnya",
+          "english": "today",
+          "pos": "adverb",
+          "example": "Сегодня я хочу гулять.",
+          "exampleEn": "Today I want to take a walk."
+        }
+      ],
+      "grammar": {
+        "title": "Irregular verb хотеть (to want)",
+        "explanation": "**Хотеть** is irregular and mixes both conjugations. Singular looks like 1st conjugation with a **-ч-**: я хо**чу**, ты хо**чешь**, он/она хо**чет**. Plural switches to **-т-** and 2nd-conjugation endings: мы хот**им**, вы хот**ите**, они хот**ят**. After **хотеть** you can use another verb in its dictionary (infinitive) form: **хочу спать**, **хотим гулять**.",
+        "examples": [
+          {
+            "russian": "Я хочу спать.",
+            "english": "I want to sleep."
+          },
+          {
+            "russian": "Ты хочешь гулять сегодня?",
+            "english": "Do you want to take a walk today?"
+          },
+          {
+            "russian": "Они хотят отдыхать.",
+            "english": "They want to rest."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сегодня",
+        "text": "— Что ты хочешь сегодня? — Я хочу гулять. — А я хочу спать!",
+        "translation": "\"What do you want to do today?\" \"I want to take a walk.\" \"And I want to sleep!\"",
+        "glossary": [
+          {
+            "russian": "что",
+            "english": "what"
+          },
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say what you want to do today using хочу + an infinitive (спать, гулять, отдыхать). Then ask a friend Что ты хочешь? and answer with хочешь / хочет."
+    },
+    {
+      "day": 5,
+      "title": "Daily routine: часто, иногда, всегда",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "часто",
+          "translit": "chásto",
+          "english": "often",
+          "pos": "adverb",
+          "example": "Я часто гуляю.",
+          "exampleEn": "I often take walks."
+        },
+        {
+          "russian": "иногда",
+          "translit": "inogdá",
+          "english": "sometimes",
+          "pos": "adverb",
+          "example": "Иногда я сплю днём.",
+          "exampleEn": "Sometimes I sleep during the day."
+        },
+        {
+          "russian": "всегда",
+          "translit": "vsegdá",
+          "english": "always",
+          "pos": "adverb",
+          "example": "Я всегда люблю кофе.",
+          "exampleEn": "I always love coffee."
+        },
+        {
+          "russian": "утром",
+          "translit": "útrom",
+          "english": "in the morning",
+          "pos": "adverb",
+          "example": "Утром я пью кофе.",
+          "exampleEn": "In the morning I drink coffee."
+        },
+        {
+          "russian": "вечером",
+          "translit": "vécherom",
+          "english": "in the evening",
+          "pos": "adverb",
+          "example": "Вечером я отдыхаю.",
+          "exampleEn": "In the evening I rest."
+        },
+        {
+          "russian": "день",
+          "translit": "den'",
+          "english": "day",
+          "pos": "noun",
+          "example": "Хороший день!",
+          "exampleEn": "Good day!"
+        },
+        {
+          "russian": "работать",
+          "translit": "rabótat'",
+          "english": "to work",
+          "pos": "verb",
+          "example": "Я часто работаю.",
+          "exampleEn": "I often work."
+        }
+      ],
+      "grammar": {
+        "title": "Frequency adverbs: часто / иногда / всегда",
+        "explanation": "To describe a routine, use frequency adverbs. **Часто** (often), **иногда** (sometimes), **всегда** (always) normally go **before the verb**: Я **часто** работаю. Time-of-day adverbs **утром** (in the morning) and **вечером** (in the evening) usually open the sentence: **Утром** я пью кофе. You can combine them: Утром я **всегда** пью кофе.",
+        "examples": [
+          {
+            "russian": "Я всегда работаю утром.",
+            "english": "I always work in the morning."
+          },
+          {
+            "russian": "Иногда мы гуляем вечером.",
+            "english": "Sometimes we take a walk in the evening."
+          },
+          {
+            "russian": "Он часто говорит по-русски.",
+            "english": "He often speaks Russian."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мой день",
+        "text": "Утром я всегда работаю. Иногда вечером я гуляю. Я часто говорю по-русски.",
+        "translation": "In the morning I always work. Sometimes in the evening I take a walk. I often speak Russian.",
+        "glossary": [
+          {
+            "russian": "мой",
+            "english": "my"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your daily routine in 3 sentences. Use утром / вечером and at least one of часто, иногда, всегда before each verb (работаю, гуляю, отдыхаю)."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: routines & wants",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "завтракать",
+          "translit": "závtrakat'",
+          "english": "to have breakfast",
+          "pos": "verb",
+          "example": "Я завтракаю утром.",
+          "exampleEn": "I have breakfast in the morning."
+        },
+        {
+          "russian": "читать",
+          "translit": "chitát'",
+          "english": "to read",
+          "pos": "verb",
+          "example": "Я часто читаю книги.",
+          "exampleEn": "I often read books."
+        },
+        {
+          "russian": "слушать",
+          "translit": "slúshat'",
+          "english": "to listen",
+          "pos": "verb",
+          "example": "Я люблю слушать музыку.",
+          "exampleEn": "I like to listen to music."
+        },
+        {
+          "russian": "интересный",
+          "translit": "interésnyy",
+          "english": "interesting",
+          "pos": "adjective",
+          "example": "Это интересный фильм.",
+          "exampleEn": "This is an interesting film."
+        },
+        {
+          "russian": "свободное время",
+          "translit": "svobódnoye vrémya",
+          "english": "free time",
+          "pos": "phrase",
+          "example": "В свободное время я гуляю.",
+          "exampleEn": "In my free time I take walks."
+        },
+        {
+          "russian": "друг",
+          "translit": "drug",
+          "english": "friend",
+          "pos": "noun",
+          "example": "Мой друг любит спорт.",
+          "exampleEn": "My friend likes sport."
+        }
+      ],
+      "grammar": {
+        "title": "Combining verbs and adverbs",
+        "explanation": "Today we combine everything: 2nd-conjugation verbs (**говорить, любить**), irregular **жить** and **хотеть**, and frequency adverbs. Remember **любить** and **хотеть** can be followed by an infinitive: Я **люблю слушать** музыку; Я **хочу читать**. Place frequency adverbs before the main verb: Я **часто читаю**. Build longer sentences by stacking time + frequency + verb: Утром я **часто** завтракаю.",
+        "examples": [
+          {
+            "russian": "Я люблю слушать музыку вечером.",
+            "english": "I like to listen to music in the evening."
+          },
+          {
+            "russian": "Мой друг часто читает интересные книги.",
+            "english": "My friend often reads interesting books."
+          },
+          {
+            "russian": "В свободное время я хочу гулять.",
+            "english": "In my free time I want to take a walk."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Свободное время",
+        "text": "Мой друг любит спорт. В свободное время мы часто гуляем. Иногда я слушаю музыку.",
+        "translation": "My friend likes sport. In our free time we often take walks. Sometimes I listen to music.",
+        "glossary": [
+          {
+            "russian": "в",
+            "english": "in"
+          }
+        ]
+      },
+      "speakingPrompt": "Talk about your free time for 4–5 sentences. Use слушать, читать, гулять with любить/хотеть, and add часто/иногда/всегда plus утром/вечером."
+    },
+    {
+      "day": 7,
+      "title": "Review: verbs & routines",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 4 recap: conjugations, irregulars, frequency",
+        "explanation": "This week's verbs:\n\n- **говорить** (2nd conj.): говорю, говоришь, говорит, говорим, говорите, говорят.\n- **любить** (2nd conj., я → -бл-): люблю, любишь, любит, любим, любите, любят.\n- **жить** (irregular, -в-): живу, живёшь, живёт, живём, живёте, живут.\n- **хотеть** (irregular, mixed): хочу, хочешь, хочет, хотим, хотите, хотят.\n\nFrequency adverbs **часто / иногда / всегда** go before the verb; **утром / вечером** open the sentence. **Любить** and **хотеть** can take an infinitive.",
+        "examples": [
+          {
+            "russian": "Я живу в городе и часто говорю по-русски.",
+            "english": "I live in the city and often speak Russian."
+          },
+          {
+            "russian": "Вечером мы хотим слушать музыку.",
+            "english": "In the evening we want to listen to music."
+          },
+          {
+            "russian": "Она всегда любит кофе утром.",
+            "english": "She always loves coffee in the morning."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Утром и вечером",
+        "text": "— Что ты любишь делать утром? — Я люблю пить кофе. А вечером я часто гуляю. — Я тоже! Иногда я слушаю музыку.",
+        "translation": "\"What do you like to do in the morning?\" \"I like to drink coffee. And in the evening I often take walks.\" \"Me too! Sometimes I listen to music.\"",
+        "glossary": [
+          {
+            "russian": "делать",
+            "english": "to do"
+          },
+          {
+            "russian": "пить",
+            "english": "to drink"
+          }
+        ]
+      },
+      "speakingPrompt": "Review challenge: give a one-minute self-introduction covering where you live (жить), the languages you speak (говорить), what you like (любить), and what you want to do today (хотеть). Include at least one frequency adverb (часто/иногда/всегда) and one time adverb (утром/вечером)."
+    }
+  ]
+}

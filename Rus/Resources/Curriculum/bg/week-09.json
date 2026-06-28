@@ -1,0 +1,608 @@
+{
+  "week": 9,
+  "theme": "Family & people",
+  "days": [
+    {
+      "day": 1,
+      "title": "My parents: майка and баща",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "майка",
+          "translit": "máyka",
+          "english": "mother",
+          "pos": "noun",
+          "example": "Това е майка ми.",
+          "exampleEn": "This is my mother."
+        },
+        {
+          "russian": "баща",
+          "translit": "bashtá",
+          "english": "father",
+          "pos": "noun",
+          "example": "Това е баща ми.",
+          "exampleEn": "This is my father."
+        },
+        {
+          "russian": "семейство",
+          "translit": "seméystvo",
+          "english": "family",
+          "pos": "noun",
+          "example": "Това е моето семейство.",
+          "exampleEn": "This is my family."
+        },
+        {
+          "russian": "това",
+          "translit": "tová",
+          "english": "this (it is)",
+          "pos": "pronoun",
+          "example": "Това е майка.",
+          "exampleEn": "This is mother."
+        },
+        {
+          "russian": "е",
+          "translit": "e",
+          "english": "is (he/she/it)",
+          "pos": "verb",
+          "example": "Това е баща.",
+          "exampleEn": "This is father."
+        },
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "conjunction",
+          "example": "Майка и баща.",
+          "exampleEn": "Mother and father."
+        },
+        {
+          "russian": "мой",
+          "translit": "moy",
+          "english": "my (masculine)",
+          "pos": "pronoun",
+          "example": "Това е моят баща.",
+          "exampleEn": "This is my father."
+        }
+      ],
+      "grammar": {
+        "title": "Saying who someone is with съм",
+        "explanation": "Bulgarian **has** a present-tense verb \"to be\". Its forms are: **съм** (I am), **си** (you are), **е** (he/she/it is), **сме** (we are), **сте** (you are, plural/polite), **са** (they are).\n\nTo point at a person and say who they are, use **Това е** (\"This is\") + the noun. The noun stays in its plain dictionary form — Bulgarian has **no noun cases**, so the word never changes its ending for grammatical role.\n\n- **Това е майка.** — This is mother.\n- **Това е баща.** — This is father.\n\nTo say \"my\", the short possessive **ми** comes after the noun: **майка ми** (my mother), **баща ми** (my father). This is the easiest way to show \"my\" and you will use it often.",
+        "examples": [
+          {
+            "russian": "Това е майка ми.",
+            "english": "This is my mother."
+          },
+          {
+            "russian": "Това е баща ми.",
+            "english": "This is my father."
+          },
+          {
+            "russian": "Това е моето семейство.",
+            "english": "This is my family."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моето семейство (My family)",
+        "text": "Това е майка ми. Това е баща ми. Това е моето семейство.",
+        "translation": "This is my mother. This is my father. This is my family.",
+        "glossary": [
+          {
+            "russian": "моето",
+            "english": "my (neuter)"
+          },
+          {
+            "russian": "ми",
+            "english": "my (short form, after the noun)"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at a photo (real or imagined) and introduce two people using \"Това е ...\". For example: \"Това е майка ми. Това е баща ми.\""
+    },
+    {
+      "day": 2,
+      "title": "Brother and sister: брат and сестра",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "брат",
+          "translit": "brat",
+          "english": "brother",
+          "pos": "noun",
+          "example": "Това е брат ми.",
+          "exampleEn": "This is my brother."
+        },
+        {
+          "russian": "сестра",
+          "translit": "sestrá",
+          "english": "sister",
+          "pos": "noun",
+          "example": "Това е сестра ми.",
+          "exampleEn": "This is my sister."
+        },
+        {
+          "russian": "съм",
+          "translit": "sǎm",
+          "english": "I am",
+          "pos": "verb",
+          "example": "Аз съм сестра.",
+          "exampleEn": "I am a sister."
+        },
+        {
+          "russian": "аз",
+          "translit": "az",
+          "english": "I",
+          "pos": "pronoun",
+          "example": "Аз съм брат.",
+          "exampleEn": "I am a brother."
+        },
+        {
+          "russian": "той",
+          "translit": "toy",
+          "english": "he",
+          "pos": "pronoun",
+          "example": "Той е брат ми.",
+          "exampleEn": "He is my brother."
+        },
+        {
+          "russian": "тя",
+          "translit": "tya",
+          "english": "she",
+          "pos": "pronoun",
+          "example": "Тя е сестра ми.",
+          "exampleEn": "She is my sister."
+        }
+      ],
+      "grammar": {
+        "title": "съм + noun for relationships",
+        "explanation": "Use the verb **съм** with a noun to say what relationship someone is. The subject pronoun and the verb form must match:\n\n- **Аз съм брат.** — I am a brother.\n- **Ти си сестра.** — You are a sister.\n- **Той е брат ми.** — He is my brother.\n- **Тя е сестра ми.** — She is my sister.\n\nThe noun does **not** change form — Bulgarian has no cases. Notice the pronouns: **аз** (I), **ти** (you), **той** (he), **тя** (she).\n\nWord order tip: **съм / си / е** usually cannot start a sentence. They lean on the word before them: \"Аз **съм** брат\", \"Той **е** брат ми\".",
+        "examples": [
+          {
+            "russian": "Аз съм брат.",
+            "english": "I am a brother."
+          },
+          {
+            "russian": "Тя е сестра ми.",
+            "english": "She is my sister."
+          },
+          {
+            "russian": "Той е баща ми.",
+            "english": "He is my father."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Брат и сестра (Brother and sister)",
+        "text": "Това е брат ми. Той е брат ми. Тя е сестра ми.",
+        "translation": "This is my brother. He is my brother. She is my sister.",
+        "glossary": [
+          {
+            "russian": "той",
+            "english": "he"
+          },
+          {
+            "russian": "тя",
+            "english": "she"
+          }
+        ]
+      },
+      "speakingPrompt": "Say who you are in your family using \"Аз съм ...\", then introduce a sibling with \"Той е брат ми\" or \"Тя е сестра ми\"."
+    },
+    {
+      "day": 3,
+      "title": "Children: син and дъщеря",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "син",
+          "translit": "sin",
+          "english": "son",
+          "pos": "noun",
+          "example": "Той е син ми.",
+          "exampleEn": "He is my son."
+        },
+        {
+          "russian": "дъщеря",
+          "translit": "dǎshteryá",
+          "english": "daughter",
+          "pos": "noun",
+          "example": "Тя е дъщеря ми.",
+          "exampleEn": "She is my daughter."
+        },
+        {
+          "russian": "дете",
+          "translit": "deté",
+          "english": "child",
+          "pos": "noun",
+          "example": "Това е дете.",
+          "exampleEn": "This is a child."
+        },
+        {
+          "russian": "ти",
+          "translit": "ti",
+          "english": "you (singular informal)",
+          "pos": "pronoun",
+          "example": "Ти си син ми.",
+          "exampleEn": "You are my son."
+        },
+        {
+          "russian": "си",
+          "translit": "si",
+          "english": "you are (singular)",
+          "pos": "verb",
+          "example": "Ти си дъщеря ми.",
+          "exampleEn": "You are my daughter."
+        },
+        {
+          "russian": "малък",
+          "translit": "málǎk",
+          "english": "small, little (masculine)",
+          "pos": "adjective",
+          "example": "Синът ми е малък.",
+          "exampleEn": "My son is little."
+        }
+      ],
+      "grammar": {
+        "title": "The definite article: a suffix on the noun",
+        "explanation": "Bulgarian has no separate word for \"the\". Instead, **\"the\" is a suffix** added to the end of the noun:\n\n- **masculine**: -ът / -а — **син → синът** (the son)\n- **feminine**: -та — **майка → майката**, **сестра → сестрата**, **дъщеря → дъщерята**\n- **neuter**: -то — **дете → детето**\n\nCompare:\n- **Това е син.** — This is a son. (no article)\n- **Синът ми е малък.** — My son is little. (definite + ми)\n\nWith **съм** you continue to match the verb to the subject: **Ти си** син ми (you are my son), **Ти си** дъщеря ми (you are my daughter).",
+        "examples": [
+          {
+            "russian": "Той е син ми.",
+            "english": "He is my son."
+          },
+          {
+            "russian": "Тя е дъщеря ми.",
+            "english": "She is my daughter."
+          },
+          {
+            "russian": "Детето е малко.",
+            "english": "The child is little."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Синът и дъщерята (The son and the daughter)",
+        "text": "Това е син ми. Тя е дъщеря ми. Детето е малко.",
+        "translation": "This is my son. She is my daughter. The child is little.",
+        "glossary": [
+          {
+            "russian": "детето",
+            "english": "the child"
+          },
+          {
+            "russian": "малко",
+            "english": "little (neuter)"
+          }
+        ]
+      },
+      "speakingPrompt": "Introduce two younger family members using \"Той е син ми\" and \"Тя е дъщеря ми\". Add the article once, e.g. \"Синът ми е малък\"."
+    },
+    {
+      "day": 4,
+      "title": "Husband and wife: съпруг and съпруга",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "съпруг",
+          "translit": "sǎprúg",
+          "english": "husband",
+          "pos": "noun",
+          "example": "Той е съпругът ми.",
+          "exampleEn": "He is my husband."
+        },
+        {
+          "russian": "съпруга",
+          "translit": "sǎprúga",
+          "english": "wife",
+          "pos": "noun",
+          "example": "Тя е съпругата ми.",
+          "exampleEn": "She is my wife."
+        },
+        {
+          "russian": "мъж",
+          "translit": "mǎzh",
+          "english": "man, husband",
+          "pos": "noun",
+          "example": "Това е мъж.",
+          "exampleEn": "This is a man."
+        },
+        {
+          "russian": "жена",
+          "translit": "zhená",
+          "english": "woman, wife",
+          "pos": "noun",
+          "example": "Това е жена.",
+          "exampleEn": "This is a woman."
+        },
+        {
+          "russian": "ние",
+          "translit": "níe",
+          "english": "we",
+          "pos": "pronoun",
+          "example": "Ние сме семейство.",
+          "exampleEn": "We are a family."
+        },
+        {
+          "russian": "сме",
+          "translit": "sme",
+          "english": "we are",
+          "pos": "verb",
+          "example": "Ние сме семейство.",
+          "exampleEn": "We are a family."
+        },
+        {
+          "russian": "заедно",
+          "translit": "záedno",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Ние сме заедно.",
+          "exampleEn": "We are together."
+        }
+      ],
+      "grammar": {
+        "title": "съм in the plural: ние сме",
+        "explanation": "Now the plural forms of **съм**:\n- **ние сме** — we are\n- **вие сте** — you are (plural or polite)\n- **те са** — they are\n\nUse them with relationship nouns just like the singular:\n- **Ние сме семейство.** — We are a family.\n- **Той е съпругът ми.** — He is my husband.\n- **Тя е съпругата ми.** — She is my wife.\n\nThe definite article suffix appears again: **съпруг → съпругът** (the husband), **съпруга → съпругата** (the wife). The noun ending shows \"the\"; there are still no cases.",
+        "examples": [
+          {
+            "russian": "Ние сме семейство.",
+            "english": "We are a family."
+          },
+          {
+            "russian": "Той е съпругът ми.",
+            "english": "He is my husband."
+          },
+          {
+            "russian": "Тя е съпругата ми.",
+            "english": "She is my wife."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Ние сме семейство (We are a family)",
+        "text": "Той е съпругът ми. Аз съм съпругата му. Ние сме семейство и сме заедно.",
+        "translation": "He is my husband. I am his wife. We are a family and we are together.",
+        "glossary": [
+          {
+            "russian": "му",
+            "english": "his (short form, after the noun)"
+          },
+          {
+            "russian": "заедно",
+            "english": "together"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a married couple (real or imagined). Say \"Той е съпругът ми / Тя е съпругата ми\" and finish with \"Ние сме семейство\"."
+    },
+    {
+      "day": 5,
+      "title": "There is, there isn't: има and няма",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "има",
+          "translit": "íma",
+          "english": "there is / there are",
+          "pos": "verb",
+          "example": "Има едно дете.",
+          "exampleEn": "There is one child."
+        },
+        {
+          "russian": "няма",
+          "translit": "nyáma",
+          "english": "there is no / there isn't",
+          "pos": "verb",
+          "example": "Няма брат.",
+          "exampleEn": "There is no brother."
+        },
+        {
+          "russian": "едно",
+          "translit": "ednó",
+          "english": "one (neuter)",
+          "pos": "numeral",
+          "example": "Има едно дете.",
+          "exampleEn": "There is one child."
+        },
+        {
+          "russian": "две",
+          "translit": "dve",
+          "english": "two (feminine/neuter)",
+          "pos": "numeral",
+          "example": "Има две деца.",
+          "exampleEn": "There are two children."
+        },
+        {
+          "russian": "деца",
+          "translit": "detsá",
+          "english": "children",
+          "pos": "noun",
+          "example": "Има две деца.",
+          "exampleEn": "There are two children."
+        },
+        {
+          "russian": "у дома",
+          "translit": "u dóma",
+          "english": "at home",
+          "pos": "phrase",
+          "example": "Майка ми е у дома.",
+          "exampleEn": "My mother is at home."
+        }
+      ],
+      "grammar": {
+        "title": "има (there is) and няма (there isn't)",
+        "explanation": "To say something **exists**, use **има** (\"there is / there are\"). To say it **does not exist**, use **няма** (\"there is no / there isn't\"). Both are used the same way for singular and plural, and the noun after them does not change form:\n\n- **Има едно дете.** — There is one child.\n- **Има две деца.** — There are two children.\n- **Няма брат.** — There is no brother.\n\nYou can add a place with a preposition — Bulgarian shows location with prepositions, not case endings:\n- **У дома има две деца.** — At home there are two children.\n- **В семейството няма син.** — In the family there is no son.\n\nIrregular plural to know: **дете → деца** (child → children).",
+        "examples": [
+          {
+            "russian": "Има едно дете.",
+            "english": "There is one child."
+          },
+          {
+            "russian": "У дома има две деца.",
+            "english": "At home there are two children."
+          },
+          {
+            "russian": "В семейството няма брат.",
+            "english": "In the family there is no brother."
+          }
+        ]
+      },
+      "reading": {
+        "title": "У дома (At home)",
+        "text": "У дома има майка, баща и две деца. Няма брат, има две сестри.",
+        "translation": "At home there are a mother, a father and two children. There is no brother, there are two sisters.",
+        "glossary": [
+          {
+            "russian": "сестри",
+            "english": "sisters (plural)"
+          },
+          {
+            "russian": "у дома",
+            "english": "at home"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe who is in your family using \"има\" and \"няма\". For example: \"Има майка и баща. Има две деца. Няма брат.\""
+    },
+    {
+      "day": 6,
+      "title": "Do you have one? Asking with има/няма",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ли",
+          "translit": "li",
+          "english": "question particle (yes/no questions)",
+          "pos": "particle",
+          "example": "Има ли брат?",
+          "exampleEn": "Is there a brother?"
+        },
+        {
+          "russian": "колко",
+          "translit": "kólko",
+          "english": "how many, how much",
+          "pos": "adverb",
+          "example": "Колко деца има?",
+          "exampleEn": "How many children are there?"
+        },
+        {
+          "russian": "голям",
+          "translit": "golyám",
+          "english": "big, large (masculine)",
+          "pos": "adjective",
+          "example": "Семейството е голямо.",
+          "exampleEn": "The family is big."
+        },
+        {
+          "russian": "брат и сестра",
+          "translit": "brat i sestrá",
+          "english": "a brother and a sister (siblings)",
+          "pos": "phrase",
+          "example": "Имам брат и сестра.",
+          "exampleEn": "I have a brother and a sister."
+        },
+        {
+          "russian": "имам",
+          "translit": "ímam",
+          "english": "I have",
+          "pos": "verb",
+          "example": "Имам една сестра.",
+          "exampleEn": "I have one sister."
+        },
+        {
+          "russian": "нямам",
+          "translit": "nyámam",
+          "english": "I do not have",
+          "pos": "verb",
+          "example": "Нямам брат.",
+          "exampleEn": "I do not have a brother."
+        },
+        {
+          "russian": "една",
+          "translit": "edná",
+          "english": "one (feminine)",
+          "pos": "numeral",
+          "example": "Имам една дъщеря.",
+          "exampleEn": "I have one daughter."
+        }
+      ],
+      "grammar": {
+        "title": "Questions with има ли, and \"I have\" (имам)",
+        "explanation": "To ask a yes/no question, add the particle **ли** right after the verb:\n- **Има ли брат?** — Is there a brother? / Is there a brother (in the family)?\n- **Има ли деца?** — Are there children?\n\nTo ask \"how many\", use **колко**:\n- **Колко деца има?** — How many children are there?\n\nThe same root gives you the personal verb **\"to have\"**: **имам** (I have), **нямам** (I do not have). The thing you have does not change form:\n- **Имам брат и сестра.** — I have a brother and a sister.\n- **Нямам син.** — I do not have a son.\n\nNote the number agrees in gender: **един** брат, **една** сестра, **едно** дете.",
+        "examples": [
+          {
+            "russian": "Има ли брат?",
+            "english": "Is there a brother?"
+          },
+          {
+            "russian": "Колко деца има?",
+            "english": "How many children are there?"
+          },
+          {
+            "russian": "Имам брат и сестра, нямам син.",
+            "english": "I have a brother and a sister, I do not have a son."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Колко деца? (How many children?)",
+        "text": "— Има ли деца у дома? — Да, има две деца. — Имам син и дъщеря. Нямам брат.",
+        "translation": "\"Are there children at home?\" \"Yes, there are two children.\" \"I have a son and a daughter. I do not have a brother.\"",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "ли",
+            "english": "question particle"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask and answer about a family. Use \"Има ли ...?\", \"Колко деца има?\", and answer with \"Имам ...\" and \"Нямам ...\"."
+    },
+    {
+      "day": 7,
+      "title": "Review: Family, съм, and има/няма",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 9 recap: relationships, existence, and \"have\"",
+        "explanation": "This week you learned to talk about **family and people**.\n\n**съм + noun for relationships** — the verb \"to be\" matches the subject; the noun never changes (no cases):\n- аз **съм**, ти **си**, той/тя **е**, ние **сме**, вие **сте**, те **са**\n- Аз съм брат. Тя е съпругата ми. Ние сме семейство.\n\n**The definite article is a suffix:** masculine -ът/-а (синът), feminine -та (майката, сестрата, съпругата), neuter -то (детето), plural -те.\n\n**има / няма** for existence — same form for singular and plural; add a place with a preposition (у дома, в семейството):\n- Има две деца. Няма брат.\n\n**Questions and \"have\":** add **ли** for yes/no (Има ли брат?), **колко** for \"how many\". Personal forms: **имам** (I have), **нямам** (I do not have).\n\n**Family words:** майка, баща, брат, сестра, син, дъщеря, съпруг, съпруга, дете/деца, семейство.",
+        "examples": [
+          {
+            "russian": "Ние сме семейство: майка, баща и две деца.",
+            "english": "We are a family: a mother, a father and two children."
+          },
+          {
+            "russian": "Имам сестра, но нямам брат.",
+            "english": "I have a sister, but I do not have a brother."
+          },
+          {
+            "russian": "Има ли деца у дома? — Да, има две.",
+            "english": "Are there children at home? — Yes, there are two."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моето семейство (My family)",
+        "text": "— Колко деца има у дома? — Има две: син и дъщеря. — Имаш ли брат? — Не, нямам брат, имам сестра. Ние сме семейство и сме заедно.",
+        "translation": "\"How many children are there at home?\" \"There are two: a son and a daughter.\" \"Do you have a brother?\" \"No, I do not have a brother, I have a sister. We are a family and we are together.\"",
+        "glossary": [
+          {
+            "russian": "имаш ли",
+            "english": "do you have"
+          },
+          {
+            "russian": "не",
+            "english": "no"
+          },
+          {
+            "russian": "заедно",
+            "english": "together"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your family in 4-5 sentences. Use \"съм\" to say who you are (Аз съм ...), introduce two relatives (Той е ... / Тя е ...), and use \"има\" and \"няма\" to say who is and isn't in the family. End with \"Ние сме семейство\"."
+    }
+  ]
+}

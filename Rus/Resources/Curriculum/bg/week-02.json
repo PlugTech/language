@@ -1,0 +1,664 @@
+{
+  "theme": "Nouns, gender & numbers",
+  "week": 2,
+  "days": [
+    {
+      "day": 1,
+      "title": "Masculine nouns: words ending in a consonant",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "стол",
+          "translit": "STOL",
+          "english": "chair",
+          "pos": "noun (m)",
+          "example": "Това е стол.",
+          "exampleEn": "This is a chair."
+        },
+        {
+          "russian": "молив",
+          "translit": "MO-liv",
+          "english": "pencil",
+          "pos": "noun (m)",
+          "example": "Моливът е тук.",
+          "exampleEn": "The pencil is here."
+        },
+        {
+          "russian": "ключ",
+          "translit": "KLYUCH",
+          "english": "key",
+          "pos": "noun (m)",
+          "example": "Това е ключ.",
+          "exampleEn": "This is a key."
+        },
+        {
+          "russian": "телефон",
+          "translit": "te-le-FON",
+          "english": "telephone, phone",
+          "pos": "noun (m)",
+          "example": "Телефонът е нов.",
+          "exampleEn": "The phone is new."
+        },
+        {
+          "russian": "стол",
+          "translit": "STOL",
+          "english": "chair",
+          "pos": "noun (m)",
+          "example": "Столът е до масата.",
+          "exampleEn": "The chair is by the table."
+        },
+        {
+          "russian": "часовник",
+          "translit": "cha-SOV-nik",
+          "english": "clock, watch",
+          "pos": "noun (m)",
+          "example": "Часовникът е там.",
+          "exampleEn": "The clock is there."
+        },
+        {
+          "russian": "компютър",
+          "translit": "kom-PYU-tar",
+          "english": "computer",
+          "pos": "noun (m)",
+          "example": "Това е компютър.",
+          "exampleEn": "This is a computer."
+        },
+        {
+          "russian": "тук",
+          "translit": "TUK",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Моливът е тук.",
+          "exampleEn": "The pencil is here."
+        }
+      ],
+      "grammar": {
+        "title": "Masculine nouns end in a consonant",
+        "explanation": "Most Bulgarian nouns that end in a consonant are masculine: стол (chair), молив (pencil), ключ (key), телефон (phone). Bulgarian has no cases, so the dictionary form never changes its ending for grammatical role — only word order and prepositions show relations. To say 'the', add a suffix to a masculine noun: the full article -ът or short -а (молив → моливът, the pencil). Remember Bulgarian uses a real verb 'to be': е means 'is' (Това е стол = This is a chair).",
+        "examples": [
+          {
+            "russian": "Това е телефон.",
+            "english": "This is a phone."
+          },
+          {
+            "russian": "Ключът е тук.",
+            "english": "The key is here."
+          },
+          {
+            "russian": "Компютърът е нов.",
+            "english": "The computer is new."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какво е това? (What is this?)",
+        "text": "— Какво е това? — Това е молив. Моливът е тук.",
+        "translation": "— What is this? — This is a pencil. The pencil is here.",
+        "glossary": [
+          {
+            "russian": "какво",
+            "english": "what"
+          },
+          {
+            "russian": "това",
+            "english": "this; this is"
+          },
+          {
+            "russian": "тук",
+            "english": "here"
+          }
+        ]
+      },
+      "speakingPrompt": "Point at three objects on your desk (стол, молив, ключ). For each, say 'Това е …' and then say the noun with 'the' suffix: 'Моливът е тук.'"
+    },
+    {
+      "day": 2,
+      "title": "Feminine nouns: words ending in -а / -я",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "маса",
+          "translit": "MA-sa",
+          "english": "table",
+          "pos": "noun (f)",
+          "example": "Масата е голяма.",
+          "exampleEn": "The table is big."
+        },
+        {
+          "russian": "книга",
+          "translit": "KNI-ga",
+          "english": "book",
+          "pos": "noun (f)",
+          "example": "Това е книга.",
+          "exampleEn": "This is a book."
+        },
+        {
+          "russian": "чанта",
+          "translit": "CHAN-ta",
+          "english": "bag",
+          "pos": "noun (f)",
+          "example": "Чантата е тук.",
+          "exampleEn": "The bag is here."
+        },
+        {
+          "russian": "врата",
+          "translit": "vra-TA",
+          "english": "door",
+          "pos": "noun (f)",
+          "example": "Вратата е там.",
+          "exampleEn": "The door is there."
+        },
+        {
+          "russian": "стая",
+          "translit": "STA-ya",
+          "english": "room",
+          "pos": "noun (f)",
+          "example": "Стаята е малка.",
+          "exampleEn": "The room is small."
+        },
+        {
+          "russian": "лампа",
+          "translit": "LAM-pa",
+          "english": "lamp",
+          "pos": "noun (f)",
+          "example": "Лампата е нова.",
+          "exampleEn": "The lamp is new."
+        },
+        {
+          "russian": "там",
+          "translit": "TAM",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Вратата е там.",
+          "exampleEn": "The door is there."
+        }
+      ],
+      "grammar": {
+        "title": "Feminine nouns end in -а or -я",
+        "explanation": "Nouns ending in -а or -я are usually feminine: маса (table), книга (book), стая (room). To say 'the', add the suffix -та directly to the noun: книга → книгата (the book), маса → масата (the table), стая → стаята (the room). No endings change for grammatical case — Bulgarian has none. Note that with feminine nouns we use е for 'is' just the same: Масата е голяма (The table is big).",
+        "examples": [
+          {
+            "russian": "Това е книга.",
+            "english": "This is a book."
+          },
+          {
+            "russian": "Чантата е тук.",
+            "english": "The bag is here."
+          },
+          {
+            "russian": "Стаята е малка.",
+            "english": "The room is small."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В стаята (In the room)",
+        "text": "Това е стая. В стаята има маса и лампа. Лампата е нова.",
+        "translation": "This is a room. In the room there is a table and a lamp. The lamp is new.",
+        "glossary": [
+          {
+            "russian": "в",
+            "english": "in"
+          },
+          {
+            "russian": "има",
+            "english": "there is / there are"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Name four feminine objects in your room with the definite article (масата, книгата, лампата, вратата) and say where each one is using тук or там."
+    },
+    {
+      "day": 3,
+      "title": "Neuter nouns: words ending in -о / -е",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "легло",
+          "translit": "leg-LO",
+          "english": "bed",
+          "pos": "noun (n)",
+          "example": "Леглото е голямо.",
+          "exampleEn": "The bed is big."
+        },
+        {
+          "russian": "огледало",
+          "translit": "og-le-DA-lo",
+          "english": "mirror",
+          "pos": "noun (n)",
+          "example": "Това е огледало.",
+          "exampleEn": "This is a mirror."
+        },
+        {
+          "russian": "момче",
+          "translit": "mom-CHE",
+          "english": "boy",
+          "pos": "noun (n)",
+          "example": "Момчето е там.",
+          "exampleEn": "The boy is there."
+        },
+        {
+          "russian": "момиче",
+          "translit": "mo-MI-che",
+          "english": "girl",
+          "pos": "noun (n)",
+          "example": "Момичето е тук.",
+          "exampleEn": "The girl is here."
+        },
+        {
+          "russian": "дете",
+          "translit": "de-TE",
+          "english": "child",
+          "pos": "noun (n)",
+          "example": "Детето е малко.",
+          "exampleEn": "The child is small."
+        },
+        {
+          "russian": "перо",
+          "translit": "pe-RO",
+          "english": "feather",
+          "pos": "noun (n)",
+          "example": "Перото е ново.",
+          "exampleEn": "The feather is new."
+        },
+        {
+          "russian": "малко",
+          "translit": "MAL-ko",
+          "english": "small (neuter form)",
+          "pos": "adjective",
+          "example": "Детето е малко.",
+          "exampleEn": "The child is small."
+        }
+      ],
+      "grammar": {
+        "title": "Neuter nouns end in -о or -е",
+        "explanation": "Nouns ending in -о or -е are usually neuter: легло (bed), огледало (mirror), момче (boy), дете (child). To say 'the', add the suffix -то: легло → леглото (the bed), дете → детето (the child), момче → момчето (the boy). So now you have all three genders and their articles: masculine -ът/-а, feminine -та, neuter -то. Adjectives agree: a neuter adjective ends in -о (малко дете = a small child).",
+        "examples": [
+          {
+            "russian": "Това е легло.",
+            "english": "This is a bed."
+          },
+          {
+            "russian": "Детето е малко.",
+            "english": "The child is small."
+          },
+          {
+            "russian": "Огледалото е тук.",
+            "english": "The mirror is here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Момчето и момичето (The boy and the girl)",
+        "text": "Това е момче, а това е момиче. Момчето е тук, момичето е там.",
+        "translation": "This is a boy, and this is a girl. The boy is here, the girl is there.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and / but (contrast)"
+          },
+          {
+            "russian": "момче",
+            "english": "boy"
+          },
+          {
+            "russian": "момиче",
+            "english": "girl"
+          }
+        ]
+      },
+      "speakingPrompt": "Say 'Това е …' for three neuter nouns (легло, дете, огледало). Then add the article and an adjective: 'Леглото е голямо.', 'Детето е малко.'"
+    },
+    {
+      "day": 4,
+      "title": "Pointing with това, този, тази",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "този",
+          "translit": "TO-zi",
+          "english": "this (masculine)",
+          "pos": "demonstrative",
+          "example": "Този стол е нов.",
+          "exampleEn": "This chair is new."
+        },
+        {
+          "russian": "тази",
+          "translit": "TA-zi",
+          "english": "this (feminine)",
+          "pos": "demonstrative",
+          "example": "Тази книга е тук.",
+          "exampleEn": "This book is here."
+        },
+        {
+          "russian": "това",
+          "translit": "to-VA",
+          "english": "this (neuter); this is",
+          "pos": "demonstrative",
+          "example": "Това легло е голямо.",
+          "exampleEn": "This bed is big."
+        },
+        {
+          "russian": "нов",
+          "translit": "NOV",
+          "english": "new (masculine)",
+          "pos": "adjective",
+          "example": "Този молив е нов.",
+          "exampleEn": "This pencil is new."
+        },
+        {
+          "russian": "стар",
+          "translit": "STAR",
+          "english": "old (masculine)",
+          "pos": "adjective",
+          "example": "Този часовник е стар.",
+          "exampleEn": "This clock is old."
+        },
+        {
+          "russian": "голям",
+          "translit": "go-LYAM",
+          "english": "big (masculine)",
+          "pos": "adjective",
+          "example": "Този стол е голям.",
+          "exampleEn": "This chair is big."
+        },
+        {
+          "russian": "хубав",
+          "translit": "HU-bav",
+          "english": "nice, beautiful (masculine)",
+          "pos": "adjective",
+          "example": "Този телефон е хубав.",
+          "exampleEn": "This phone is nice."
+        }
+      ],
+      "grammar": {
+        "title": "това / този / тази — pointing by gender",
+        "explanation": "The word for 'this' agrees with the gender of the noun: този with masculine (този стол = this chair), тази with feminine (тази книга = this book), това with neuter (това легло = this bed). The plural is тези (these). Note that bare това also means 'this is' when you do not name the gender yet: Това е книга (This is a book). With a named noun, match the gender: Тази книга е нова (This book is new).",
+        "examples": [
+          {
+            "russian": "Този молив е нов.",
+            "english": "This pencil is new."
+          },
+          {
+            "russian": "Тази чанта е стара.",
+            "english": "This bag is old."
+          },
+          {
+            "russian": "Това дете е малко.",
+            "english": "This child is small."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Този или онзи? (This one or that one?)",
+        "text": "— Този стол ли е нов? — Не, този стол е стар. Тази маса е нова.",
+        "translation": "— Is this chair new? — No, this chair is old. This table is new.",
+        "glossary": [
+          {
+            "russian": "ли",
+            "english": "question particle"
+          },
+          {
+            "russian": "не",
+            "english": "no"
+          },
+          {
+            "russian": "или",
+            "english": "or"
+          }
+        ]
+      },
+      "speakingPrompt": "Pick objects of each gender and point to them: say 'този стол', 'тази книга', 'това легло', then add an adjective for each (нов / стара / голямо)."
+    },
+    {
+      "day": 5,
+      "title": "Numbers 0–5",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "нула",
+          "translit": "NU-la",
+          "english": "zero",
+          "pos": "number",
+          "example": "Нула, едно, две.",
+          "exampleEn": "Zero, one, two."
+        },
+        {
+          "russian": "едно",
+          "translit": "ed-NO",
+          "english": "one (neuter)",
+          "pos": "number",
+          "example": "Едно дете е тук.",
+          "exampleEn": "One child is here."
+        },
+        {
+          "russian": "две",
+          "translit": "DVE",
+          "english": "two (with f/n nouns)",
+          "pos": "number",
+          "example": "Две книги са тук.",
+          "exampleEn": "Two books are here."
+        },
+        {
+          "russian": "три",
+          "translit": "TRI",
+          "english": "three",
+          "pos": "number",
+          "example": "Три стола са там.",
+          "exampleEn": "Three chairs are there."
+        },
+        {
+          "russian": "четири",
+          "translit": "CHE-ti-ri",
+          "english": "four",
+          "pos": "number",
+          "example": "Четири молива.",
+          "exampleEn": "Four pencils."
+        },
+        {
+          "russian": "пет",
+          "translit": "PET",
+          "english": "five",
+          "pos": "number",
+          "example": "Пет ключа.",
+          "exampleEn": "Five keys."
+        },
+        {
+          "russian": "колко",
+          "translit": "KOL-ko",
+          "english": "how many, how much",
+          "pos": "interrogative",
+          "example": "Колко книги има?",
+          "exampleEn": "How many books are there?"
+        }
+      ],
+      "grammar": {
+        "title": "Counting 0–5 and plural after numbers",
+        "explanation": "Learn нула (0), едно (1), две (2), три (3), четири (4), пет (5). 'One' has gender forms: един стол (m), една книга (f), едно дете (n). 'Two' has две for feminine/neuter (две книги) but два for masculine (два стола). After numbers, count nouns are plural: книга → книги, стол → столове, but masculine nouns use a special counting plural after a number: два/три стола (two/three chairs). The verb agrees: Две книги са тук (Two books are here).",
+        "examples": [
+          {
+            "russian": "Една книга е тук.",
+            "english": "One book is here."
+          },
+          {
+            "russian": "Два стола са там.",
+            "english": "Two chairs are there."
+          },
+          {
+            "russian": "Колко молива има?",
+            "english": "How many pencils are there?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Колко неща? (How many things?)",
+        "text": "На масата има три молива и две книги. Колко стола има? Пет.",
+        "translation": "On the table there are three pencils and two books. How many chairs are there? Five.",
+        "glossary": [
+          {
+            "russian": "на",
+            "english": "on"
+          },
+          {
+            "russian": "неща",
+            "english": "things"
+          },
+          {
+            "russian": "има",
+            "english": "there is / there are"
+          }
+        ]
+      },
+      "speakingPrompt": "Count objects around you from нула to пет. Then make three sentences with 'Има …': e.g. 'Има три стола.', 'Има две книги.'"
+    },
+    {
+      "day": 6,
+      "title": "Numbers 6–10",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "шест",
+          "translit": "SHEST",
+          "english": "six",
+          "pos": "number",
+          "example": "Шест молива.",
+          "exampleEn": "Six pencils."
+        },
+        {
+          "russian": "седем",
+          "translit": "SE-dem",
+          "english": "seven",
+          "pos": "number",
+          "example": "Седем книги.",
+          "exampleEn": "Seven books."
+        },
+        {
+          "russian": "осем",
+          "translit": "O-sem",
+          "english": "eight",
+          "pos": "number",
+          "example": "Осем стола.",
+          "exampleEn": "Eight chairs."
+        },
+        {
+          "russian": "девет",
+          "translit": "DE-vet",
+          "english": "nine",
+          "pos": "number",
+          "example": "Девет ключа.",
+          "exampleEn": "Nine keys."
+        },
+        {
+          "russian": "десет",
+          "translit": "DE-set",
+          "english": "ten",
+          "pos": "number",
+          "example": "Десет деца.",
+          "exampleEn": "Ten children."
+        },
+        {
+          "russian": "прозорец",
+          "translit": "pro-ZO-rets",
+          "english": "window",
+          "pos": "noun (m)",
+          "example": "Прозорецът е голям.",
+          "exampleEn": "The window is big."
+        },
+        {
+          "russian": "число",
+          "translit": "chis-LO",
+          "english": "number",
+          "pos": "noun (n)",
+          "example": "Това е число.",
+          "exampleEn": "This is a number."
+        }
+      ],
+      "grammar": {
+        "title": "Counting 6–10 and the full row 0–10",
+        "explanation": "Now add шест (6), седем (7), осем (8), девет (9), десет (10). The whole row is: нула, едно, две, три, четири, пет, шест, седем, осем, девет, десет. From 5 upward there are no gender forms to worry about — only едно/една/един (1) and две/два (2) change for gender. After all of these the noun is plural: пет книги, десет деца. The plural of дете is irregular: деца (children).",
+        "examples": [
+          {
+            "russian": "Шест молива са на масата.",
+            "english": "Six pencils are on the table."
+          },
+          {
+            "russian": "Десет деца са в стаята.",
+            "english": "Ten children are in the room."
+          },
+          {
+            "russian": "Колко прозореца има? Осем.",
+            "english": "How many windows are there? Eight."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Едно, две, три... (One, two, three...)",
+        "text": "Едно, две, три, четири, пет. Шест, седем, осем, девет, десет! В стаята има десет деца.",
+        "translation": "One, two, three, four, five. Six, seven, eight, nine, ten! In the room there are ten children.",
+        "glossary": [
+          {
+            "russian": "деца",
+            "english": "children (plural of дете)"
+          },
+          {
+            "russian": "в",
+            "english": "in"
+          },
+          {
+            "russian": "стая",
+            "english": "room"
+          }
+        ]
+      },
+      "speakingPrompt": "Count out loud from нула to десет. Then say how many of three different objects you can see, e.g. 'Има шест молива.', 'Има десет книги.'"
+    },
+    {
+      "day": 7,
+      "title": "Week 2 review: gender, this, and numbers",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: three genders, това/този/тази, numbers 0–10",
+        "explanation": "Gender by ending: consonant = masculine (стол, ключ), -а/-я = feminine (маса, стая), -о/-е = neuter (легло, дете). Definite article suffixes: m -ът/-а (столът), f -та (масата), n -то (детето). Point with this matching the gender: този (m), тази (f), това (n); bare това = 'this is'. Numbers 0–10: нула, едно, две, три, четири, пет, шест, седем, осем, девет, десет; remember gender on 1 (един/една/едно) and 2 (два/две), and plurals after numbers (две книги, пет стола, десет деца). Always use the real verb 'to be': е (is), са (are).",
+        "examples": [
+          {
+            "russian": "Това е масата, а това е леглото.",
+            "english": "This is the table, and this is the bed."
+          },
+          {
+            "russian": "Този молив е нов, тази книга е стара.",
+            "english": "This pencil is new, this book is old."
+          },
+          {
+            "russian": "Колко стола има? Седем.",
+            "english": "How many chairs are there? Seven."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В стаята (In the room) — преговор",
+        "text": "— Какво има в стаята? — Има маса, легло и два стола. — Колко книги има? — Три. Тази книга е нова, а този молив е стар.",
+        "translation": "— What is there in the room? — There is a table, a bed and two chairs. — How many books are there? — Three. This book is new, and this pencil is old.",
+        "glossary": [
+          {
+            "russian": "какво",
+            "english": "what"
+          },
+          {
+            "russian": "колко",
+            "english": "how many"
+          },
+          {
+            "russian": "преговор",
+            "english": "review"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your room in Bulgarian: name three objects with the correct gender and article, point to two of them with този/тази/това, and count how many chairs and books there are using numbers 0–10."
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "week": 19,
+  "theme": "Age & necessity",
+  "days": [
+    {
+      "day": 1,
+      "title": "How old are you? (мне … лет)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "возраст",
+          "translit": "vózrast",
+          "english": "age",
+          "pos": "noun",
+          "example": "Какой у тебя возраст?",
+          "exampleEn": "What is your age?"
+        },
+        {
+          "russian": "год",
+          "translit": "god",
+          "english": "year (1)",
+          "pos": "noun",
+          "example": "Мне один год.",
+          "exampleEn": "I am one year old."
+        },
+        {
+          "russian": "года",
+          "translit": "góda",
+          "english": "years (2–4)",
+          "pos": "noun",
+          "example": "Ему три года.",
+          "exampleEn": "He is three years old."
+        },
+        {
+          "russian": "лет",
+          "translit": "let",
+          "english": "years (5+)",
+          "pos": "noun",
+          "example": "Мне двадцать лет.",
+          "exampleEn": "I am twenty years old."
+        },
+        {
+          "russian": "сколько",
+          "translit": "skólʹko",
+          "english": "how many / how much",
+          "pos": "adverb",
+          "example": "Сколько тебе лет?",
+          "exampleEn": "How old are you?"
+        },
+        {
+          "russian": "мне",
+          "translit": "mne",
+          "english": "to me (dative)",
+          "pos": "pronoun",
+          "example": "Мне тридцать лет.",
+          "exampleEn": "I am thirty years old."
+        },
+        {
+          "russian": "ровно",
+          "translit": "róvno",
+          "english": "exactly",
+          "pos": "adverb",
+          "example": "Мне ровно сорок лет.",
+          "exampleEn": "I am exactly forty years old."
+        }
+      ],
+      "grammar": {
+        "title": "Saying your age: the dative of age",
+        "explanation": "To say how old someone is, Russian does **not** use \"to be\". Instead it uses the **dative case** of the person plus a year word. The pattern is: **dative person + number + год/года/лет**.\n\nThe dative pronouns you need: я → **мне**, ты → **тебе**, он → **ему**, она → **ей**.\n\nThe year word depends on the **last digit** of the number:\n- **1** (and 21, 31…): **год** — *Мне двадцать один год.*\n- **2, 3, 4** (and 22, 33…): **года** — *Мне три года.*\n- **5–20** and anything ending in **0, 5–9**: **лет** — *Мне пять лет.*\n\nTo ask, use **Сколько тебе/вам лет?** (literally \"How many years to you?\").",
+        "examples": [
+          {
+            "russian": "Сколько тебе лет?",
+            "english": "How old are you?"
+          },
+          {
+            "russian": "Мне двадцать два года.",
+            "english": "I am twenty-two years old."
+          },
+          {
+            "russian": "Ей пять лет.",
+            "english": "She is five years old."
+          },
+          {
+            "russian": "Ему сорок один год.",
+            "english": "He is forty-one years old."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сколько тебе лет?",
+        "text": "— Сколько тебе лет? — Мне двадцать два года. А тебе? — Мне ровно тридцать лет.",
+        "translation": "\"How old are you?\" \"I am twenty-two years old. And you?\" \"I am exactly thirty years old.\"",
+        "glossary": [
+          {
+            "russian": "сколько",
+            "english": "how many"
+          },
+          {
+            "russian": "ровно",
+            "english": "exactly"
+          }
+        ]
+      },
+      "speakingPrompt": "Say your own age out loud in Russian using \"Мне … лет/года/год\". Then ask a friend \"Сколько тебе лет?\" and imagine three different answers (a child of 3, a teenager of 15, an adult of 41)."
+    },
+    {
+      "day": 2,
+      "title": "The age of others (ему/ей/им)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "тебе",
+          "translit": "tebé",
+          "english": "to you (dative)",
+          "pos": "pronoun",
+          "example": "Тебе восемь лет.",
+          "exampleEn": "You are eight years old."
+        },
+        {
+          "russian": "ему",
+          "translit": "yemú",
+          "english": "to him (dative)",
+          "pos": "pronoun",
+          "example": "Ему двенадцать лет.",
+          "exampleEn": "He is twelve years old."
+        },
+        {
+          "russian": "ей",
+          "translit": "yey",
+          "english": "to her (dative)",
+          "pos": "pronoun",
+          "example": "Ей семь лет.",
+          "exampleEn": "She is seven years old."
+        },
+        {
+          "russian": "нам",
+          "translit": "nam",
+          "english": "to us (dative)",
+          "pos": "pronoun",
+          "example": "Нам по двадцать лет.",
+          "exampleEn": "We are twenty each."
+        },
+        {
+          "russian": "им",
+          "translit": "im",
+          "english": "to them (dative)",
+          "pos": "pronoun",
+          "example": "Им много лет.",
+          "exampleEn": "They are very old."
+        },
+        {
+          "russian": "почти",
+          "translit": "pochtí",
+          "english": "almost",
+          "pos": "adverb",
+          "example": "Ему почти десять лет.",
+          "exampleEn": "He is almost ten years old."
+        },
+        {
+          "russian": "уже",
+          "translit": "uzhé",
+          "english": "already",
+          "pos": "adverb",
+          "example": "Ей уже пятьдесят лет.",
+          "exampleEn": "She is already fifty years old."
+        },
+        {
+          "russian": "только",
+          "translit": "tólʹko",
+          "english": "only",
+          "pos": "particle",
+          "example": "Ему только два года.",
+          "exampleEn": "He is only two years old."
+        }
+      ],
+      "grammar": {
+        "title": "Telling other people's ages",
+        "explanation": "Yesterday you used **мне** and **тебе**. Today extend the pattern to everyone, using the **dative pronouns**:\n\n| Subject | Dative | Example |\n|---|---|---|\n| он | **ему** | Ему пять лет. |\n| она | **ей** | Ей восемь лет. |\n| мы | **нам** | Нам по двадцать лет. |\n| они | **им** | Им много лет. |\n\nThe year-word rule (**год / года / лет**) stays exactly the same.\n\nUseful adverbs to add nuance: **уже** (already), **почти** (almost), **только** (only). They go right before the number: *Ей **уже** пятьдесят лет.*",
+        "examples": [
+          {
+            "russian": "Ему почти десять лет.",
+            "english": "He is almost ten years old."
+          },
+          {
+            "russian": "Ей уже пятьдесят лет.",
+            "english": "She is already fifty years old."
+          },
+          {
+            "russian": "Им только два года.",
+            "english": "They are only two years old."
+          },
+          {
+            "russian": "Сколько ему лет?",
+            "english": "How old is he?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Брат и сестра",
+        "text": "У меня есть брат и сестра. Ему уже двадцать лет, а ей только восемь лет.",
+        "translation": "I have a brother and a sister. He is already twenty years old, and she is only eight years old.",
+        "glossary": [
+          {
+            "russian": "брат",
+            "english": "brother"
+          },
+          {
+            "russian": "сестра",
+            "english": "sister"
+          },
+          {
+            "russian": "уже",
+            "english": "already"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe the ages of three people in your family using ему/ей and the words уже, почти, or только. For example: \"Моей маме уже пятьдесят лет\" (you may simplify to \"Ей пятьдесят лет\")."
+    },
+    {
+      "day": 3,
+      "title": "I need to… (надо + dative)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "надо",
+          "translit": "nádo",
+          "english": "need to / must",
+          "pos": "adverb",
+          "example": "Мне надо работать.",
+          "exampleEn": "I need to work."
+        },
+        {
+          "russian": "работать",
+          "translit": "rabótatʹ",
+          "english": "to work",
+          "pos": "verb",
+          "example": "Мне надо работать сегодня.",
+          "exampleEn": "I need to work today."
+        },
+        {
+          "russian": "отдыхать",
+          "translit": "otdykhátʹ",
+          "english": "to rest",
+          "pos": "verb",
+          "example": "Тебе надо отдыхать.",
+          "exampleEn": "You need to rest."
+        },
+        {
+          "russian": "спать",
+          "translit": "spatʹ",
+          "english": "to sleep",
+          "pos": "verb",
+          "example": "Детям надо спать.",
+          "exampleEn": "Children need to sleep."
+        },
+        {
+          "russian": "учиться",
+          "translit": "uchítʹsya",
+          "english": "to study (be a student)",
+          "pos": "verb",
+          "example": "Ему надо учиться.",
+          "exampleEn": "He needs to study."
+        },
+        {
+          "russian": "сегодня",
+          "translit": "sevódnya",
+          "english": "today",
+          "pos": "adverb",
+          "example": "Сегодня мне надо работать.",
+          "exampleEn": "Today I need to work."
+        },
+        {
+          "russian": "обязательно",
+          "translit": "obyazátelʹno",
+          "english": "definitely / without fail",
+          "pos": "adverb",
+          "example": "Тебе обязательно надо спать.",
+          "exampleEn": "You absolutely need to sleep."
+        }
+      ],
+      "grammar": {
+        "title": "Necessity with надо + dative",
+        "explanation": "To say someone **needs to** or **must** do something, Russian uses the impersonal word **надо** plus the **dative** of the person plus an **infinitive** verb (the dictionary form ending in **-ть**).\n\nPattern: **dative person + надо + infinitive**.\n\n- *Мне надо работать.* — I need to work.\n- *Тебе надо отдыхать.* — You need to rest.\n\nNote: there is **no verb \"to be\"** in the present here, and the person is **not** the subject — it stays in the dative. To strengthen it, add **обязательно** (definitely): *Тебе обязательно надо спать.*",
+        "examples": [
+          {
+            "russian": "Мне надо работать.",
+            "english": "I need to work."
+          },
+          {
+            "russian": "Тебе надо отдыхать.",
+            "english": "You need to rest."
+          },
+          {
+            "russian": "Ему надо учиться.",
+            "english": "He needs to study."
+          },
+          {
+            "russian": "Сегодня нам надо спать.",
+            "english": "Today we need to sleep."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сегодня",
+        "text": "Сегодня мне надо работать. А вечером мне обязательно надо отдыхать.",
+        "translation": "Today I need to work. And in the evening I absolutely need to rest.",
+        "glossary": [
+          {
+            "russian": "сегодня",
+            "english": "today"
+          },
+          {
+            "russian": "вечером",
+            "english": "in the evening"
+          },
+          {
+            "russian": "обязательно",
+            "english": "definitely"
+          }
+        ]
+      },
+      "speakingPrompt": "List three things you need to do today using \"Мне надо + verb\". Then say one thing a friend needs to do: \"Тебе надо…\"."
+    },
+    {
+      "day": 4,
+      "title": "I need a thing (нужно / нужен)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "нужно",
+          "translit": "núzhno",
+          "english": "(it is) necessary / need to",
+          "pos": "adverb",
+          "example": "Мне нужно отдыхать.",
+          "exampleEn": "I need to rest."
+        },
+        {
+          "russian": "нужен",
+          "translit": "núzhen",
+          "english": "needed (with masc. noun)",
+          "pos": "adjective",
+          "example": "Мне нужен врач.",
+          "exampleEn": "I need a doctor."
+        },
+        {
+          "russian": "нужна",
+          "translit": "nuzhná",
+          "english": "needed (with fem. noun)",
+          "pos": "adjective",
+          "example": "Мне нужна вода.",
+          "exampleEn": "I need water."
+        },
+        {
+          "russian": "врач",
+          "translit": "vrach",
+          "english": "doctor",
+          "pos": "noun",
+          "example": "Тебе нужен врач.",
+          "exampleEn": "You need a doctor."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun",
+          "example": "Нам нужна вода.",
+          "exampleEn": "We need water."
+        },
+        {
+          "russian": "помощь",
+          "translit": "pómoshchʹ",
+          "english": "help",
+          "pos": "noun",
+          "example": "Ему нужна помощь.",
+          "exampleEn": "He needs help."
+        },
+        {
+          "russian": "деньги",
+          "translit": "dénʹgi",
+          "english": "money",
+          "pos": "noun",
+          "example": "Им нужны деньги.",
+          "exampleEn": "They need money."
+        },
+        {
+          "russian": "нужны",
+          "translit": "nuzhný",
+          "english": "needed (with plural noun)",
+          "pos": "adjective",
+          "example": "Мне нужны деньги.",
+          "exampleEn": "I need money."
+        }
+      ],
+      "grammar": {
+        "title": "нужно vs нужен/нужна/нужны",
+        "explanation": "**нужно** behaves like **надо**: dative person + **нужно** + infinitive. *Мне нужно работать.* (I need to work.) The two are nearly interchangeable.\n\nBut when you need a **thing** (a noun, not an action), Russian uses an **adjective form that agrees with the thing** — and that thing is the grammatical subject:\n\n- masculine noun → **нужен**: *Мне нужен врач.* (I need a doctor.)\n- feminine noun → **нужна**: *Мне нужна вода.* (I need water.)\n- plural noun → **нужны**: *Мне нужны деньги.* (I need money.)\n\nThe **person stays in the dative** (мне, тебе, ему…). Think of it literally as \"to me a doctor is needed\".",
+        "examples": [
+          {
+            "russian": "Мне нужен врач.",
+            "english": "I need a doctor."
+          },
+          {
+            "russian": "Тебе нужна вода.",
+            "english": "You need water."
+          },
+          {
+            "russian": "Ему нужна помощь.",
+            "english": "He needs help."
+          },
+          {
+            "russian": "Нам нужны деньги.",
+            "english": "We need money."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Что тебе нужно?",
+        "text": "— Что тебе нужно? — Мне нужна вода. И ещё мне нужен врач.",
+        "translation": "\"What do you need?\" \"I need water. And I also need a doctor.\"",
+        "glossary": [
+          {
+            "russian": "что",
+            "english": "what"
+          },
+          {
+            "russian": "ещё",
+            "english": "also / more"
+          }
+        ]
+      },
+      "speakingPrompt": "Name one masculine, one feminine, and one plural thing you need right now using нужен / нужна / нужны with мне. For example: \"Мне нужна вода. Мне нужен врач. Мне нужны деньги.\""
+    },
+    {
+      "day": 5,
+      "title": "May I? (можно + dative)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "можно",
+          "translit": "mózhno",
+          "english": "may / it is allowed",
+          "pos": "adverb",
+          "example": "Здесь можно курить?",
+          "exampleEn": "Is smoking allowed here?"
+        },
+        {
+          "russian": "нельзя",
+          "translit": "nelʹzyá",
+          "english": "may not / forbidden",
+          "pos": "adverb",
+          "example": "Здесь нельзя курить.",
+          "exampleEn": "You may not smoke here."
+        },
+        {
+          "russian": "войти",
+          "translit": "voytí",
+          "english": "to come in / enter",
+          "pos": "verb",
+          "example": "Можно войти?",
+          "exampleEn": "May I come in?"
+        },
+        {
+          "russian": "взять",
+          "translit": "vzyatʹ",
+          "english": "to take",
+          "pos": "verb",
+          "example": "Можно взять воду?",
+          "exampleEn": "May I take water?"
+        },
+        {
+          "russian": "курить",
+          "translit": "kurítʹ",
+          "english": "to smoke",
+          "pos": "verb",
+          "example": "Тут нельзя курить.",
+          "exampleEn": "You can't smoke here."
+        },
+        {
+          "russian": "здесь",
+          "translit": "zdesʹ",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Здесь можно отдыхать.",
+          "exampleEn": "You may rest here."
+        },
+        {
+          "russian": "пожалуйста",
+          "translit": "pozháluysta",
+          "english": "please / you're welcome",
+          "pos": "particle",
+          "example": "Можно войти, пожалуйста?",
+          "exampleEn": "May I come in, please?"
+        }
+      ],
+      "grammar": {
+        "title": "Permission: можно and нельзя",
+        "explanation": "**можно** means \"it is allowed / may\", and its opposite **нельзя** means \"it is not allowed / may not\". Both are impersonal, like **надо** and **нужно**.\n\nTo ask permission for **yourself**, you can simply say **Можно + infinitive?**:\n- *Можно войти?* — May I come in?\n- *Можно взять воду?* — May I take some water?\n\nYou may add a **dative** person to be explicit: *Мне можно войти?* (May I come in?). To forbid, use **нельзя**:\n- *Здесь нельзя курить.* — You may not smoke here.\n\nAdd **пожалуйста** for politeness.",
+        "examples": [
+          {
+            "russian": "Можно войти?",
+            "english": "May I come in?"
+          },
+          {
+            "russian": "Можно взять воду, пожалуйста?",
+            "english": "May I take some water, please?"
+          },
+          {
+            "russian": "Здесь нельзя курить.",
+            "english": "You may not smoke here."
+          },
+          {
+            "russian": "Мне можно отдыхать?",
+            "english": "May I rest?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Можно войти?",
+        "text": "— Можно войти? — Да, пожалуйста. — А здесь можно курить? — Нет, здесь нельзя.",
+        "translation": "\"May I come in?\" \"Yes, please.\" \"And may I smoke here?\" \"No, you may not here.\"",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "нет",
+            "english": "no"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask permission for three things using \"Можно + verb?\" (e.g. войти, взять воду, курить). Then answer each one with either \"Да, можно\" or \"Нет, нельзя\"."
+    },
+    {
+      "day": 6,
+      "title": "A day of needs (putting it together)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "утром",
+          "translit": "útrom",
+          "english": "in the morning",
+          "pos": "adverb",
+          "example": "Утром мне надо работать.",
+          "exampleEn": "In the morning I need to work."
+        },
+        {
+          "russian": "вечером",
+          "translit": "vécherom",
+          "english": "in the evening",
+          "pos": "adverb",
+          "example": "Вечером мне нужно отдыхать.",
+          "exampleEn": "In the evening I need to rest."
+        },
+        {
+          "russian": "купить",
+          "translit": "kupítʹ",
+          "english": "to buy",
+          "pos": "verb",
+          "example": "Мне надо купить воду.",
+          "exampleEn": "I need to buy water."
+        },
+        {
+          "russian": "есть",
+          "translit": "yestʹ",
+          "english": "to eat",
+          "pos": "verb",
+          "example": "Детям надо есть.",
+          "exampleEn": "Children need to eat."
+        },
+        {
+          "russian": "пить",
+          "translit": "pitʹ",
+          "english": "to drink",
+          "pos": "verb",
+          "example": "Тебе надо пить воду.",
+          "exampleEn": "You need to drink water."
+        },
+        {
+          "russian": "время",
+          "translit": "vrémya",
+          "english": "time",
+          "pos": "noun",
+          "example": "Мне нужно время.",
+          "exampleEn": "I need time."
+        },
+        {
+          "russian": "потом",
+          "translit": "potóm",
+          "english": "then / afterwards",
+          "pos": "adverb",
+          "example": "Потом мне надо спать.",
+          "exampleEn": "Then I need to sleep."
+        },
+        {
+          "russian": "можно",
+          "translit": "mózhno",
+          "english": "may (review)",
+          "pos": "adverb",
+          "example": "Потом можно отдыхать.",
+          "exampleEn": "Afterwards I may rest."
+        }
+      ],
+      "grammar": {
+        "title": "Combining надо, нужно and можно in a day",
+        "explanation": "Today you combine everything. Use **time adverbs** to organise a day, and pick the right necessity word:\n\n- **надо / нужно + infinitive** → an action you must do: *Утром мне надо работать.*\n- **нужен / нужна / нужны + noun** → a thing you need: *Мне нужно время.* (время is neuter → **нужно**.)\n- **можно + infinitive** → something allowed: *Потом можно отдыхать.*\n\nSequence words: **утром** (morning), **потом** (then), **вечером** (evening).\n\nRemember the neuter agreement: a **neuter** noun like **время** takes **нужно** (нужно время).",
+        "examples": [
+          {
+            "russian": "Утром мне надо работать.",
+            "english": "In the morning I need to work."
+          },
+          {
+            "russian": "Потом мне нужно купить воду.",
+            "english": "Then I need to buy water."
+          },
+          {
+            "russian": "Мне нужно время.",
+            "english": "I need time."
+          },
+          {
+            "russian": "Вечером можно отдыхать.",
+            "english": "In the evening I may rest."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мой день",
+        "text": "Утром мне надо работать. Потом мне надо купить воду и есть. Вечером можно отдыхать.",
+        "translation": "In the morning I need to work. Then I need to buy water and eat. In the evening I may rest.",
+        "glossary": [
+          {
+            "russian": "утром",
+            "english": "in the morning"
+          },
+          {
+            "russian": "потом",
+            "english": "then"
+          },
+          {
+            "russian": "вечером",
+            "english": "in the evening"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your whole day in 3–4 sentences using утром, потом, вечером and a mix of надо, нужно, and можно. Include at least one thing you need (нужен/нужна/нужно + noun)."
+    },
+    {
+      "day": 7,
+      "title": "Review: Age & necessity",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Week 19 recap: dative for age and need",
+        "explanation": "This week the **dative case** carried two jobs:\n\n**1. Age.** dative person + number + год/года/лет. The year word follows the last digit: **1 → год**, **2–4 → года**, **5+ → лет**. Ask with **Сколько тебе/вам лет?**\n\n**2. Necessity & permission** (all with the person in the **dative**):\n- **надо / нужно + infinitive** — need to do something.\n- **нужен / нужна / нужно / нужны + noun** — need a thing; the form agrees with the thing's gender/number.\n- **можно + infinitive** — allowed; **нельзя** — not allowed.\n\nKey dative pronouns: **мне, тебе, ему, ей, нам, им**.",
+        "examples": [
+          {
+            "russian": "Сколько тебе лет? — Мне двадцать три года.",
+            "english": "How old are you? — I am twenty-three years old."
+          },
+          {
+            "russian": "Мне надо работать, а потом можно отдыхать.",
+            "english": "I need to work, and then I may rest."
+          },
+          {
+            "russian": "Ей нужна помощь.",
+            "english": "She needs help."
+          },
+          {
+            "russian": "Здесь нельзя курить.",
+            "english": "You may not smoke here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "У врача",
+        "text": "— Сколько вам лет? — Мне сорок лет. — Что вам нужно? — Мне нужна помощь. И мне надо отдыхать. — Хорошо. Курить нельзя!",
+        "translation": "\"How old are you?\" \"I am forty years old.\" \"What do you need?\" \"I need help. And I need to rest.\" \"Good. You may not smoke!\"",
+        "glossary": [
+          {
+            "russian": "у врача",
+            "english": "at the doctor's"
+          },
+          {
+            "russian": "хорошо",
+            "english": "good / okay"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a short visit to the doctor. State your age (Мне … лет), say what you need (нужен/нужна/надо), and ask one permission question (Можно…?). Try to use at least four different dative pronouns across the conversation."
+    }
+  ]
+}

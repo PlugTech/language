@@ -1,0 +1,664 @@
+{
+  "week": 17,
+  "theme": "Telling a story (past, consolidation)",
+  "days": [
+    {
+      "day": 1,
+      "title": "Life events: the timeline of a life",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "родиться",
+          "translit": "rodítsja",
+          "english": "to be born",
+          "pos": "verb",
+          "example": "Я родился в Москве.",
+          "exampleEn": "I was born in Moscow."
+        },
+        {
+          "russian": "вырасти",
+          "translit": "výrasti",
+          "english": "to grow up",
+          "pos": "verb",
+          "example": "Она выросла в деревне.",
+          "exampleEn": "She grew up in a village."
+        },
+        {
+          "russian": "школа",
+          "translit": "shkóla",
+          "english": "school",
+          "pos": "noun",
+          "example": "В школе я любил математику.",
+          "exampleEn": "At school I loved mathematics."
+        },
+        {
+          "russian": "университет",
+          "translit": "universitét",
+          "english": "university",
+          "pos": "noun",
+          "example": "Брат учился в университете.",
+          "exampleEn": "My brother studied at university."
+        },
+        {
+          "russian": "детство",
+          "translit": "détstvo",
+          "english": "childhood",
+          "pos": "noun",
+          "example": "Моё детство было счастливым.",
+          "exampleEn": "My childhood was happy."
+        },
+        {
+          "russian": "жизнь",
+          "translit": "zhizn'",
+          "english": "life",
+          "pos": "noun",
+          "example": "Это была долгая жизнь.",
+          "exampleEn": "It was a long life."
+        },
+        {
+          "russian": "переехать",
+          "translit": "pereékhat'",
+          "english": "to move (relocate)",
+          "pos": "verb",
+          "example": "Мы переехали в другой город.",
+          "exampleEn": "We moved to another city."
+        }
+      ],
+      "grammar": {
+        "title": "Past tense of life-event verbs",
+        "explanation": "Russian past tense is built from the infinitive: drop **-ть** and add **-л** (he), **-ла** (she), **-ло** (it), **-ли** (plural/they). It agrees with the **gender and number of the subject**, not the person. So *я родился* (man) but *я родилась* (woman). Reflexive verbs keep **-ся** after a consonant and **-сь** after a vowel: *родил**ся***, *родила**сь***.",
+        "examples": [
+          {
+            "russian": "Я родился в 1990 году.",
+            "english": "I was born in 1990. (male speaker)"
+          },
+          {
+            "russian": "Она выросла в Киеве.",
+            "english": "She grew up in Kiev."
+          },
+          {
+            "russian": "Мы переехали в Москву.",
+            "english": "We moved to Moscow."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Моя жизнь",
+        "text": "Я родился в маленьком городе. Там я вырос и учился в школе. Потом мы переехали в Москву.",
+        "translation": "I was born in a small town. I grew up there and studied at school. Then we moved to Moscow.",
+        "glossary": [
+          {
+            "russian": "маленький",
+            "english": "small"
+          },
+          {
+            "russian": "потом",
+            "english": "then, after that"
+          },
+          {
+            "russian": "там",
+            "english": "there"
+          }
+        ]
+      },
+      "speakingPrompt": "In 3-4 sentences, say where you were born, where you grew up, and where you went to school. Use родился/родилась, вырос/выросла and учился/училась."
+    },
+    {
+      "day": 2,
+      "title": "Big moments: work, marriage, family",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "жениться",
+          "translit": "zhenítsja",
+          "english": "to get married (of a man)",
+          "pos": "verb",
+          "example": "Он женился молодым.",
+          "exampleEn": "He got married young."
+        },
+        {
+          "russian": "свадьба",
+          "translit": "svád'ba",
+          "english": "wedding",
+          "pos": "noun",
+          "example": "Свадьба была летом.",
+          "exampleEn": "The wedding was in summer."
+        },
+        {
+          "russian": "работа",
+          "translit": "rabóta",
+          "english": "work, job",
+          "pos": "noun",
+          "example": "Я нашёл хорошую работу.",
+          "exampleEn": "I found a good job."
+        },
+        {
+          "russian": "найти",
+          "translit": "naytí",
+          "english": "to find",
+          "pos": "verb",
+          "example": "Она нашла новый дом.",
+          "exampleEn": "She found a new home."
+        },
+        {
+          "russian": "начать",
+          "translit": "nachát'",
+          "english": "to begin, start",
+          "pos": "verb",
+          "example": "Я начал работать рано.",
+          "exampleEn": "I started working early."
+        },
+        {
+          "russian": "закончить",
+          "translit": "zakónchit'",
+          "english": "to finish",
+          "pos": "verb",
+          "example": "Он закончил университет.",
+          "exampleEn": "He finished university."
+        },
+        {
+          "russian": "семья",
+          "translit": "sem'já",
+          "english": "family",
+          "pos": "noun",
+          "example": "У нас большая семья.",
+          "exampleEn": "We have a big family."
+        },
+        {
+          "russian": "ребёнок",
+          "translit": "rebjónok",
+          "english": "child",
+          "pos": "noun",
+          "example": "У них родился ребёнок.",
+          "exampleEn": "They had a child."
+        }
+      ],
+      "grammar": {
+        "title": "Past tense with masculine subjects ending in a consonant",
+        "explanation": "Many verbs form a clean masculine past with **-л**: *работал*, *начал*, *закончил*. Watch the stress on некоторых verbs: *нача**л*** (he began) but *на**ча**ла* (she began) — the stress can shift to the ending in the feminine. Verbs like **найти** are irregular: past is *нашёл* (m), *нашла* (f), *нашли* (pl).",
+        "examples": [
+          {
+            "russian": "Он начал новую работу.",
+            "english": "He started a new job."
+          },
+          {
+            "russian": "Она нашла работу в банке.",
+            "english": "She found a job at a bank."
+          },
+          {
+            "russian": "Мы закончили школу вместе.",
+            "english": "We finished school together."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Важный год",
+        "text": "В тот год он закончил университет. Потом он нашёл работу и женился. Свадьба была очень красивая.",
+        "translation": "That year he finished university. Then he found a job and got married. The wedding was very beautiful.",
+        "glossary": [
+          {
+            "russian": "тот год",
+            "english": "that year"
+          },
+          {
+            "russian": "очень",
+            "english": "very"
+          },
+          {
+            "russian": "красивый",
+            "english": "beautiful"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe an important year in your life or someone you know. Use закончил/закончила, нашёл/нашла and начал/начала with the correct gender ending."
+    },
+    {
+      "day": 3,
+      "title": "Narrating a day: morning to evening",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "проснуться",
+          "translit": "prosnútsja",
+          "english": "to wake up",
+          "pos": "verb",
+          "example": "Я проснулся рано утром.",
+          "exampleEn": "I woke up early in the morning."
+        },
+        {
+          "russian": "встать",
+          "translit": "vstat'",
+          "english": "to get up",
+          "pos": "verb",
+          "example": "Она встала в семь часов.",
+          "exampleEn": "She got up at seven o'clock."
+        },
+        {
+          "russian": "завтрак",
+          "translit": "závtrak",
+          "english": "breakfast",
+          "pos": "noun",
+          "example": "Я приготовил завтрак.",
+          "exampleEn": "I made breakfast."
+        },
+        {
+          "russian": "пойти",
+          "translit": "poytí",
+          "english": "to go (set off, on foot)",
+          "pos": "verb",
+          "example": "Утром я пошёл на работу.",
+          "exampleEn": "In the morning I went to work."
+        },
+        {
+          "russian": "вернуться",
+          "translit": "vernútsja",
+          "english": "to return, come back",
+          "pos": "verb",
+          "example": "Он вернулся домой вечером.",
+          "exampleEn": "He returned home in the evening."
+        },
+        {
+          "russian": "лечь",
+          "translit": "lech'",
+          "english": "to lie down, go to bed",
+          "pos": "verb",
+          "example": "Я лёг спать поздно.",
+          "exampleEn": "I went to bed late."
+        },
+        {
+          "russian": "потом",
+          "translit": "potóm",
+          "english": "then, after that",
+          "pos": "adverb",
+          "example": "Сначала кофе, потом работа.",
+          "exampleEn": "First coffee, then work."
+        }
+      ],
+      "grammar": {
+        "title": "Telling a day in order: sequencing past actions",
+        "explanation": "To narrate a day, chain past-tense verbs with connectors: **сначала** (first), **потом** (then), **после этого** (after that), **наконец** (finally). Note irregular pasts: **пойти → пошёл / пошла / пошли**; **лечь → лёг / легла / легли**; **встать → встал / встала / встали**.",
+        "examples": [
+          {
+            "russian": "Сначала я проснулся, потом встал.",
+            "english": "First I woke up, then I got up."
+          },
+          {
+            "russian": "Она пошла на работу утром.",
+            "english": "She went to work in the morning."
+          },
+          {
+            "russian": "Вечером мы вернулись домой.",
+            "english": "In the evening we returned home."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мой день",
+        "text": "Утром я проснулся и встал. Потом я приготовил завтрак и пошёл на работу. Вечером я вернулся домой.",
+        "translation": "In the morning I woke up and got up. Then I made breakfast and went to work. In the evening I returned home.",
+        "glossary": [
+          {
+            "russian": "утром",
+            "english": "in the morning"
+          },
+          {
+            "russian": "вечером",
+            "english": "in the evening"
+          },
+          {
+            "russian": "приготовить",
+            "english": "to prepare, cook"
+          }
+        ]
+      },
+      "speakingPrompt": "Narrate your day yesterday in 4-5 sentences using сначала, потом and вечером. Include проснулся/проснулась, пошёл/пошла and вернулся/вернулась."
+    },
+    {
+      "day": 4,
+      "title": "Genitive review: 'of', possession and absence",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "история",
+          "translit": "istórija",
+          "english": "story, history",
+          "pos": "noun",
+          "example": "Я расскажу историю моей жизни.",
+          "exampleEn": "I will tell the story of my life."
+        },
+        {
+          "russian": "друг",
+          "translit": "drug",
+          "english": "friend",
+          "pos": "noun",
+          "example": "Это дом моего друга.",
+          "exampleEn": "This is my friend's house."
+        },
+        {
+          "russian": "город",
+          "translit": "górod",
+          "english": "city, town",
+          "pos": "noun",
+          "example": "Из какого ты города?",
+          "exampleEn": "What city are you from?"
+        },
+        {
+          "russian": "начало",
+          "translit": "nachálo",
+          "english": "beginning",
+          "pos": "noun",
+          "example": "Это начало истории.",
+          "exampleEn": "This is the beginning of the story."
+        },
+        {
+          "russian": "конец",
+          "translit": "konéts",
+          "english": "end",
+          "pos": "noun",
+          "example": "В конце дня я устал.",
+          "exampleEn": "At the end of the day I was tired."
+        },
+        {
+          "russian": "без",
+          "translit": "bez",
+          "english": "without",
+          "pos": "phrase",
+          "example": "Я пришёл без друга.",
+          "exampleEn": "I came without my friend."
+        },
+        {
+          "russian": "у",
+          "translit": "u",
+          "english": "at, by (have)",
+          "pos": "phrase",
+          "example": "У меня была собака.",
+          "exampleEn": "I had a dog."
+        }
+      ],
+      "grammar": {
+        "title": "Genitive review: possession, 'from', and 'have'",
+        "explanation": "The **genitive** answers *кого? чего?* (whose? of what?). Typical endings: masculine **-а/-я** (*друг → друга*), feminine **-ы/-и** (*школа → школы*), neuter **-а** (*начало → начала*). Use it for: **possession** (*дом друга* — the friend's house), after **из/без/у** (*из города*, *без друга*, *у меня*), and to express **'have'** with *у меня был/была/было/были*.",
+        "examples": [
+          {
+            "russian": "Это история моего друга.",
+            "english": "This is my friend's story."
+          },
+          {
+            "russian": "Я приехал из большого города.",
+            "english": "I came from a big city."
+          },
+          {
+            "russian": "У сестры была машина.",
+            "english": "My sister had a car."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Начало истории",
+        "text": "Это история моего друга. Он приехал из маленького города. У него не было работы, но потом он нашёл хорошую работу.",
+        "translation": "This is my friend's story. He came from a small town. He had no job, but then he found a good job.",
+        "glossary": [
+          {
+            "russian": "приехать",
+            "english": "to arrive, come"
+          },
+          {
+            "russian": "не было",
+            "english": "there was no / didn't have"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a short story about a friend using the genitive: where they came from (из...), what they had or didn't have (у него был / у неё не было...), and one thing that happened."
+    },
+    {
+      "day": 5,
+      "title": "Saying when: time and dates in the past",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "вчера",
+          "translit": "vcherá",
+          "english": "yesterday",
+          "pos": "adverb",
+          "example": "Вчера я был на работе.",
+          "exampleEn": "Yesterday I was at work."
+        },
+        {
+          "russian": "год",
+          "translit": "god",
+          "english": "year",
+          "pos": "noun",
+          "example": "Прошёл целый год.",
+          "exampleEn": "A whole year passed."
+        },
+        {
+          "russian": "неделя",
+          "translit": "nedélja",
+          "english": "week",
+          "pos": "noun",
+          "example": "Неделя была долгой.",
+          "exampleEn": "The week was long."
+        },
+        {
+          "russian": "тогда",
+          "translit": "togdá",
+          "english": "then, at that time",
+          "pos": "adverb",
+          "example": "Тогда я жил в Москве.",
+          "exampleEn": "At that time I lived in Moscow."
+        },
+        {
+          "russian": "недавно",
+          "translit": "nedávno",
+          "english": "recently",
+          "pos": "adverb",
+          "example": "Недавно я видел друга.",
+          "exampleEn": "Recently I saw my friend."
+        },
+        {
+          "russian": "давно",
+          "translit": "davnó",
+          "english": "long ago",
+          "pos": "adverb",
+          "example": "Это было давно.",
+          "exampleEn": "That was long ago."
+        },
+        {
+          "russian": "случиться",
+          "translit": "sluchítsja",
+          "english": "to happen",
+          "pos": "verb",
+          "example": "Что случилось вчера?",
+          "exampleEn": "What happened yesterday?"
+        }
+      ],
+      "grammar": {
+        "title": "Time expressions with the past tense",
+        "explanation": "Time adverbs anchor a story in the past: **вчера** (yesterday), **тогда** (then/at that time), **недавно** (recently), **давно** (long ago). To say 'a week/year ago' use the genitive after **назад** placed *after* the phrase: *неделю назад* (a week ago), *год назад* (a year ago). Note: *неделю* and *год* take the accusative-of-duration form here, but the pattern is fixed — learn it as a chunk.",
+        "examples": [
+          {
+            "russian": "Вчера случилась интересная история.",
+            "english": "Yesterday an interesting thing happened."
+          },
+          {
+            "russian": "Год назад я переехал.",
+            "english": "A year ago I moved."
+          },
+          {
+            "russian": "Тогда у нас не было денег.",
+            "english": "Back then we had no money."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Что случилось",
+        "text": "Недавно случилась интересная история. Год назад мой друг переехал в новый город. Вчера он вернулся, и мы были очень рады.",
+        "translation": "Recently an interesting thing happened. A year ago my friend moved to a new city. Yesterday he came back, and we were very glad.",
+        "glossary": [
+          {
+            "russian": "интересный",
+            "english": "interesting"
+          },
+          {
+            "russian": "назад",
+            "english": "ago"
+          },
+          {
+            "russian": "рад",
+            "english": "glad"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell what happened recently and what happened a year ago in your life. Use недавно, год назад, тогда and случилось."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: a full short story",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "однажды",
+          "translit": "odnázhdy",
+          "english": "once, one day",
+          "pos": "adverb",
+          "example": "Однажды я поехал в Москву.",
+          "exampleEn": "Once I went to Moscow."
+        },
+        {
+          "russian": "сначала",
+          "translit": "snachála",
+          "english": "at first, first",
+          "pos": "adverb",
+          "example": "Сначала было трудно.",
+          "exampleEn": "At first it was difficult."
+        },
+        {
+          "russian": "наконец",
+          "translit": "nakonéts",
+          "english": "finally",
+          "pos": "adverb",
+          "example": "Наконец мы приехали.",
+          "exampleEn": "Finally we arrived."
+        },
+        {
+          "russian": "рассказать",
+          "translit": "rasskazát'",
+          "english": "to tell, narrate",
+          "pos": "verb",
+          "example": "Он рассказал интересную историю.",
+          "exampleEn": "He told an interesting story."
+        },
+        {
+          "russian": "помнить",
+          "translit": "pómnit'",
+          "english": "to remember",
+          "pos": "verb",
+          "example": "Я хорошо помню тот день.",
+          "exampleEn": "I remember that day well."
+        },
+        {
+          "russian": "забыть",
+          "translit": "zabýt'",
+          "english": "to forget",
+          "pos": "verb",
+          "example": "Я забыл его имя.",
+          "exampleEn": "I forgot his name."
+        },
+        {
+          "russian": "конечно",
+          "translit": "konéchno",
+          "english": "of course",
+          "pos": "adverb",
+          "example": "Конечно, я помню!",
+          "exampleEn": "Of course I remember!"
+        }
+      ],
+      "grammar": {
+        "title": "Structuring a narrative: beginning, middle, end",
+        "explanation": "A good spoken story uses **opening, sequence, and closing** markers. Open with **однажды** (one day) or **давно** (long ago). Sequence with **сначала... потом... после этого...**. Close with **наконец** (finally) or **в конце** (in the end). Keep all verbs in the **past tense** and watch gender agreement throughout.",
+        "examples": [
+          {
+            "russian": "Однажды я пошёл в магазин.",
+            "english": "One day I went to the shop."
+          },
+          {
+            "russian": "Сначала было трудно, потом стало легко.",
+            "english": "At first it was hard, then it became easy."
+          },
+          {
+            "russian": "Наконец я понял эту историю.",
+            "english": "Finally I understood this story."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Однажды",
+        "text": "Однажды мой друг рассказал мне историю. Сначала я не помнил её, но потом вспомнил. Наконец я понял, что это была правда.",
+        "translation": "One day my friend told me a story. At first I didn't remember it, but then I recalled it. Finally I understood that it was true.",
+        "glossary": [
+          {
+            "russian": "вспомнить",
+            "english": "to recall, remember"
+          },
+          {
+            "russian": "понять",
+            "english": "to understand"
+          },
+          {
+            "russian": "правда",
+            "english": "truth, true"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a short story (5-6 sentences) from your life using однажды, сначала, потом and наконец. End with how it finished or what you remember."
+    },
+    {
+      "day": 7,
+      "title": "Review: telling your story",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: past tense + genitive for storytelling",
+        "explanation": "This week you practised the **past tense** (drop **-ть**, add **-л/-ла/-ло/-ли**, agreeing with the subject's gender and number) and reviewed the **genitive** (possession *дом друга*, 'from' *из города*, 'without' *без друга*, and 'have' *у меня был/была*). You also learned to **sequence a story** with однажды, сначала, потом, наконец. Remember irregular pasts: *пошёл/пошла*, *нашёл/нашла*, *лёг/легла*.",
+        "examples": [
+          {
+            "russian": "Однажды я приехал из другого города.",
+            "english": "One day I came from another city."
+          },
+          {
+            "russian": "У неё не было работы, но потом она нашла её.",
+            "english": "She had no job, but then she found one."
+          },
+          {
+            "russian": "Сначала мы встали, потом пошли завтракать.",
+            "english": "First we got up, then we went to have breakfast."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Как прошёл год?",
+        "text": "— Как прошёл твой год?\n— Сначала я нашёл работу, потом переехал в новый город. А ты?\n— У меня родился ребёнок! Это был лучший год.",
+        "translation": "— How did your year go?\n— First I found a job, then I moved to a new city. And you?\n— I had a child! It was the best year.",
+        "glossary": [
+          {
+            "russian": "как прошёл",
+            "english": "how did it go"
+          },
+          {
+            "russian": "лучший",
+            "english": "best"
+          },
+          {
+            "russian": "а ты?",
+            "english": "and you?"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell the story of your past year in 5-6 sentences. Use the past tense throughout, at least two genitive phrases (из..., у меня был...), and the sequencing words сначала, потом, наконец."
+    }
+  ]
+}

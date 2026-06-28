@@ -1,0 +1,652 @@
+{
+  "theme": "Shopping & clothes",
+  "week": 11,
+  "days": [
+    {
+      "day": 1,
+      "title": "Clothes: naming what we wear",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "рубашка",
+          "translit": "rubáshka",
+          "english": "shirt",
+          "pos": "noun",
+          "example": "Это новая рубашка.",
+          "exampleEn": "This is a new shirt."
+        },
+        {
+          "russian": "платье",
+          "translit": "plátye",
+          "english": "dress",
+          "pos": "noun",
+          "example": "Это красивое платье.",
+          "exampleEn": "This is a beautiful dress."
+        },
+        {
+          "russian": "брюки",
+          "translit": "brjúki",
+          "english": "trousers",
+          "pos": "noun",
+          "example": "Эти брюки чёрные.",
+          "exampleEn": "These trousers are black."
+        },
+        {
+          "russian": "куртка",
+          "translit": "kúrtka",
+          "english": "jacket",
+          "pos": "noun",
+          "example": "Это тёплая куртка.",
+          "exampleEn": "This is a warm jacket."
+        },
+        {
+          "russian": "обувь",
+          "translit": "óbuvj",
+          "english": "footwear, shoes",
+          "pos": "noun",
+          "example": "Здесь хорошая обувь.",
+          "exampleEn": "There is good footwear here."
+        },
+        {
+          "russian": "одежда",
+          "translit": "odézhda",
+          "english": "clothes, clothing",
+          "pos": "noun",
+          "example": "Это летняя одежда.",
+          "exampleEn": "This is summer clothing."
+        },
+        {
+          "russian": "носить",
+          "translit": "nosítj",
+          "english": "to wear",
+          "pos": "verb",
+          "example": "Я люблю носить джинсы.",
+          "exampleEn": "I like to wear jeans."
+        }
+      ],
+      "grammar": {
+        "title": "Pointing at things: этот, эта, это, эти",
+        "explanation": "To say **this** or **these** in Russian, you choose a form that matches the gender and number of the noun (in the nominative case):\n\n- **этот** + masculine noun (этот магазин — this shop)\n- **эта** + feminine noun (эта рубашка — this shirt)\n- **это** + neuter noun (это платье — this dress)\n- **эти** + plural noun (эти брюки — these trousers)\n\nWatch out: **это** alone also means *it is / this is* in a label sentence (Это рубашка — *This is a shirt*). Compare that with **эта рубашка** — *this shirt*.",
+        "examples": [
+          {
+            "russian": "Этот магазин новый.",
+            "english": "This shop is new."
+          },
+          {
+            "russian": "Эта куртка тёплая.",
+            "english": "This jacket is warm."
+          },
+          {
+            "russian": "Это платье красивое.",
+            "english": "This dress is beautiful."
+          },
+          {
+            "russian": "Эти брюки чёрные.",
+            "english": "These trousers are black."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Новая одежда",
+        "text": "Это рубашка. Эта рубашка новая. Я люблю носить рубашки.",
+        "translation": "This is a shirt. This shirt is new. I like to wear shirts.",
+        "glossary": [
+          {
+            "russian": "новый",
+            "english": "new"
+          },
+          {
+            "russian": "любить",
+            "english": "to like, to love"
+          }
+        ]
+      },
+      "speakingPrompt": "Look around your room and point at three items of clothing. For each one, say a sentence using этот, эта, это, or эти (for example: Это куртка. Эта куртка тёплая)."
+    },
+    {
+      "day": 2,
+      "title": "этот vs это: this thing or it is?",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "юбка",
+          "translit": "júbka",
+          "english": "skirt",
+          "pos": "noun",
+          "example": "Эта юбка длинная.",
+          "exampleEn": "This skirt is long."
+        },
+        {
+          "russian": "свитер",
+          "translit": "svíter",
+          "english": "sweater",
+          "pos": "noun",
+          "example": "Этот свитер тёплый.",
+          "exampleEn": "This sweater is warm."
+        },
+        {
+          "russian": "джинсы",
+          "translit": "dzhínsy",
+          "english": "jeans",
+          "pos": "noun",
+          "example": "Эти джинсы синие.",
+          "exampleEn": "These jeans are blue."
+        },
+        {
+          "russian": "пальто",
+          "translit": "paljtó",
+          "english": "coat",
+          "pos": "noun",
+          "example": "Это пальто чёрное.",
+          "exampleEn": "This coat is black."
+        },
+        {
+          "russian": "шапка",
+          "translit": "shápka",
+          "english": "hat (warm cap)",
+          "pos": "noun",
+          "example": "Эта шапка тёплая.",
+          "exampleEn": "This hat is warm."
+        },
+        {
+          "russian": "размер",
+          "translit": "razmér",
+          "english": "size",
+          "pos": "noun",
+          "example": "Какой это размер?",
+          "exampleEn": "What size is this?"
+        },
+        {
+          "russian": "новый",
+          "translit": "nóvyj",
+          "english": "new",
+          "pos": "adjective",
+          "example": "Это новый свитер.",
+          "exampleEn": "This is a new sweater."
+        }
+      ],
+      "grammar": {
+        "title": "это (it is) versus этот/эта/эти (this)",
+        "explanation": "There are two jobs for these little words. Don't mix them up:\n\n1. **это** as a label = *this is / it is*. It never changes: Это свитер. Это юбка. Это джинсы. (*This is a sweater / skirt / pair of jeans.*)\n2. **этот / эта / это / эти** as a pointer = *this / these*, attached to a noun and agreeing with it: этот свитер, эта юбка, эти джинсы.\n\nA neat test: if you can drop the word and still have a complete noun (**этот свитер** → свитер), it is the pointer. If the sentence is naming something (**Это** свитер), it is the label.",
+        "examples": [
+          {
+            "russian": "Это юбка.",
+            "english": "This is a skirt."
+          },
+          {
+            "russian": "Эта юбка новая.",
+            "english": "This skirt is new."
+          },
+          {
+            "russian": "Это джинсы.",
+            "english": "These are jeans."
+          },
+          {
+            "russian": "Эти джинсы синие.",
+            "english": "These jeans are blue."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазине",
+        "text": "— Это свитер? — Да, это новый свитер. — А этот свитер тёплый? — Да, очень тёплый.",
+        "translation": "— Is this a sweater? — Yes, this is a new sweater. — And is this sweater warm? — Yes, very warm.",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "очень",
+            "english": "very"
+          }
+        ]
+      },
+      "speakingPrompt": "Practise the contrast: for each clothing item you can see, say two sentences — first a label (Это шапка), then a pointer with a description (Эта шапка тёплая)."
+    },
+    {
+      "day": 3,
+      "title": "Adjective + noun in the accusative (I see...)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop, store",
+          "pos": "noun",
+          "example": "Я вижу большой магазин.",
+          "exampleEn": "I see a big shop."
+        },
+        {
+          "russian": "видеть",
+          "translit": "vídetj",
+          "english": "to see",
+          "pos": "verb",
+          "example": "Я вижу новую куртку.",
+          "exampleEn": "I see a new jacket."
+        },
+        {
+          "russian": "красивый",
+          "translit": "krasívyj",
+          "english": "beautiful",
+          "pos": "adjective",
+          "example": "Я вижу красивое платье.",
+          "exampleEn": "I see a beautiful dress."
+        },
+        {
+          "russian": "тёплый",
+          "translit": "tjóplyj",
+          "english": "warm",
+          "pos": "adjective",
+          "example": "Я хочу тёплый свитер.",
+          "exampleEn": "I want a warm sweater."
+        },
+        {
+          "russian": "большой",
+          "translit": "boljshój",
+          "english": "big, large",
+          "pos": "adjective",
+          "example": "Это большой магазин.",
+          "exampleEn": "This is a big shop."
+        },
+        {
+          "russian": "маленький",
+          "translit": "málenjkij",
+          "english": "small",
+          "pos": "adjective",
+          "example": "Я вижу маленькую шапку.",
+          "exampleEn": "I see a small hat."
+        }
+      ],
+      "grammar": {
+        "title": "Accusative of adjectives: inanimate things",
+        "explanation": "When a thing is the **direct object** (what you see, want, buy), it goes into the accusative case. For **inanimate** nouns and the adjectives with them, the rules are friendly:\n\n- **Masculine** inanimate: no change — like the dictionary form. *Я вижу* **большой магазин**.\n- **Neuter**: no change. *Я вижу* **красивое платье**.\n- **Feminine**: the ending shifts: -а → **-у**, -я → **-ю**; the adjective -ая → **-ую**, -яя → **-юю**. *Я вижу* **новую куртку** (новая куртка → новую куртку).\n\nSo only feminine words actually change in the accusative here. Masculine inanimate and neuter look exactly like the nominative.",
+        "examples": [
+          {
+            "russian": "Я вижу большой магазин.",
+            "english": "I see a big shop."
+          },
+          {
+            "russian": "Я вижу красивое платье.",
+            "english": "I see a beautiful dress."
+          },
+          {
+            "russian": "Я вижу новую куртку.",
+            "english": "I see a new jacket."
+          },
+          {
+            "russian": "Я вижу маленькую шапку.",
+            "english": "I see a small hat."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Что я вижу",
+        "text": "Я вижу большой магазин. Там я вижу красивое платье и новую куртку.",
+        "translation": "I see a big shop. There I see a beautiful dress and a new jacket.",
+        "glossary": [
+          {
+            "russian": "там",
+            "english": "there"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Say three sentences starting with Я вижу... (I see...). Use one masculine, one neuter, and one feminine clothing word with an adjective, so you practise the feminine -ую ending (for example: Я вижу красивую юбку)."
+    },
+    {
+      "day": 4,
+      "title": "I want this... — этот/эту in the accusative",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "хотеть",
+          "translit": "khotétj",
+          "english": "to want",
+          "pos": "verb",
+          "example": "Я хочу эту рубашку.",
+          "exampleEn": "I want this shirt."
+        },
+        {
+          "russian": "цена",
+          "translit": "tsiná",
+          "english": "price",
+          "pos": "noun",
+          "example": "Какая цена?",
+          "exampleEn": "What is the price?"
+        },
+        {
+          "russian": "дорогой",
+          "translit": "dorogój",
+          "english": "expensive",
+          "pos": "adjective",
+          "example": "Это дорогое платье.",
+          "exampleEn": "This is an expensive dress."
+        },
+        {
+          "russian": "дешёвый",
+          "translit": "deshjóvyj",
+          "english": "cheap, inexpensive",
+          "pos": "adjective",
+          "example": "Я хочу дешёвую куртку.",
+          "exampleEn": "I want a cheap jacket."
+        },
+        {
+          "russian": "чёрный",
+          "translit": "chjórnyj",
+          "english": "black",
+          "pos": "adjective",
+          "example": "Я хочу чёрную юбку.",
+          "exampleEn": "I want a black skirt."
+        },
+        {
+          "russian": "белый",
+          "translit": "bélyj",
+          "english": "white",
+          "pos": "adjective",
+          "example": "Я вижу белую рубашку.",
+          "exampleEn": "I see a white shirt."
+        },
+        {
+          "russian": "синий",
+          "translit": "sínij",
+          "english": "blue",
+          "pos": "adjective",
+          "example": "Это синее платье.",
+          "exampleEn": "This is a blue dress."
+        }
+      ],
+      "grammar": {
+        "title": "этот/эта/эти in the accusative",
+        "explanation": "When **this** points at the direct object, it changes the same way adjectives do (inanimate things):\n\n- Masculine inanimate: **этот** stays **этот**. *Я хочу* **этот свитер**.\n- Neuter: **это** stays **это**. *Я хочу* **это платье**.\n- Feminine: **эта → эту**. *Я хочу* **эту рубашку**.\n- Plural inanimate: **эти** stays **эти**. *Я хочу* **эти брюки**.\n\nSo the only one to memorise is feminine **эту**. Put it together with an accusative adjective: *Я хочу* **эту чёрную юбку**.",
+        "examples": [
+          {
+            "russian": "Я хочу этот свитер.",
+            "english": "I want this sweater."
+          },
+          {
+            "russian": "Я хочу это синее платье.",
+            "english": "I want this blue dress."
+          },
+          {
+            "russian": "Я хочу эту чёрную юбку.",
+            "english": "I want this black skirt."
+          },
+          {
+            "russian": "Я хочу эти брюки.",
+            "english": "I want these trousers."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Какая цена?",
+        "text": "— Я хочу эту белую рубашку. Какая цена? — Эта рубашка дешёвая. — А это синее платье дорогое?",
+        "translation": "— I want this white shirt. What is the price? — This shirt is cheap. — And is this blue dress expensive?",
+        "glossary": [
+          {
+            "russian": "какая",
+            "english": "what, which (feminine)"
+          },
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine you are in a shop. Point at three items and say what you want, using эту / этот / это / эти plus a colour adjective (for example: Я хочу эту синюю куртку)."
+    },
+    {
+      "day": 5,
+      "title": "Buying it: купить + accusative",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "купить",
+          "translit": "kupítj",
+          "english": "to buy",
+          "pos": "verb",
+          "example": "Я хочу купить эту юбку.",
+          "exampleEn": "I want to buy this skirt."
+        },
+        {
+          "russian": "продавец",
+          "translit": "prodavéts",
+          "english": "shop assistant, seller",
+          "pos": "noun",
+          "example": "Продавец очень хороший.",
+          "exampleEn": "The shop assistant is very good."
+        },
+        {
+          "russian": "деньги",
+          "translit": "déngi",
+          "english": "money",
+          "pos": "noun",
+          "example": "У меня есть деньги.",
+          "exampleEn": "I have money."
+        },
+        {
+          "russian": "рубль",
+          "translit": "rúblj",
+          "english": "rouble",
+          "pos": "noun",
+          "example": "Это сто рублей.",
+          "exampleEn": "This is one hundred roubles."
+        },
+        {
+          "russian": "примерить",
+          "translit": "priméritj",
+          "english": "to try on",
+          "pos": "verb",
+          "example": "Я хочу примерить эту куртку.",
+          "exampleEn": "I want to try on this jacket."
+        },
+        {
+          "russian": "хороший",
+          "translit": "khoróshij",
+          "english": "good",
+          "pos": "adjective",
+          "example": "Это хороший магазин.",
+          "exampleEn": "This is a good shop."
+        },
+        {
+          "russian": "сколько",
+          "translit": "skóljko",
+          "english": "how much, how many",
+          "pos": "adverb",
+          "example": "Сколько стоит платье?",
+          "exampleEn": "How much does the dress cost?"
+        }
+      ],
+      "grammar": {
+        "title": "купить / хочу купить + accusative",
+        "explanation": "The verb **купить** (*to buy*) takes a direct object in the **accusative** — exactly the endings you learned this week. You will often pair it with **хочу** (*I want*): **хочу купить** (*I want to buy*).\n\nThe object that follows uses этот/эту/это/эти + adjective + noun, all in the accusative:\n\n- Masculine/neuter/plural inanimate: unchanged.\n- Feminine: эта → **эту**, adjective -ая → **-ую**, noun -а → **-у**.\n\nSo: *Я хочу* **купить эту дешёвую юбку** (*I want to buy this cheap skirt*).",
+        "examples": [
+          {
+            "russian": "Я хочу купить этот свитер.",
+            "english": "I want to buy this sweater."
+          },
+          {
+            "russian": "Я хочу купить это синее платье.",
+            "english": "I want to buy this blue dress."
+          },
+          {
+            "russian": "Я хочу купить эту дешёвую юбку.",
+            "english": "I want to buy this cheap skirt."
+          },
+          {
+            "russian": "Я хочу купить эти чёрные брюки.",
+            "english": "I want to buy these black trousers."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сколько стоит?",
+        "text": "— Сколько стоит это платье? — Это дорогое платье. — Я хочу купить эту дешёвую юбку.",
+        "translation": "— How much does this dress cost? — This is an expensive dress. — I want to buy this cheap skirt.",
+        "glossary": [
+          {
+            "russian": "стоит",
+            "english": "costs"
+          },
+          {
+            "russian": "дорогой",
+            "english": "expensive"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a purchase. Say what you want to buy and ask the price, using купить and сколько (for example: Я хочу купить эту белую рубашку. Сколько стоит?)."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: a shopping conversation",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "касса",
+          "translit": "kássa",
+          "english": "checkout, till",
+          "pos": "noun",
+          "example": "Касса там.",
+          "exampleEn": "The checkout is over there."
+        },
+        {
+          "russian": "примерочная",
+          "translit": "primérochnaja",
+          "english": "fitting room",
+          "pos": "noun",
+          "example": "Где примерочная?",
+          "exampleEn": "Where is the fitting room?"
+        },
+        {
+          "russian": "скидка",
+          "translit": "skídka",
+          "english": "discount",
+          "pos": "noun",
+          "example": "Здесь хорошая скидка.",
+          "exampleEn": "There is a good discount here."
+        },
+        {
+          "russian": "длинный",
+          "translit": "dlínnyj",
+          "english": "long",
+          "pos": "adjective",
+          "example": "Это длинное платье.",
+          "exampleEn": "This is a long dress."
+        },
+        {
+          "russian": "короткий",
+          "translit": "korótkij",
+          "english": "short",
+          "pos": "adjective",
+          "example": "Я хочу короткую юбку.",
+          "exampleEn": "I want a short skirt."
+        },
+        {
+          "russian": "красный",
+          "translit": "krásnyj",
+          "english": "red",
+          "pos": "adjective",
+          "example": "Я вижу красную куртку.",
+          "exampleEn": "I see a red jacket."
+        },
+        {
+          "russian": "брать",
+          "translit": "brátj",
+          "english": "to take",
+          "pos": "verb",
+          "example": "Я беру эту рубашку.",
+          "exampleEn": "I'll take this shirt."
+        }
+      ],
+      "grammar": {
+        "title": "Full noun phrase in the accusative: this + adjective + noun",
+        "explanation": "Now combine everything into one direct object: **этот/эту/это/эти + adjective + noun**, all agreeing and all in the accusative. With inanimate things, only the **feminine** forms change shape:\n\n- Masculine: *Я беру* **этот красный свитер** (no change).\n- Neuter: *Я беру* **это длинное платье** (no change).\n- Feminine: *Я беру* **эту короткую юбку** (эта → эту, короткая → короткую, юбка → юбку).\n- Plural: *Я беру* **эти синие джинсы** (no change).\n\nThe verb **брать** (*to take*) is what shop customers say to mean *I'll take it*.",
+        "examples": [
+          {
+            "russian": "Я беру этот красный свитер.",
+            "english": "I'll take this red sweater."
+          },
+          {
+            "russian": "Я беру это длинное платье.",
+            "english": "I'll take this long dress."
+          },
+          {
+            "russian": "Я беру эту короткую юбку.",
+            "english": "I'll take this short skirt."
+          },
+          {
+            "russian": "Я беру эти синие джинсы.",
+            "english": "I'll take these blue jeans."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На кассе",
+        "text": "— Где примерочная? — Там. — Я беру эту красную куртку. Касса здесь?",
+        "translation": "— Where is the fitting room? — Over there. — I'll take this red jacket. Is the checkout here?",
+        "glossary": [
+          {
+            "russian": "где",
+            "english": "where"
+          },
+          {
+            "russian": "здесь",
+            "english": "here"
+          }
+        ]
+      },
+      "speakingPrompt": "Build a short shopping monologue (4–5 sentences): ask where the fitting room is, say what you see, say what you want to try on, and say what you'll take, using full phrases like эту короткую юбку."
+    },
+    {
+      "day": 7,
+      "title": "Review: shopping & clothes",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: этот/эта/это/эти and the accusative",
+        "explanation": "This week you learned to point and to buy.\n\n**Pointing (nominative):** этот (masc.), эта (fem.), это (neut.), эти (plural). Remember **это** alone = *this is / it is* (Это платье = *This is a dress*), while **эта** etc. attach to a noun (эта рубашка = *this shirt*).\n\n**Accusative for inanimate direct objects** (after видеть, хотеть, купить, брать): masculine, neuter and plural look unchanged; only **feminine** changes — эта → **эту**, adjective -ая → **-ую**, noun -а → **-у**. Example: новая юбка → *Я хочу* **новую юбку**; эта → *Я беру* **эту юбку**.",
+        "examples": [
+          {
+            "russian": "Это красивое платье.",
+            "english": "This is a beautiful dress."
+          },
+          {
+            "russian": "Я вижу этот большой магазин.",
+            "english": "I see this big shop."
+          },
+          {
+            "russian": "Я хочу купить эту дешёвую рубашку.",
+            "english": "I want to buy this cheap shirt."
+          },
+          {
+            "russian": "Я беру эти синие джинсы.",
+            "english": "I'll take these blue jeans."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В магазине одежды",
+        "text": "— Здравствуйте! Я хочу купить эту красную куртку. Сколько стоит? — Эта куртка дешёвая, есть скидка. — Хорошо, я беру эту куртку. Где касса?",
+        "translation": "— Hello! I want to buy this red jacket. How much does it cost? — This jacket is cheap, there's a discount. — Good, I'll take this jacket. Where is the checkout?",
+        "glossary": [
+          {
+            "russian": "здравствуйте",
+            "english": "hello (polite)"
+          },
+          {
+            "russian": "хорошо",
+            "english": "good, okay"
+          },
+          {
+            "russian": "скидка",
+            "english": "discount"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play a full shopping trip out loud: greet the assistant, say what you want to buy, ask the price, ask to try it on, and say you'll take it. Use at least one feminine accusative phrase (эту ... -ую ... -у) and one этот or эти phrase."
+    }
+  ]
+}

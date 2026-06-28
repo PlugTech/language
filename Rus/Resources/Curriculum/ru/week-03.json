@@ -1,0 +1,620 @@
+{
+  "week": 3,
+  "theme": "Daily actions (verbs, 1st conjugation)",
+  "days": [
+    {
+      "day": 1,
+      "title": "Working and the -ать pattern (работать)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "работать",
+          "translit": "rabótat'",
+          "english": "to work",
+          "pos": "verb",
+          "example": "Я работаю дома.",
+          "exampleEn": "I work at home."
+        },
+        {
+          "russian": "дом",
+          "translit": "dom",
+          "english": "house, home",
+          "pos": "noun",
+          "example": "Это мой дом.",
+          "exampleEn": "This is my house."
+        },
+        {
+          "russian": "офис",
+          "translit": "ófis",
+          "english": "office",
+          "pos": "noun",
+          "example": "Офис большой.",
+          "exampleEn": "The office is big."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "a lot, much",
+          "pos": "adverb",
+          "example": "Он работает много.",
+          "exampleEn": "He works a lot."
+        },
+        {
+          "russian": "сегодня",
+          "translit": "sevódnya",
+          "english": "today",
+          "pos": "adverb",
+          "example": "Сегодня я работаю.",
+          "exampleEn": "Today I am working."
+        },
+        {
+          "russian": "хорошо",
+          "translit": "khoroshó",
+          "english": "well, good",
+          "pos": "adverb",
+          "example": "Она работает хорошо.",
+          "exampleEn": "She works well."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also, too",
+          "pos": "particle",
+          "example": "Я тоже работаю.",
+          "exampleEn": "I work too."
+        }
+      ],
+      "grammar": {
+        "title": "The -ать verb pattern (present tense)",
+        "explanation": "Most everyday Russian verbs are **1st-conjugation** and end in **-ать**. To say who does the action, drop **-ть** and add personal endings to the stem **работа-**:\n\n- я работа**ю** (I work)\n- ты работа**ешь** (you work, informal)\n- он/она работа**ет** (he/she works)\n- мы работа**ем** (we work)\n- вы работа**ете** (you work, formal/plural)\n- они работа**ют** (they work)\n\nRussian present tense covers both English **I work** and **I am working** — there is no separate continuous form.",
+        "examples": [
+          {
+            "russian": "Я работаю сегодня.",
+            "english": "I am working today."
+          },
+          {
+            "russian": "Они работают много.",
+            "english": "They work a lot."
+          },
+          {
+            "russian": "Ты работаешь хорошо.",
+            "english": "You work well."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На работе",
+        "text": "— Ты работаешь сегодня? — Да, я работаю много. — Я тоже работаю.",
+        "translation": "— Are you working today? — Yes, I work a lot. — I work too.",
+        "glossary": [
+          {
+            "russian": "да",
+            "english": "yes"
+          },
+          {
+            "russian": "на работе",
+            "english": "at work"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you work and how much, using работать in three forms: я, ты, and они. For example: \"Я работаю дома. Ты работаешь много. Они работают хорошо.\""
+    },
+    {
+      "day": 2,
+      "title": "Reading and knowing (читать, знать)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "читать",
+          "translit": "chitát'",
+          "english": "to read",
+          "pos": "verb",
+          "example": "Я читаю книгу.",
+          "exampleEn": "I am reading a book."
+        },
+        {
+          "russian": "знать",
+          "translit": "znat'",
+          "english": "to know",
+          "pos": "verb",
+          "example": "Я знаю это слово.",
+          "exampleEn": "I know this word."
+        },
+        {
+          "russian": "книга",
+          "translit": "kníga",
+          "english": "book",
+          "pos": "noun",
+          "example": "Книга новая.",
+          "exampleEn": "The book is new."
+        },
+        {
+          "russian": "газета",
+          "translit": "gazéta",
+          "english": "newspaper",
+          "pos": "noun",
+          "example": "Папа читает газету.",
+          "exampleEn": "Dad is reading the newspaper."
+        },
+        {
+          "russian": "слово",
+          "translit": "slóvo",
+          "english": "word",
+          "pos": "noun",
+          "example": "Это русское слово.",
+          "exampleEn": "This is a Russian word."
+        },
+        {
+          "russian": "русский",
+          "translit": "rússkiy",
+          "english": "Russian (adj.)",
+          "pos": "adjective",
+          "example": "Я знаю русский язык.",
+          "exampleEn": "I know the Russian language."
+        },
+        {
+          "russian": "часто",
+          "translit": "chásto",
+          "english": "often",
+          "pos": "adverb",
+          "example": "Она часто читает.",
+          "exampleEn": "She often reads."
+        }
+      ],
+      "grammar": {
+        "title": "More -ать verbs: читать and знать",
+        "explanation": "The same endings work for every regular **-ать** verb. Just take the stem and add **-ю, -ешь, -ет, -ем, -ете, -ют**.\n\n- читать → чита-: я чита**ю**, ты чита**ешь**, они чита**ют**\n- знать → зна-: я зна**ю**, она зна**ет**, мы зна**ем**\n\nThe pronoun is often kept for clarity at A2, but the ending already shows who acts.",
+        "examples": [
+          {
+            "russian": "Я читаю газету.",
+            "english": "I am reading the newspaper."
+          },
+          {
+            "russian": "Ты знаешь это слово?",
+            "english": "Do you know this word?"
+          },
+          {
+            "russian": "Они часто читают.",
+            "english": "They read often."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Книга",
+        "text": "Я читаю книгу. Это русская книга. Я знаю не все слова.",
+        "translation": "I am reading a book. It is a Russian book. I don't know all the words.",
+        "glossary": [
+          {
+            "russian": "не",
+            "english": "not"
+          },
+          {
+            "russian": "все",
+            "english": "all"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell what you read and how often, and one thing you know. Use both verbs: \"Я часто читаю газету. Я знаю русский язык.\""
+    },
+    {
+      "day": 3,
+      "title": "Doing things (делать)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "делать",
+          "translit": "délat'",
+          "english": "to do, to make",
+          "pos": "verb",
+          "example": "Что ты делаешь?",
+          "exampleEn": "What are you doing?"
+        },
+        {
+          "russian": "что",
+          "translit": "shto",
+          "english": "what",
+          "pos": "pronoun",
+          "example": "Что это?",
+          "exampleEn": "What is this?"
+        },
+        {
+          "russian": "ничего",
+          "translit": "nichevó",
+          "english": "nothing",
+          "pos": "pronoun",
+          "example": "Я ничего не делаю.",
+          "exampleEn": "I am not doing anything."
+        },
+        {
+          "russian": "дело",
+          "translit": "délo",
+          "english": "matter, business, thing (to do)",
+          "pos": "noun",
+          "example": "Это важное дело.",
+          "exampleEn": "This is an important matter."
+        },
+        {
+          "russian": "утром",
+          "translit": "útrom",
+          "english": "in the morning",
+          "pos": "adverb",
+          "example": "Утром я работаю.",
+          "exampleEn": "In the morning I work."
+        },
+        {
+          "russian": "вечером",
+          "translit": "vécherom",
+          "english": "in the evening",
+          "pos": "adverb",
+          "example": "Вечером я читаю.",
+          "exampleEn": "In the evening I read."
+        },
+        {
+          "russian": "дома",
+          "translit": "dóma",
+          "english": "at home",
+          "pos": "adverb",
+          "example": "Вечером я дома.",
+          "exampleEn": "In the evening I am at home."
+        }
+      ],
+      "grammar": {
+        "title": "делать and asking \"What are you doing?\"",
+        "explanation": "**делать** (to do/make) follows the same -ать pattern: я дела**ю**, ты дела**ешь**, он дела**ет**, мы дела**ем**, вы дела**ете**, они дела**ют**.\n\nA very common question is **Что ты делаешь?** (What are you doing?). To answer \"nothing,\" Russian uses a **double negative**: **Я ничего не делаю** — literally \"I nothing not do.\" The word **не** stays before the verb.",
+        "examples": [
+          {
+            "russian": "Что вы делаете вечером?",
+            "english": "What do you do in the evening?"
+          },
+          {
+            "russian": "Утром я делаю много.",
+            "english": "In the morning I do a lot."
+          },
+          {
+            "russian": "Я ничего не делаю.",
+            "english": "I am not doing anything."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Что ты делаешь?",
+        "text": "— Что ты делаешь утром? — Утром я работаю. — А вечером? — Вечером я дома, читаю книгу.",
+        "translation": "— What do you do in the morning? — In the morning I work. — And in the evening? — In the evening I am at home, reading a book.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your morning and evening using делать, работать and читать: \"Что я делаю? Утром я работаю. Вечером я дома и читаю.\""
+    },
+    {
+      "day": 4,
+      "title": "Understanding (понимать)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "понимать",
+          "translit": "ponimát'",
+          "english": "to understand",
+          "pos": "verb",
+          "example": "Я понимаю по-русски.",
+          "exampleEn": "I understand Russian."
+        },
+        {
+          "russian": "по-русски",
+          "translit": "po-rússki",
+          "english": "in Russian (language)",
+          "pos": "adverb",
+          "example": "Ты говоришь по-русски?",
+          "exampleEn": "Do you speak Russian?"
+        },
+        {
+          "russian": "по-английски",
+          "translit": "po-anglíyski",
+          "english": "in English (language)",
+          "pos": "adverb",
+          "example": "Она читает по-английски.",
+          "exampleEn": "She reads in English."
+        },
+        {
+          "russian": "немного",
+          "translit": "nemnógo",
+          "english": "a little, a bit",
+          "pos": "adverb",
+          "example": "Я понимаю немного.",
+          "exampleEn": "I understand a little."
+        },
+        {
+          "russian": "медленно",
+          "translit": "médlenno",
+          "english": "slowly",
+          "pos": "adverb",
+          "example": "Говорите медленно, пожалуйста.",
+          "exampleEn": "Speak slowly, please."
+        },
+        {
+          "russian": "ещё раз",
+          "translit": "yeshchó raz",
+          "english": "once more, again",
+          "pos": "phrase",
+          "example": "Ещё раз, пожалуйста.",
+          "exampleEn": "Once more, please."
+        },
+        {
+          "russian": "конечно",
+          "translit": "konéshno",
+          "english": "of course",
+          "pos": "adverb",
+          "example": "Конечно, я понимаю.",
+          "exampleEn": "Of course I understand."
+        }
+      ],
+      "grammar": {
+        "title": "понимать and language adverbs",
+        "explanation": "**понимать** (to understand) is regular -ать: я понима**ю**, ты понима**ешь**, он понима**ет**, мы понима**ем**, вы понима**ете**, они понима**ют**.\n\nTo say a language with verbs like понимать, читать, работать, use the adverb form **по-русски** / **по-английски** (no extra word needed):\n\n- Я понимаю **по-русски**. — I understand Russian.\n\nUse **не** before the verb to say you don't understand: **Я не понимаю.**",
+        "examples": [
+          {
+            "russian": "Я немного понимаю по-русски.",
+            "english": "I understand a little Russian."
+          },
+          {
+            "russian": "Извините, я не понимаю.",
+            "english": "Sorry, I don't understand."
+          },
+          {
+            "russian": "Они понимают по-английски.",
+            "english": "They understand English."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Я не понимаю",
+        "text": "— Ты понимаешь по-русски? — Немного. Говорите медленно, пожалуйста. — Конечно!",
+        "translation": "— Do you understand Russian? — A little. Speak slowly, please. — Of course!",
+        "glossary": [
+          {
+            "russian": "извините",
+            "english": "sorry, excuse me"
+          },
+          {
+            "russian": "пожалуйста",
+            "english": "please"
+          }
+        ]
+      },
+      "speakingPrompt": "Explain how well you understand Russian and ask the other person to speak slowly: \"Я немного понимаю по-русски. Говорите медленно, пожалуйста.\""
+    },
+    {
+      "day": 5,
+      "title": "Thinking (думать)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "думать",
+          "translit": "dúmat'",
+          "english": "to think",
+          "pos": "verb",
+          "example": "Я думаю о работе.",
+          "exampleEn": "I am thinking about work."
+        },
+        {
+          "russian": "правильно",
+          "translit": "právil'no",
+          "english": "correctly, right",
+          "pos": "adverb",
+          "example": "Ты думаешь правильно.",
+          "exampleEn": "You are thinking correctly."
+        },
+        {
+          "russian": "интересно",
+          "translit": "interésno",
+          "english": "interesting(ly)",
+          "pos": "adverb",
+          "example": "Это интересно.",
+          "exampleEn": "This is interesting."
+        },
+        {
+          "russian": "трудно",
+          "translit": "trúdno",
+          "english": "difficult, hard",
+          "pos": "adverb",
+          "example": "Это трудно.",
+          "exampleEn": "This is hard."
+        },
+        {
+          "russian": "легко",
+          "translit": "lehkó",
+          "english": "easy, easily",
+          "pos": "adverb",
+          "example": "Это легко.",
+          "exampleEn": "This is easy."
+        },
+        {
+          "russian": "урок",
+          "translit": "urók",
+          "english": "lesson",
+          "pos": "noun",
+          "example": "Урок интересный.",
+          "exampleEn": "The lesson is interesting."
+        },
+        {
+          "russian": "язык",
+          "translit": "yazýk",
+          "english": "language",
+          "pos": "noun",
+          "example": "Русский язык красивый.",
+          "exampleEn": "The Russian language is beautiful."
+        }
+      ],
+      "grammar": {
+        "title": "думать and giving opinions",
+        "explanation": "**думать** (to think) is regular -ать: я дума**ю**, ты дума**ешь**, он дума**ет**, мы дума**ем**, вы дума**ете**, они дума**ют**.\n\nTo state an impression, Russian often uses an adverb with no \"is\" (Russian has no present-tense \"to be\"):\n\n- Это **интересно**. — This is interesting.\n- Это **трудно**, но **интересно**. — This is hard, but interesting.\n\nNotice **думать** lets you soften statements: **Я думаю, это легко** — I think this is easy.",
+        "examples": [
+          {
+            "russian": "Я думаю, что урок интересный.",
+            "english": "I think the lesson is interesting."
+          },
+          {
+            "russian": "Ты думаешь правильно.",
+            "english": "You are thinking correctly."
+          },
+          {
+            "russian": "Это трудно, но интересно.",
+            "english": "This is hard, but interesting."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Урок",
+        "text": "— Что ты думаешь? Русский язык трудный? — Я думаю, это интересно. И не очень трудно.",
+        "translation": "— What do you think? Is Russian hard? — I think it is interesting. And not very hard.",
+        "glossary": [
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "очень",
+            "english": "very"
+          }
+        ]
+      },
+      "speakingPrompt": "Give your opinion about Russian using думать and an adverb: \"Я думаю, русский язык интересный. Это немного трудно, но легко читать.\""
+    },
+    {
+      "day": 6,
+      "title": "Putting the verbs together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "и",
+          "translit": "i",
+          "english": "and",
+          "pos": "particle",
+          "example": "Я читаю и думаю.",
+          "exampleEn": "I read and think."
+        },
+        {
+          "russian": "потом",
+          "translit": "potóm",
+          "english": "then, after that",
+          "pos": "adverb",
+          "example": "Я работаю, потом читаю.",
+          "exampleEn": "I work, then I read."
+        },
+        {
+          "russian": "всегда",
+          "translit": "vsegdá",
+          "english": "always",
+          "pos": "adverb",
+          "example": "Я всегда работаю утром.",
+          "exampleEn": "I always work in the morning."
+        },
+        {
+          "russian": "иногда",
+          "translit": "inogdá",
+          "english": "sometimes",
+          "pos": "adverb",
+          "example": "Иногда я читаю газету.",
+          "exampleEn": "Sometimes I read the newspaper."
+        },
+        {
+          "russian": "компьютер",
+          "translit": "kompyúter",
+          "english": "computer",
+          "pos": "noun",
+          "example": "Я работаю за компьютером.",
+          "exampleEn": "I work at the computer."
+        },
+        {
+          "russian": "письмо",
+          "translit": "pis'mó",
+          "english": "letter (message)",
+          "pos": "noun",
+          "example": "Я читаю письмо.",
+          "exampleEn": "I am reading a letter."
+        },
+        {
+          "russian": "вместе",
+          "translit": "vméste",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Мы работаем вместе.",
+          "exampleEn": "We work together."
+        }
+      ],
+      "grammar": {
+        "title": "Linking actions with и, потом and frequency words",
+        "explanation": "Now combine the week's six verbs in one sentence. Use **и** (and) and **потом** (then) to chain actions, and frequency adverbs to say how often:\n\n- **всегда** (always), **часто** (often), **иногда** (sometimes)\n\nThese adverbs usually stand **before the verb**:\n\n- Я **часто** читаю. — I often read.\n- Утром я работаю, **потом** читаю. — In the morning I work, then I read.\n\nWhen the subject stays the same, you can keep one pronoun: **Я работаю и думаю.**",
+        "examples": [
+          {
+            "russian": "Утром я работаю, потом читаю.",
+            "english": "In the morning I work, then I read."
+          },
+          {
+            "russian": "Мы всегда работаем вместе.",
+            "english": "We always work together."
+          },
+          {
+            "russian": "Иногда я думаю по-русски.",
+            "english": "Sometimes I think in Russian."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мой день",
+        "text": "Утром я работаю за компьютером. Потом я читаю письмо. Я всегда думаю по-русски, и это интересно.",
+        "translation": "In the morning I work at the computer. Then I read a letter. I always think in Russian, and that is interesting.",
+        "glossary": [
+          {
+            "russian": "мой день",
+            "english": "my day"
+          },
+          {
+            "russian": "за компьютером",
+            "english": "at the computer"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your day in 3–4 sentences using at least four of the week's verbs and the words потом, всегда or иногда: \"Утром я работаю. Потом я читаю газету. Иногда я думаю по-русски.\""
+    },
+    {
+      "day": 7,
+      "title": "Review: daily actions",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: -ать verbs in the present tense",
+        "explanation": "This week's six verbs all follow the same **1st-conjugation -ать** pattern. Drop **-ть** and add the endings:\n\n| | работать | читать | делать |\n|---|---|---|---|\n| я | работа**ю** | чита**ю** | дела**ю** |\n| ты | работа**ешь** | чита**ешь** | дела**ешь** |\n| он/она | работа**ет** | чита**ет** | дела**ет** |\n| мы | работа**ем** | чита**ем** | дела**ем** |\n| вы | работа**ете** | чита**ете** | дела**ете** |\n| они | работа**ют** | чита**ют** | дела**ют** |\n\nThe same endings apply to **знать, понимать, думать**. Remember: **не** goes before the verb to make it negative, and Russian present tense covers both \"I do\" and \"I am doing.\"",
+        "examples": [
+          {
+            "russian": "Я не понимаю, ещё раз, пожалуйста.",
+            "english": "I don't understand, once more, please."
+          },
+          {
+            "russian": "Они работают и думают по-русски.",
+            "english": "They work and think in Russian."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вечером дома",
+        "text": "— Что ты делаешь? — Я читаю книгу. А ты? — Я работаю. — Ты всегда работаешь вечером! — Я знаю. Но это интересно.",
+        "translation": "— What are you doing? — I am reading a book. And you? — I am working. — You always work in the evening! — I know. But it is interesting.",
+        "glossary": [
+          {
+            "russian": "а ты?",
+            "english": "and you?"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short imagined dialogue: ask a friend \"Что ты делаешь?\", answer with two of the week's verbs, then say how often you do it and whether you find it interesting or hard. Try to use работать, читать, делать, знать, понимать and думать at least once across the conversation."
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "week": 25,
+  "theme": "Requests & commands",
+  "days": [
+    {
+      "day": 1,
+      "title": "Day 1: Asking for things — дай / дайте",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "дай",
+          "translit": "day",
+          "english": "give (informal command)",
+          "pos": "verb",
+          "example": "Дай воду, пожалуйста.",
+          "exampleEn": "Give me the water, please."
+        },
+        {
+          "russian": "дайте",
+          "translit": "dáyte",
+          "english": "give (polite/plural command)",
+          "pos": "verb",
+          "example": "Дайте меню, пожалуйста.",
+          "exampleEn": "Give me the menu, please."
+        },
+        {
+          "russian": "пожалуйста",
+          "translit": "pozhálusta",
+          "english": "please / you're welcome",
+          "pos": "particle",
+          "example": "Дайте чай, пожалуйста.",
+          "exampleEn": "Give me tea, please."
+        },
+        {
+          "russian": "вода",
+          "translit": "vodá",
+          "english": "water",
+          "pos": "noun",
+          "example": "Здесь есть вода?",
+          "exampleEn": "Is there water here?"
+        },
+        {
+          "russian": "меню",
+          "translit": "menyú",
+          "english": "menu",
+          "pos": "noun",
+          "example": "Дайте меню, пожалуйста.",
+          "exampleEn": "Give me the menu, please."
+        },
+        {
+          "russian": "чек",
+          "translit": "chek",
+          "english": "bill / receipt",
+          "pos": "noun",
+          "example": "Дайте чек, пожалуйста.",
+          "exampleEn": "Give me the bill, please."
+        },
+        {
+          "russian": "хлеб",
+          "translit": "khleb",
+          "english": "bread",
+          "pos": "noun",
+          "example": "Дай хлеб, пожалуйста.",
+          "exampleEn": "Give me the bread, please."
+        }
+      ],
+      "grammar": {
+        "title": "The imperative: дай vs. дайте",
+        "explanation": "To ask someone to **give** you something, use the imperative. **дай** is the informal singular form (to a friend or family). **дайте** is the polite or plural form (to a stranger, an older person, or several people) — it simply adds **-те**. Almost always pair it with **пожалуйста** to sound polite. For now, just memorise the request phrases as fixed expressions (e.g. **Дайте меню**, **Дайте чай**, **Дайте воду**).",
+        "examples": [
+          {
+            "russian": "Дай хлеб.",
+            "english": "Give me the bread. (informal)"
+          },
+          {
+            "russian": "Дайте хлеб, пожалуйста.",
+            "english": "Give me the bread, please. (polite)"
+          },
+          {
+            "russian": "Дайте чек, пожалуйста.",
+            "english": "Give me the bill, please."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В кафе",
+        "text": "— Дайте меню, пожалуйста. — Вот меню. — Спасибо. И дайте воду.",
+        "translation": "— Give me the menu, please. — Here's the menu. — Thank you. And give me water.",
+        "glossary": [
+          {
+            "russian": "вот",
+            "english": "here is / here you go"
+          },
+          {
+            "russian": "спасибо",
+            "english": "thank you"
+          }
+        ]
+      },
+      "speakingPrompt": "Imagine you are in a cafe. Out loud, politely ask the waiter for the menu, then for water, then for the bill — using дайте and пожалуйста each time."
+    },
+    {
+      "day": 2,
+      "title": "Day 2: Speak and tell — скажи / скажите",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "скажи",
+          "translit": "skazhí",
+          "english": "say / tell (informal command)",
+          "pos": "verb",
+          "example": "Скажи, где банк.",
+          "exampleEn": "Tell me where the bank is."
+        },
+        {
+          "russian": "скажите",
+          "translit": "skazhíte",
+          "english": "say / tell (polite command)",
+          "pos": "verb",
+          "example": "Скажите, где метро?",
+          "exampleEn": "Tell me, where is the metro?"
+        },
+        {
+          "russian": "где",
+          "translit": "gde",
+          "english": "where",
+          "pos": "adverb",
+          "example": "Где здесь аптека?",
+          "exampleEn": "Where is the pharmacy here?"
+        },
+        {
+          "russian": "извините",
+          "translit": "izviníte",
+          "english": "excuse me / sorry (polite)",
+          "pos": "phrase",
+          "example": "Извините, где метро?",
+          "exampleEn": "Excuse me, where is the metro?"
+        },
+        {
+          "russian": "метро",
+          "translit": "metró",
+          "english": "metro / subway",
+          "pos": "noun",
+          "example": "Где здесь метро?",
+          "exampleEn": "Where is the metro here?"
+        },
+        {
+          "russian": "аптека",
+          "translit": "aptéka",
+          "english": "pharmacy",
+          "pos": "noun",
+          "example": "Скажите, где аптека?",
+          "exampleEn": "Tell me, where is the pharmacy?"
+        },
+        {
+          "russian": "банк",
+          "translit": "bank",
+          "english": "bank",
+          "pos": "noun",
+          "example": "Извините, где банк?",
+          "exampleEn": "Excuse me, where is the bank?"
+        }
+      ],
+      "grammar": {
+        "title": "Asking for information: скажите",
+        "explanation": "**скажите** (tell / say, polite) is the standard way to start a question to a stranger. Like **дайте**, the polite form ends in **-те**; the informal form is **скажи**. A very natural opener is **Извините, скажите, ...** (Excuse me, tell me, ...). Follow it with a **где**-question to ask where something is.",
+        "examples": [
+          {
+            "russian": "Скажите, где метро?",
+            "english": "Tell me, where is the metro?"
+          },
+          {
+            "russian": "Извините, скажите, где банк?",
+            "english": "Excuse me, tell me, where is the bank?"
+          },
+          {
+            "russian": "Скажи, где аптека?",
+            "english": "Tell me, where is the pharmacy? (informal)"
+          }
+        ]
+      },
+      "reading": {
+        "title": "На улице",
+        "text": "— Извините, скажите, где метро? — Метро здесь, налево. — Спасибо!",
+        "translation": "— Excuse me, tell me, where is the metro? — The metro is here, to the left. — Thank you!",
+        "glossary": [
+          {
+            "russian": "здесь",
+            "english": "here"
+          },
+          {
+            "russian": "налево",
+            "english": "to the left"
+          }
+        ]
+      },
+      "speakingPrompt": "You are lost in a Russian city. Stop a stranger politely and ask where the metro, the pharmacy, and the bank are, starting each question with Извините, скажите."
+    },
+    {
+      "day": 3,
+      "title": "Day 3: Help me — помоги / помогите",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "помоги",
+          "translit": "pomogí",
+          "english": "help (informal command)",
+          "pos": "verb",
+          "example": "Помоги, пожалуйста.",
+          "exampleEn": "Help me, please."
+        },
+        {
+          "russian": "помогите",
+          "translit": "pomogíte",
+          "english": "help (polite command)",
+          "pos": "verb",
+          "example": "Помогите, пожалуйста!",
+          "exampleEn": "Help me, please!"
+        },
+        {
+          "russian": "повторите",
+          "translit": "povtoríte",
+          "english": "repeat (polite command)",
+          "pos": "verb",
+          "example": "Повторите, пожалуйста.",
+          "exampleEn": "Repeat, please."
+        },
+        {
+          "russian": "медленно",
+          "translit": "médlenno",
+          "english": "slowly",
+          "pos": "adverb",
+          "example": "Говорите медленно, пожалуйста.",
+          "exampleEn": "Speak slowly, please."
+        },
+        {
+          "russian": "говорите",
+          "translit": "govoríte",
+          "english": "speak / say (polite command)",
+          "pos": "verb",
+          "example": "Говорите медленно.",
+          "exampleEn": "Speak slowly."
+        },
+        {
+          "russian": "проблема",
+          "translit": "probléma",
+          "english": "problem",
+          "pos": "noun",
+          "example": "Здесь проблема.",
+          "exampleEn": "There's a problem here."
+        },
+        {
+          "russian": "конечно",
+          "translit": "konéshno",
+          "english": "of course",
+          "pos": "adverb",
+          "example": "Конечно, помогу.",
+          "exampleEn": "Of course, I'll help."
+        }
+      ],
+      "grammar": {
+        "title": "Asking for help and clarification",
+        "explanation": "More useful polite imperatives all end in **-те**: **помогите** (help), **повторите** (repeat), **говорите** (speak). As a learner, two phrases are gold: **Повторите, пожалуйста** (Please repeat) and **Говорите медленно, пожалуйста** (Please speak slowly). Add **пожалуйста** to soften any command.",
+        "examples": [
+          {
+            "russian": "Помогите, пожалуйста!",
+            "english": "Help me, please!"
+          },
+          {
+            "russian": "Повторите, пожалуйста.",
+            "english": "Repeat, please."
+          },
+          {
+            "russian": "Говорите медленно, пожалуйста.",
+            "english": "Speak slowly, please."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Урок",
+        "text": "— Извините, говорите медленно, пожалуйста. — Конечно. Повторите вопрос. — Спасибо, помогите.",
+        "translation": "— Excuse me, please speak slowly. — Of course. Repeat the question. — Thank you, help me.",
+        "glossary": [
+          {
+            "russian": "вопрос",
+            "english": "question"
+          },
+          {
+            "russian": "урок",
+            "english": "lesson"
+          }
+        ]
+      },
+      "speakingPrompt": "Practice survival phrases for a conversation you don't fully understand: say out loud Повторите, пожалуйста and Говорите медленно, пожалуйста, then ask for help with Помогите, пожалуйста."
+    },
+    {
+      "day": 4,
+      "title": "Day 4: May I? — можно",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "можно",
+          "translit": "mózhno",
+          "english": "may / is it allowed / one can",
+          "pos": "adverb",
+          "example": "Можно меню?",
+          "exampleEn": "May I have the menu?"
+        },
+        {
+          "russian": "нельзя",
+          "translit": "nelzyá",
+          "english": "not allowed / one must not",
+          "pos": "adverb",
+          "example": "Здесь нельзя.",
+          "exampleEn": "It's not allowed here."
+        },
+        {
+          "russian": "вход",
+          "translit": "vkhod",
+          "english": "entrance",
+          "pos": "noun",
+          "example": "Где вход?",
+          "exampleEn": "Where is the entrance?"
+        },
+        {
+          "russian": "выход",
+          "translit": "výkhod",
+          "english": "exit",
+          "pos": "noun",
+          "example": "Где выход?",
+          "exampleEn": "Where is the exit?"
+        },
+        {
+          "russian": "туалет",
+          "translit": "tualét",
+          "english": "toilet / restroom",
+          "pos": "noun",
+          "example": "Где туалет?",
+          "exampleEn": "Where is the toilet?"
+        },
+        {
+          "russian": "сюда",
+          "translit": "syudá",
+          "english": "(to) here / this way",
+          "pos": "adverb",
+          "example": "Можно сюда?",
+          "exampleEn": "May I come this way?"
+        },
+        {
+          "russian": "минуту",
+          "translit": "minútu",
+          "english": "one minute (just a moment)",
+          "pos": "phrase",
+          "example": "Одну минуту, пожалуйста.",
+          "exampleEn": "One minute, please."
+        }
+      ],
+      "grammar": {
+        "title": "Polite requests with можно",
+        "explanation": "**можно** means *may I / is it allowed?* It is one of the most useful request words. Say **Можно** + a noun to ask for something: **Можно меню?** (May I have the menu?). Its opposite is **нельзя** (not allowed). **можно** alone with rising intonation is a complete, polite question.",
+        "examples": [
+          {
+            "russian": "Можно меню?",
+            "english": "May I have the menu?"
+          },
+          {
+            "russian": "Можно воду, пожалуйста?",
+            "english": "May I have water, please?"
+          },
+          {
+            "russian": "Здесь нельзя.",
+            "english": "It is not allowed here."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В музее",
+        "text": "— Извините, можно сюда? — Нет, здесь нельзя. Выход там. — Спасибо.",
+        "translation": "— Excuse me, may I go this way? — No, it's not allowed here. The exit is over there. — Thank you.",
+        "glossary": [
+          {
+            "russian": "нет",
+            "english": "no"
+          },
+          {
+            "russian": "там",
+            "english": "over there"
+          }
+        ]
+      },
+      "speakingPrompt": "Use можно to ask permission: out loud, ask Можно меню?, Можно воду?, and Можно сюда? Then practice understanding нельзя as the answer no."
+    },
+    {
+      "day": 5,
+      "title": "Day 5: Polite extras — будьте добры",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "будьте добры",
+          "translit": "búdte dobrý",
+          "english": "would you be so kind / please",
+          "pos": "phrase",
+          "example": "Будьте добры, чек.",
+          "exampleEn": "Would you be so kind, the bill."
+        },
+        {
+          "russian": "спасибо большое",
+          "translit": "spasíbo bolshóye",
+          "english": "thank you very much",
+          "pos": "phrase",
+          "example": "Спасибо большое!",
+          "exampleEn": "Thank you very much!"
+        },
+        {
+          "russian": "не за что",
+          "translit": "né za chto",
+          "english": "you're welcome / not at all",
+          "pos": "phrase",
+          "example": "Спасибо! — Не за что.",
+          "exampleEn": "Thanks! — You're welcome."
+        },
+        {
+          "russian": "подождите",
+          "translit": "podozhdíte",
+          "english": "wait (polite command)",
+          "pos": "verb",
+          "example": "Подождите, пожалуйста.",
+          "exampleEn": "Wait, please."
+        },
+        {
+          "russian": "садитесь",
+          "translit": "sadítes",
+          "english": "sit down / have a seat (polite)",
+          "pos": "verb",
+          "example": "Садитесь, пожалуйста.",
+          "exampleEn": "Sit down, please."
+        },
+        {
+          "russian": "проходите",
+          "translit": "prokhodíte",
+          "english": "come in / go through (polite)",
+          "pos": "verb",
+          "example": "Проходите, пожалуйста.",
+          "exampleEn": "Come in, please."
+        }
+      ],
+      "grammar": {
+        "title": "Softer requests and hosting phrases",
+        "explanation": "To sound extra polite, start a request with **Будьте добры, ...** (Would you be so kind). When you host or receive someone, use the welcoming imperatives **садитесь** (have a seat), **проходите** (come in), and **подождите** (please wait). Respond to thanks with **Не за что** (You're welcome). These are all set polite forms ending in **-те** / **-тесь**.",
+        "examples": [
+          {
+            "russian": "Будьте добры, чек.",
+            "english": "Would you be so kind, the bill."
+          },
+          {
+            "russian": "Проходите, садитесь, пожалуйста.",
+            "english": "Come in, have a seat, please."
+          },
+          {
+            "russian": "Спасибо большое! — Не за что.",
+            "english": "Thank you very much! — You're welcome."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Гость",
+        "text": "— Здравствуйте! Проходите, садитесь, пожалуйста. — Спасибо большое. — Не за что.",
+        "translation": "— Hello! Come in, have a seat, please. — Thank you very much. — You're welcome.",
+        "glossary": [
+          {
+            "russian": "здравствуйте",
+            "english": "hello (polite)"
+          },
+          {
+            "russian": "гость",
+            "english": "guest"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play welcoming a guest to your home: say Проходите, садитесь, пожалуйста. Then practice asking a waiter politely with Будьте добры, чек and replying to thanks with Не за что."
+    },
+    {
+      "day": 6,
+      "title": "Day 6: Putting requests together",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "помедленнее",
+          "translit": "pomédlenneye",
+          "english": "a bit slower",
+          "pos": "adverb",
+          "example": "Помедленнее, пожалуйста.",
+          "exampleEn": "A bit slower, please."
+        },
+        {
+          "russian": "ещё раз",
+          "translit": "yeshchó raz",
+          "english": "one more time / again",
+          "pos": "phrase",
+          "example": "Повторите ещё раз.",
+          "exampleEn": "Repeat one more time."
+        },
+        {
+          "russian": "напишите",
+          "translit": "napishíte",
+          "english": "write (it down) (polite command)",
+          "pos": "verb",
+          "example": "Напишите здесь, пожалуйста.",
+          "exampleEn": "Write here, please."
+        },
+        {
+          "russian": "покажите",
+          "translit": "pokazhíte",
+          "english": "show (polite command)",
+          "pos": "verb",
+          "example": "Покажите меню, пожалуйста.",
+          "exampleEn": "Show me the menu, please."
+        },
+        {
+          "russian": "счёт",
+          "translit": "schyot",
+          "english": "the check / bill (restaurant)",
+          "pos": "noun",
+          "example": "Можно счёт?",
+          "exampleEn": "May I have the check?"
+        },
+        {
+          "russian": "официант",
+          "translit": "ofitsiánt",
+          "english": "waiter",
+          "pos": "noun",
+          "example": "Официант, дайте счёт.",
+          "exampleEn": "Waiter, give me the check."
+        },
+        {
+          "russian": "минуточку",
+          "translit": "minútochku",
+          "english": "just a moment",
+          "pos": "phrase",
+          "example": "Минуточку, пожалуйста.",
+          "exampleEn": "Just a moment, please."
+        }
+      ],
+      "grammar": {
+        "title": "Combining commands and polite words",
+        "explanation": "Now mix everything: an opener (**Извините** / **Будьте добры**), an imperative (**дайте**, **покажите**, **напишите**, **повторите**), and **пожалуйста**. More polite imperatives: **покажите** (show), **напишите** (write). Useful add-ons: **ещё раз** (again), **помедленнее** (a bit slower). Word order is flexible, but **пожалуйста** usually sits at the end or right after the verb.",
+        "examples": [
+          {
+            "russian": "Покажите меню, пожалуйста.",
+            "english": "Show me the menu, please."
+          },
+          {
+            "russian": "Напишите здесь, пожалуйста.",
+            "english": "Write here, please."
+          },
+          {
+            "russian": "Повторите ещё раз, помедленнее.",
+            "english": "Repeat again, a bit slower."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В ресторане",
+        "text": "— Официант, будьте добры, покажите меню. — Минуточку. Вот меню. — Спасибо. И дайте счёт, пожалуйста.",
+        "translation": "— Waiter, would you be so kind, show me the menu. — Just a moment. Here's the menu. — Thank you. And give me the check, please.",
+        "glossary": [
+          {
+            "russian": "вот",
+            "english": "here is"
+          },
+          {
+            "russian": "ресторан",
+            "english": "restaurant"
+          }
+        ]
+      },
+      "speakingPrompt": "Build full polite requests out loud: ask a waiter to show the menu (Покажите меню, пожалуйста), ask them to write the address down (Напишите, пожалуйста), and ask for the check (Дайте счёт, пожалуйста)."
+    },
+    {
+      "day": 7,
+      "title": "Day 7: Review — requests & commands",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: imperatives and polite requests",
+        "explanation": "This week you learned to make requests. **Imperatives** come in two forms: informal (**дай, скажи, помоги**) and polite/plural with **-те** (**дайте, скажите, помогите, повторите, говорите, покажите, напишите, подождите, садитесь, проходите**). For permission, use **можно** (may I) and its opposite **нельзя** (not allowed). Politeness markers: **пожалуйста**, **извините**, **будьте добры**, and the reply **не за что**. Soften any command by adding **пожалуйста**.",
+        "examples": [
+          {
+            "russian": "Дайте меню, пожалуйста.",
+            "english": "Give me the menu, please."
+          },
+          {
+            "russian": "Скажите, где метро?",
+            "english": "Tell me, where is the metro?"
+          },
+          {
+            "russian": "Можно воду?",
+            "english": "May I have water?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Один день",
+        "text": "— Извините, скажите, где аптека? — Там, налево. — Спасибо большое! — Не за что. — И помогите, пожалуйста: говорите медленно. — Конечно.",
+        "translation": "— Excuse me, tell me, where is the pharmacy? — Over there, to the left. — Thank you very much! — You're welcome. — And please help me: speak slowly. — Of course.",
+        "glossary": [
+          {
+            "russian": "налево",
+            "english": "to the left"
+          },
+          {
+            "russian": "конечно",
+            "english": "of course"
+          }
+        ]
+      },
+      "speakingPrompt": "Combine the whole week into one short scene: greet someone, ask where the pharmacy is (Скажите, где аптека?), thank them (Спасибо большое), ask them to speak slowly (Говорите медленно, пожалуйста), and order water in a cafe with Можно воду? Try to use дайте, скажите, помогите, можно, and пожалуйста at least once each."
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "week": 15,
+  "theme": "Was & were",
+  "days": [
+    {
+      "day": 1,
+      "title": "I was, you were (бях, беше)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "бях",
+          "translit": "byah",
+          "english": "I was",
+          "pos": "verb",
+          "example": "Вчера бях вкъщи.",
+          "exampleEn": "Yesterday I was at home."
+        },
+        {
+          "russian": "беше",
+          "translit": "BE-she",
+          "english": "you were / he/she/it was",
+          "pos": "verb",
+          "example": "Ти беше на работа.",
+          "exampleEn": "You were at work."
+        },
+        {
+          "russian": "вчера",
+          "translit": "vche-RA",
+          "english": "yesterday",
+          "pos": "adverb",
+          "example": "Вчера беше топло.",
+          "exampleEn": "Yesterday it was warm."
+        },
+        {
+          "russian": "вкъщи",
+          "translit": "vKASH-ti",
+          "english": "at home",
+          "pos": "adverb",
+          "example": "Сутринта бях вкъщи.",
+          "exampleEn": "In the morning I was at home."
+        },
+        {
+          "russian": "болен",
+          "translit": "BO-len",
+          "english": "ill (masc.)",
+          "pos": "adjective",
+          "example": "Вчера бях болен.",
+          "exampleEn": "Yesterday I was ill."
+        },
+        {
+          "russian": "уморен",
+          "translit": "u-mo-REN",
+          "english": "tired (masc.)",
+          "pos": "adjective",
+          "example": "Снощи беше уморен.",
+          "exampleEn": "Last night you were tired."
+        },
+        {
+          "russian": "снощи",
+          "translit": "SNO-shti",
+          "english": "last night",
+          "pos": "adverb",
+          "example": "Снощи бях вкъщи.",
+          "exampleEn": "Last night I was at home."
+        }
+      ],
+      "grammar": {
+        "title": "The past tense of съм: бях and беше",
+        "explanation": "Bulgarian has a present-tense verb 'to be' (съм, си, е...). Today we meet its past tense for the singular. Use бях for 'I was', and беше for both 'you were' (singular informal) and 'he/she/it was'. There are no noun cases, so nothing else changes: only the verb form carries the past meaning. Word order is natural: subject + бях/беше + the rest. Add the time marker вчера (yesterday) at the start or end of the sentence.",
+        "examples": [
+          {
+            "russian": "Вчера бях болен.",
+            "english": "Yesterday I was ill."
+          },
+          {
+            "russian": "Ти беше уморен.",
+            "english": "You were tired."
+          },
+          {
+            "russian": "Тя беше вкъщи.",
+            "english": "She was at home."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вчера",
+        "text": "— Къде беше вчера? — Вчера бях вкъщи. Бях болен.",
+        "translation": "— Where were you yesterday? — Yesterday I was at home. I was ill.",
+        "glossary": [
+          {
+            "russian": "къде",
+            "english": "where"
+          },
+          {
+            "russian": "болен",
+            "english": "ill (masc.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you were yesterday and how you felt, using бях and one time marker. For example: 'Вчера бях вкъщи. Бях уморен.'"
+    },
+    {
+      "day": 2,
+      "title": "We were, you (pl) were, they were",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "бяхме",
+          "translit": "BYAH-me",
+          "english": "we were",
+          "pos": "verb",
+          "example": "Вчера бяхме заедно.",
+          "exampleEn": "Yesterday we were together."
+        },
+        {
+          "russian": "бяхте",
+          "translit": "BYAH-te",
+          "english": "you were (plural)",
+          "pos": "verb",
+          "example": "Вие бяхте на работа.",
+          "exampleEn": "You were at work."
+        },
+        {
+          "russian": "бяха",
+          "translit": "BYA-ha",
+          "english": "they were",
+          "pos": "verb",
+          "example": "Те бяха вкъщи.",
+          "exampleEn": "They were at home."
+        },
+        {
+          "russian": "заедно",
+          "translit": "ZA-ed-no",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Бяхме заедно вчера.",
+          "exampleEn": "We were together yesterday."
+        },
+        {
+          "russian": "децата",
+          "translit": "de-tsa-TA",
+          "english": "the children",
+          "pos": "noun",
+          "example": "Децата бяха вкъщи.",
+          "exampleEn": "The children were at home."
+        },
+        {
+          "russian": "приятели",
+          "translit": "pri-YA-te-li",
+          "english": "friends",
+          "pos": "noun",
+          "example": "Те бяха добри приятели.",
+          "exampleEn": "They were good friends."
+        },
+        {
+          "russian": "навън",
+          "translit": "na-VAN",
+          "english": "outside",
+          "pos": "adverb",
+          "example": "Децата бяха навън.",
+          "exampleEn": "The children were outside."
+        }
+      ],
+      "grammar": {
+        "title": "Plural past of съм: бяхме, бяхте, бяха",
+        "explanation": "Now the plural forms of the past tense of съм. Бяхме = 'we were', бяхте = 'you were' (plural or polite), and бяха = 'they were'. Together with yesterday's бях and беше you now have the full set: бях, беше, беше, бяхме, бяхте, бяха. Remember the definite article is a suffix on the noun: дете → детето (the child), деца → децата (the children). No cases are used.",
+        "examples": [
+          {
+            "russian": "Вчера бяхме заедно.",
+            "english": "Yesterday we were together."
+          },
+          {
+            "russian": "Вие бяхте на работа.",
+            "english": "You (pl) were at work."
+          },
+          {
+            "russian": "Децата бяха навън.",
+            "english": "The children were outside."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Заедно",
+        "text": "Вчера бяхме заедно. Децата бяха навън. Приятелите бяха вкъщи.",
+        "translation": "Yesterday we were together. The children were outside. The friends were at home.",
+        "glossary": [
+          {
+            "russian": "заедно",
+            "english": "together"
+          },
+          {
+            "russian": "навън",
+            "english": "outside"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe where two groups of people were yesterday using бяхме, бяхте or бяха. For example: 'Вчера децата бяха навън, а ние бяхме вкъщи.'"
+    },
+    {
+      "day": 3,
+      "title": "Last week (миналата седмица)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "миналата седмица",
+          "translit": "MI-na-la-ta SED-mi-tsa",
+          "english": "last week",
+          "pos": "phrase",
+          "example": "Миналата седмица бях в София.",
+          "exampleEn": "Last week I was in Sofia."
+        },
+        {
+          "russian": "минал",
+          "translit": "MI-nal",
+          "english": "past, last (masc.)",
+          "pos": "adjective",
+          "example": "Миналият месец беше топъл.",
+          "exampleEn": "Last month was warm."
+        },
+        {
+          "russian": "седмица",
+          "translit": "SED-mi-tsa",
+          "english": "week",
+          "pos": "noun",
+          "example": "Седмицата беше дълга.",
+          "exampleEn": "The week was long."
+        },
+        {
+          "russian": "месец",
+          "translit": "ME-sets",
+          "english": "month",
+          "pos": "noun",
+          "example": "Месецът беше студен.",
+          "exampleEn": "The month was cold."
+        },
+        {
+          "russian": "ваканция",
+          "translit": "va-KAN-tsi-ya",
+          "english": "holiday, vacation",
+          "pos": "noun",
+          "example": "Миналата седмица бяхме на ваканция.",
+          "exampleEn": "Last week we were on holiday."
+        },
+        {
+          "russian": "море",
+          "translit": "mo-RE",
+          "english": "sea",
+          "pos": "noun",
+          "example": "Бяхме на морето.",
+          "exampleEn": "We were at the sea."
+        },
+        {
+          "russian": "хубаво",
+          "translit": "HU-ba-vo",
+          "english": "nice, lovely",
+          "pos": "adverb",
+          "example": "Беше много хубаво.",
+          "exampleEn": "It was very nice."
+        }
+      ],
+      "grammar": {
+        "title": "Time marker: миналата седмица",
+        "explanation": "The phrase миналата седмица means 'last week'. Notice the definite article suffix: седмица (week) → седмицата (the week), and the adjective минал (past) agrees with it as миналата (feminine). The whole phrase points to past time, so it pairs naturally with бях, беше, бяхме, бяхте, бяха. Place it at the start or end of the sentence — there are no cases, so the phrase never changes form for grammatical role.",
+        "examples": [
+          {
+            "russian": "Миналата седмица бях в София.",
+            "english": "Last week I was in Sofia."
+          },
+          {
+            "russian": "Миналата седмица бяхме на морето.",
+            "english": "Last week we were at the sea."
+          },
+          {
+            "russian": "Беше много хубаво.",
+            "english": "It was very nice."
+          }
+        ]
+      },
+      "reading": {
+        "title": "На морето",
+        "text": "Миналата седмица бяхме на морето. Беше много хубаво. Децата бяха щастливи.",
+        "translation": "Last week we were at the sea. It was very nice. The children were happy.",
+        "glossary": [
+          {
+            "russian": "морето",
+            "english": "the sea"
+          },
+          {
+            "russian": "щастливи",
+            "english": "happy (pl.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell where you were last week and whether it was nice, using миналата седмица and a past form of съм. For example: 'Миналата седмица бях на ваканция. Беше хубаво.'"
+    },
+    {
+      "day": 4,
+      "title": "Where were you? Asking about the past",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "къде",
+          "translit": "ka-DE",
+          "english": "where",
+          "pos": "adverb",
+          "example": "Къде беше вчера?",
+          "exampleEn": "Where were you yesterday?"
+        },
+        {
+          "russian": "защо",
+          "translit": "zash-TO",
+          "english": "why",
+          "pos": "adverb",
+          "example": "Защо беше уморен?",
+          "exampleEn": "Why were you tired?"
+        },
+        {
+          "russian": "кога",
+          "translit": "ko-GA",
+          "english": "when",
+          "pos": "adverb",
+          "example": "Кога бяхте на морето?",
+          "exampleEn": "When were you at the sea?"
+        },
+        {
+          "russian": "как",
+          "translit": "kak",
+          "english": "how",
+          "pos": "adverb",
+          "example": "Как беше ваканцията?",
+          "exampleEn": "How was the holiday?"
+        },
+        {
+          "russian": "на работа",
+          "translit": "na RA-bo-ta",
+          "english": "at work",
+          "pos": "phrase",
+          "example": "Вчера бях на работа.",
+          "exampleEn": "Yesterday I was at work."
+        },
+        {
+          "russian": "на училище",
+          "translit": "na u-CHI-li-shte",
+          "english": "at school",
+          "pos": "phrase",
+          "example": "Децата бяха на училище.",
+          "exampleEn": "The children were at school."
+        },
+        {
+          "russian": "болница",
+          "translit": "BOL-ni-tsa",
+          "english": "hospital",
+          "pos": "noun",
+          "example": "Той беше в болницата.",
+          "exampleEn": "He was in the hospital."
+        }
+      ],
+      "grammar": {
+        "title": "Questions in the past: къде/защо/кога беше?",
+        "explanation": "To ask about the past, start with a question word (къде, защо, кога, как) and follow it with the past form of съм. For example: Къде беше вчера? (Where were you yesterday?). The verb form tells you the person: беше = you/he/she/it was, бяхте = you (pl) were. Relations like 'at work' or 'in the hospital' use prepositions (на, в) plus the noun with its article — never a case ending: на работа, в болницата.",
+        "examples": [
+          {
+            "russian": "Къде беше вчера?",
+            "english": "Where were you yesterday?"
+          },
+          {
+            "russian": "Защо бяхте уморени?",
+            "english": "Why were you (pl) tired?"
+          },
+          {
+            "russian": "Кога беше на морето?",
+            "english": "When were you at the sea?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Къде беше?",
+        "text": "— Къде беше вчера? — Бях на работа. — А децата? — Те бяха на училище.",
+        "translation": "— Where were you yesterday? — I was at work. — And the children? — They were at school.",
+        "glossary": [
+          {
+            "russian": "на работа",
+            "english": "at work"
+          },
+          {
+            "russian": "на училище",
+            "english": "at school"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask and answer a question about the past with къде or кога. For example: 'Къде беше вчера?' — 'Вчера бях на работа.'"
+    },
+    {
+      "day": 5,
+      "title": "Saying it wasn't so (negatives)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "не бях",
+          "translit": "ne byah",
+          "english": "I was not",
+          "pos": "phrase",
+          "example": "Вчера не бях вкъщи.",
+          "exampleEn": "Yesterday I was not at home."
+        },
+        {
+          "russian": "никога",
+          "translit": "NI-ko-ga",
+          "english": "never",
+          "pos": "adverb",
+          "example": "Никога не бях там.",
+          "exampleEn": "I was never there."
+        },
+        {
+          "russian": "там",
+          "translit": "tam",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Вчера не бях там.",
+          "exampleEn": "Yesterday I was not there."
+        },
+        {
+          "russian": "свободен",
+          "translit": "svo-BO-den",
+          "english": "free, available (masc.)",
+          "pos": "adjective",
+          "example": "Вчера не бях свободен.",
+          "exampleEn": "Yesterday I was not free."
+        },
+        {
+          "russian": "зает",
+          "translit": "za-ET",
+          "english": "busy (masc.)",
+          "pos": "adjective",
+          "example": "Беше зает цял ден.",
+          "exampleEn": "You were busy all day."
+        },
+        {
+          "russian": "цял ден",
+          "translit": "tsyal den",
+          "english": "all day",
+          "pos": "phrase",
+          "example": "Бях зает цял ден.",
+          "exampleEn": "I was busy all day."
+        },
+        {
+          "russian": "сам",
+          "translit": "sam",
+          "english": "alone (masc.)",
+          "pos": "adjective",
+          "example": "Не бях сам.",
+          "exampleEn": "I was not alone."
+        }
+      ],
+      "grammar": {
+        "title": "Negation in the past: не + бях/беше...",
+        "explanation": "To make the past tense negative, put не directly before the verb: не бях (I was not), не беше (you/he/she was not), не бяхме (we were not), не бяха (they were not). For 'never' use никога, and Bulgarian keeps the не as well: Никога не бях там (I was never there) — this double negative is correct and required. Adjectives still agree with the subject (свободен, зает, сам are masculine forms here).",
+        "examples": [
+          {
+            "russian": "Вчера не бях вкъщи.",
+            "english": "Yesterday I was not at home."
+          },
+          {
+            "russian": "Те не бяха там.",
+            "english": "They were not there."
+          },
+          {
+            "russian": "Никога не бях на морето.",
+            "english": "I was never at the sea."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Зает ден",
+        "text": "Вчера не бях вкъщи. Бях зает цял ден. Не бях сам — приятелите бяха с мен.",
+        "translation": "Yesterday I was not at home. I was busy all day. I was not alone — the friends were with me.",
+        "glossary": [
+          {
+            "russian": "зает",
+            "english": "busy"
+          },
+          {
+            "russian": "с мен",
+            "english": "with me"
+          }
+        ]
+      },
+      "speakingPrompt": "Say one place you were NOT yesterday and one thing you were, using не бях. For example: 'Вчера не бях вкъщи. Бях на работа цял ден.'"
+    },
+    {
+      "day": 6,
+      "title": "How was it? Describing past states",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "хубав",
+          "translit": "HU-bav",
+          "english": "nice, good (masc.)",
+          "pos": "adjective",
+          "example": "Денят беше хубав.",
+          "exampleEn": "The day was nice."
+        },
+        {
+          "russian": "интересен",
+          "translit": "in-te-RE-sen",
+          "english": "interesting (masc.)",
+          "pos": "adjective",
+          "example": "Филмът беше интересен.",
+          "exampleEn": "The film was interesting."
+        },
+        {
+          "russian": "скучен",
+          "translit": "SKU-chen",
+          "english": "boring (masc.)",
+          "pos": "adjective",
+          "example": "Урокът беше скучен.",
+          "exampleEn": "The lesson was boring."
+        },
+        {
+          "russian": "вкусен",
+          "translit": "VKU-sen",
+          "english": "tasty (masc.)",
+          "pos": "adjective",
+          "example": "Обядът беше вкусен.",
+          "exampleEn": "The lunch was tasty."
+        },
+        {
+          "russian": "студено",
+          "translit": "STU-de-no",
+          "english": "cold (it was cold)",
+          "pos": "adverb",
+          "example": "Вчера беше студено.",
+          "exampleEn": "Yesterday it was cold."
+        },
+        {
+          "russian": "топло",
+          "translit": "TOP-lo",
+          "english": "warm (it was warm)",
+          "pos": "adverb",
+          "example": "Миналата седмица беше топло.",
+          "exampleEn": "Last week it was warm."
+        },
+        {
+          "russian": "празник",
+          "translit": "PRAZ-nik",
+          "english": "holiday, celebration",
+          "pos": "noun",
+          "example": "Празникът беше хубав.",
+          "exampleEn": "The celebration was nice."
+        }
+      ],
+      "grammar": {
+        "title": "Describing how things were: беше + adjective/adverb",
+        "explanation": "Use беше to describe how something was in the past: Денят беше хубав (The day was nice). The adjective agrees with the noun and its article suffix: ден → денят (the day, masc.), so the adjective is masculine (хубав). For impersonal weather or feelings, use the neuter -о form as an adverb with беше: беше студено (it was cold), беше топло (it was warm). Plural subjects take бяха: Дните бяха топли.",
+        "examples": [
+          {
+            "russian": "Филмът беше интересен.",
+            "english": "The film was interesting."
+          },
+          {
+            "russian": "Обядът беше вкусен.",
+            "english": "The lunch was tasty."
+          },
+          {
+            "russian": "Вчера беше студено.",
+            "english": "Yesterday it was cold."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Хубав ден",
+        "text": "Вчера беше хубав ден. Обядът беше вкусен. Но навън беше студено.",
+        "translation": "Yesterday was a nice day. The lunch was tasty. But outside it was cold.",
+        "glossary": [
+          {
+            "russian": "обядът",
+            "english": "the lunch"
+          },
+          {
+            "russian": "но",
+            "english": "but"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe how yesterday was using беше and two adjectives or weather words. For example: 'Вчера беше хубав ден, но беше студено.'"
+    },
+    {
+      "day": 7,
+      "title": "Review: Was & were",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: the past tense of съм",
+        "explanation": "This week you learned the full past tense of съм: бях (I was), беше (you/he/she/it was), беше, бяхме (we were), бяхте (you pl were), бяха (they were). Make it negative with не before the verb (не бях), and remember никога needs не too (никога не бях). Pair these with the time markers вчера (yesterday), снощи (last night) and миналата седмица (last week). Ask about the past with къде, кога, защо, как + беше. Adjectives agree with their noun (хубав ден), and for weather use the neuter -о form (беше студено). No cases are used anywhere; relations come from prepositions like в, на, с and from the article suffix (денят, седмицата, децата).",
+        "examples": [
+          {
+            "russian": "Къде беше миналата седмица?",
+            "english": "Where were you last week?"
+          },
+          {
+            "russian": "Вчера не бяхме вкъщи.",
+            "english": "Yesterday we were not at home."
+          },
+          {
+            "russian": "Денят беше хубав, но беше студено.",
+            "english": "The day was nice, but it was cold."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Как беше ваканцията?",
+        "text": "— Къде беше миналата седмица? — Бяхме на морето. — Как беше? — Беше много хубаво! Но вчера беше студено и децата бяха уморени.",
+        "translation": "— Where were you last week? — We were at the sea. — How was it? — It was very nice! But yesterday it was cold and the children were tired.",
+        "glossary": [
+          {
+            "russian": "ваканцията",
+            "english": "the holiday"
+          },
+          {
+            "russian": "морето",
+            "english": "the sea"
+          },
+          {
+            "russian": "уморени",
+            "english": "tired (pl.)"
+          }
+        ]
+      },
+      "speakingPrompt": "Have a short past-tense conversation: ask a friend where they were last week and how it was, then answer for yourself. Use бях, беше, бяхме, бяха, a negative (не бях), and the markers вчера and миналата седмица."
+    }
+  ]
+}

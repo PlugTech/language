@@ -1,0 +1,644 @@
+{
+  "week": 17,
+  "theme": "The future",
+  "days": [
+    {
+      "day": 1,
+      "title": "Talking about tomorrow: ще + present",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "утре",
+          "translit": "útre",
+          "english": "tomorrow",
+          "pos": "adverb",
+          "example": "Утре ще работя.",
+          "exampleEn": "Tomorrow I will work."
+        },
+        {
+          "russian": "ще",
+          "translit": "shte",
+          "english": "will (future particle)",
+          "pos": "particle",
+          "example": "Аз ще чета книга.",
+          "exampleEn": "I will read a book."
+        },
+        {
+          "russian": "план",
+          "translit": "plan",
+          "english": "plan",
+          "pos": "noun",
+          "example": "Имам нов план.",
+          "exampleEn": "I have a new plan."
+        },
+        {
+          "russian": "ден",
+          "translit": "den",
+          "english": "day",
+          "pos": "noun",
+          "example": "Утре е важен ден.",
+          "exampleEn": "Tomorrow is an important day."
+        },
+        {
+          "russian": "почивам",
+          "translit": "pochívam",
+          "english": "to rest",
+          "pos": "verb",
+          "example": "Утре ще почивам.",
+          "exampleEn": "Tomorrow I will rest."
+        },
+        {
+          "russian": "започвам",
+          "translit": "zapóchvam",
+          "english": "to start",
+          "pos": "verb",
+          "example": "Ще започна утре.",
+          "exampleEn": "I will start tomorrow."
+        },
+        {
+          "russian": "сутрин",
+          "translit": "sútrin",
+          "english": "morning / in the morning",
+          "pos": "noun/adverb",
+          "example": "Утре сутрин ще тичам.",
+          "exampleEn": "Tomorrow morning I will run."
+        }
+      ],
+      "grammar": {
+        "title": "The future with ще + present tense",
+        "explanation": "Bulgarian makes the future by placing the unchanging particle 'ще' before the normal present-tense verb. Unlike English, the verb still carries the personal ending: ще работя (I will work), ще работиш (you will work), ще работи (he/she will work). 'ще' itself never changes for person or number. There is no infinitive in Bulgarian, so you simply use the present form after ще. Note that Bulgarian has a real present-tense 'to be' (съм, си, е, сме, сте, са), and its future is ще съм / ще бъда — but for now focus on regular verbs.",
+        "examples": [
+          {
+            "russian": "Утре ще работя.",
+            "english": "Tomorrow I will work."
+          },
+          {
+            "russian": "Ти ще четеш книга.",
+            "english": "You will read a book."
+          },
+          {
+            "russian": "Той ще почива.",
+            "english": "He will rest."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Планове за утре",
+        "text": "— Какво ще правиш утре? — Утре сутрин ще работя, а после ще почивам.",
+        "translation": "— What will you do tomorrow? — Tomorrow morning I will work, and afterwards I will rest.",
+        "glossary": [
+          {
+            "russian": "какво",
+            "english": "what"
+          },
+          {
+            "russian": "после",
+            "english": "afterwards"
+          },
+          {
+            "russian": "а",
+            "english": "and / but"
+          }
+        ]
+      },
+      "speakingPrompt": "Say three things you will do tomorrow using 'ще' + a present-tense verb. For example: Утре ще работя, ще чета и ще почивам."
+    },
+    {
+      "day": 2,
+      "title": "Future for all persons: ще + present (plural)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ние",
+          "translit": "níe",
+          "english": "we",
+          "pos": "pronoun",
+          "example": "Ние ще пътуваме.",
+          "exampleEn": "We will travel."
+        },
+        {
+          "russian": "пътувам",
+          "translit": "pătúvam",
+          "english": "to travel",
+          "pos": "verb",
+          "example": "Утре ще пътуваме.",
+          "exampleEn": "Tomorrow we will travel."
+        },
+        {
+          "russian": "заедно",
+          "translit": "záedno",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Ще учим заедно.",
+          "exampleEn": "We will study together."
+        },
+        {
+          "russian": "приятел",
+          "translit": "priyátel",
+          "english": "friend",
+          "pos": "noun",
+          "example": "Моят приятел ще дойде.",
+          "exampleEn": "My friend will come."
+        },
+        {
+          "russian": "идвам",
+          "translit": "ídvam",
+          "english": "to come",
+          "pos": "verb",
+          "example": "Те ще дойдат утре.",
+          "exampleEn": "They will come tomorrow."
+        },
+        {
+          "russian": "среща",
+          "translit": "sréshta",
+          "english": "meeting",
+          "pos": "noun",
+          "example": "Имаме среща утре.",
+          "exampleEn": "We have a meeting tomorrow."
+        },
+        {
+          "russian": "вечер",
+          "translit": "vécher",
+          "english": "evening / in the evening",
+          "pos": "noun/adverb",
+          "example": "Вечер ще си почиваме.",
+          "exampleEn": "In the evening we will rest."
+        },
+        {
+          "russian": "целия ден",
+          "translit": "tséliya den",
+          "english": "all day",
+          "pos": "phrase",
+          "example": "Утре ще учим целия ден.",
+          "exampleEn": "Tomorrow we will study all day."
+        }
+      ],
+      "grammar": {
+        "title": "ще with we, you (plural) and they",
+        "explanation": "The particle 'ще' stays the same for every person, but the verb takes the correct plural ending: ние ще пътуваме (we will travel), вие ще пътувате (you-plural will travel), те ще пътуват (they will travel). Word order is flexible, but 'ще' must come directly before the verb (or before a short pronoun + verb). Remember: Bulgarian has no noun cases, so the noun keeps the same form — relations come from prepositions like с (with), за (for), до (to/until).",
+        "examples": [
+          {
+            "russian": "Ние ще учим заедно.",
+            "english": "We will study together."
+          },
+          {
+            "russian": "Вие ще пътувате утре.",
+            "english": "You will travel tomorrow."
+          },
+          {
+            "russian": "Те ще дойдат вечер.",
+            "english": "They will come in the evening."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Една среща",
+        "text": "Утре ще имаме среща. Ние ще учим заедно целия ден, а вечер моят приятел ще дойде.",
+        "translation": "Tomorrow we will have a meeting. We will study together all day, and in the evening my friend will come.",
+        "glossary": [
+          {
+            "russian": "имаме",
+            "english": "we have"
+          },
+          {
+            "russian": "моят",
+            "english": "my (masculine)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a plan you and a friend have for tomorrow using ние ще... Say at least two things you will do together."
+    },
+    {
+      "day": 3,
+      "title": "Future time words: скоро and следващата седмица",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "скоро",
+          "translit": "skóro",
+          "english": "soon",
+          "pos": "adverb",
+          "example": "Скоро ще дойда.",
+          "exampleEn": "I will come soon."
+        },
+        {
+          "russian": "следващата седмица",
+          "translit": "slédvashtata sédmitsa",
+          "english": "next week",
+          "pos": "phrase",
+          "example": "Следващата седмица ще пътувам.",
+          "exampleEn": "Next week I will travel."
+        },
+        {
+          "russian": "следващ",
+          "translit": "slédvasht",
+          "english": "next",
+          "pos": "adjective",
+          "example": "Следващият ден е събота.",
+          "exampleEn": "The next day is Saturday."
+        },
+        {
+          "russian": "месец",
+          "translit": "mésets",
+          "english": "month",
+          "pos": "noun",
+          "example": "Следващият месец ще работя.",
+          "exampleEn": "Next month I will work."
+        },
+        {
+          "russian": "година",
+          "translit": "godína",
+          "english": "year",
+          "pos": "noun",
+          "example": "Следващата година ще уча.",
+          "exampleEn": "Next year I will study."
+        },
+        {
+          "russian": "по-късно",
+          "translit": "po-kắsno",
+          "english": "later",
+          "pos": "adverb",
+          "example": "Ще говорим по-късно.",
+          "exampleEn": "We will talk later."
+        },
+        {
+          "russian": "тогава",
+          "translit": "togáva",
+          "english": "then / at that time",
+          "pos": "adverb",
+          "example": "Тогава ще съм готов.",
+          "exampleEn": "Then I will be ready."
+        }
+      ],
+      "grammar": {
+        "title": "Placing future time words in the sentence",
+        "explanation": "Time words like скоро (soon), по-късно (later), тогава (then) and phrases like следващата седмица (next week) usually go at the start or end of the sentence; 'ще' stays glued to the verb. Notice the definite article as a suffix: седмица → седмицата, and on the adjective следваща → следващата (feminine -та). For masculine: месец → следващият месец; for feminine: година → следващата година. The article attaches to the first word of the noun phrase.",
+        "examples": [
+          {
+            "russian": "Скоро ще започна нов план.",
+            "english": "Soon I will start a new plan."
+          },
+          {
+            "russian": "Следващата седмица ще пътуваме заедно.",
+            "english": "Next week we will travel together."
+          },
+          {
+            "russian": "По-късно ще говорим.",
+            "english": "We will talk later."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Скоро или по-късно",
+        "text": "— Кога ще пътуваш? — Не утре, а следващата седмица. Скоро ще започна нов план.",
+        "translation": "— When will you travel? — Not tomorrow, but next week. Soon I will start a new plan.",
+        "glossary": [
+          {
+            "russian": "кога",
+            "english": "when"
+          },
+          {
+            "russian": "не... а",
+            "english": "not... but"
+          }
+        ]
+      },
+      "speakingPrompt": "Talk about your plans using future time words. Say what you will do скоро, what you will do следващата седмица, and what you will do следващата година."
+    },
+    {
+      "day": 4,
+      "title": "Saying you will NOT do something: няма да",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "няма да",
+          "translit": "nyáma da",
+          "english": "will not (negative future)",
+          "pos": "phrase",
+          "example": "Утре няма да работя.",
+          "exampleEn": "Tomorrow I will not work."
+        },
+        {
+          "russian": "не",
+          "translit": "ne",
+          "english": "no / not",
+          "pos": "particle",
+          "example": "Не, няма да дойда.",
+          "exampleEn": "No, I will not come."
+        },
+        {
+          "russian": "оставам",
+          "translit": "ostávam",
+          "english": "to stay / remain",
+          "pos": "verb",
+          "example": "Утре ще остана вкъщи.",
+          "exampleEn": "Tomorrow I will stay at home."
+        },
+        {
+          "russian": "вкъщи",
+          "translit": "vkắshti",
+          "english": "at home",
+          "pos": "adverb",
+          "example": "Тя ще остане вкъщи.",
+          "exampleEn": "She will stay at home."
+        },
+        {
+          "russian": "никога",
+          "translit": "níkoga",
+          "english": "never",
+          "pos": "adverb",
+          "example": "Никога няма да забравя.",
+          "exampleEn": "I will never forget."
+        },
+        {
+          "russian": "забравям",
+          "translit": "zabrávyam",
+          "english": "to forget",
+          "pos": "verb",
+          "example": "Няма да забравя срещата.",
+          "exampleEn": "I will not forget the meeting."
+        },
+        {
+          "russian": "защото",
+          "translit": "zashtóto",
+          "english": "because",
+          "pos": "conjunction",
+          "example": "Няма да дойда, защото съм уморен.",
+          "exampleEn": "I will not come because I am tired."
+        }
+      ],
+      "grammar": {
+        "title": "Negative future with няма да + present",
+        "explanation": "To make the future negative you do NOT use 'не ще'. Instead you use the fixed phrase 'няма да' before the present-tense verb: positive ще работя → negative няма да работя (I will not work). 'няма' does not change for person; only the verb changes: няма да работя / работиш / работи / работим / работите / работят. The word 'да' here is the same particle used after искам, мога etc., and there is no infinitive in Bulgarian.",
+        "examples": [
+          {
+            "russian": "Утре няма да работя.",
+            "english": "Tomorrow I will not work."
+          },
+          {
+            "russian": "Те няма да дойдат.",
+            "english": "They will not come."
+          },
+          {
+            "russian": "Няма да забравя това.",
+            "english": "I will not forget this."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Един спокоен ден",
+        "text": "Утре няма да работя. Ще остана вкъщи и ще почивам, защото съм уморен.",
+        "translation": "Tomorrow I will not work. I will stay at home and rest, because I am tired.",
+        "glossary": [
+          {
+            "russian": "спокоен",
+            "english": "calm / quiet"
+          },
+          {
+            "russian": "уморен",
+            "english": "tired"
+          }
+        ]
+      },
+      "speakingPrompt": "Say three things you will NOT do tomorrow using няма да. For example: Утре няма да работя, няма да пътувам и няма да уча."
+    },
+    {
+      "day": 5,
+      "title": "Asking about the future: questions with ще and няма да",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ли",
+          "translit": "li",
+          "english": "(yes/no question particle)",
+          "pos": "particle",
+          "example": "Ще дойдеш ли утре?",
+          "exampleEn": "Will you come tomorrow?"
+        },
+        {
+          "russian": "кога",
+          "translit": "kogá",
+          "english": "when",
+          "pos": "adverb",
+          "example": "Кога ще започнеш?",
+          "exampleEn": "When will you start?"
+        },
+        {
+          "russian": "къде",
+          "translit": "kădé",
+          "english": "where",
+          "pos": "adverb",
+          "example": "Къде ще пътуваш?",
+          "exampleEn": "Where will you travel?"
+        },
+        {
+          "russian": "защо",
+          "translit": "zashtó",
+          "english": "why",
+          "pos": "adverb",
+          "example": "Защо няма да дойдеш?",
+          "exampleEn": "Why will you not come?"
+        },
+        {
+          "russian": "помагам",
+          "translit": "pomágam",
+          "english": "to help",
+          "pos": "verb",
+          "example": "Ще помогнеш ли?",
+          "exampleEn": "Will you help?"
+        },
+        {
+          "russian": "купувам",
+          "translit": "kupúvam",
+          "english": "to buy",
+          "pos": "verb",
+          "example": "Ще купиш ли билет?",
+          "exampleEn": "Will you buy a ticket?"
+        },
+        {
+          "russian": "билет",
+          "translit": "bilét",
+          "english": "ticket",
+          "pos": "noun",
+          "example": "Утре ще купя билета.",
+          "exampleEn": "Tomorrow I will buy the ticket."
+        }
+      ],
+      "grammar": {
+        "title": "Yes/no and wh-questions in the future",
+        "explanation": "For a yes/no question, put the particle 'ли' after the verb: Ще дойдеш ли? (Will you come?). For wh-questions, start with the question word: Кога ще дойдеш? (When will you come?), Защо няма да помогнеш? (Why won't you help?). With няма да the 'ли' goes after няма: Няма ли да дойдеш? (Won't you come?). Word order stays natural and no case endings change on the nouns; the definite article is still a suffix, e.g. билет → билета.",
+        "examples": [
+          {
+            "russian": "Ще купиш ли билет?",
+            "english": "Will you buy a ticket?"
+          },
+          {
+            "russian": "Кога ще започнем?",
+            "english": "When will we start?"
+          },
+          {
+            "russian": "Защо няма да помогнеш?",
+            "english": "Why won't you help?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Въпроси за пътуването",
+        "text": "— Кога ще пътуваш? — Следващата седмица. — Ще купиш ли билет днес? — Не, утре ще го купя.",
+        "translation": "— When will you travel? — Next week. — Will you buy a ticket today? — No, I will buy it tomorrow.",
+        "glossary": [
+          {
+            "russian": "днес",
+            "english": "today"
+          },
+          {
+            "russian": "го",
+            "english": "it (short object pronoun)"
+          }
+        ]
+      },
+      "speakingPrompt": "Ask a friend three questions about their future plans: one with ще...ли, one with кога, and one with защо няма да."
+    },
+    {
+      "day": 6,
+      "title": "Putting it together: future plans and to be",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "ще бъда",
+          "translit": "shte bắda",
+          "english": "I will be",
+          "pos": "verb",
+          "example": "Утре ще бъда вкъщи.",
+          "exampleEn": "Tomorrow I will be at home."
+        },
+        {
+          "russian": "готов",
+          "translit": "gotóv",
+          "english": "ready",
+          "pos": "adjective",
+          "example": "Скоро ще бъда готов.",
+          "exampleEn": "Soon I will be ready."
+        },
+        {
+          "russian": "свободен",
+          "translit": "svobóden",
+          "english": "free / available",
+          "pos": "adjective",
+          "example": "Утре ще бъда свободен.",
+          "exampleEn": "Tomorrow I will be free."
+        },
+        {
+          "russian": "зает",
+          "translit": "zaét",
+          "english": "busy",
+          "pos": "adjective",
+          "example": "Следващата седмица ще бъда зает.",
+          "exampleEn": "Next week I will be busy."
+        },
+        {
+          "russian": "надявам се",
+          "translit": "nadyávam se",
+          "english": "to hope",
+          "pos": "verb",
+          "example": "Надявам се да дойдеш.",
+          "exampleEn": "I hope you will come."
+        },
+        {
+          "russian": "сигурно",
+          "translit": "sígurno",
+          "english": "probably / surely",
+          "pos": "adverb",
+          "example": "Утре сигурно ще вали.",
+          "exampleEn": "Tomorrow it will probably rain."
+        },
+        {
+          "russian": "бъдеще",
+          "translit": "bắdeshte",
+          "english": "future",
+          "pos": "noun",
+          "example": "Мисля за бъдещето.",
+          "exampleEn": "I am thinking about the future."
+        }
+      ],
+      "grammar": {
+        "title": "Future of 'to be' and mixing ще / няма да",
+        "explanation": "Bulgarian has a present 'to be' (съм, си, е, сме, сте, са). Its future uses ще + the бъда forms: ще бъда, ще бъдеш, ще бъде, ще бъдем, ще бъдете, ще бъдат — or informally ще съм, ще си, ще е. The negative is няма да бъда / няма да съм. Now you can combine everything: positive (ще), negative (няма да), questions (ли), and time words. Remember adjectives agree with gender: свободен (m), свободна (f), свободно (n).",
+        "examples": [
+          {
+            "russian": "Утре ще бъда свободен.",
+            "english": "Tomorrow I will be free."
+          },
+          {
+            "russian": "Следващата седмица няма да съм тук.",
+            "english": "Next week I will not be here."
+          },
+          {
+            "russian": "Ще бъдеш ли готов скоро?",
+            "english": "Will you be ready soon?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мисли за бъдещето",
+        "text": "Утре ще бъда свободен, но следващата седмица ще бъда зает. Надявам се скоро да си починем заедно.",
+        "translation": "Tomorrow I will be free, but next week I will be busy. I hope we will soon rest together.",
+        "glossary": [
+          {
+            "russian": "но",
+            "english": "but"
+          },
+          {
+            "russian": "тук",
+            "english": "here"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe your week ahead: say one day you ще бъдеш свободен, one day you ще бъдеш зает, and one thing you надяваш се да направиш (hope to do)."
+    },
+    {
+      "day": 7,
+      "title": "Review: The future",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: ще and няма да",
+        "explanation": "This week you built the Bulgarian future. POSITIVE: ще + present-tense verb, with ще unchanging and the verb keeping its personal ending (ще работя, ще работим). NEGATIVE: няма да + present-tense verb (няма да работя, няма да работим) — never 'не ще'. QUESTIONS: yes/no with ли after the verb (Ще дойдеш ли?), wh-questions with кога, къде, защо. The verb 'to be' future is ще бъда / ще съм, negative няма да бъда / няма да съм. Time words: утре, скоро, по-късно, следващата седмица, следващия месец, следващата година. No noun cases anywhere; the definite article stays a suffix (билет → билета, седмица → седмицата).",
+        "examples": [
+          {
+            "russian": "Скоро ще започнем нов план.",
+            "english": "Soon we will start a new plan."
+          },
+          {
+            "russian": "Следващата седмица няма да съм тук.",
+            "english": "Next week I will not be here."
+          },
+          {
+            "russian": "Кога ще бъдеш свободен?",
+            "english": "When will you be free?"
+          }
+        ]
+      },
+      "reading": {
+        "title": "Планове за следващата седмица",
+        "text": "— Какво ще правиш следващата седмица? — Ще пътувам с приятел. — Ще бъдеш ли свободен в петък? — Не, в петък няма да съм тук, но скоро ще се видим.",
+        "translation": "— What will you do next week? — I will travel with a friend. — Will you be free on Friday? — No, on Friday I will not be here, but we will see each other soon.",
+        "glossary": [
+          {
+            "russian": "ще се видим",
+            "english": "we will see each other"
+          },
+          {
+            "russian": "петък",
+            "english": "Friday"
+          },
+          {
+            "russian": "с",
+            "english": "with"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell a short story about your next week: include one thing you ще направиш (positive future), one thing you няма да направиш (negative future), one question you would ask a friend, and at least two future time words (утре, скоро, следващата седмица)."
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "week": 16,
+  "theme": "The past",
+  "days": [
+    {
+      "day": 1,
+      "title": "Talking about yesterday: -л / -ла",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "вчера",
+          "translit": "vcherá",
+          "english": "yesterday",
+          "pos": "adverb",
+          "example": "Вчера я работал.",
+          "exampleEn": "Yesterday I worked."
+        },
+        {
+          "russian": "работать",
+          "translit": "rabótat'",
+          "english": "to work",
+          "pos": "verb",
+          "example": "Анна работала вчера.",
+          "exampleEn": "Anna worked yesterday."
+        },
+        {
+          "russian": "читать",
+          "translit": "chitát'",
+          "english": "to read",
+          "pos": "verb",
+          "example": "Я читал книгу.",
+          "exampleEn": "I read a book."
+        },
+        {
+          "russian": "делать",
+          "translit": "délat'",
+          "english": "to do, to make",
+          "pos": "verb",
+          "example": "Что ты делал вчера?",
+          "exampleEn": "What did you do yesterday?"
+        },
+        {
+          "russian": "слушать",
+          "translit": "slúshat'",
+          "english": "to listen",
+          "pos": "verb",
+          "example": "Мама слушала музыку.",
+          "exampleEn": "Mum listened to music."
+        },
+        {
+          "russian": "книга",
+          "translit": "kníga",
+          "english": "book",
+          "pos": "noun",
+          "example": "Это хорошая книга.",
+          "exampleEn": "This is a good book."
+        },
+        {
+          "russian": "музыка",
+          "translit": "múzyka",
+          "english": "music",
+          "pos": "noun",
+          "example": "Я люблю музыку.",
+          "exampleEn": "I love music."
+        }
+      ],
+      "grammar": {
+        "title": "Past tense of -ть verbs: -л and -ла",
+        "explanation": "To make the past tense, drop **-ть** from the infinitive and add a past-tense ending that agrees with the **gender of the subject**.\n\n- A **male** speaker/subject takes **-л**: я/ты/он работа**л**.\n- A **female** speaker/subject takes **-ла**: я/ты/она работа**ла**.\n\nThe ending matches gender, not person, so **я работал** (man) vs **я работала** (woman). Example: чита**ть** → чита**л** / чита**ла**.",
+        "examples": [
+          {
+            "russian": "Я читал книгу.",
+            "english": "I read a book. (male speaker)"
+          },
+          {
+            "russian": "Я читала книгу.",
+            "english": "I read a book. (female speaker)"
+          },
+          {
+            "russian": "Он работал вчера.",
+            "english": "He worked yesterday."
+          },
+          {
+            "russian": "Анна слушала музыку.",
+            "english": "Anna listened to music."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Что ты делал?",
+        "text": "— Что ты делал вчера? — Я читал книгу и слушал музыку.",
+        "translation": "\"What did you do yesterday?\" \"I read a book and listened to music.\"",
+        "glossary": [
+          {
+            "russian": "вчера",
+            "english": "yesterday"
+          },
+          {
+            "russian": "и",
+            "english": "and"
+          }
+        ]
+      },
+      "speakingPrompt": "Say two things you did yesterday using -л or -ла, for example: «Вчера я читал книгу» and «Я слушал музыку». Use the correct ending for your own gender."
+    },
+    {
+      "day": 2,
+      "title": "Neuter and plural: -ло and -ли",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "они",
+          "translit": "oní",
+          "english": "they",
+          "pos": "pronoun",
+          "example": "Они работали вчера.",
+          "exampleEn": "They worked yesterday."
+        },
+        {
+          "russian": "гулять",
+          "translit": "gulyát'",
+          "english": "to walk, to stroll",
+          "pos": "verb",
+          "example": "Мы гуляли в парке.",
+          "exampleEn": "We walked in the park."
+        },
+        {
+          "russian": "играть",
+          "translit": "igrát'",
+          "english": "to play",
+          "pos": "verb",
+          "example": "Дети играли дома.",
+          "exampleEn": "The children played at home."
+        },
+        {
+          "russian": "дети",
+          "translit": "déti",
+          "english": "children",
+          "pos": "noun",
+          "example": "Дети играли вчера.",
+          "exampleEn": "The children played yesterday."
+        },
+        {
+          "russian": "родители",
+          "translit": "rodíteli",
+          "english": "parents",
+          "pos": "noun",
+          "example": "Родители работали много.",
+          "exampleEn": "The parents worked a lot."
+        },
+        {
+          "russian": "радио",
+          "translit": "rádio",
+          "english": "radio",
+          "pos": "noun",
+          "example": "Радио играло тихо.",
+          "exampleEn": "The radio played quietly."
+        },
+        {
+          "russian": "много",
+          "translit": "mnógo",
+          "english": "a lot, much",
+          "pos": "adverb",
+          "example": "Я читал много.",
+          "exampleEn": "I read a lot."
+        },
+        {
+          "russian": "вместе",
+          "translit": "vméste",
+          "english": "together",
+          "pos": "adverb",
+          "example": "Мы гуляли вместе.",
+          "exampleEn": "We walked together."
+        }
+      ],
+      "grammar": {
+        "title": "Past tense: -ло (neuter) and -ли (plural)",
+        "explanation": "Two more past-tense endings complete the set:\n\n- **Neuter** subjects (оно, words like радио) take **-ло**: радио игра**ло**.\n- **Plural** subjects (они, мы, вы, plural nouns) take **-ли** — gender does not matter here: они работа**ли**, дети игра**ли**.\n\nSo every verb has four past forms: работа**л** / работа**ла** / работа**ло** / работа**ли**. Choose by the subject.",
+        "examples": [
+          {
+            "russian": "Дети играли дома.",
+            "english": "The children played at home."
+          },
+          {
+            "russian": "Мы гуляли вместе.",
+            "english": "We walked together."
+          },
+          {
+            "russian": "Радио играло тихо.",
+            "english": "The radio played quietly."
+          },
+          {
+            "russian": "Родители работали много.",
+            "english": "The parents worked a lot."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Вчера дома",
+        "text": "Вчера дети играли дома. Родители работали, а потом все гуляли вместе.",
+        "translation": "Yesterday the children played at home. The parents worked, and then everyone walked together.",
+        "glossary": [
+          {
+            "russian": "а потом",
+            "english": "and then"
+          },
+          {
+            "russian": "все",
+            "english": "everyone"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe what your family or friends did yesterday using -ли, for example: «Вчера мы гуляли вместе» or «Дети играли дома». Try to use both гулять and играть."
+    },
+    {
+      "day": 3,
+      "title": "When it happened: time markers",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "утром",
+          "translit": "útrom",
+          "english": "in the morning",
+          "pos": "adverb",
+          "example": "Утром я работал.",
+          "exampleEn": "In the morning I worked."
+        },
+        {
+          "russian": "днём",
+          "translit": "dnyom",
+          "english": "in the afternoon, during the day",
+          "pos": "adverb",
+          "example": "Днём мы гуляли.",
+          "exampleEn": "In the afternoon we walked."
+        },
+        {
+          "russian": "вечером",
+          "translit": "vécherom",
+          "english": "in the evening",
+          "pos": "adverb",
+          "example": "Вечером она читала.",
+          "exampleEn": "In the evening she read."
+        },
+        {
+          "russian": "ночью",
+          "translit": "nóch'yu",
+          "english": "at night",
+          "pos": "adverb",
+          "example": "Ночью дети спали.",
+          "exampleEn": "At night the children slept."
+        },
+        {
+          "russian": "потом",
+          "translit": "potóm",
+          "english": "then, afterwards",
+          "pos": "adverb",
+          "example": "Потом я слушал музыку.",
+          "exampleEn": "Then I listened to music."
+        },
+        {
+          "russian": "спать",
+          "translit": "spat'",
+          "english": "to sleep",
+          "pos": "verb",
+          "example": "Я спал ночью.",
+          "exampleEn": "I slept at night."
+        },
+        {
+          "russian": "отдыхать",
+          "translit": "otdykhát'",
+          "english": "to rest, to relax",
+          "pos": "verb",
+          "example": "Вечером мы отдыхали.",
+          "exampleEn": "In the evening we rested."
+        }
+      ],
+      "grammar": {
+        "title": "Time-of-day markers with the past tense",
+        "explanation": "Russian uses single adverbs to say **when** something happened: **утром** (in the morning), **днём** (in the afternoon), **вечером** (in the evening), **ночью** (at night). They usually come at the **start** of the sentence or right before the verb.\n\nThese pair naturally with past-tense verbs you already know. **потом** (then) links one action to the next.",
+        "examples": [
+          {
+            "russian": "Утром я работал.",
+            "english": "In the morning I worked."
+          },
+          {
+            "russian": "Днём мы гуляли, а вечером отдыхали.",
+            "english": "In the afternoon we walked, and in the evening we rested."
+          },
+          {
+            "russian": "Ночью дети спали.",
+            "english": "At night the children slept."
+          },
+          {
+            "russian": "Сначала я читал, потом слушал музыку.",
+            "english": "First I read, then I listened to music."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Мой день",
+        "text": "Утром я работал. Днём мы гуляли, а вечером отдыхали дома.",
+        "translation": "In the morning I worked. In the afternoon we walked, and in the evening we rested at home.",
+        "glossary": [
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          },
+          {
+            "russian": "дома",
+            "english": "at home"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell the story of your day yesterday using утром, днём and вечером, for example: «Утром я работал, днём гулял, а вечером отдыхал»."
+    },
+    {
+      "day": 4,
+      "title": "How things were: был / была / было / были",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "дом",
+          "translit": "dom",
+          "english": "house, home",
+          "pos": "noun",
+          "example": "Дом был большой.",
+          "exampleEn": "The house was big."
+        },
+        {
+          "russian": "погода",
+          "translit": "pogóda",
+          "english": "weather",
+          "pos": "noun",
+          "example": "Погода была хорошая.",
+          "exampleEn": "The weather was good."
+        },
+        {
+          "russian": "хороший",
+          "translit": "khoróshiy",
+          "english": "good",
+          "pos": "adjective",
+          "example": "Это был хороший день.",
+          "exampleEn": "It was a good day."
+        },
+        {
+          "russian": "плохой",
+          "translit": "plokhóy",
+          "english": "bad",
+          "pos": "adjective",
+          "example": "Погода была плохая.",
+          "exampleEn": "The weather was bad."
+        },
+        {
+          "russian": "тёплый",
+          "translit": "tyóplyy",
+          "english": "warm",
+          "pos": "adjective",
+          "example": "Утро было тёплое.",
+          "exampleEn": "The morning was warm."
+        },
+        {
+          "russian": "холодный",
+          "translit": "kholódnyy",
+          "english": "cold",
+          "pos": "adjective",
+          "example": "Вечер был холодный.",
+          "exampleEn": "The evening was cold."
+        },
+        {
+          "russian": "утро",
+          "translit": "útro",
+          "english": "morning",
+          "pos": "noun",
+          "example": "Утро было тёплое.",
+          "exampleEn": "The morning was warm."
+        }
+      ],
+      "grammar": {
+        "title": "The past tense of \"to be\": был / была / было / были",
+        "explanation": "Russian has **no** word for \"is\" in the present, but in the past it uses **был** for \"was/were\". It behaves like any past verb and agrees with the subject's gender and number:\n\n- masculine → **был** (дом был большой)\n- feminine → **была** (погода была хорошая)\n- neuter → **было** (утро было тёплое)\n- plural → **были** (дети были дома)\n\nThe adjective also agrees with the noun: хоро**ший** дом, хоро**шая** погода, тёпл**ое** утро.",
+        "examples": [
+          {
+            "russian": "Дом был большой.",
+            "english": "The house was big."
+          },
+          {
+            "russian": "Погода была хорошая.",
+            "english": "The weather was good."
+          },
+          {
+            "russian": "Утро было тёплое.",
+            "english": "The morning was warm."
+          },
+          {
+            "russian": "Дети были дома.",
+            "english": "The children were at home."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Хороший день",
+        "text": "Вчера погода была хорошая. Утро было тёплое, а вечер холодный.",
+        "translation": "Yesterday the weather was good. The morning was warm, but the evening was cold.",
+        "glossary": [
+          {
+            "russian": "вчера",
+            "english": "yesterday"
+          },
+          {
+            "russian": "а",
+            "english": "but, and (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe yesterday's weather and your day using был/была/было, for example: «Вчера погода была хорошая. День был хороший»."
+    },
+    {
+      "day": 5,
+      "title": "Places in the past: был in / был at",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "раньше",
+          "translit": "rán'she",
+          "english": "before, earlier, in the past",
+          "pos": "adverb",
+          "example": "Раньше я жил здесь.",
+          "exampleEn": "Earlier I lived here."
+        },
+        {
+          "russian": "жить",
+          "translit": "zhit'",
+          "english": "to live",
+          "pos": "verb",
+          "example": "Раньше мы жили в Москве.",
+          "exampleEn": "Earlier we lived in Moscow."
+        },
+        {
+          "russian": "школа",
+          "translit": "shkóla",
+          "english": "school",
+          "pos": "noun",
+          "example": "Утром дети были в школе.",
+          "exampleEn": "In the morning the children were at school."
+        },
+        {
+          "russian": "работа",
+          "translit": "rabóta",
+          "english": "work, job",
+          "pos": "noun",
+          "example": "Днём я был на работе.",
+          "exampleEn": "In the afternoon I was at work."
+        },
+        {
+          "russian": "парк",
+          "translit": "park",
+          "english": "park",
+          "pos": "noun",
+          "example": "Вечером мы были в парке.",
+          "exampleEn": "In the evening we were in the park."
+        },
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop, store",
+          "pos": "noun",
+          "example": "Утром мама была в магазине.",
+          "exampleEn": "In the morning mum was in the shop."
+        }
+      ],
+      "grammar": {
+        "title": "Saying where you were: был + в/на + place",
+        "explanation": "To say where someone **was**, use был/была/было/были with **в** (in) or **на** (at) and the location. After в/на the noun takes the **prepositional ending -е** (you saw this in present tense too): школа → в школ**е**, работа → на работ**е**, парк → в парк**е**, магазин → в магазин**е**.\n\nUse **раньше** (before/earlier) to contrast the past with now.",
+        "examples": [
+          {
+            "russian": "Утром дети были в школе.",
+            "english": "In the morning the children were at school."
+          },
+          {
+            "russian": "Днём я был на работе.",
+            "english": "In the afternoon I was at work."
+          },
+          {
+            "russian": "Вечером мы были в парке.",
+            "english": "In the evening we were in the park."
+          },
+          {
+            "russian": "Раньше мы жили в Москве.",
+            "english": "Earlier we lived in Moscow."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Где все были?",
+        "text": "Утром дети были в школе, а мама в магазине. Днём все были на работе.",
+        "translation": "In the morning the children were at school, and mum was in the shop. In the afternoon everyone was at work.",
+        "glossary": [
+          {
+            "russian": "где",
+            "english": "where"
+          },
+          {
+            "russian": "все",
+            "english": "everyone"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you were yesterday morning, afternoon and evening, for example: «Утром я был на работе, а вечером в парке». Use в or на with the -е ending."
+    },
+    {
+      "day": 6,
+      "title": "Yes I did, no I didn't: negative past",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "не",
+          "translit": "ne",
+          "english": "not",
+          "pos": "particle",
+          "example": "Я не работал вчера.",
+          "exampleEn": "I didn't work yesterday."
+        },
+        {
+          "russian": "никогда",
+          "translit": "nikogdá",
+          "english": "never",
+          "pos": "adverb",
+          "example": "Я никогда не был в Москве.",
+          "exampleEn": "I have never been to Moscow."
+        },
+        {
+          "russian": "долго",
+          "translit": "dólgo",
+          "english": "for a long time",
+          "pos": "adverb",
+          "example": "Мы долго гуляли.",
+          "exampleEn": "We walked for a long time."
+        },
+        {
+          "russian": "немного",
+          "translit": "nemnógo",
+          "english": "a little, a bit",
+          "pos": "adverb",
+          "example": "Я немного отдыхал.",
+          "exampleEn": "I rested a little."
+        },
+        {
+          "russian": "телевизор",
+          "translit": "televízor",
+          "english": "television",
+          "pos": "noun",
+          "example": "Вечером мы смотрели телевизор.",
+          "exampleEn": "In the evening we watched television."
+        },
+        {
+          "russian": "смотреть",
+          "translit": "smotrét'",
+          "english": "to watch, to look",
+          "pos": "verb",
+          "example": "Я смотрел телевизор.",
+          "exampleEn": "I watched television."
+        },
+        {
+          "russian": "тоже",
+          "translit": "tózhe",
+          "english": "also, too",
+          "pos": "adverb",
+          "example": "Я тоже отдыхал.",
+          "exampleEn": "I rested too."
+        }
+      ],
+      "grammar": {
+        "title": "Negative past tense with не",
+        "explanation": "To say something **didn't** happen, put **не** directly before the past-tense verb: я **не** работал = \"I didn't work\". The verb still agrees with gender/number as usual.\n\nWith был, не goes before it too: я **не** был дома. The word **никогда** (never) is used together with **не**: я **никогда не был** в Москве — Russian uses a double negative, and that is correct here.",
+        "examples": [
+          {
+            "russian": "Вчера я не работал.",
+            "english": "Yesterday I didn't work."
+          },
+          {
+            "russian": "Она не была дома.",
+            "english": "She wasn't at home."
+          },
+          {
+            "russian": "Я никогда не был в Москве.",
+            "english": "I have never been to Moscow."
+          },
+          {
+            "russian": "Мы не смотрели телевизор.",
+            "english": "We didn't watch television."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Тихий вечер",
+        "text": "Вчера вечером я не работал. Я немного смотрел телевизор, а потом долго отдыхал.",
+        "translation": "Yesterday evening I didn't work. I watched television a little, and then rested for a long time.",
+        "glossary": [
+          {
+            "russian": "тихий",
+            "english": "quiet"
+          },
+          {
+            "russian": "а потом",
+            "english": "and then"
+          }
+        ]
+      },
+      "speakingPrompt": "Say one thing you did and one thing you did NOT do yesterday, for example: «Вечером я смотрел телевизор, но не работал». Try to use не and a time marker."
+    },
+    {
+      "day": 7,
+      "title": "Review: The past week",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: the past tense and был",
+        "explanation": "This week you learned how to talk about **the past**:\n\n- Past tense = drop **-ть** and add **-л** (he), **-ла** (she), **-ло** (it), **-ли** (they/plural): работал, работала, работало, работали.\n- **был / была / было / были** = \"was/were\", agreeing with gender and number.\n- Place: был **в/на** + noun with **-е**: в школе, на работе, в парке.\n- Negative: **не** before the verb; **никогда не** = never.\n- Time markers: **вчера, раньше, утром, днём, вечером, ночью, потом**.",
+        "examples": [
+          {
+            "russian": "Вчера утром я работал, а вечером отдыхал.",
+            "english": "Yesterday morning I worked, and in the evening I rested."
+          },
+          {
+            "russian": "Погода была хорошая, и мы долго гуляли.",
+            "english": "The weather was good, and we walked for a long time."
+          },
+          {
+            "russian": "Раньше дети были в школе, а потом дома.",
+            "english": "Earlier the children were at school, and then at home."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Как прошёл день?",
+        "text": "— Что ты делал вчера? — Утром я был на работе, а днём мы гуляли в парке. Погода была хорошая. — А вечером? — Вечером я не работал, я смотрел телевизор и отдыхал.",
+        "translation": "\"What did you do yesterday?\" \"In the morning I was at work, and in the afternoon we walked in the park. The weather was good.\" \"And in the evening?\" \"In the evening I didn't work, I watched television and rested.\"",
+        "glossary": [
+          {
+            "russian": "что",
+            "english": "what"
+          },
+          {
+            "russian": "а вечером?",
+            "english": "and in the evening?"
+          }
+        ]
+      },
+      "speakingPrompt": "Tell the full story of your day yesterday from morning to evening. Use at least three time markers (утром, днём, вечером), past-tense verbs, был/была for where you were and what the weather was like, and one negative sentence with не."
+    }
+  ]
+}

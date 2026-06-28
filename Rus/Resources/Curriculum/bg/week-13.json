@@ -1,0 +1,656 @@
+{
+  "week": 13,
+  "theme": "Places & prepositions",
+  "days": [
+    {
+      "day": 1,
+      "title": "В and на: being inside and on",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "град",
+          "translit": "grad",
+          "english": "city",
+          "pos": "noun (m)",
+          "example": "Живея в голям град.",
+          "exampleEn": "I live in a big city."
+        },
+        {
+          "russian": "улица",
+          "translit": "úlitsa",
+          "english": "street",
+          "pos": "noun (f)",
+          "example": "Магазинът е на улицата.",
+          "exampleEn": "The shop is on the street."
+        },
+        {
+          "russian": "площад",
+          "translit": "plóshtad",
+          "english": "square (plaza)",
+          "pos": "noun (m)",
+          "example": "Чакам те на площада.",
+          "exampleEn": "I am waiting for you on the square."
+        },
+        {
+          "russian": "магазин",
+          "translit": "magazín",
+          "english": "shop, store",
+          "pos": "noun (m)",
+          "example": "В магазина има хляб.",
+          "exampleEn": "There is bread in the shop."
+        },
+        {
+          "russian": "къща",
+          "translit": "kắshta",
+          "english": "house",
+          "pos": "noun (f)",
+          "example": "Те са в къщата.",
+          "exampleEn": "They are in the house."
+        },
+        {
+          "russian": "тук",
+          "translit": "tuk",
+          "english": "here",
+          "pos": "adverb",
+          "example": "Аз съм тук.",
+          "exampleEn": "I am here."
+        },
+        {
+          "russian": "там",
+          "translit": "tam",
+          "english": "there",
+          "pos": "adverb",
+          "example": "Магазинът е там.",
+          "exampleEn": "The shop is there."
+        }
+      ],
+      "grammar": {
+        "title": "В and на: being inside and on",
+        "explanation": "Bulgarian shows where something is with prepositions, not with case endings. The two most common are в (in/inside) and на (on/at). Use в for being inside something enclosed: в града (in the city), в къщата (in the house), в магазина (in the shop). Use на for being on a surface or at an open place: на улицата (on the street), на площада (on/at the square), на масата (on the table). Note that the noun after the preposition often takes the definite suffix (-ът/-а, -та, -то, -те) when it is something specific. The verb 'to be' (съм, си, е, сме, сте, са) carries the meaning 'is located': Магазинът е на площада = The shop is on the square. Important spelling note: в becomes във before words starting with в- or ф- (във Варна), but for now plain в is fine.",
+        "examples": [
+          {
+            "russian": "Аз съм в града.",
+            "english": "I am in the city."
+          },
+          {
+            "russian": "Къщата е на улицата.",
+            "english": "The house is on the street."
+          },
+          {
+            "russian": "Хлябът е в магазина.",
+            "english": "The bread is in the shop."
+          },
+          {
+            "russian": "Ние сме на площада.",
+            "english": "We are on the square."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Къде сме?",
+        "text": "— Къде си? — Аз съм в магазина на улицата. — А Иван? — Иван е там, на площада.",
+        "translation": "— Where are you? — I am in the shop on the street. — And Ivan? — Ivan is there, on the square.",
+        "glossary": [
+          {
+            "russian": "къде",
+            "english": "where"
+          },
+          {
+            "russian": "а",
+            "english": "and, but (contrast)"
+          }
+        ]
+      },
+      "speakingPrompt": "Say where you and a friend are right now, using both в and на. For example: 'I am in the shop' and 'My friend is on the square.' Use the verb 'to be' (съм, е)."
+    },
+    {
+      "day": 2,
+      "title": "До and от: next to and from",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "до",
+          "translit": "do",
+          "english": "next to, by; up to",
+          "pos": "preposition",
+          "example": "Банката е до хотела.",
+          "exampleEn": "The bank is next to the hotel."
+        },
+        {
+          "russian": "от",
+          "translit": "ot",
+          "english": "from",
+          "pos": "preposition",
+          "example": "Идвам от магазина.",
+          "exampleEn": "I am coming from the shop."
+        },
+        {
+          "russian": "хотел",
+          "translit": "hotél",
+          "english": "hotel",
+          "pos": "noun (m)",
+          "example": "Хотелът е до площада.",
+          "exampleEn": "The hotel is next to the square."
+        },
+        {
+          "russian": "банка",
+          "translit": "bánka",
+          "english": "bank",
+          "pos": "noun (f)",
+          "example": "Банката е тук.",
+          "exampleEn": "The bank is here."
+        },
+        {
+          "russian": "ресторант",
+          "translit": "restoránt",
+          "english": "restaurant",
+          "pos": "noun (m)",
+          "example": "Ресторантът е до банката.",
+          "exampleEn": "The restaurant is next to the bank."
+        },
+        {
+          "russian": "аптека",
+          "translit": "aptéka",
+          "english": "pharmacy",
+          "pos": "noun (f)",
+          "example": "Аптеката е от тази страна.",
+          "exampleEn": "The pharmacy is on this side."
+        },
+        {
+          "russian": "близо",
+          "translit": "blízo",
+          "english": "near, close",
+          "pos": "adverb",
+          "example": "Хотелът е близо.",
+          "exampleEn": "The hotel is near."
+        }
+      ],
+      "grammar": {
+        "title": "До and от: next to and from",
+        "explanation": "До means 'next to / beside / by' and answers 'where?': Банката е до хотела (The bank is next to the hotel). It can also mean 'up to / as far as': до площада (as far as the square). От means 'from' and marks a starting point: Идвам от магазина (I am coming from the shop). With these prepositions there is still NO case change on the noun — only the definite suffix may appear (хотел → хотела, магазин → магазина). Compare with в/на from yesterday: в/на say where you are; от says where you started; до says what you are beside. The adverb близо (near) often pairs with до: близо до банката (close to the bank).",
+        "examples": [
+          {
+            "russian": "Ресторантът е до банката.",
+            "english": "The restaurant is next to the bank."
+          },
+          {
+            "russian": "Идвам от хотела.",
+            "english": "I am coming from the hotel."
+          },
+          {
+            "russian": "Аптеката е близо до площада.",
+            "english": "The pharmacy is close to the square."
+          },
+          {
+            "russian": "Той е от града.",
+            "english": "He is from the city."
+          }
+        ]
+      },
+      "reading": {
+        "title": "До аптеката",
+        "text": "— Къде е аптеката? — Аптеката е до банката, близо до площада. — А ти откъде идваш? — Идвам от хотела.",
+        "translation": "— Where is the pharmacy? — The pharmacy is next to the bank, close to the square. — And where are you coming from? — I am coming from the hotel.",
+        "glossary": [
+          {
+            "russian": "откъде",
+            "english": "from where"
+          },
+          {
+            "russian": "идваш",
+            "english": "you come / are coming"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a small map in words: place a bank, a hotel and a pharmacy near each other using до and близо до. Then say which place you are coming from using от."
+    },
+    {
+      "day": 3,
+      "title": "От ... до ...: from one place to another",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "гара",
+          "translit": "gára",
+          "english": "train station",
+          "pos": "noun (f)",
+          "example": "Гарата е далеч.",
+          "exampleEn": "The station is far."
+        },
+        {
+          "russian": "спирка",
+          "translit": "spírka",
+          "english": "(bus/tram) stop",
+          "pos": "noun (f)",
+          "example": "Спирката е до гарата.",
+          "exampleEn": "The stop is next to the station."
+        },
+        {
+          "russian": "парк",
+          "translit": "park",
+          "english": "park",
+          "pos": "noun (m)",
+          "example": "Паркът е голям.",
+          "exampleEn": "The park is big."
+        },
+        {
+          "russian": "далеч",
+          "translit": "daléch",
+          "english": "far",
+          "pos": "adverb",
+          "example": "Гарата е далеч от хотела.",
+          "exampleEn": "The station is far from the hotel."
+        },
+        {
+          "russian": "вървя",
+          "translit": "vărvjá",
+          "english": "I walk, go on foot",
+          "pos": "verb",
+          "example": "Вървя от гарата до парка.",
+          "exampleEn": "I walk from the station to the park."
+        },
+        {
+          "russian": "минута",
+          "translit": "minúta",
+          "english": "minute",
+          "pos": "noun (f)",
+          "example": "Паркът е на пет минути.",
+          "exampleEn": "The park is five minutes away."
+        }
+      ],
+      "grammar": {
+        "title": "От ... до ...: from one place to another",
+        "explanation": "Combine от (from) and до (to/up to) to express a route or distance between two places: от гарата до парка (from the station to the park). This pair is very common for directions and distances: Вървя от хотела до площада (I walk from the hotel to the square). Note that here до means 'to / as far as', a direction goal, while yesterday it also meant 'next to'. Bulgarian relies on context: до банката can be 'next to the bank' or 'as far as the bank' depending on the verb (standing vs. going). With distances of time use на: на пет минути (five minutes away), на десет минути от гарата (ten minutes from the station). Still no case endings — the prepositions do all the work.",
+        "examples": [
+          {
+            "russian": "Вървя от спирката до парка.",
+            "english": "I walk from the stop to the park."
+          },
+          {
+            "russian": "Гарата е далеч от хотела.",
+            "english": "The station is far from the hotel."
+          },
+          {
+            "russian": "От къщата до магазина е близо.",
+            "english": "From the house to the shop is close."
+          },
+          {
+            "russian": "Паркът е на десет минути от площада.",
+            "english": "The park is ten minutes from the square."
+          }
+        ]
+      },
+      "reading": {
+        "title": "От гарата до парка",
+        "text": "Вървя от гарата до парка. Паркът не е далеч, той е на пет минути. Спирката е до гарата.",
+        "translation": "I walk from the station to the park. The park is not far, it is five minutes away. The stop is next to the station.",
+        "glossary": [
+          {
+            "russian": "не е",
+            "english": "is not"
+          },
+          {
+            "russian": "той",
+            "english": "it (here: the park, masculine)"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe how you get from the train station to a park, using от ... до .... Say whether it is near or far (близо / далеч) and how many minutes it takes (на ... минути)."
+    },
+    {
+      "day": 4,
+      "title": "С: with, and by (transport)",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "с",
+          "translit": "s",
+          "english": "with; by (means)",
+          "pos": "preposition",
+          "example": "Пътувам с автобус.",
+          "exampleEn": "I travel by bus."
+        },
+        {
+          "russian": "автобус",
+          "translit": "avtóbus",
+          "english": "bus",
+          "pos": "noun (m)",
+          "example": "Автобусът е на спирката.",
+          "exampleEn": "The bus is at the stop."
+        },
+        {
+          "russian": "влак",
+          "translit": "vlak",
+          "english": "train",
+          "pos": "noun (m)",
+          "example": "Влакът е на гарата.",
+          "exampleEn": "The train is at the station."
+        },
+        {
+          "russian": "кола",
+          "translit": "kolá",
+          "english": "car",
+          "pos": "noun (f)",
+          "example": "Отивам с кола.",
+          "exampleEn": "I am going by car."
+        },
+        {
+          "russian": "приятел",
+          "translit": "priátel",
+          "english": "friend (m)",
+          "pos": "noun (m)",
+          "example": "Идвам с приятел.",
+          "exampleEn": "I come with a friend."
+        },
+        {
+          "russian": "пътувам",
+          "translit": "pătúvam",
+          "english": "I travel",
+          "pos": "verb",
+          "example": "Пътувам с влак до града.",
+          "exampleEn": "I travel by train to the city."
+        },
+        {
+          "russian": "пеша",
+          "translit": "peshá",
+          "english": "on foot",
+          "pos": "adverb",
+          "example": "Отивам пеша.",
+          "exampleEn": "I go on foot."
+        }
+      ],
+      "grammar": {
+        "title": "С: with, and by (transport)",
+        "explanation": "The preposition с has two main uses. First, 'with' (together with a person or thing): Идвам с приятел (I come with a friend); кафе с мляко (coffee with milk). Second, 'by means of' for transport: Пътувам с автобус (I travel by bus), отивам с кола (I go by car), с влак (by train). Note that for transport Bulgarian uses с, not на. The opposite of travelling 'by' something is пеша (on foot): Отивам пеша (I go on foot) — no preposition there. Spelling: с becomes със before words starting with с- or з- (със захар = with sugar), but plain с is correct elsewhere. As always, no case endings appear.",
+        "examples": [
+          {
+            "russian": "Пътувам с влак до гарата.",
+            "english": "I travel by train to the station."
+          },
+          {
+            "russian": "Отивам в парка с приятел.",
+            "english": "I am going to the park with a friend."
+          },
+          {
+            "russian": "Те идват с кола.",
+            "english": "They are coming by car."
+          },
+          {
+            "russian": "Аз отивам пеша, ти с автобус.",
+            "english": "I am going on foot, you by bus."
+          }
+        ]
+      },
+      "reading": {
+        "title": "С какво пътуваш?",
+        "text": "— С какво отиваш до града? — Пътувам с влак. А ти? — Аз отивам с кола, с приятел.",
+        "translation": "— How (by what) are you going to the city? — I travel by train. And you? — I am going by car, with a friend.",
+        "glossary": [
+          {
+            "russian": "с какво",
+            "english": "by what, how (by what means)"
+          },
+          {
+            "russian": "отиваш",
+            "english": "you go / are going"
+          }
+        ]
+      },
+      "speakingPrompt": "Say how you travel to three different places (city, station, park) using с + a means of transport, and mention one place you go to пеша (on foot). Say if you go with a friend (с приятел)."
+    },
+    {
+      "day": 5,
+      "title": "Direction with в/на: going to a place",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "отивам",
+          "translit": "otívam",
+          "english": "I go (to)",
+          "pos": "verb",
+          "example": "Отивам в магазина.",
+          "exampleEn": "I am going to the shop."
+        },
+        {
+          "russian": "идвам",
+          "translit": "ídvam",
+          "english": "I come, I am coming",
+          "pos": "verb",
+          "example": "Идвам в парка.",
+          "exampleEn": "I am coming to the park."
+        },
+        {
+          "russian": "училище",
+          "translit": "uchílishte",
+          "english": "school",
+          "pos": "noun (n)",
+          "example": "Детето отива на училище.",
+          "exampleEn": "The child goes to school."
+        },
+        {
+          "russian": "работа",
+          "translit": "rabóta",
+          "english": "work, job",
+          "pos": "noun (f)",
+          "example": "Отивам на работа.",
+          "exampleEn": "I am going to work."
+        },
+        {
+          "russian": "пазар",
+          "translit": "pazár",
+          "english": "market",
+          "pos": "noun (m)",
+          "example": "Отивам на пазар.",
+          "exampleEn": "I am going to the market."
+        },
+        {
+          "russian": "болница",
+          "translit": "bólnitsa",
+          "english": "hospital",
+          "pos": "noun (f)",
+          "example": "Те отиват в болницата.",
+          "exampleEn": "They go to the hospital."
+        },
+        {
+          "russian": "кино",
+          "translit": "kíno",
+          "english": "cinema",
+          "pos": "noun (n)",
+          "example": "Отиваме на кино.",
+          "exampleEn": "We are going to the cinema."
+        }
+      ],
+      "grammar": {
+        "title": "Direction with в/на: going to a place",
+        "explanation": "Good news: the same prepositions в and на that mean 'in/on' also mean 'to' for direction. There is no separate 'into' form and no case change — Bulgarian uses the same words for location and destination. Use в for going into a building or enclosed place: отивам в магазина (I go to the shop), в болницата (to the hospital), в парка (to the park). Use на for activities and open/institutional places, often fixed expressions: на работа (to work), на пазар (to the market), на кино (to the cinema), на училище (to school). Many of these на-phrases drop the article (на работа, not на работата) when they mean the activity in general. Verbs of motion: отивам (go), идвам (come). Whether you are standing in a place or going to it, the preposition stays the same — only the verb changes.",
+        "examples": [
+          {
+            "russian": "Отивам на работа с автобус.",
+            "english": "I am going to work by bus."
+          },
+          {
+            "russian": "Децата отиват на училище.",
+            "english": "The children go to school."
+          },
+          {
+            "russian": "Идваме в болницата.",
+            "english": "We are coming to the hospital."
+          },
+          {
+            "russian": "Тази вечер отиваме на кино.",
+            "english": "This evening we are going to the cinema."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Сутрин в града",
+        "text": "Сутрин отивам на работа с автобус. Жена ми отива на пазар, а детето е на училище. Вечер отиваме на кино.",
+        "translation": "In the morning I go to work by bus. My wife goes to the market, and the child is at school. In the evening we go to the cinema.",
+        "glossary": [
+          {
+            "russian": "сутрин",
+            "english": "in the morning"
+          },
+          {
+            "russian": "вечер",
+            "english": "in the evening"
+          },
+          {
+            "russian": "жена ми",
+            "english": "my wife"
+          }
+        ]
+      },
+      "speakingPrompt": "Describe a typical day: where you go in the morning, afternoon and evening. Use отивам with в and на correctly (на работа, на пазар, в магазина, на кино), and add how you get there with с."
+    },
+    {
+      "day": 6,
+      "title": "Asking and giving directions",
+      "isReview": false,
+      "vocab": [
+        {
+          "russian": "наляво",
+          "translit": "naljávo",
+          "english": "to the left",
+          "pos": "adverb",
+          "example": "Завийте наляво.",
+          "exampleEn": "Turn left."
+        },
+        {
+          "russian": "надясно",
+          "translit": "nadjásno",
+          "english": "to the right",
+          "pos": "adverb",
+          "example": "Банката е надясно.",
+          "exampleEn": "The bank is to the right."
+        },
+        {
+          "russian": "направо",
+          "translit": "naprávo",
+          "english": "straight ahead",
+          "pos": "adverb",
+          "example": "Вървете направо.",
+          "exampleEn": "Go straight ahead."
+        },
+        {
+          "russian": "ъгъл",
+          "translit": "ắgăl",
+          "english": "corner",
+          "pos": "noun (m)",
+          "example": "Магазинът е на ъгъла.",
+          "exampleEn": "The shop is on the corner."
+        },
+        {
+          "russian": "завивам",
+          "translit": "zavívam",
+          "english": "I turn",
+          "pos": "verb",
+          "example": "Завивам наляво.",
+          "exampleEn": "I turn left."
+        },
+        {
+          "russian": "извинете",
+          "translit": "izvinéte",
+          "english": "excuse me",
+          "pos": "phrase",
+          "example": "Извинете, къде е гарата?",
+          "exampleEn": "Excuse me, where is the station?"
+        },
+        {
+          "russian": "център",
+          "translit": "tséntăr",
+          "english": "centre (of town)",
+          "pos": "noun (m)",
+          "example": "Хотелът е в центъра.",
+          "exampleEn": "The hotel is in the centre."
+        }
+      ],
+      "grammar": {
+        "title": "Asking and giving directions",
+        "explanation": "Now we put the week's prepositions to work in real directions. Ask politely with Извинете, къде е...? (Excuse me, where is...?). Answer with direction adverbs: наляво (left), надясно (right), направо (straight ahead). Combine with на for landmarks: на ъгъла (on the corner), в центъра (in the centre), до банката (next to the bank). To tell someone to turn, use the verb завивам (I turn) or its polite command form завийте (turn): Завийте наляво (Turn left), Вървете направо (Go straight ahead). A typical answer chains prepositions: Вървете направо до площада, после завийте надясно (Go straight to the square, then turn right). Notice again: no case endings — на ъгъла, в центъра, до банката all use plain prepositions plus the definite suffix.",
+        "examples": [
+          {
+            "russian": "Извинете, къде е аптеката?",
+            "english": "Excuse me, where is the pharmacy?"
+          },
+          {
+            "russian": "Вървете направо до площада.",
+            "english": "Go straight ahead to the square."
+          },
+          {
+            "russian": "После завийте наляво.",
+            "english": "Then turn left."
+          },
+          {
+            "russian": "Банката е на ъгъла, до хотела.",
+            "english": "The bank is on the corner, next to the hotel."
+          }
+        ]
+      },
+      "reading": {
+        "title": "Извинете, къде е гарата?",
+        "text": "— Извинете, къде е гарата? — Вървете направо до площада, после завийте надясно. Гарата е на ъгъла. — Близо ли е? — Да, на пет минути.",
+        "translation": "— Excuse me, where is the station? — Go straight ahead to the square, then turn right. The station is on the corner. — Is it near? — Yes, five minutes away.",
+        "glossary": [
+          {
+            "russian": "после",
+            "english": "then, after that"
+          },
+          {
+            "russian": "ли",
+            "english": "question particle (yes/no)"
+          }
+        ]
+      },
+      "speakingPrompt": "Role-play: a tourist asks you the way to the hotel in the centre. Give directions using направо, наляво, надясно, до and на ъгъла, and say how far it is."
+    },
+    {
+      "day": 7,
+      "title": "Review: Places & prepositions",
+      "isReview": true,
+      "vocab": [],
+      "grammar": {
+        "title": "Recap: в, на, до, от, с",
+        "explanation": "This week you learned to describe places and directions using prepositions only — Bulgarian has NO noun cases, so the preposition (plus the definite suffix) does all the work. Recap: в = in / into a place (в града, отивам в магазина). на = on / at, and 'to' for activities (на улицата, на работа, на кино). до = next to, or 'as far as / to' (до хотела; от гарата до парка). от = from a starting point (идвам от хотела; далеч от града). с = with a person/thing, or 'by' a means of transport (с приятел, с автобус); the opposite is пеша (on foot). Remember that location and direction use the SAME preposition — only the verb changes (съм в парка = I am in the park; отивам в парка = I go to the park). For directions use наляво, надясно, направо and завийте. Spelling helpers: в→във and с→със before similar-sounding consonants.",
+        "examples": [
+          {
+            "russian": "Отивам от хотела до гарата с автобус.",
+            "english": "I go from the hotel to the station by bus."
+          },
+          {
+            "russian": "Аптеката е на ъгъла, до банката.",
+            "english": "The pharmacy is on the corner, next to the bank."
+          },
+          {
+            "russian": "Вървете направо, после завийте наляво.",
+            "english": "Go straight ahead, then turn left."
+          },
+          {
+            "russian": "Паркът е близо, на пет минути от площада.",
+            "english": "The park is near, five minutes from the square."
+          }
+        ]
+      },
+      "reading": {
+        "title": "В центъра на града",
+        "text": "— Извинете, далеч ли е хотелът? — Не, той е в центъра, до площада. Вървете направо от гарата, после завийте надясно. — С автобус ли да отида? — Не, близо е. Отидете пеша, на десет минути.",
+        "translation": "— Excuse me, is the hotel far? — No, it is in the centre, next to the square. Go straight ahead from the station, then turn right. — Should I go by bus? — No, it is near. Go on foot, ten minutes away.",
+        "glossary": [
+          {
+            "russian": "да отида",
+            "english": "should I go / (for) me to go"
+          },
+          {
+            "russian": "отидете",
+            "english": "go (polite command)"
+          },
+          {
+            "russian": "не",
+            "english": "no, not"
+          }
+        ]
+      },
+      "speakingPrompt": "Without notes, give a full set of directions from the train station to a hotel in the centre: use от, до, в, на, с (or пеша), and turning words (направо, наляво, надясно). Then say where three city places are relative to each other using до and близо до."
+    }
+  ]
+}
